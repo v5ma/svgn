@@ -1,0 +1,74 @@
+---
+id: svgn-88472230
+title: "Games & Virtual Reality 2018"
+date: "2018-03-18"
+slug: "games-virtual-reality-2018-c9f185cf1426"
+canonical: "https://svgn.io/p/games-virtual-reality-2018-c9f185cf1426"
+source: "https://medium.com/@vrma/games-virtual-reality-2018-c9f185cf1426"
+audience: "everyone"
+topics: ["reality", "micah", "erin", "angelo", "virtual", "oculus", "looking", "augmented"]
+related: ["vrma-4e7fff539676", "vrma-96489ecfd086", "vrma-ef270d640965", "vrma-334c25377ec9"]
+images: 12
+---
+
+# Games & Virtual Reality 2018
+
+*A pre-show podcast for GDC the Games Developer Conference and GTC The GPU Technology Conference co-authored by Erin Pangilinan, Angel…*
+
+Co-authors Erin Jerri, Angelo Hizon, and Micah Blumberg talk Games & Virtual Reality 2018 ahead of GDC, GTC, VRLA, AWE and more Silicon Valley Global News SVGN.io
+
+Click this link to watch the video podcast on youtube: https://www.youtube.com/watch?v=_xPQy85wMJU
+
+You can find Erin Pangilinan on twitter via Erin Pangilinan — @erinjerri she is one of the co-founders of AR VR Academy, a group that taught Augmented Reality and Virtual Reality to women and under-represented communities, a lot of folks who have taken their classes have now been hired at a places like Oculus, have been funded at places like Oculus Launchpad, or have gone onto grad school pursuing game design or 360 video film. Erin is currently working on a book on Augmented Reality and Artificial Intelligence and has a stealth start up on the same topics but particular to advancing Alzheimer’s research, she is also collaborating a lot with San Francisco Virtual Reality and Silicon Valley Virtual Reality.
+
+Angelo Hizon has worked in the games industry as a 3D artist on triple A titles like Sims, Sims Kingdom doing 3D, currently he is working on passion projects and indie games. Angelo has participated in a lot of hackathons and game jams as well as hosted a lot of hackathons and game jams through SF VR. SF VR has done a lot of events in regard to game development in the VR space, and it has helped assist SVVR with some of their larger events.
+
+Micah Blumberg is a journalist and a researcher focused on creating new brain computer interfaces, right now he is organizing a spin off of SF VR called SF VR 360 which is a micro-event, he is helping to organize the next SF VR event, and the NeurotechSF workshops with SF VR with the idea there being to bring people together in a workshop setting to combine a variety of sensors, and brain computer interfaces with virtual reality and augmented reality devices with other technologies such as artificial intelligence and homomorphic encryption. Micah founded Silicon Valley Global News and everyone on the podcast today is a contributor.
+
+What is Erin looking forward to at GDC?
+
+At GDC: There will be a workshop at GDC on Thursday that Unity is putting on that is about Machine Learning. They are training robots in VR now. There was a Professor at UC Berkeley who wrote about training robots in VR
+
+At GTC this year there will be a lot more on computational biology, biochemistry, and biophysics. Erin is looking forward to the category of biotech.
+
+What is Angelo looking forward to at GDC?
+
+Angelo is hoping to see new technology, new toolsets for film making, especially since he is working on a personal project using Unity, HTC Vive and Oculus that involves VR film editing, including tools editing short clips, that make VR Film editing easier and more mainstream. Angelo is also looking for Augmented Reality applications and headsets that have been talked about
+
+What is Micah looking forward to at GDC?
+
+Micah is hoping to try the Oculus Go, to trying more software on the Oculus Santa Cruz, to trying whole body tracking on the Oculus Rift or a Rift with lots of new biofeedback sensors on it. Micah is also hoping to try the HTC Vive Pro, and the all in one HTC Vive Focus, and the Hero 5K. Micah is really interested in trying the Neurable, the Muse faceplate for HTC Vive, and the Luxxor which integrates eye tracking and eeg into a VR headset. The convergence of BCI with VR is one of the things he is tracking and working on with the NeurotechSF & SF VR workshop events that he organizes.
+
+We talk a lot more in the full podcast which you can watch or listen to here. (Same as the link above)
+
+![](/wiki/svgn/articles/media/svgn-88472230/001.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/003.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/005.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/007.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/009.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/011.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/013.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/015.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/017.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/019.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472230/021.png)
+
+![](/wiki/svgn/articles/media/svgn-88472230/023.jpg)
+
+I shared this article in the Facebook Group Virtual Reality
+
+https://www.facebook.com/groups/vrswonly/
+
+---
+
+**Connected stories:** [[Nick Whiting from Epic Games explains the origin of XR (XR = Virtual Reality + Augmented Reality).]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…]]

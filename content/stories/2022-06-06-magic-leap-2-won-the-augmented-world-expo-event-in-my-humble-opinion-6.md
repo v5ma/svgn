@@ -1,0 +1,72 @@
+---
+id: svgn-88470810
+title: "Magic Leap 2 won the Augmented World Expo event in my humble opinion."
+date: "2022-06-06"
+slug: "magic-leap-2-won-the-augmented-world-expo-event-in-my-humble-opinion-610a215d852"
+canonical: "https://svgn.io/p/magic-leap-2-won-the-augmented-world-expo-event-in-my-humble-opinion-610a215d852"
+source: "https://medium.com/@vrma/magic-leap-2-won-the-augmented-world-expo-event-in-my-humble-opinion-610a215d852"
+audience: "everyone"
+topics: ["magic", "leap", "reality", "headset", "system", "graphics", "field", "view"]
+related: ["vrma-96489ecfd086", "vrma-8916d80e0339", "vrma-334c25377ec9", "vrma-6553c09e2b21"]
+images: 7
+---
+
+# Magic Leap 2 won the Augmented World Expo event in my humble opinion.
+
+*This is the most exciting mobile all in one dedicated AR Headset I’ve tried. It can put graphics anywhere, in any environment, on the…*
+
+![](/wiki/svgn/articles/media/svgn-88470810/000.jpg)
+
+Article by Micah Blumberg, bio + share like follow contact info vrma.io
+
+![](/wiki/svgn/articles/media/svgn-88470810/001.jpg)
+
+Magic Leap 2 I tried the Magic Leap 2 demo at AWE2022 and in my opinion it is a huge step above the Magic Leap 1 and the Hololens 2. They opted to increase the vertical field of view significantly and the result is good. I feel like there is nothing missing anymore when using AR glasses in this class. It’s completely usable in ways that the original Hololens was not simply for the greater Field of View (FOV).
+
+Micah Blumberg on LinkedIn: #AWE2022 #News #AR For this Journalist, the Magic Leap 2 demo represented the best of #AWE2022, an event that featured a lot of great… www.linkedin.com
+
+The team at Magic Leap did a wonderful job with the second headset. Given the unavoidable price range for displays of this caliber I think it is really smart that they decided to become laser focused on serving the Enterprise space first before focusing on consumers.
+
+The team on the Magic Leap 2 is talking about this being an all day wearable everyday device, which is what the Enterprise wants for their workforce.
+
+![](/wiki/svgn/articles/media/svgn-88470810/003.png)
+
+It’s an Open Device by Design: Unlike the Hololens 2 it is designed to be open and accessible to the software engineering needs of each company that purchases it. Meaning that your software engineers get lower level access to being able to customize the device for your workers than you get with the Microsoft Hololens. Each company has to on their own fight with Microsoft to get deeper access to the software system by contrast.
+
+![](/wiki/svgn/articles/media/svgn-88470810/005.jpg)
+
+Micah test driving Magic Leap 2 It’s also 20 percent lighter, and 50 percent smaller than the Magic Leap 1 which I noticed right away when I put it on. A tiny bit of weight reduction means a lot in an Augmented Reality headset.
+
+The improved optics excel beyond the first Magic Leap device enabling best-in-class image quality that looks just as good as the videos of Magic Leap 2 graphics that you see online.
+
+![](/wiki/svgn/articles/media/svgn-88470810/007.jpg)
+
+The FOV (Field of View) is 70 percent, but most importantly the FOV feels right. Nothing seems missing from the experience as was the case with previous AR glasses. The images in the glasses look just as sharp as the graphics seen in the promotional videos. It was exciting to see graphics above other Magic Leap 2 headsets (indicating that the device can track the positions of other people as long as they are wearing the same headset).
+
+![](/wiki/svgn/articles/media/svgn-88470810/009.jpg)
+
+The new 70 percent Field of View eliminates the biggest issue with Magic Leap 1. They also roll software updates out automatically, like many modern software companies do, so they are providing remote updates to keep the entire fleet of devices up to date.
+
+My experience with the Magic Leap 2 was a shared demo with four people wearing the Magic Leap 2 glasses and all of us seeing the same shared experience but from our own perspective in the room. It was exciting to be in a multiplayer multi-user social Augmented Reality experience, and to see that the computer system was correctly tracking the positions of the other people in the experience and overlaying graphics on top of their headsets.
+
+![](/wiki/svgn/articles/media/svgn-88470810/011.jpg)
+
+Micah wearing the Magic Leap 2 The user interface worked well. Hand tracking technology, as I noted in a previous article, is finally ready for prime time.
+
+With Magic Leap 2 your environment is the computer system. You can overlay graphics on any surface, even on other people wearing the headsets. Most importantly you can share what you are seeing with others.
+
+The high resolution 3D graphics are good enough to replace your laptop. I don’t know that this will replace a laptop anytime soon, but at least we can see that the computer we knew is now beginning to blend into the real world that we live in. Thanks to the Magic Leap 2.
+
+Also see my articles about the Lynx R1, the “pico neo 3”, and my new impressions of the amazing Tilt Five Holographic Gaming System.
+
+I tried both the ‘Lynx R1 Headset’ & the ‘pico neo 3’ VR. At AWE in June 2022 I tried the Lynx R1 Mixed Reality headset & the “pico neo 3” Virtual Reality headsets. Both… medium.com
+
+New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO… My 2nd impression of Tilt Five’s Holographic Gaming System completely changed my mind for the better. I concluded that… medium.com
+
+The Varjo XR-3 Mixed Reality headset is also a Mixed Reality headset, it’s resolution & field of view are unmatched, but it’s not all in one (yet), and the Varjo is wired or tethered to your PC with a cable, it’s also bigger & heavier by comparison to the Magic Leap 2.
+
+The Metaverse launches today with Varjo Reality Cloud. Announced in January & launching today, services like Varjo’s Reality Cloud Platform are a plausible next step towards… medium.com
+
+---
+
+**Connected stories:** [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…]] · [[Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…]] · [[I’m imagining an Oculus Half Dome Mixed Reality headset, new things we might see in software…]]

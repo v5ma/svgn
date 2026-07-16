@@ -1,0 +1,126 @@
+---
+id: svgn-88470829
+title: "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+date: "2021-12-17"
+slug: "star-trek-discover-season-4-episode-5-review-holography-light-fields-and-the-virtual-reality-334c25377ec9"
+canonical: "https://svgn.io/p/star-trek-discover-season-4-episode-5-review-holography-light-fields-and-the-virtual-reality-334c25377ec9"
+source: "https://medium.com/@vrma/star-trek-discover-season-4-episode-5-review-holography-light-fields-and-the-virtual-reality-334c25377ec9"
+audience: "everyone"
+topics: ["star", "trek", "really", "light", "field", "holographic", "meta", "technology"]
+related: ["vrma-334c25377ec9", "vrma-172414c43c7", "vrma-a673d2063c5", "vrma-23bad1d1b952"]
+images: 10
+---
+
+# Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…
+
+*This article contains spoilers for the episode & for prior episodes so do not read it before you have seen the episode or any of the prior…*
+
+![](/wiki/svgn/articles/media/svgn-88470829/000.jpg)
+
+This article contains spoilers for the episode & for prior episodes so do not read it before you have seen the episode or any of the prior episodes. This article was written by Micah Blumberg.
+
+![](/wiki/svgn/articles/media/svgn-88470829/001.jpg)
+
+I’ve really enjoyed this 4th season of Star Trek Discovery so far. Star Trek is television show set in the future, where an ensemble cast take turns playing the roles of the crew members of a large starship, set in the far future, where things that are not yet possible with today’s technology are everyday occurrences on Star Trek. They have holodeck like augmented reality technology that portrays volumetric light field holograms in the space of a room.
+
+If you are really interested in Star Trek I recommend that you check out what Otoy & Light Field Labs are working on as an official contribution to The Gene Roddenberry Estate. The full story linked below.
+
+The Gene Roddenberry Estate and OTOY Preview 'The Roddenberry Archive' - 100 years after the birth… The Roddenberry Archive is a multi-decade collaboration between The Gene Roddenberry Estate and OTOY - curated by… home.otoy.com
+
+I think that some of the key companies in the holographic room space to pay attention include (but this is not a complete list.)
+
+Light Field Labs.
+
+Light Field Lab High Performance Proprietary FPGA, Electronics, Wall & Display Controllers Photonics Array & Nanoparticle Polymer Fused… www.lightfieldlab.com
+
+Light Field Lab's New Naked-Eye Holograms I just saw my first true hologram. I was visiting Light Field Lab, a Silicon Valley company which today unveiled its… www.forbes.com
+
+Leia Inc. (Lume Pad) launched a new tablet that is affordable and pretty cool
+
+Lume Pad 3D Lightfield Tablet | Leia Inc. Experience true 3D on a tablet - without the glasses or gear. It's the immersive experience of 3D without the glasses … www.leiainc.com
+
+Looking Glass Factory has really impressive displays that will just melt your brain. I have seen them in person. Their most advanced displays have super high resolution & like the other light field displays your perspective is determined by where each of your eyeballs is located in space. So with all of these light field hologram technologies it’s like VR without the glasses.
+
+Looking Glass Factory. The World's Leading Holographic Display Company. Looking Glass Portrait is the first system for personal 3D holograms. With it you can seamlessly turn Portrait-mode… lookingglassfactory.com
+
+Looking Glass Factory recently updated their Hologram Design Software: HoloPlay Studio. You can start making holograms for light field displays today in apps like Unreal Engine, Unity, Blender, and more. You can see my past articles to expand on the list of tools and technologies that builders & creators can use.
+
+I think I am really excited about Meta’s Holographic Display which is expected to be featured on a future Meta Quest hardware device. Perhaps it will be on the Meta Quest Pro that is rumored to be launching in 2022 with Retina resolution.
+
+![](/wiki/svgn/articles/media/svgn-88470829/003.jpg)
+
+I did not ask Meta if this was true or not, because I would expect that they would be unable to comment a lot on the rumors of future devices, so take this idea with a grain of salt. The next headset may not have these features.
+
+Holographic optics for thin and lightweight virtual reality - Meta Research | Meta Research Facebook Reality Labs (FRL) is always exploring new optical architectures to improve form factor, comfort, and optical… research.facebook.com
+
+The possibility remains that the holographic display that Facebook is working on may appear on another year later on, such as in 2024. What is more expected I think is that Facebook’s 2022 VR headset might have high resolution color tracking cameras, and foveated rendering with eye tracking so that you can have a more comfortable VR headset that looks better, but more importantly it feels better. I expect it to have Augmented Reality pass through technology like the Quest 2 has, but in color. The Meta Quest 2 (formerly known as the Oculus Quest 2) already looks pretty good.
+
+Holographic optics for thin and lightweight virtual reality - Meta Research | Meta Research Facebook Reality Labs (FRL) is always exploring new optical architectures to improve form factor, comfort, and optical… research.facebook.com
+
+We should also expect that the headset build quality will be lighter, but nicer and sturdier (for the Meta Quest Pro version) with that the price will go up. My bet is that we are looking at the iPad Pro price range, (maybe over $1000) and I think it’s clear from Mark Zuckerberg’s Metaverse talk at Connect 2021 (which you can watch below) that Meta is intent on replacing your phone with the Meta Quest. You are going to be able to talk to people from around the world as if they were in the room with you. This is a different kind of online social experience.
+
+Connect 2021: our vision for the metaverse. Connect 2021: our vision for the metaverse.www.facebook.com
+
+I think Mark Zuckerberg is now thinking of his company as a telecom technology company like Bell Labs, that invents new kinds of communication technologies. He certainly has the team to do that, in terms of people all over the company, from AI to VR & AR, to the Metaverse, to brain computer interface research, they work on building fundamental new technologies with some of the most brilliant minds in the world.
+
+Light Field Lab's SolidLight offers a true holographic video display The dream of holographic video has long been a staple of science fiction-the image of Princess Leia beamed from R2-D2… www.techhive.com
+
+I already mentioned Light Field Lab’s but really you should check that out.
+
+I remember seeing HypeVR at CES the Consumer Electronics Show. I look forward to what I might discover at CES in 2022.
+
+Home For more than 50 years, CES® has been the global stage for innovation. And the all-digital CES 2021 continued to be a… www.ces.tech
+
+Later on in the year I am looking forward to GDC 2022 (The Game Developer Conference in San Francisco) Both conferences are going to be featuring in person gathering’s this year which I am excited about. I’m vaccinated, and vaccination is required to attend. So I feel safe. Lets also hope that these 10 million new Pfizer antiviral pills are effective against the Omicron variant. We can hope. I’m optimistic and feeling good about it.
+
+Biden admin orders enough Pfizer antiviral pills for 10 million Americans President Biden said Tuesday his administration has ordered enough of Pfizer's COVID-19 antiviral pills to treat 10… www.axios.com
+
+I mention all these holographic technologies because Star Trek seems like it’s very much inspired by holographic technology. Down to the replicators, the space warping ships, the phasers which are very funny because there is a thing in math called a phaser. Gene Roddenberry the original writer for Star Trek (1966) is thought to have been inspired by the creators of holography after seeing the technology in person.
+
+If you own a DLSR camera you might be interested to get this light field camera when it comes out. I’m looking forward to it. It’s called K-Lens, and like a Kaleidoscope Lens it uses mirrors and lenses in a really ingenious way to capture multi-perspectives on the film. With a computer program it can reconstruct and interpolate a light field image from your DSLR capture. It’s a really cool idea, and it appears to work.
+
+I’m excited about the future of holographic technology. Will we have replicators? Beaming? Teleporting? What about transporting people through time? What if we could beam just the information of your mind into a computer, into a robot specifically, so that you never had to die?
+
+I’m really interested in the future of brain computer interface technology. There is so much to talk about and I am writing about these topics in my new book which is coming soon. It features a discussion of the human mind, physics, math, biology, memory, artificial intelligence, neural networks, and brain computer interfaces of the future. It’s a big book and it’s taking a long time but I am really excited to see the table of contents and my work being neatly organized and I’m excited to share this book with everyone. However I’ve also decided to start writing articles again.
+
+I have an upcoming story about web3, a story about the metaverse, and lot more coming soon.
+
+The last season of Star Trek Discovery was pretty interesting also. At the end of the last season we met a time traveling wormhole that had become sentient. It was really novel to think about that. Like what if the red eye storm on Jupiter was conscious somehow? What exactly does it take for something to become conscious? Surely you don’t expect me to believe that rocks are conscious? Fish? Oh my gosh really? Well the truth is scientists are trying to figure out if even insects have subjective experience. It’s a hot topic, and a lot of books are appearing, but I want to state for the record that vague theories like Integrated Information Theory, Attention Schema, and the Global Thought Workspace are not good enough. There is not yet a consciousness book that is not doing some kind of hand waving over the details, because the reality is that there are a lot of unanswered questions in biology. Even after my book comes out there will be still be unanswered questions in biology. It’s an exciting topic and once you get excited about it you can’t stop.
+
+![](/wiki/svgn/articles/media/svgn-88470829/005.jpg)
+
+Is Jupiter’s red spot sentient? Please don’t mention panpsychism I’m not buying it. I do like the idea that we are in someone else’s mind however. I like that idea. That doesn’t mean I’m going to assign weight to some mystical religion. With this season we got to explore the idea of binary black hole, that could change its own direction, and we find out in the 5th episode that this binary black hole is actually a potato shaped lump of dark matter that is floating around a ship that is trying to warp space.
+
+I was hoping that it was a self aware sentient binary black hole, which is another weird direction that the story might have gone in, but no its an enemy spaceship. They compared this enemy to the Q continuum who was an OP (over powered) character.
+
+![](/wiki/svgn/articles/media/svgn-88470829/007.jpg)
+
+Photo of Q Continuum bothering Captain Picard of the television series Star Trek The Next Generation. Does this mean we will see the Q continuum make an appearance on Star Trek Discovery at some point later on in the season? I sure hope so.
+
+At the end of the episode we saw what should be a future augmented reality product. I guess they just trademarked this product, but it’s easy to make with today’s technology, not so futuristic really. It’s a family tree in Augmented Reality, a hologram.
+
+![](/wiki/svgn/articles/media/svgn-88470829/009.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88470829/011.jpg)
+
+Here in this photo below Captain Michael Burnham of Discovery is returning this holographic family tree to this woman whose father was murdered when she was younger.
+
+![](/wiki/svgn/articles/media/svgn-88470829/013.jpg)
+
+Here in this photo below Captain Michael Burnham of Discovery is returning this holographic family tree to this woman whose father was murdered when she was younger. Somebody tell Ancestry.com to license this Star Trek property asap, they can start using Holoplay Studio by Looking Glass Factory to make this. It scans your face, makes a hologram of your face, a volumetric capture, a 3D light field of you, and adds it to your family photos that “may” have been turned into holograms with a technology like 3D semantic segmentation: 2D to 3D AI Synthesis. Sign me up. Beam me up to that universe!
+
+![](/wiki/svgn/articles/media/svgn-88470829/015.jpg)
+
+Ancestry® | Genealogy, Family Trees & Family History Records Ancestry® helps you understand your genealogy. A family tree takes you back generations-the world's largest collection… www.ancestry.com
+
+![](/wiki/svgn/articles/media/svgn-88470829/017.jpg)
+
+Shut up and take my money! Star Trek Discovery is different, it’s new, but it still feels like real Star Trek to me. I like it. I don’t understand how a spore drive is possible but when I first learned about Star Trek I didn’t know that a warp drive was actually a plausible idea. It remains to be scene whether scientists will someday attempt to build a real spore drive or not. When I was a kid I thought the warp drive was a fantasy and it didn’t matter to me. It was cool like the same way the Hitch Hiker’s Galaxy was cool. Star Trek didn’t have to make sense. It didn’t have to be consistent. To me Star Trek was psychedelic nonsense in space, and in that spirit I really like Star Trek Discovery, but also I really do like the science fiction technology. I like to dream that programmable matter might be possible someday. With replicators and holograms why not?
+
+Find my featured articles here:
+
+Link to bio, ways to connect, and featured stories Micah Blumberg, programmer, journalist, medium.com
+
+---
+
+**Connected stories:** [[Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…]] · [[New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO…]] · [[News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…]] · [[The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality]]

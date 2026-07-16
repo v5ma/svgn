@@ -1,0 +1,66 @@
+---
+id: svgn-88472229
+title: "Despite it’s $799 price tag the new Vive Pro seems to be selling very well"
+date: "2018-03-23"
+slug: "despite-its-799-price-tag-the-new-vive-pro-seems-to-be-selling-very-well-901d6187c916"
+canonical: "https://svgn.io/p/despite-its-799-price-tag-the-new-vive-pro-seems-to-be-selling-very-well-901d6187c916"
+source: "https://medium.com/@vrma/despite-its-799-price-tag-the-new-vive-pro-seems-to-be-selling-very-well-901d6187c916"
+audience: "everyone"
+topics: ["vive", "amazon", "game", "reality", "better", "best", "well", "same"]
+related: ["vrma-2f59070c855c", "vrma-4e7fff539676", "vrma-eddd3e5de723", "vrma-c9f185cf1426"]
+images: 12
+---
+
+# Despite it’s $799 price tag the new Vive Pro seems to be selling very well
+
+*via Micah Blumberg, SVGN.io*
+
+![](/wiki/svgn/articles/media/svgn-88472229/000.jpg)
+
+Data from Amazon.com showing the HTC Vive now beating the Oculus Rift at the Vive’s new price of $499, and the Vive Pro surprisingly in 3rd place beating all of the Microsoft Mixed Reality headsets.
+
+![](/wiki/svgn/articles/media/svgn-88472229/001.jpg)
+
+Its the number one new release, available for pre-order now and expected to ship April 5th 2018.
+
+![](/wiki/svgn/articles/media/svgn-88472229/003.jpg)
+
+Why does it make sense that this would sell very well? For the same reason that expensive televisions sell really well for minor feature improvements. There are a lot of folks in the world who want to burn cash on the latest and greatest thing, and the Vive Pro qualifies as the latest and greatest thing.
+
+I did in fact try it at GDC yesterday and its noticably lighter weight, and it doesn’t feel nearly as face heavy as the HTC Vive. The screen is better, better resolution, better image quality. Its just a better Vive.
+
+![](/wiki/svgn/articles/media/svgn-88472229/005.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472229/007.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472229/009.jpg)
+
+At GDC 2018 I tried it playing a game by IMGNATION STUDIOS, the game they showed me had some similarities to Twisted Metal, in that you had a vehicle combat game, except in VR. It was kinda cool, but it was also an early build and they hadn’t put guns in the game yet, so I will look forward to playing the game when its finished.
+
+![](/wiki/svgn/articles/media/svgn-88472229/011.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472229/013.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472229/015.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472229/017.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472229/019.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472229/021.jpg)
+
+I think of the Vive Pro as an intermediate step in the evolution of technology. It’s not taking big risks, its not an 8k screen, it’s not even 4k, it does not appear to have AR capability. By default it ships with a cord that tethers you to a PC so unless you have a VR backpack you are not going very far with it.
+
+I think that the VR industry may move in the direction of all in one mobile devices with inside out tracking that can do AR and VR products and also integrate two 6dof motion controllers so that you have hand presence in VR and no cable to tether you to a PC.
+
+I kinda wish I had a Vive Pro because it looks good from the inside when you are seeing through it but I also like the lower resolution cheaper VR headsets as well like the Acer Mixed Reality headset. The Acer is cheap, its also really light weight, its fast and easy to setup and its fun to demo. It also has no external cameras, and no base stations needed for setup. Its true that the tracking is no where near as good as the HTC Vive tracking. At the same time some people are happy with really cheap televisions and that’s how you can think of this.
+
+Vive Pro is like a nicer more expensive television and there are plenty of people who will pay the extra premium for the nicer and more expensive tv, and the same appears to be true for VR.
+
+Reference: https://www.amazon.com/Best-Sellers-Video-Games-PC-Virtual-Reality/zgbs/videogames/14670123011
+
+Amazon Best Sellers: Best PC Virtual Reality These lists, updated hourly, contain bestselling items. Here you can discover the best PC Virtual Reality in Amazon Best… www.amazon.com
+
+---
+
+**Connected stories:** [[Oculus Go available to purchase now at Oculus.com and today at Bestbuy and Amazon.com]] · [[Nick Whiting from Epic Games explains the origin of XR (XR = Virtual Reality + Augmented Reality).]] · [[HTC Vive’s Commercial Business Strategy for Virtual Reality]] · [[Games & Virtual Reality 2018]]

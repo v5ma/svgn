@@ -1,0 +1,136 @@
+---
+id: svgn-164978272
+title: "I presented my research to Karl Friston on April 8th 2025. Now you can watch the presentation."
+date: "2025-06-02"
+slug: "i-presented-my-research-to-karl-friston"
+canonical: "https://svgn.io/p/i-presented-my-research-to-karl-friston"
+source: ""
+audience: "everyone"
+topics: ["quantum", "micah", "computational", "neural", "theory", "gravity", "information", "time"]
+related: ["vrma-4e771dfa609b", "vrma-a97c5dca9e90", "vrma-8acbacf53af9", "vrma-5d39e2b565ca"]
+images: 1
+---
+
+# I presented my research to Karl Friston on April 8th 2025. Now you can watch the presentation.
+
+*Micah's New Law of Thermodynamics: Self Aware Networks to Super Information Theory. Bridging Neuroscience, Physics, and Information, with Two Unified Field Theories, and a Theory of Consciousness*
+
+This Conversation was Recorded April 8th 2025.
+
+I felt honored to present these ideas to Professor Karl Friston, the world-renowned theoretical neuroscientist behind the Free Energy Principle and dynamic causal modeling. Friston’s influence on brain science rivals Geoffrey Hinton or Yann LeCun in AI, György Buzsáki or Christof Koch in neuroscience, and giants like Stephen Hawking or Roger Penrose in physics. Sharing my work with his Theoretical Neurobiology group matters because my signal-dissipation framework extends his free-energy insights into amplitude- and phase-based neural coding—placing our discussion at the cutting edge of how complex systems, from brains to the cosmos, optimize information and energy.
+
+Micah Blumberg's integrative theories—Quantum Gradient Time-Crystal Dilation, Super Dark Time, Micah's New Law of Thermodynamics, Self-Aware Networks, and Super Information Theory—unify neuroscience, quantum physics, thermodynamics, and AI through a shared computational-informational framework. Gravity emerges from quantum coherence gradients, entropy is reframed as active informational dissipation, and brain function relies fundamentally on amplitude and phase wave coding, presenting groundbreaking implications across multiple scientific fields.
+
+## Longer Description: Bridging Neuroscience, Physics, and Information Theory
+
+In this expansive presentation, Micah Blumberg introduces an ambitious theoretical framework designed to unify key ideas from neuroscience, physics, thermodynamics, and information theory. This cross-disciplinary synthesis, presented with clarity and bold originality, aims to reveal underlying principles that connect living systems—particularly the human brain—to fundamental laws governing the universe.
+
+Micah’s talk covers significant ground, articulating innovative concepts such as Micah’s New Law of Thermodynamics , Self-Aware Networks Theory of Mind , Super Dark Time , and Super Information Theory . These ideas collectively propose new interpretations for understanding brain function, gravity, quantum physics, thermodynamics, and computational intelligence.
+
+### Micah’s New Law of Thermodynamics: A Computational Approach to Equilibrium
+
+Central to Micah’s framework is his formulation termed “Micah’s New Law of Thermodynamics.” Traditional thermodynamics typically describes entropy as a statistical tendency toward disorder or equilibrium. Micah, however, proposes a fundamentally different view. Rather than entropy representing mere statistical drift, he suggests it arises through local iterative computational processes, specifically via wave-based interactions.
+
+Under this theory, all dynamical systems, whether composed of gas molecules or neurons in the brain, achieve equilibrium by repeatedly dissipating differences—variations in pressure, energy, or electrochemical gradients—through iterative signal exchanges. Each interaction effectively acts as a discrete computational step that incrementally reduces local differences, thereby driving the system toward equilibrium.
+
+In practical terms, Micah’s law reframes equilibrium as an active, computationally meaningful process. It positions thermodynamics not merely as a branch of statistical mechanics, but as a profound computational principle underpinning complex systems throughout nature. Importantly, this view extends readily to biological systems, including the neural dynamics of the brain.
+
+### Connecting to Karl Friston’s Free Energy Principle
+
+The notion of computational dissipation aligns neatly with the Free Energy Principle (FEP), developed by neuroscientist Karl Friston. Friston argues that living organisms continually strive to minimize free energy—an information-theoretic concept representing prediction error between expected and actual sensory inputs. According to Friston, brains operate by continually refining internal predictive models, thus progressively minimizing discrepancies between expected and received signals.
+
+Micah extends Friston’s theory by embedding it within his broader thermodynamic principle. He suggests minimizing free energy (or prediction error) in the brain is one specific case of the more general computational dissipation described by his thermodynamic law. In essence, the brain’s attempts to reduce free energy through internal predictive refinement become a special example of the fundamental nature of reality itself. At its heart, Micah's work argues for a profound conceptual shift: the systems of the universe, whether biological, computational, or physical, share a fundamental computational and thermodynamic logic that can be described as signal dissipation . His interdisciplinary theories, notably Micah’s New Law of Thermodynamics , Self-Aware Networks , and Super Information Theory , collectively build upon each other, synthesizing insights from neuroscience, quantum mechanics, cosmology, thermodynamics, and artificial intelligence into a coherent, unified model. Core Concepts and Theoretical Foundations
+
+### 1. Micah’s New Law of Thermodynamics: A Signal Dissipation Framework
+
+Central to Micah’s proposal is a reinterpretation of the thermodynamic notion of equilibrium and entropy increase. Traditional thermodynamics describes entropy as a measure of a system’s disorder or the statistical tendency toward randomness. However, Micah proposes a different perspective: that the progression toward equilibrium in any system—be it gas molecules diffusing in a container, neurons in the brain firing, or even celestial objects interacting gravitationally—is fundamentally a structured, computational process.
+
+This new law asserts that entropy is not simply a passive statistical inevitability but an active computational process involving iterative dissipation of differences or gradients. Whether these gradients involve energy, heat, pressure, electrochemical potentials, or even phase differences between wave-like signals, their resolution occurs through stepwise interactions. Each local interaction between components of a system (particles, neurons, signals) can thus be seen as a computational step that progressively reduces these gradients.
+
+Micah describes this succinctly in the phrase, “the system is effectively computing its way to equilibrium.” This concept elegantly ties thermodynamics directly to computational information theory, reframing equilibrium as the endpoint of signal dissipation computations. It also introduces a nuanced shift in how we conceptualize entropy: rather than disorder, entropy becomes structured dissipation—the ordered process by which information and energy gradients diffuse through iterative computations.
+
+### 2. Neural Array Projection Oscillation Tomography (NAPOT): Understanding Brain Function as Wave-Based Computation
+
+Applying this general thermodynamic computational insight specifically to neuroscience, Micah develops the theory of Neural Array Projection Oscillation Tomography (NAPOT) . This theory conceptualizes neural function as fundamentally oscillatory and computational, bridging molecular neuroscience with systems-level neural dynamics.
+
+NAPOT proposes that neurons, and indeed entire neural networks within the brain, operate primarily through nonlinear signal interactions represented as oscillatory patterns. Key to this theory is Micah’s critical observation that neurons encode information not merely through binary spike occurrences (as traditionally modeled by the perceptron) but through precise variations in signal amplitude, frequency, and crucially, phase relationships—what he terms phase wave differentials .
+
+Phase wave differentials become the primary computational “currency” within neural networks. When two neurons or clusters of neurons interact, they exchange these differentials, progressively reducing their differences in signal patterns, much like synchronizing pendulums gradually falling into alignment. This view, influenced by the work of Steven Strogatz on synchronization phenomena and György Buzsáki’s extensive neuroscience research on rhythmic brain oscillations, provides a robust computational model for neural signal processing and information integration.
+
+A novel contribution from Micah’s research is his insight that the brain's computational processes involve both frequency coding (widely recognized in neuroscience) and amplitude coding (largely overlooked or ignored). He emphasizes that synaptic vesicle release, historically regarded as stochastic or random, is not random at all. Instead, vesicle release patterns are deeply connected to subtle variations in the action potential waveform, especially affected by potassium dynamics that influence calcium influx and thus vesicle release patterns.
+
+This refined picture of neural computation fundamentally challenges long-standing assumptions and paves the way for new computational models of artificial intelligence. Indeed, Micah points out explicitly that no current artificial neural network fully integrates amplitude-based neural coding, making this observation a rich opportunity for advancing AI.
+
+### 3. Super Dark Time and Quantum Gradient Time-Crystal Dilation: Integrating Quantum Mechanics and Gravity
+
+Micah extends his computational and thermodynamic insights beyond the brain to broader physical phenomena, introducing two interconnected theories: Quantum Gradient Time-Crystal Dilation (QGTCD) and Super Dark Time . These theories argue that gravity itself emerges naturally from quantum mechanics, with profound implications for cosmology and quantum gravity research. Micah originally introduced Quantum Gradient Time-Crystal Dilation (QGTCD) as a means to fundamentally reinterpret the relationship between gravity and quantum physics. According to QGTCD, gravitational effects emerge naturally from underlying quantum-mechanical processes, specifically through variations or gradients in time density. Here, time density refers to how densely quantum states or quantum information evolve in different regions of space, an idea distinctly different from the traditional space-centric curvature models of general relativity.
+
+In Micah’s QGTCD formulation, massive objects influence space not merely by curving it geometrically (as Einstein described) but by creating local gradients in the density of quantum information, effectively altering the rate at which quantum states evolve. Areas with higher mass concentration exhibit higher time density fields, meaning quantum states evolve through more densely packed “frames” of quantum time. Conversely, lower-density regions, farther away from massive objects, have fewer quantum frames per unit distance. This differential quantum density gradient is precisely what manifests macroscopically as gravitational attraction and time dilation effects, making gravity effectively a phenomenon of information gradients rather than a classical fundamental force.
+
+Critically, Micah’s approach aligns well with contemporary theoretical advances, including theories of entropic gravity, such as those proposed by physicist Erik Verlinde, and other emergent gravity theories. However, it goes a significant step further by explicitly connecting quantum coherence phenomena and quantum computational processes directly with gravitational dynamics. By framing gravity as an emergent quantum-informational property, Micah’s Quantum Gradient Time-Crystal Dilation sets the stage for his even broader and more integrative theory: Super Dark Time .
+
+### Super Dark Time: A Quantum Computational Perspective on Gravity
+
+Building upon the ideas introduced in Quantum Gradient Time-Crystal Dilation, Micah further developed the theory into what he now terms Super Dark Time . This enhanced theory not only proposes the informational quantum-computational origin of gravity but explicitly formulates it through a rigorous mathematical framework, utilizing principles from Lagrangian mechanics and variational methods. This theoretical upgrade provides explicit mathematical equations capable of making testable predictions about gravitational phenomena based purely on quantum informational parameters.
+
+According to Super Dark Time, gravity is explicitly computed from local quantum coherence variations—differences in quantum states’ coherence levels throughout space. Essentially, gravity becomes the large-scale emergent outcome of microscopic quantum coherence gradients, reconciling classical gravitational phenomena (like planetary orbits, black hole dynamics, and gravitational lensing) directly with quantum mechanical principles (like quantum entanglement, superposition, and coherence).
+
+This interpretation elegantly resolves several longstanding conceptual challenges within theoretical physics. For example, it provides a quantum-informational basis for gravitational time dilation without invoking separate and incompatible relativistic and quantum mechanical frameworks. It naturally aligns quantum mechanics and gravity within a unified theoretical model, offering a coherent path forward toward a consistent theory of quantum gravity—a goal that has eluded physicists for decades.
+
+Moreover, Super Dark Time strongly suggests that phenomena traditionally attributed to dark matter might be better explained through previously unconsidered quantum coherence and computational phenomena. Instead of postulating invisible matter to account for gravitational anomalies, Micah's theory proposes that the distribution and gradients of quantum coherence throughout the universe could account naturally for observed gravitational effects currently attributed to dark matter halos and other cosmic phenomena. This approach provides testable hypotheses for astrophysical research and could transform our cosmological understanding fundamentally.
+
+### Super Information Theory: The Integrative Unification
+
+Building on the solid foundations laid down by Quantum Gradient Time-Crystal Dilation and Super Dark Time, Micah's theoretical exploration culminates in his ambitious and integrative Super Information Theory . This theory generalizes the concept of quantum coherence, elevating it to a universal informational principle that not only explains gravity and quantum physics but also connects them intimately to thermodynamics, entropy, and consciousness itself.
+
+In Super Information Theory, quantum coherence is viewed as the foundational driver behind all emergent phenomena—gravitational effects, temporal dilation, thermodynamic processes, and even biological systems like brains. Every system, from neurons in the brain to galaxy clusters, functions as a computationally dissipative information processor. Systems evolve toward equilibrium through iterative quantum coherence dissipation, thereby bridging physics, cosmology, neuroscience, and even artificial intelligence into a single, coherent, explanatory framework.
+
+Super Information Theory thus positions itself as a unifying principle of nature, providing clarity and insight across diverse domains:
+
+Physics and Cosmology : Gravity emerges naturally from coherence gradients. Thus, spacetime and gravitational phenomena become understandable as informationally and computationally driven rather than mysterious and irreducible forces or curvatures.
+
+Neuroscience : Neural dynamics and consciousness emerge from structured dissipation of informational differences (phase, amplitude, frequency), providing a novel biological-computational basis for conscious awareness and cognitive function.
+
+Thermodynamics : Entropy increase becomes reinterpreted as structured informational dissipation through computational steps, reframing the second law of thermodynamics not as statistical inevitability but as active computational dynamics.
+
+Artificial Intelligence : The principles underlying quantum coherence dissipation and neural information coding provide novel design insights, particularly highlighting neglected aspects of amplitude-based computation within neural networks.
+
+By situating quantum coherence as the ultimate foundational phenomenon, Super Information Theory elegantly reconciles disparate physical theories and phenomena, providing a unified explanatory framework rich in predictive power and conceptual coherence.
+
+### Bridging Molecular Mechanisms and Neural Oscillatory Dynamics: Micah’s Detailed Neuroscientific Contribution
+
+Micah’s research does not merely remain abstract; it engages deeply and specifically with detailed neuroscience. His extensive work, particularly articulated in his 2024 book Bridging Molecular Mechanisms and Neural Oscillatory Dynamics , tackles the longstanding challenge in neuroscience: how molecular-level neuronal processes scale and integrate to generate macroscopic neural oscillations and cognitive phenomena.
+
+This book systematically addresses the molecular mechanisms underlying action potential waveform variability and neurotransmitter vesicle release patterns, meticulously connecting these molecular events directly to observable neural oscillations (e.g., alpha, gamma waves) measured by EEG. It provides detailed explanations of how subtle variations in potassium and calcium dynamics modulate synaptic vesicle release amplitude, directly influencing neural signal magnitude and thus neural computational capacity.
+
+Micah’s neuroscience contributions clearly highlight the critical importance of amplitude modulation in neural coding—a crucial observation not adequately incorporated into existing artificial neural networks or computational neuroscience models. By spotlighting this gap, Micah’s work opens significant opportunities for future neuroscience experiments and artificial intelligence developments, potentially reshaping how neural computation is understood and modeled.
+
+## Conclusion: Micah Blumberg’s Integrative Theoretical Contribution
+
+In summary, Micah Blumberg’s theories— Quantum Gradient Time-Crystal Dilation (QGTCD) , Super Dark Time , Micah’s New Law of Thermodynamics , Self-Aware Networks , and ultimately, Super Information Theory —represent a profoundly integrative scientific synthesis that transcends traditional disciplinary boundaries. By connecting quantum physics and gravity directly with thermodynamics, computational information theory, neuroscience, and artificial intelligence, Micah offers an expansive and coherent conceptual framework that unifies seemingly disparate scientific fields.
+
+Micah’s Quantum Gradient Time-Crystal Dilation originally set the stage, proposing gravity as emergent from quantum information density gradients, transforming our understanding of gravity from a purely geometric force into a computational quantum-informational phenomenon. This evolved into Super Dark Time , a mathematically rigorous formulation of emergent gravity and time dilation, demonstrating explicitly how quantum coherence gradients shape gravitational interactions and cosmic structure.
+
+Parallel to these physics-based innovations, Micah’s New Law of Thermodynamics reframes equilibrium and entropy in fundamentally computational terms, highlighting entropy as a structured dissipation of informational and energetic gradients through iterative wave-based interactions. Applied specifically to neuroscience, Micah’s Self-Aware Networks theory (Neural Array Projection Oscillation Tomography, or NAPOT) profoundly challenges conventional models of neural computation. It underscores amplitude and phase wave coding as crucial yet overlooked computational mechanisms, directly inspiring new avenues for artificial intelligence and neural modeling research.
+
+All these theories culminate in Micah’s broadest formulation yet: Super Information Theory , which positions quantum coherence and computational dissipation as universal drivers behind physical, biological, and cognitive phenomena. Within this holistic perspective, gravity, thermodynamics, brain function, and even consciousness emerge naturally from fundamental quantum-informational dynamics.
+
+Micah Blumberg’s integrative contributions thus represent far more than incremental advances; they offer a foundational conceptual revolution with deep implications across multiple scientific disciplines. His bold theoretical synthesis provides researchers with new hypotheses to test, innovative directions to explore experimentally, and novel paradigms for understanding complex natural systems—from the quantum foundations of gravity to the intricacies of human consciousness itself.
+
+![](/wiki/svgn/articles/media/svgn-164978272/001.jpg)
+
+Blumberg, M., & Miller, M. S. P. (2025). Building Sentient Beings. https://zenodo.org/records/15522356 Self Aware Networks: Oscillatory Computational Agency Description : Introduces the Self Aware Networks (SAN) framework, proposing that consciousness emerges from oscillatory computational processes. DOI: 10.6084/m9.figshare.29085134 PDF: Download
+
+Super Information Theory Description : Presents a theoretical framework that unifies diverse manifestations of information, extending principles from prior works like Super Dark Time. DOI: 10.6084/m9.figshare.28379318 PDF: Download Figshare+6svgn.io+6Figshare+6
+
+Micah's New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium and Consciousness Description : Proposes a new law of thermodynamics focusing on signal-dissipation as a framework for understanding equilibrium and consciousness. DOI: 10.6084/m9.figshare.28264340 Facebook+11Figshare+11Facebook+11 svgn.io+3svgn.io+3Amazon Web Services, Inc.+3
+
+Super Dark Time: Gravity Computed from Local Quantum Mechanics Description : Explores the concept of gravity emerging from local quantum mechanics, introducing the idea of 'time thickening'. DOI: 10.6084/m9.figshare.28284545 svgn.io+1svgn.io+1 svgn.io+1svgn.io+1
+
+Quantum Gradient Time Crystal Dilation Description : Discusses a novel unified field theory explaining quantum mass as a time crystal dilating time at the quantum scale, contributing to gravity by increasing time frames. GitHub: QGTCD.md svgn.io+1svgn.io+1 Bridging Molecular Mechanisms and Neural Oscillatory Dynamics Description : A book providing a unified framework for understanding consciousness, addressing attention binding, the hard problem, and qualia through the lens of Self Aware Networks Theory. “Bridging Molecular Mechanisms and Neural Oscillatory Dynamics”: https://www.amazon.com/dp/B0DLGBHJHG Watch several videos that explain Self Aware Networks, you can find them inside this link:
+
+Watch the lost original episode of my podcast recovered & restored: The Neural Lace Podcast Origin: The Neo Mind Cycle Concept
+
+---
+
+**Connected stories:** [[Self Aware Networks: Computational Biology: Neural Lace]] · [[Synaptic unreliability, a foundational concept, found in deep learning, and in computational…]] · [[FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4]] · [[3D Cross-Hair Convolutional Neural Networks]]

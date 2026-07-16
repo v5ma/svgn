@@ -1,0 +1,88 @@
+---
+id: svgn-88471641
+title: "I asked Jensen Huang the CEO of Nvidia if Automous Vehicles need to have self-aware networks."
+date: "2018-04-03"
+slug: "after-a-mind-exploding-keynote-at-gtc-2018-i-got-the-chance-to-ask-jensen-huang-the-ceo-of-nvidia-a-f1cca7ce04a6"
+canonical: "https://svgn.io/p/after-a-mind-exploding-keynote-at-gtc-2018-i-got-the-chance-to-ask-jensen-huang-the-ceo-of-nvidia-a-f1cca7ce04a6"
+source: "https://medium.com/@vrma/after-a-mind-exploding-keynote-at-gtc-2018-i-got-the-chance-to-ask-jensen-huang-the-ceo-of-nvidia-a-f1cca7ce04a6"
+audience: "everyone"
+topics: ["nvidia", "technology", "jensen", "huang", "self", "world", "things", "reality"]
+related: ["vrma-f1cca7ce04a6", "vrma-4aa546469123", "vrma-6553c09e2b21", "vrma-23bad1d1b952"]
+images: 18
+---
+
+# I asked Jensen Huang the CEO of Nvidia if Automous Vehicles need to have self-aware networks.
+
+*I wanted whether it will be necessary for Self Driving Cars to become Self-Aware Networks with a Self-Concept, and I wanted to know about…*
+
+![](/wiki/svgn/articles/media/svgn-88471641/000.jpg)
+
+Written by Micah Blumberg, Silicon Valley Global News SVGN.io and host of the Neural Lace Podcast VRMA.io
+
+![](/wiki/svgn/articles/media/svgn-88471641/001.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/003.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/005.jpg)
+
+At GTC 2018 Nvidia introduced real time ray tracing to the world, it’s called RTX, and it uses a technology called AI denoising to predict the Rays from the point cloud that the scene consists of. This AI denoising technology was previously demonstrated by OTOY and you can see my interview with the CEO of Otoy Jules Urbach here.
+
+My interview with Jules Urbach the CEO of OTOY at GTC 2018 We talked about some of the big ideas behind the big news about RTX Real Time Ray Tracing, we talked specifically about… medium.com
+
+Nvidia also launched it’s brand new AI platform the DGX 2 which has 2 Petaflops of computing with 512GB of HBM2 Memory, it supports up to 16GPUs it’s 350lbs and it only needs 10kW. Nvidia also introduced it’s new Drive Sim & Constellation and Clara the new Medical Imaging Super Computing Platform. H ere is a link to more information about Clara https://blogs.nvidia.com/blog/2018/03/28/ai-healthcare-gtc/
+
+![](/wiki/svgn/articles/media/svgn-88471641/007.jpg)
+
+Jensen Huang, the CEO of Nvidia, is known for saying funny lines during his keynotes that get his audience laughing. He says things like “The more you buy, the more you save” which I think could be a nod to the fact that a CEO’s number one job is to sell their companies products, but it also drives the point home that Nvidia’s computer architectures are shrinking the computer server farms and doing a lot more with a lot less energy, a lot less cost, and lot less space. Every time I see Jensen Huang speak I expect amazing things, and he always delivers, one of these days I expect a humanoid robot will walk out on stage with him, like from the movie iRobot, if there a list of people on this planet who are most likely to accomplish building a self-aware robot with humanoid like sentient brain in our life times Jensen Huang would be a good candidate.
+
+![](/wiki/svgn/articles/media/svgn-88471641/009.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/011.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/013.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/015.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/017.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/019.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/021.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/023.jpg)
+
+The two images illustrate how one tiny DGX-2, that weights only 350lbs, and uses only 10kW replaces an entire row of servers. 1/8 the Cost, 1/60 the Space and an 18th of the Power. Click on the photos to learn see larger versions with easier to read details. In addition technology that had previously only been featured in the movie Black Panther was realized in real life in this keynote: During the keynote Jensen Huang demonstrated technology that was straight out of Black Panther “Are you guys putting this in your head right now, there is Tim in reality, but he is inside Virtual Reality controlling a car that’s in reality but it’s not here!” Jensen Huang says and then a little bit later he adds “This is like three layers of Inception right now” referencing the model exploding in the movie Inception
+
+See my full article on that here with video I recorded from the first row of the audience:
+
+Nvidia demo: Engineer drives a real car from inside VR Nvidia combines its Virtual Reality Holodeck application with Self Driving Cars so a human can take over a vehicle… medium.com
+
+### So after the keynote in the Press Room I asked the CEO Jensen Huang the following. Included is an audio recording of my questions and his response.
+
+I have three really easy questions one.
+
+I noticed that you have a feedback loop between the Drive Simulation and Pegasys the Driving Computer, and I think the brain is a feedback loop so, could it be important to feed the self driving car information about itself so it gets a self concept? Does it currently have a self concept? When does it become a self-aware network?
+
+Can we combine the Clara Medical Imagine Super Computer with the Data from the Drive Simulation so we can establish next generation neural correlation between the medical imagery and the world that the car sees
+
+Why aren’t cryptocurrency miners using DGX systems and if we market the DGX to cryptocurrency miners won’t they leave our VR Graphics Cards alone?
+
+![](/wiki/svgn/articles/media/svgn-88471641/025.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/027.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/029.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/031.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471641/033.jpg)
+
+Can we combine Clara — The Medical Imagining Supercomputer with the Constellation & Pegasys to establish among other things next generation neural correlation? Here is a text summary paraphrasing Jensen Huang’s answer to my questions, you also listen to my questions and hear his response below that: [Cryptocurrency mining doesn’t need as much of a system architecture as the DGX offers, an AI system, the streaming storage and processing, the system storage all of that is very very different from a cryptomining system.
+
+[The first question, do we feed it in as a feedback loop (between Pegasys and Drive Simulation) that’s a good observation. One box is basically the eyes, the eyes that see the world, the world generator that’s the first image generator, the second is the brain, which is the section that is the reasoning and the planning part of our autonomous vehicle, that’s the world and the brain, so constellation has those two systems integrated into it. The reason we don’t turn it free to teach itself is that we don’t want this box to be a black box, we want to know the pieces of technology that are engineered into the self driving car so that we understand the things that it does and why its doing them, and so we are building the technology in pieces. So the technology has to be very easy to understand. We don’t want a whole lot of stuff inside the blackbox, because if we can’t understand it we can’t reason how its going to be effective. The second reason is by taking these things and breaking them into small boxes we can have redundancy and diversity, we can do the same thing in a redundant way but differently. The way that you can have resilience is to have redundancy and diversity, to do the same job in different ways by different people. By using redundancy and diversity we could make that car much more resilient so that we don’t have a single point of systematic failure.]
+
+Conclusion: The result was that I came away thinking of Nvidia’s Self Driving Car not as a single robot, but as an entire team of awesome robots that will be working together to overcome the failings of any single artificial mind, and if AI fails, humans will be ready to step in, via Virtual Reality
+
+---
+
+**Connected stories:** [[I asked Jensen Huang the CEO of Nvidia if Automous Vehicles need to have self-aware networks.]] · [[Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2]] · [[I’m imagining an Oculus Half Dome Mixed Reality headset, new things we might see in software…]] · [[The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality]]

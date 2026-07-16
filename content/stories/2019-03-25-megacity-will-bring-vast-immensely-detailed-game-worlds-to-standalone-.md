@@ -1,0 +1,90 @@
+---
+id: svgn-88471099
+title: "Megacity will bring vast immensely detailed game worlds to standalone XR devices like Oculus Quest…"
+date: "2019-03-25"
+slug: "megacity-will-bring-vast-immensely-detailed-game-worlds-to-standalone-xr-devices-like-oculus-quest-4e376bc97fbc"
+canonical: "https://svgn.io/p/megacity-will-bring-vast-immensely-detailed-game-worlds-to-standalone-xr-devices-like-oculus-quest-4e376bc97fbc"
+source: "https://medium.com/@vrma/megacity-will-bring-vast-immensely-detailed-game-worlds-to-standalone-xr-devices-like-oculus-quest-4e376bc97fbc"
+audience: "everyone"
+topics: ["quest", "oculus", "technology", "megacity", "unity", "games", "game", "playstation"]
+related: ["vrma-4e376bc97fbc", "vrma-14f4d71df57d", "vrma-387f0bc78269", "vrma-b1163115aebb"]
+images: 9
+---
+
+# Megacity will bring vast immensely detailed game worlds to standalone XR devices like Oculus Quest…
+
+*Unity’s MegaCity demo, unveiled at UniteLA, and expanded upon by Unity at GDC 2019 means the most amazingly rich detailed PC games can be…*
+
+![](/wiki/svgn/articles/media/svgn-88471099/000.jpg)
+
+Article by Micah Blumberg http://vrma.io
+
+![](/wiki/svgn/articles/media/svgn-88471099/001.jpg)
+
+Data-Oriented Technology Stacks will revolutionize graphics on standalone XR systems like Oculus Quest powering massive game worlds. “Megacity contains 4.5M mesh renderers, 5000 dynamic vehicles and 200,000 unique building objects. The vehicles fly on spline-based traffic lanes, never colliding, and there are 100,000 unique audio sources, including neon signs, air-conditioning fans, and cars producing unique sounds to form a rich, realistic audioscape” quote from Unity Technologies, Inc.
+
+I’ve had for example the opportunity to demo the Oculus Quest more than 10 times, at OC4, OC5, GDC 2018, GDC 2019, and F8 in 2018. The graphics on the Quest are in between the Gear VR and the Oculus Rift. The Quest is a huge upgrade over the Gear VR and the Oculus Go with the feeling of the Rift and a freedom of movement in 3D that exceeds the Oculus Rift and the Oculus Rift S because you are not tethered to a PC.
+
+I also own a Lenovo Mirage Solo with two 6dof controllers (the developer kit), I’ve demoed the Magic Leap half a dozen times, I own a Microsoft Hololens, and I’ve demoed the surprising solid Vive Focus plus with it’s two 6dof controllers. The Vive Focus Plus is truly an Oculus Quest competitor, and although it’s expected to be more expensive than the Quest it offers something the Quest does not, a MicroSD card expansion slot that can support memory cards up to 2 terabytes in size. Quest will come in 64GB and 128GB sizes, which is significant when considering that Megacity’s toolset may enable games like Stormland to be ported to Quest with no loss in detail, the question that follows is will we have enough memory to install a title as big as Stormland on the Quest?
+
+Stormland is the last best desktop VR title that I still want to play. Stormland was hella cool to play and its pretty much the only title on desktop VR that I really want to play all the… medium.com
+
+Another question I keep getting from people is this “Why would I want to play VR on a headset with a mobile phone processor with limited games when I have a high powered PC to connect to”
+
+The truth is that to date these new standalone devices like Quest and others can not physically pump out graphics at the same rate as a PC GPU. However with significant optimizations such as those mentioned in this article some of the games on Quest can look almost as good on mobile as they do on PC, and you have the advantage of having no wires and no dependency on a PC.
+
+The counter argument that I often hear is that games like Beat Saber may look great on stand-alone VR systems like the Oculus Quest because they are simple, but these folks express doubt that we will be able to get sophisticated AAA games like Lone Echo or Project Cars 2 or Elite Dangerous.
+
+While the Oculus Quest rules, the Oculus Rift S sucks and is overpriced at $399. Beat Saber on Oculus Quest could be the perfect exercise machine. It’s also the best version of Beat Saber yet… medium.com
+
+But we will get those games, thanks to modern game engines we will get a graphical upgrade for standalone VR. It will be a software based upgrade, and to understand how you have to consider the new data oriented technology stack, that includes job systems, burst compilers, static & dynamic batching, and the entity component system or ECS.
+
+### Megacity uses ECS which is designed to power massive game worlds, but not just in VR, also in AR, not just on the PC but also on phones, and standalone mobile devices.
+
+With the Entity Component System developers are now able to stream huge numbers of scene elements, and at GDC 2019 Unity revealed that it also works in Augmented Reality on your mobile phone.
+
+At the 13 minute mark in this video that I uploaded you can see Megacity running in Augmented Reality. https://youtu.be/ajJmwwSs_ic
+
+I highly recommend that you also watch this talk from UniteLA about how they built the Megacity demo.
+
+### Download Megacity for Unity at this link, and also see more great talks about the technology behind it here: https://unity.com/megacity
+
+Megacity | Unity Megacityunity.com
+
+The great news is that since Megacity runs on a device as powerful as your mobile phone. ie it will run on the Oculus Quest, the Vive Focus Plus, Magic Leap, Hololens 2, eventually making tethered desktop VR a thing of the past. I predict that this transition will start with the Oculus Quest in 2019 and conclude by 2022 (When 5G is expected to be mainstream).
+
+![](/wiki/svgn/articles/media/svgn-88471099/003.jpg)
+
+Joachim Ante co-founder and CTO of Unity Technologies, Inc. Created Unity’s core. At UniteLA 2018 & GDC 2019 he unveiled Megacity and the Data-Oriented Technology Stack which includes Burst Compiling and ECS an Entity Component System Oculus Quest for example represents a massive upgrade over the Gear VR, the VR system that most people have, with a freedom of movement that exceeds tethered VR systems like Oculus Rift, Playstation VR, and HTC Vive.
+
+With the data oriented game engine technology, like ECS, the entity component system (ECS is also used in the WebXR framework called Aframe) there will be hardly any reason in the future to own any PC based tethered VR systems like the Rift, Vive, or Windows Mixed Reality.
+
+![](/wiki/svgn/articles/media/svgn-88471099/005.jpg)
+
+Yes we will eventually get vast open game worlds like Stormland on the Oculus Quest thanks to data oriented game engine technology.
+
+How does this data oriented game engine technology work? A Burst Compiler takes Game Engine code and turns it into highly optimized assembly code. Add to that an entity component system ECS, with advanced LOD level of detail features, thanks in part to static and dynamic batching, we can have millions of polygon meshes running on devices like the Quest.
+
+![](/wiki/svgn/articles/media/svgn-88471099/007.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471099/009.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471099/011.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471099/013.jpg)
+
+The Last of Us: A reminder of just how good Playstation 3 graphic were and what I think we can expect on Oculus Quest class devices with Megacity technology. The Last of Us: A reminder of just how good Playstation 3 graphic were and what I think we can expect on Oculus Quest class devices with Megacity technology. How does the Quest GPU stack up to Playstation 4? John Carmack has compared the GPU of the Oculus Quest to the Playstation 3 and has said that it’s true competitor is the Nintendo Switch. If you recall the Last of Us on Playstation 3 looked almost as good as the Last of Us on Playstation 4. Bottom line: I would not expect graphics on Quest to exceed graphics on PSVR, but I also expect that the difference won’t matter much because of technologies being built to optimize the data pipeline on these standalone mobile GPU based AR and VR devices.
+
+![](/wiki/svgn/articles/media/svgn-88471099/015.jpg)
+
+The Last of Us: A reminder of just how good Playstation 3 graphic were and what I think we can expect on Oculus Quest class devices with Megacity technology. That’s actually not the whole story. 5G is expected to become mainstream in either the year 2021 or 2022 (something I learned at conferences like VRX Intelligence 2018 and Greenlight Insights xRS Week & Conference in 2018) and at that point we will all be streaming the highest resolution ray traced graphics from the cloud. It’s another reason why tethered desktop VR will fade away between 2019 and 2022.
+
+Note: It may take developers 6 to 9 months to even figure out how to fully use this new Data-Oriented Technology Stack in Unity. 6 to 9 months starting from last week. As far as I know Game development tends to take even longer than nine months, with games like Red Dead Redemption taking years to create. I expect that it will be a long while before we see games on any platform using this new Data-Oriented Technology Stack. My forecast that it could be 2020 before we see the first games on Oculus Quest and similar platforms taking advantage of this technology.
+
+Another announcement at GDC 2019 was that Unity is now officially doing Real Time Ray-Tracing.
+
+John Riccitiello the CEO of Unity explains how Real Time 3D (RTX) is disrupting every industry… Also how Unity gave us a sneak peak of their Oculus Connect 5 Presentation (at GDC 2018) and how the VR AR Industry is… medium.com
+
+---
+
+**Connected stories:** [[Megacity will bring vast immensely detailed game worlds to standalone XR devices like Oculus Quest…]] · [[F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399]] · [[The Oculus Quest is not just a new VR device it’s a cultural event.]] · [[A VPN is not expected to be on the Oculus Quest.]]

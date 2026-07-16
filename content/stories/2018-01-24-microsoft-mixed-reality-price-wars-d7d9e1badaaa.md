@@ -1,0 +1,158 @@
+---
+id: svgn-88472100
+title: "Microsoft Mixed Reality Price Wars"
+date: "2018-01-24"
+slug: "microsoft-mixed-reality-price-wars-d7d9e1badaaa"
+canonical: "https://svgn.io/p/microsoft-mixed-reality-price-wars-d7d9e1badaaa"
+source: "https://medium.com/@vrma/microsoft-mixed-reality-price-wars-d7d9e1badaaa"
+audience: "everyone"
+topics: ["oculus", "vive", "headsets", "microsoft", "headset", "reality", "people", "price"]
+related: ["vrma-2c03040185ab", "vrma-6553c09e2b21", "vrma-49fdfc28903a", "vrma-4b4d42e35558"]
+images: 17
+---
+
+# Microsoft Mixed Reality Price Wars
+
+*Microsoft Mixed Reality is driving VR PC prices into the ground which signals a massive EPIC disruption of the existing VR market. As a…*
+
+![](/wiki/svgn/articles/media/svgn-88472100/000.jpg)
+
+A story by Micah Blumberg, Neurohaxor at http://vrma.io
+
+![](/wiki/svgn/articles/media/svgn-88472100/001.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/003.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/005.jpg)
+
+Microsoft Mixed Reality Price Wars I remember in the summer of 2015, when the VR community was still very small, and we were all dreaming of getting to play with a product called the Oculus Rift CV1 also known at the time as the Oculus Cresent Bay prototype. Many people in the VR community hoped that it would be priced at $350 or $400 like the Oculus DK2 (Developer Kit 2) and at the time then VR hero Palmer Luckey (now some see him as an outcast) was promising that Oculus would keep the price of the Rift as cheaply as possible.
+
+![](/wiki/svgn/articles/media/svgn-88472100/007.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/009.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/011.jpg)
+
+Oculus Cresent Bay Prototype (2015) Left, Middle, and Oculus Santa Cruz Prototype (2017) all in one. Possibly the future flag ship product from Oculus. I recall that around May of 2015 the VR community was shocked by the unveiling of the HTC Vive, with a premium tracking system, with two lighthouse base stations, and two motion controllers, it was and is, considered by some, to be the best tracking system for Virtual Reality. At nearly the same time came the ominous words that Vive would be a Premium VR experience with a premium cost. Well how much would it cost and why? People like myself were comparing VR headsets to the prices of televisions. Of course, I argued that people would pay more for a nicer television with a higher resolution screen, I argued in places, in forums like the Oculus and Vive Reddit groups, and the Oculus Rift Creative Community on Facebook which used to be the largest VR group on facebook, the Oculus Rift Creative Community was one of the first of the VR facebook groups to reach over 12k members. Today we have communities like Virtual Reality on facebook that has almost 40 thousand members. So from my perspective the VR community has grown considerably since 2015, and a lot of people own the HTC Vive and the Oculus Rift headsets now.
+
+So then in December of 2015, if I remember correctly, we learned that the Oculus Rift would cost $600 hundred US Dollars. The VR community was to a large extent shocked and upset, really upset by a higher than expected price. People still purchased them, but over time attitudes towards Oculus seemed to grow ever more cynical. There is more to that story, about what went wrong for Oculus on the marketing front, which I think came down to mismanaging expectations and not communicating as much, but that’s not the point of this story.
+
+When the HTC Vive went on sale for $800, people balked at it’s price, but it still sold well, it sold better than the Oculus Rift, and to this day it is known as the Premium VR experience, and spending that much was and is justified for the same reason that consumers can justify spending more on a television that has a bigger screen with better features.
+
+Today it seems like Vive has earned a solid reputation as the Premium VR Desktop experience with its Lighthouse Tracking, it’s certainly several leagues above the Google Cardboard experience. Although if you do invest in a 3rd Oculus tracking sensor then room scale tracking is pretty much indistinguishable with an Oculus Rift albiet in a slightly smaller space.|
+
+Today people are looking forward the HTC Vive Pro, with its wireless transmitter sold separately, and the Lighthouse 2.0 Tracking system coming later this year.
+
+HTC Vive Pro Price Rumor $349 Q1 Headset Only & $799 in Q4 2018 with the Lighthouse 2.0 Trackers. There is also a visual comparison of the Vive… medium.com
+
+One problem for HTC Vive is the raw cost of the Lighthouse system is simply higher than the cost of the Oculus tracking system, so Vive really can’t sell their hardware for much less than the current $599 dollar price.
+
+Oculus is able to sell their hardware at $399 with the motion controllers included but some people speculate that Oculus is selling at a loss at this point, the margins for the Rift may be razor thin.
+
+One of the factors driving down the price of the Oculus and the HTC Vive is not only the new competing headsets from Microsoft, but also the fact that these VR headsets haven’t really hit mass market consumer adoption yet, meaning that consumers are not buying VR headsets on a mass market scale yet, not like products such as the Amazon Echo, or the Google Home. This is not just about price, part of the problem is the fact that these headsets require a computer has considerable GPU power, and the fact that their are so many parts and so many steps to walk through to set up a computer and a VR headset to run a VR app. Its not something you feel comfortable sending to your Grandmother or Grandfather as a gift because they may never set it up and even if you set it up for them they may never really use it because it’s just too complex, you have to install Windows updates, GPU Software updates, and in many cases also SteamVR, Oculus Home, Viveport, Revive, and more software suites, and many different accounts need to be created and or logged into in order to experience many different VR experiences, its more complicated than trying to install a Stereo & TV System in the 1980's.
+
+In the 1980s there was an audio player called Atrac which was technically superior to Tape, and yet tape was cheaper so Atrac lost the mass market. There was a competition between a superior video playback product called Betamax and an inferior product called VHS, but Betamax lost the mass market to VHS because VHS was cheaper, and it struck consumers as the best value for price vs performance.
+
+The risk, one that has a historical basis, is that the superior technology can and has lost out to the cheaper technology over and over again. Another example in the 1990s was that LaserDisc, despite being superior to DVD was never able to compete because of its higher cost. HD-DVD was superior to Blu ray and it lost out in part I think because Blu Ray was cheaper and included with the Playstation 2. So consumers perceived Blu Ray and Playstation 2 as a better value. There were numerous videogame consoles that were not able to compete with the price/performance value proposition of the Playstation in the 1990s and 2000s and so today Playstation survives, competing against Xbox, while many early videogame consoles makers went out of the hardware business. Although today Nintendo seems to be emerging as the best selling videogame hardware maker, probably because consumers are perceiving the Nintendo Switch as the best value for their money, with it’s ability to be both a mobile game device and an in home game console. Nintendo Switch may actually define the format of the future Playstation and future Xbox because of its surprising success.
+
+Hat Tip to Ben Lang from Road to VR who reported that Amazon.com is having a massive sale on Microsoft Mixed Reality headsets, from traditional PC makers like Acer, HP, Lenovo, Dell and also Samsung.
+
+Windows VR Headsets See Huge Discounts at Amazon US If you've been eyeing a Windows VR headset, you'll be interested to see the huge discounts currently available from… www.roadtovr.com
+
+As Ben pointed out this could be a temporary sale, but I think it’s an indication that these VR Mixed Reality headsets can sell for about $220 dollars each, because Microsoft’s design decisions, and their PC making partners can help reduce the price of a VR headset, or what Microsoft calls a Mixed Reality Headset.
+
+Besides that these Mixed Reality headsets can help sell new PC’s, so Acer, HP, Dell and Lenovo could potentially sell these headsets at a loss if they are betting that this may help drive new PC sales.
+
+Microsoft's Mixed Reality Headset Prices Drop Dramatically; New K-12 Laptops Debut - ExtremeTech This site may earn affiliate commissions from the links on this page. Terms of use. When HTC and Oculus debuted the… www.extremetech.com
+
+People have said that Vive’s tracking is the best, and that with the 3rd sensor Rifts tracking is on par, and that Microsoft’s Mixed Reality is limited because because it only tracks what’s in front of you, actually that’s only partially correct, while Microsoft only has two front facing sensors, its tracking system is quite ingenious, and it has developed advanced methods for allowing you to have limited tracking when your hands are out of view of the main sensors.
+
+Thanks to an article from VRFocus we have a good idea of how Microsoft Mixed Reality actually works
+
+New Microsoft Video Explains Motion Controller Tracking Interacting with and controlling elements in virtual reality (VR) or mixed reality (MR) still feels like an imperfect… www.vrfocus.com
+
+The conclusion is that Microsoft Mixed Reality headset tracking may just be good enough for most consumers, you may have trouble playing certain kinds of extremely active games like Space Pirate Trainer, but the value proposition, when you consider a price of $220 dollars may not be enough for the more expensive VR headset makers to stay in the hardware business.
+
+When you can get a Microsoft Mixed Reality headset for $220 why would the average person pay $399 for an Oculus Rift or $599 for an HTC Vive? Some people still would. The software on Oculus Rift is great, so is the software on the HTC Vive, both platforms, Rift and Vive, have had time to mature, whereas the Mixed Reality headsets are much newer, and they experience less software support at present with more software glitches. So these are trade offs, but history suggests that Microsoft may win this competition.
+
+### But that’s not the end of the story.
+
+At Oculus Connect 4 I got to try a new kind of headset from Oculus, it was called the Oculus Santa Cruz prototype, and it was announced alongside the Oculus Go. These two new headsets from Oculus are all in one headsets, neither of them require a computer to be used, neither of them require a phone, so this simplifies the software stack greatly, no longer are you required to install operating system updates from Windows or Android, or separate graphics card updates, and all the performance of your hardware can be dedicated fully to the VR experience, none of it needs to be reserved for the Operating system.
+
+Oculus' standalone headsets point to a changing VR landscape The idea of standalone VR headsets is not a new one. Intel explored the field with Project Alloy for a while before… www.engadget.com
+
+The future that I tried tells me that the idea of needing to connect a VR headset to a computer is going to sound as funny as the idea of needing to connect a telephone to an automobile. Do you remember car phones?
+
+Look at this old commercial for one of the first mobile phones that could leave the car but it was still connected to a giant brick.
+
+Today what we called Desktop VR, or VR has a cable that connects it to a PC is a lot like what the first mobile phones were like, tied down.
+
+The Oculus Santa Cruz prototype and the Oculus Go represent the new thinking in the VR industry, one that is going to move us away from using our computers for VR.
+
+Exclusive Audio Interview from OC4: Oculus Project Santa Cruz by Micah Blumberg, Silicon Valley Global News medium.com
+
+GPU’s are moving to the cloud. Cloud GPU services have been around for a while, Otoy has had one called Octane Renderer, that’s going to be used for rendering lightfields in real time and streaming those graphics to the PC in real time over 5G Wireless.
+
+GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY The Neural Lace Talks is a podcast about Science and Technology.  Main website http://vrma.io Contact via micah@vrma.io medium.com
+
+At the VRX Intelligence Conference 2017 I filmed a company called NGCodec claiming to be able to stream VR over 5G wireless. When Otoy said they could do people were skeptical, but now other companies are saying they can do it also. It’s time to be less skeptical, this technology is real and its coming. #VRX2017
+
+Nvidia has since announced it’s own GPU Cloud, Google has one, Amazon, Walmart and a number of other companies are getting into the game. This means the very best computer graphics possible, VR lightfields, will stream over 5G wireless to your all in one VR headset, but even without needing a cloud your VR headset, such as the Santa Cruz, will be capable of running graphics that look and feel like today’s Desktop VR experiences on the Vive and the Rift. I can say this is true because I experienced it myself first hand when I got to try the Oculus Santa Cruz prototype at OC4
+
+GPU Cloud Computing Solutions from NVIDIA The power of deep learning comes to the cloud. NVIDIA GPUs are the computing platform that transforms big data into… www.nvidia.com
+
+Graphics Processing Unit (GPU) | Google Cloud Platform Increase the speed of your most complex compute-intensive jobs by provisioning Compute Engine instances with… cloud.google.com
+
+AWS vs Paperspace vs FloydHub : Choosing your cloud GPU partner With deep learning making its mark on almost every industry today, the demand as well as interest for roles like “Data… medium.com
+
+> People are telling me that the all in one Vive is similarly a great experience that doesn’t need a PC, yet if features 6 degrees of freedom like Vive, and inside out tracking like the Microsoft Mixed Reality headset. Is this good enough for consumers? Is the value proposition of not needed a PC, and not needing cables going to win the mass market over? I think so.
+
+HTC reveals standalone Vive Focus VR headset and cancels Daydream plans HTC has officially revealed the Vive Focus, its all-in-one VR headset. As previously announced, the Vive Focus runs on… www.theverge.com
+
+So all this is telling me is that Microsoft is going to own and control the VR space on PC, and Mixed Reality may become the new term that is known as PC Based VR, and if this is true then we may see both Oculus and Vive pivot to focus on making their smaller all in one headsets their new flag ship devices. This may not happen, and if it happens it may not happen right away but it’s possible, and to me it seems plausible. I would expect Oculus to make the move first, towards making their all in one Santa Cruz device their flag ship product, especially if it takes off with consumers like I am expecting.
+
+I would expect Vive to follow suit only if Microsofts headset begin to vastly outsell the Vive by a huge margin. As long as the Vive continues to be known as the premium VR headset consumers will continue to pay more for it, for the same reason that consumers will pay more for a PC that has more features or a television that has better specs. There should continue to be a market for more expensive products as long as they offer something extra.
+
+Oculus see’s all in one VR headsets as the key to getting a billion people into VR, not just because they are cheaper, but because they solve a lot of problems mostly related to reducing the complexity of getting into VR.
+
+Hugo Barra (CEO of Oculus) said to Recode “[Standalone] is the easiest thing for people to use. You put it on and you’re there,” he said. “You don’t have to worry about setting it up or clipping it in. It is the highest accessibility type of VR that we think can exist.” “Standalone VR really is a key product category for us to try to get as many people as possible into VR.”
+
+Facebook's Oculus boss thinks standalone headsets are the key to getting a billion people into VR Facebook CEO Mark Zuckerberg wants to get one billion people using virtual reality, a lofty goal considering there were… www.recode.net
+
+People may think that Barra was talking about the cheap 200 dollar Oculus Go, but his comments apply equally to the Santa Cruz prototype and I think they support the idea that the Santa Cruz is the future flag ship VR headset from Oculus.
+
+VR still isn't mainstream, but Oculus thinks its new $200 headset could fix that When Facebook paid more than $2 billion to buy the much hyped virtual reality startup Oculus in 2014, CEO Mark… www.recode.net
+
+More about the Oculus Go and Stand Alone VR headsets:
+
+John Carmack interviewed at Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News medium.com
+
+Update: I don’t understand exactly why the Samsung Odyssey increased in price, but since it’s resolution matches the HTC Vive Pro that is coming out later this year it may provide evidence that the Vive Pro has staying power at a higher price. Similar to how larger televisions are able to sell at higher prices. The increase in the price of the Samsung Odyssey does not run counter to the narrative that Microsoft is running a price war to dominate the market. *Counterpoint: The prices on Microsoft’s website haven’t changed, this is just Amazon.com’s work
+
+Microsoft Mixed Reality Headsets Current Prices by Microsoft do not reflect the sale by Amazon.com www.microsoft.com
+
+Update 2: “Microsoft was involved in the current Amazon pricing, but a bit indirectly. Over the holidays Microsoft gave deals with several retailers where the MR headsets were included free with sometimes already discounted desktops and laptops. The units on Amazon are third party sellers that either purchased the systems and sold them separately for a profit or kept the system and sold the headset.” quote Jonathan Tate
+
+![](/wiki/svgn/articles/media/svgn-88472100/013.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/015.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/017.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/019.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/021.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/023.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/025.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/027.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/029.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88472100/031.jpg)
+
+---
+
+**Connected stories:** [[Steam VR will run inside Microsoft Mixed Reality headsets!]] · [[I’m imagining an Oculus Half Dome Mixed Reality headset, new things we might see in software…]] · [[Possible evidence of a new Microsoft Mixed Reality headset in the wild]] · [[Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com]]

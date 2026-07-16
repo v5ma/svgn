@@ -1,0 +1,142 @@
+---
+id: svgn-178402212
+title: "Antichrist prophecy in Tanakh"
+date: "2025-11-09"
+slug: "antichrist-prophecy-in-tanakh"
+canonical: "https://svgn.io/p/antichrist-prophecy-in-tanakh"
+source: ""
+audience: "everyone"
+topics: ["sefaria", "peace", "false", "tanakh", "deception", "israel", "prophets", "covenant"]
+related: []
+images: 2
+---
+
+# Antichrist prophecy in Tanakh
+
+*Build a case for my Jewish friend that the Old Testament supports the prediction of future false prophet or deceitful leader who will fool the Israeli people.*
+
+![](/wiki/svgn/articles/media/svgn-178402212/000.jpg)
+
+The Christian bible says the believers will be fooled by the Beast, the Antichrist. He will fool the elect, and he will trick Israel into a false peace. Does this prophecy exist in the Old Testament or in the Hebrew bible in any form? Are the Jews warned by God, in the Cannon, to anticipate a man of sin or something like him, who will fool them before the righteous man comes?
+
+Short answer: the Hebrew Bible (Tanakh) does not contain a single, explicit prophecy that “an Antichrist will fool the elect and trick Israel into a false peace.” Those phrases come from the New Testament—“man of lawlessness/sin” in 2 Thessalonians 2 and the “deception of even the elect” in Matthew 24:24 / Mark 13:22 .
+
+That said, the Tanakh does warn Israel about deceptive leaders and false prophets, and it portrays end-time oppressors who deceive and desecrate. These passages are the ones Christians usually read as background or foreshadowing:
+
+Deut 13:1–5 – God warns Israel that even if a wonder-working prophet tells them to follow other gods, it is a test; they must reject him. This is the clearest canonical warning that signs and “success” can accompany deception.
+
+1 Kings 22:19–23 – A “lying spirit” leads court prophets to promise false peace to Ahab. It’s not about the end times, but it’s a canonical example of divinely permitted deception and leaders being misled.
+
+Jer 6:14; 8:11 – “They have healed the wound of my people lightly, saying, ‘Peace, peace,’ when there is no peace.” This is a stock critique of promises of peace that mask disaster—often cited in “false peace” discussions.
+
+Isa 28:14–22 – Judah’s rulers boast of a “covenant with death” as their refuge; God says the covenant will be annulled. Many Christian interpreters see this as paradigmatic of a politically expedient, deceitful pact that collapses.
+
+Zechariah 11:15–17; 13:2–6 – A “worthless shepherd” who does not care for the flock, and a future purging of false prophets. This sketches a destructive, deceptive leadership figure and a time when deception is judged.
+
+Daniel (7; 8; 9:27; 11:21–45; 12:10) – Daniel’s “little horn”/“contemptible person” uses intrigue and deceit, makes/breaks covenants, and desecrates the sanctuary (the “abomination that makes desolate”). In Christian readings this is the closest Tanakh prototype of a final deceiver; in Jewish readings it primarily targets figures like Antiochus IV and later oppressive empires, with debate about any future referent.
+
+So, in the Jewish canon there is no direct command, “Expect a single Antichrist who will fool you before the righteous one comes.” What you do find are (1) standing instructions to test prophets and resist seduction by signs ( Deut 13 ), (2) recurring warnings about leaders and prophets promising a false peace ( Jer 6; 8 , Isa 28 ), and (3) apocalyptic visions (especially in Daniel) of arrogant, deceptive rulers who profane the holy and upend covenants.
+
+If you’re asking from a Jewish-texts-only standpoint: the Tanakh warns broadly about deception and false prophecy and depicts oppressive end-time adversaries , but it does not formulate a single “Antimessiah” who deceives Israel before the Messiah . A more explicit “anti-messiah” (Armilus) appears later in post-biblical Jewish writings (e.g., Sefer Zerubbavel ), not in the canon.
+
+If you’re asking from a Christian eschatology standpoint: the New Testament gathers these Tanakh themes—false signs ( Deut 13 ), false peace ( Jer 6; Isa 28 ), desecration ( Dan 9, 11, 12 )—and applies them to a final deceiver (“man of lawlessness,” “antichrist”) who misleads many before the Messiah’s return.
+
+Okay this time don’t mention Christianity, only mention the Hebrew Cannon, and build a case for my Jewish friend that the Old Testament supports the prediction of future false prophet or deceitful leader who will fool the Israeli people in alignment with non-canon texts like Enoch, and the Dead Sea Scrolls. Use the evidence above to make the case.
+
+Below is a Tanakh‑only case that a future deceitful ruler/prophet will mislead many in Israel—very possibly by promises of “peace/security” and a covenant —and that this reading is reinforced by Second Temple Jewish texts such as 1 Enoch and several Dead Sea Scrolls .
+
+## Thesis (in one line)
+
+The Hebrew Bible does not coin a single title for a final deceiver, but it repeatedly (1) establishes permanent tests against miracle‑working deceivers, (2) warns about false peace and deceptive covenants , and (3) sketches end‑time rulers who gain power by intrigue, flattery, and fraud , desecrate the holy, and betray agreements —a pattern the Dead Sea Scrolls and 1 Enoch intensify into an expectation of a climactic deceiver aligned with Belial and false leadership.
+
+## 1) Standing Torah law: even a wonder‑working “prophet” may be a test
+
+Deuteronomy 13 commands Israel not to heed a prophet or dreamer even if a sign/wonder comes true , if the message seduces Israel away from God. The passage explicitly anticipates persuasive deception within Israel, including “ bnei Belial ” (lawless men) who lead towns astray . This is the strongest canonical warning that religious success and signs can accompany deception and must be resisted. Sefaria+2Sefaria+2
+
+Implication: Israel must expect convincing deceivers and be prepared to reject them—precisely the premise behind later end‑time warnings.
+
+## 2) The Prophets’ repeating motif: false peace and deceptive pacts
+
+“Peace, peace—when there is no peace.” Jeremiah and Ezekiel condemn leaders/prophets who promise wellbeing while disaster looms; Ezekiel pictures them whitewashing a flimsy wall that will collapse. This is archetypal “false peace.” Sefaria+1
+
+A boast of a pact that will fail. Isaiah mocks Jerusalem’s rulers who claim a “covenant with Death” and a refuge in lies ; God promises the pact will be annulled . The language is programmatic for misleading, politically expedient deals . Sefaria+1
+
+“Smooth words.” Isaiah also describes people demanding prophets speak ḥalaqot —“ smooth things ,” i.e., flattering illusions (Rashi: flattery ). That vocabulary becomes important below. Sefaria+1
+
+A canonical case of mass deception. In 1 Kings 22 (paralleled in 2 Chron 18 ), a divinely permitted lying spirit misleads court prophets into proclaiming victory/peace to Ahab. It is not eschatological, but it shows that national‑scale prophetic deception is real within the canon. Sefaria+1
+
+Implication: Israel’s Scriptures prepare readers for leaders and religious voices that promise “peace” and safety through deals that collapse —an obvious template for a future deceiver.
+
+## 3) Apocalyptic portraits: a deceit‑driven ruler who makes/breaks covenants
+
+No book gathers these threads more tightly than Daniel :
+
+A cunning king who “causes deceit to prosper,” exalts himself , and destroys many in their security / in a time of peace (Heb. b’shalvāh ). Sefaria+1
+
+A contemptible person who seizes power by intrigue/flatteries , acts deceitfully after an alliance is made , and enters “in a time of tranquility” into rich provinces. The same figure seduces violators of the covenant by “smooth words,” while the faithful stand firm. Sefaria+2Biblia+2
+
+A “covenant with many.” Another passage speaks of a ruler who “makes a firm covenant with many” and then stops offerings, linked to the “abomination that desolates.” Whatever the historical first referent, the pattern is covenant‑then‑betrayal . Sefaria
+
+A time of testing and discernment. Daniel closes by saying the wicked won’t understand but the wise will —a direct contrast between successful deception and faithful discernment. Sefaria
+
+Implication: Within the Tanakh itself, you have a future‑looking scenario where a ruler gains rule by deceit and “smoothness,” forges a pact, violates it, desecrates the holy, and imperils many under the banner of “peace/security.”
+
+## 4) “False shepherds” → a worthless shepherd before the faithful shepherd
+
+Zechariah 11:15–17 depicts a “worthless shepherd” raised up in the land who abandons the flock; judgment falls on his arm and eye. The next chapter promises purging of false prophecy . Sefaria+1
+
+Zechariah 13:2–6 adds that deceivers even dress like prophets to sell their lies (Rashi: seducers wrap themselves in a mantle to appear righteous). Sefaria
+
+Ezekiel 34 condemns predatory shepherds, then promises one shepherd—“My servant David” —to tend the flock. The sequence (bad shepherds → righteous shepherd) supports the expectation of dangerous leadership just before righteous rule is established. Sefaria+1
+
+Implication: The shepherd imagery presents a negative leadership figure in proximity to the final restoration under a righteous Davidic ruler.
+
+## 5) How Second Temple Jewish texts echo and sharpen this Tanakh trajectory
+
+These are not “canon,” but they show how Jews near the turn of the era read the Tanakh’s warnings.
+
+### 5a) 1 Enoch
+
+In the Animal Apocalypse (1 Enoch 85–90) , Israel is imaged as sheep entrusted to “seventy shepherds,” many of whom abuse and destroy the flock until the Lord of the sheep judges them—a powerful expansion of the Tanakh’s false‑shepherd motif. Palimpsest
+
+The “Apocalypse of Weeks” (1 Enoch 93; 91) foresees an “apostate generation” before God’s elect are vindicated—again, a climax of deception and apostasy prior to deliverance. Christian Classics Ethereal Library
+
+Other sections announce judgment on the “kings and the mighty” who mislead and oppress, reinforcing the Tanakh’s image of arrogant rulers destined for overthrow. Christian Classics Ethereal Library+1
+
+### 5b) Dead Sea Scrolls (Qumran)
+
+Pesher Habakkuk (1QpHab) speaks of a “Spouter of Lies” who “led many astray” and built a congregation on deceit —explicitly applying Habakkuk’s words to a contemporary deceiver. Ccat
+
+The Qumran sect polemicizes against the “Seekers of Smooth Things” (dorshei ḥalaqot) —a phrase drawn from Isaiah 30:10 —accusing opponents of “smooth” (flattering, deceptive) interpretations that mislead the nation. Encyclopedia.com
+
+The Community Rule (1QS) describes two spiritual forces—the spirit of truth vs. the spirit of falsehood —and frames history under the dominion of Belial , whose hallmark is deceit opposed to the covenant. Ccat
+
+The War Scroll (1QM) depicts the final conflict of the Sons of Light versus the forces of Belial ; God ultimately overthrows Belial and his host —a sectarian, end‑time development of the Tanakh’s adversary‑and‑deliverance pattern. IMJ Collections
+
+Bottom line from Enoch + Qumran: Jewish writers, reading the same biblical motifs, expected a culminating season of deception led by corrupt shepherds and agents of Belial , before God’s decisive intervention.
+
+## Bringing the strands together (how to present it)
+
+> “The Tanakh repeatedly warns Israel to expect powerful deceivers—some with signs, some with ‘smooth words,’ some promising peace and security through a covenant. The Prophets hammer the danger of ‘false peace’ and lying pacts; Daniel goes further, sketching a ruler who rises by deceit, seduces covenant‑breakers, makes a pact with many, desecrates the holy, and is finally destroyed. Zechariah/Ezekiel add a ‘worthless shepherd’ before the faithful, Davidic shepherd rules. It’s exactly how Jews in the Second Temple period read the Bible too: 1 Enoch’s abusive shepherds and Qumran’s ‘Spouter of Lies’ and Belial are Jewish developments of these themes. You don’t need any outside canon to see it—the Hebrew Bible itself trains Israel to anticipate a climactic deceiver and to resist him.”
+
+## Quick verse/map (for easy follow‑up with your friend)
+
+Test the miracle‑working prophet: Deut 13:2–5; “bnei Belial” deceivers: Deut 13:13. Sefaria+1
+
+False peace / deceptive pact: Jer 6:14; Ezek 13:10–16; Isa 28:14–22; Isa 30:10. Sefaria+3Sefaria+3Sefaria+3
+
+Prototype of mass prophetic deception: 1 Kgs 22; 2 Chr 18. Sefaria+1
+
+End‑time deceiver by intrigue/covenant: Dan 8:23–25; 9:27; 11:21–24, 32; 12:10. Sefaria+4Sefaria+4Sefaria+4
+
+Worthless shepherd vs. faithful shepherd: Zech 11:15–17; 13:2–6; Ezek 34 (→ 34:23 “My servant David”). Sefaria+3Sefaria+3Sefaria+3
+
+Second Temple echoes: 1 Enoch 85–90; 93/91; and Qumran : 1QpHab (Spouter of Lies); 1QS (Two Spirits; Belial); 1QM (War Scroll, Belial). IMJ Collections+4Palimpsest+4Christian Classics Ethereal Library+4
+
+### A fair nuance you can acknowledge (and still make the case)
+
+The Tanakh’s passages had immediate historical targets (e.g., false prophets before the Exile; Antiochus‑type rulers in Daniel). But biblical prophecy often works by pattern : earlier deceivers and oppressive kings become types of a later, climactic deceiver. That is exactly how Jewish authors of 1 Enoch and the Dead Sea Scrolls read these texts—and why the case for a future deceiver stands within a Tanakh‑first framework. Palimpsest+1
+
+If you’d like, I can condense this to a one‑page handout with the verses grouped by theme and a few short quotes from Enoch/Qumran for your discussion.
+
+![](/wiki/svgn/articles/media/svgn-178402212/001.jpg)

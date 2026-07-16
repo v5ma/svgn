@@ -1,0 +1,70 @@
+---
+id: svgn-88472432
+title: "10 upcoming VR related events, or classes, or startups that you might want to know about."
+date: "2016-09-24"
+slug: "10-upcoming-vr-related-events-or-classes-or-startups-that-you-might-want-to-know-about-7a4a33e97863"
+canonical: "https://svgn.io/p/10-upcoming-vr-related-events-or-classes-or-startups-that-you-might-want-to-know-about-7a4a33e97863"
+source: "https://medium.com/@vrma/10-upcoming-vr-related-events-or-classes-or-startups-that-you-might-want-to-know-about-7a4a33e97863"
+audience: "everyone"
+topics: ["meetup", "reality", "mention", "events", "give", "virtual", "tuesday", "page"]
+related: ["vrma-1dc6a5851f41", "vrma-96489ecfd086", "vrma-ef270d640965", "vrma-334c25377ec9"]
+images: 0
+---
+
+# 10 upcoming VR related events, or classes, or startups that you might want to know about.
+
+*Earlier today I made a couple posts on our page expressing some of our good values at San Francisco Virtual Reality (SFVR) like how for…*
+
+Earlier today I made a couple posts on our page expressing some of our good values at San Francisco Virtual Reality (SFVR) like how for example we are very proud to promote other meetups, events, companies including startups, and other groups for free. We want to support and grow the VR Industry as a whole (*by “VR Industry” I mean we intend to include Augmented Reality and Mixed Reality companies, groups, and meetups as well).
+
+### The response from people was amazing.
+
+In such a short time so many people sent me emails about their meetups, events, classes, even facebook pages and info about their startups, so I decided to compile a list to share with you so you know about some cool VR related events coming up that you can attend if you wish, and so that you can find information about some companies you may not have known about before. If you want SF VR to promote your event, group, or company just email me: micah@sfvr.net and I will mention your event to hopefully drive awareness and traffic to it and I’m glad to do it for free.
+
+1. SF VR would like to give a mention to Gareth Morgan who has a happy hour event during Oculus Connect that you can checkout: It’s a 3D meetup called NURDS
+
+Oculus Connect Happy Hour This October the VR pioneers Oculus are having their 3rd annual conference in downtown San Jose. The Oculus Connect… www.meetup.com
+
+2. SFVR would like to give a mention to Jacob Mullins who has a new meetup called VR Tuesday. On the second Tuesday of every month. The focus of VR Tuesday is on the business side of the industry bringing together creators with monetizers (brands/advertisers) and venture capital. The format is three speakers, 20 minutes each, 10 mins of insights/speaking and 10 mins of open Q&A. Their next event is October 11 in San Francisco, two speakers thus announced are Don Stein from Virtual Reality Investments, and Victor Silva from the IAB who is leading the IAB initiatives for VR and AR, our third speaker is still to be announced.
+
+VR Tuesday A focus on the business of Digital Reality (Virtual Reality, Augmented Reality, Mixed Reality), the crossroads of… vrtuesday.com
+
+and the eventbrite page (reg necessary) is:
+
+VR Tuesday #2: Investment and Monetization in VR and AR Welcome to VR Tuesday #2! VR Tuesday is a monthly community event that focuses on the business of Digital Reality… vrtuesday2.eventbrite.com
+
+3. SFVR would like to give a mention to Kacey Hadick from CyArk who has a VR event on October 6th at the Exploratorium. CyArk is an Oakland based nonprofit that digitally scans at-risk heritage sites around the world. They are presenting three virtual reality experiences of cultural heritage sites. It’s called After Dark: Superpowers. Thursday, October 6, 2016 • 6:00–10:00 p.m.
+
+After Dark: Superpowers Drawing Board Ticketing at 6:00 p.m., first come, first served Bernard and Barbro Osher West Gallery Draw hypnotically… www.exploratorium.edu
+
+4. SFVR would like to give a special mention to Sheridan Tatsuno who has set up a VR events page on Facebook where you can find out about a lot more events: https://www.facebook.com/groups/693163617490451/ Sheridan also has a VR startup for Sustainable City planning and design: Virtual Cities: The Era of 2D/3D Design Sheridan’s e-book, “In the Valley of Digital Dreams”:
+
+In the Valley of Digital Dreams: Untold Stories from a Silicon Valley Insider The Paperback of the In the Valley of Digital Dreams: Untold Stories from a Silicon Valley Insider by Sheridan Tatsuno… www.barnesandnoble.com
+
+5. SFVR would like to give a mention to Tyler Edell whose has a 360 video meetup that’s happening this coming Tuesday, September 27. The meetup is focused on 360 video — 360 video integration, virtual tour creation, and mounting 360 cameras to drones for aerial 360 video. With speakers from Brightcove, HoloBuilder, and the Flying Robot International Film Festival, as well as pizza and beer. The link for the meetup event is: http://www.meetup.com/RICOH-THETA-Developers-SF-Bay-Area/events/233546861/
+
+6. SF VR would like to give a mention to Jesse Casman, who is organizer for the RICOH THETA meetup. Which has a meetup next week (Tues, Sept 27, in San Francisco). The meetup has three great presenters, all heavy hitters, focused on 360 degree topics: “360° Integration in Products, Photosphere Navigation, and 360° Video on Drones!” They will have a guy taking video with a THETA on a drone flying around the room. http://www.meetup.com/RICOH-THETA-Developers-SF-Bay-Area/events/233546861/
+
+7. SF VR would like to give a mention to Chase James with Playcrafting a company that has the goal to empower the gaming community through events and education. They have an 8 week course coming up in San Francisco called: Building VR Games. They will be holding a free info session on Monday September 26th. Email me (micah@sfvr.net) if you are interested because we are still waiting on a link from Chase to share with you.
+
+8. SF VR would like to give a mention to Lorenzo Pilia, an organizer who is based in Berlin, Germany, working on “VR Now! Tech Biz Art Conference”, which will take place on November 16th in Potsdam/Berlin. While the conference itself might be a bit far to attend, I believe your members might be interested in our awards, celebrating outstanding technical, business, and artistic achievements in virtual reality. The submissions for the awards are now open (early bird fee available until end of September), please check the following link for more information:
+
+VR Now Awards 2016 The VR Now Awards 2016 celebrate outstanding technical, business, and artistic achievements in virtual reality. They… www.eventbrite.com
+
+9. SF VR would like to give a mention to Richard Enlow who would love to see us all at the next KALEIDOSCOPE Showcase. (Essentially a VR experience festival for VR creators and enthusiasts). FB page: https://www.facebook.com/events/262010250864549/Meetup Page: https://www.meetup.com/kaleido-SF/events/233640380/ Eventbrite Page:
+
+KALEIDOSCOPE Showcase, Vol. 1 - San Francisco Join us for an evening of celebrating the medium of Virtual Reality (VR) and our community of VR creators who build in… www.eventbrite.com
+
+Kaleidoscope Official Selection List:
+
+Official Selection Vol.01 DIR. JAN ROTHUIZE & SARA KOLSTE Netherlands | 5 Mins | Real-Time Experience Drawing Room is a hand drawn VR experience… kaleidovr.com
+
+Finally, last but not least: 10. SF VR would like to give a mention to Jed Rosenkrantz who has a hackathon coming up in Boston, October 7–10th. The Hackathon website link is
+
+Home The Reality, Virtually, Hackathon brings together the brightest interdisciplinary minds to explore the application of… www.realityvirtuallyhack.com
+
+and Boston VR Meetup’s page is http://www.meetup.com/Boston-Virtual-Reality/
+
+---
+
+**Connected stories:** [[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…]]

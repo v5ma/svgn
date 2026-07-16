@@ -1,0 +1,88 @@
+---
+id: svgn-88471841
+title: "#2nd GDC Goal Achieved: Oculus Go hands on!"
+date: "2018-03-21"
+slug: "2nd-gdc-goal-achieved-oculus-go-hands-on-652319f3f430"
+canonical: "https://svgn.io/p/2nd-gdc-goal-achieved-oculus-go-hands-on-652319f3f430"
+source: "https://medium.com/@vrma/2nd-gdc-goal-achieved-oculus-go-hands-on-652319f3f430"
+audience: "everyone"
+topics: ["oculus", "really", "first", "screen", "tried", "anshar", "wars", "gear"]
+related: ["vrma-6d0cd9b3115", "vrma-14f4d71df57d", "vrma-387f0bc78269", "vrma-d9753d2bab19"]
+images: 24
+---
+
+# #2nd GDC Goal Achieved: Oculus Go hands on!
+
+*Micah Blumberg writes for Silicon Valley Global News and is reporting from GDC 2018*
+
+![](/wiki/svgn/articles/media/svgn-88471841/000.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/001.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/003.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/005.jpg)
+
+Previously at OC4 I tried the Oculus Santa Cruz prototype. The other day at GDC I tried the HTC Vive Focus. Today I tried the Oculus Go finally! Here are my impressions!
+
+![](/wiki/svgn/articles/media/svgn-88471841/007.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/009.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/011.jpg)
+
+So I got in line to try the Oculus Go twice, each time it was with a game called Anshar Wars 2
+
+Anshar Wars 2 is available on Gear VR, however the first time I played it in multiplayer mode with 2 other players wearing the Oculus Go, and 3 other players using the Oculus Rift, the fact that games can be multiplayer in VR with your friends regardless of whether they have an Oculus Rift or an Oculus Go is a really interesting fact.
+
+![](/wiki/svgn/articles/media/svgn-88471841/013.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/015.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/017.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/019.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/021.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/023.jpg)
+
+The Oculus Go only has wifi so it was really interesting that the multiplayer space batte ran perfectly in a noise conference room at GDC with lots of interfering wireless signals.
+
+![](/wiki/svgn/articles/media/svgn-88471841/025.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/027.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/029.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/031.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/033.jpg)
+
+First impressions! Upon putting on the headset I was immediately struck by the clarity of the screen. The Oculus Go has a special LCD screen that has been optimized to function a lot faster for VR, it looks great, it looks like a high quality first rate screen. The screen may actually be better than the screen on the Vive Focus that I tried yesterday, but I would have to test both units again several times to be sure.
+
+![](/wiki/svgn/articles/media/svgn-88471841/035.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/037.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/039.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/041.jpg)
+
+The game graphics are a lot like the Gear VR game graphics, but everything looks just a little bit better, Anshar Wars 2 has never looked more crisp, and it succeeds wildly in a spinning chair.
+
+Another first impression that really struck me was just how quickly the application resumed functioning once I have put it on. If you have ever spent considerable time with a Gear VR you know that putting your phone in the Gear VR, loading the application, taking it off, and putting it back on introduces considerable delays that all seem to have been eliminated with the Oculus Go which I think really earns its namesake, it’s something you can simply put on and GO! I was hoping the Vive Focus would be that responsive, to where you just put on the headset and you are instantly in the app but it didn’t seem to have the same sort of snappy responsiveness when you put it on like you are suddenly in VR like I felt when I put on the Oculus Go in VR. I think there is perhaps no faster way to get into VR than putting on an Oculus Go headset.
+
+The single player campaign mode of Anshar Wars 2 feels a little bit two easy but it looks really cool.
+
+Another first impression is that the Oculus Go is really light weight, for $199 I think I am definitely going to get one, along with my Oculus Santa Cruz, because it is something that can really be thrown into a bag and taken out again for quick play, and put away again, and taken out again real quick for another quick multiplayer VR experience.
+
+My enthusiasm for the Oculus Go is really high even though the headset has only orientation tracking (3dof) and only a single 3dof controller, for the price I think it’s a really good deal and that people who get this will be really happen with it.
+
+![](/wiki/svgn/articles/media/svgn-88471841/043.jpg)
+
+![](/wiki/svgn/articles/media/svgn-88471841/045.jpg)
+
+---
+
+**Connected stories:** [[Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest]] · [[F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399]] · [[The Oculus Quest is not just a new VR device it’s a cultural event.]] · [[Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…]]

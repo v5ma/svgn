@@ -1,0 +1,52 @@
+---
+id: svgn-88470819
+title: "Horizon Blockchain Games, Web3Auth, Transperfect, Plank Builders at GDC 2022"
+date: "2022-03-28"
+slug: "horizon-blockchain-games-web3auth-transperfect-plank-builders-at-gdc-2022-94b31d96e250"
+canonical: "https://svgn.io/p/horizon-blockchain-games-web3auth-transperfect-plank-builders-at-gdc-2022-94b31d96e250"
+source: "https://medium.com/@vrma/horizon-blockchain-games-web3auth-transperfect-plank-builders-at-gdc-2022-94b31d96e250"
+audience: "everyone"
+topics: ["games", "transperfect", "web3auth", "horizon", "where", "blocks", "game", "web3"]
+related: ["vrma-94b31d96e250", "vrma-4d707b813af1", "vrma-80eef4cb04db", "vrma-1fdda1f17137"]
+images: 5
+---
+
+# Horizon Blockchain Games, Web3Auth, Transperfect, Plank Builders at GDC 2022
+
+*At the Game Developer Conference in March 2022. If you are into Web3 you will want to know about Web3auth and you will want to look at what…*
+
+![](/wiki/svgn/articles/media/svgn-88470819/000.jpg)
+
+At the Game Developer Conference in March 2022. If you are into Web3 you will want to know about Web3auth and you will want to look at what Horizon Blockchain Games is doing. Transperfect will help you translate your games to new markets. Plank Builders was a random find at GDC that I thought looks like a cool game for folks younger than myself.
+
+![](/wiki/svgn/articles/media/svgn-88470819/001.jpg)
+
+The first video is a double feature, I spoke to Michael Sanders at Horizon Block Chain Games. Then I spoke to Yashovardhan (Yash) Agrawal about Web4Auth.
+
+![](/wiki/svgn/articles/media/svgn-88470819/003.jpg)
+
+These two companies are working together to bring a vision for a Web3 Metaverse technology from developers to consumers. They are making it easy for companies to leverage existing social media logins to bring player owned tradable NFTs into games. Today it looks like the future of collectable card games, tomorrow this could be integrated in the Virtual Reality & Augmented Reality Apps.
+
+Watch the video here:
+
+Next I visited the Transperfect booth where I found out that Transperfect offers translation services for major videogames. So that developers can reach new markets.
+
+![](/wiki/svgn/articles/media/svgn-88470819/005.jpg)
+
+Watch the video where I talk about Transperfect’s services here:
+
+Finally I randomly stopped at the Swiss Games Pavilion at GDC 2022 to try a cool little game called Plank Builders. You start out as a Monkey that decides where to place blocks that you can walk on, and then you have to go and get the blocks to place them. However very quickly you will be rescuing Monkey friends that help you with your work so you could just stick to choosing where to place the blocks and other Monkey friends will get the blocks for you.
+
+![](/wiki/svgn/articles/media/svgn-88470819/007.jpg)
+
+Horizon Blockchain Games Decentralized with hubs in Toronto, Montreal, Vancouver, US, Spain, Brazil, Ireland, Jamaica, Croatia, Ukraine, India… horizon.io
+
+Web3Auth | Auth infrastructure for Web3.0 wallets and applications You don't have to hear it from us... Most users do not want to be bothered with private keys and mnemonics. Web3Auth… web3auth.io
+
+TransPerfect | Language & Technology Solutions for Business Navigate the global marketplace with TransPerfect business solutions. Learn how our global translation, language and… www.transperfect.com
+
+Plank_Builders Edit description www.plankbuilders.com
+
+---
+
+**Connected stories:** [[Horizon Blockchain Games, Web3Auth, Transperfect, Plank Builders at GDC 2022]] · [[You've tracked for example 1 NFT at a time through many different blocks, with across multiple…]] · [[You've tracked for example 1 NFT at a time through many different blocks, with across multiple…]] · [[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]]
