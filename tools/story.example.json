@@ -1,0 +1,14 @@
+{
+  "title": "Unity Just Ran a Game Inside Unreal Engine",
+  "deck": "A real-time bridge could let Unity developers reach Fortnite without rebuilding their games in UEFN.",
+  "date": "2026-07-20",
+  "source": "",
+  "topics": ["unity", "unreal-engine", "fortnite", "game-development"],
+  "related": [],
+  "leadImage": {
+    "url": "https://example.com/unity-unreal-demo.jpg",
+    "alt": "Unity and Unreal Engine running the same game side by side",
+    "caption": "Replace this example URL with the approved Cloudflare media URL before publishing."
+  },
+  "body": "For most of game development history, moving a project between Unity and Unreal Engine meant rebuilding major parts of the game. A new real-time bridge points toward a different future.\n\n### What changes\n\nUnity can remain responsible for game logic and simulation while Unreal renders the player-facing experience."
+}
