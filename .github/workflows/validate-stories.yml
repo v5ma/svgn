@@ -1,0 +1,84 @@
+name: Validate SVGN stories
+
+on:
+  pull_request:
+    paths:
+      - 'content/stories/**'
+      - 'tools/create-story.mjs'
+      - 'tools/validate-stories.mjs'
+      - '.github/workflows/validate-stories.yml'
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/stories/**'
+      - 'tools/create-story.mjs'
+      - 'tools/validate-stories.mjs'
+      - '.github/workflows/validate-stories.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Check publisher scripts
+        shell: bash
+        run: |
+          set -euo pipefail
+          node --check tools/create-story.mjs
+          node --check tools/validate-stories.mjs
+          node tools/create-story.mjs --input tools/story.example.json --dry-run > /tmp/svgn-story-smoke.md
+          grep -q '^canonical: "https://svgn.io/p/' /tmp/svgn-story-smoke.md
+
+      - name: Find changed stories
+        id: changed
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PUSH_BASE_SHA: ${{ github.event.before }}
+        run: |
+          set -euo pipefail
+
+          if [[ "$EVENT_NAME" == "pull_request" ]]; then
+            base="$PR_BASE_SHA"
+          else
+            base="$PUSH_BASE_SHA"
+          fi
+
+          if [[ -z "$base" || "$base" =~ ^0+$ ]]; then
+            base="$(git rev-list --max-parents=0 HEAD | tail -n 1)"
+          fi
+
+          mapfile -t files < <(git diff --diff-filter=ACMR --name-only "$base" HEAD -- 'content/stories/*.md')
+          printf '%s\n' "${files[@]}" > /tmp/changed-stories.txt
+
+          if [[ ${#files[@]} -eq 0 ]]; then
+            echo "has_stories=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_stories=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Validate changed stories
+        if: steps.changed.outputs.has_stories == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          mapfile -t files < /tmp/changed-stories.txt
+          node tools/validate-stories.mjs "${files[@]}"
+
+      - name: Report no story changes
+        if: steps.changed.outputs.has_stories != 'true'
+        run: echo "No story files changed; publisher scripts are valid."
