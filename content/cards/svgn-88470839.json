@@ -1,0 +1,222 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470839",
+ "title": "CES Day 2: Summary of the News at CES on Jan 6th, 2022",
+ "dek": "BMW iX Flow (color changing car), Sky Drive (human sized quad copter), Unlink VR (makes the Valve Index wireless), Dynamic Robotic System…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-01-07",
+ "articleHref": "/wiki/svgn/articles/2022-01-07-ces-day-2-summary-of-the-news-at-ces-on-jan-6th-2022-vrma-385b8d56d48",
+ "sourceUrl": "https://www.svgn.io/p/ces-day-2-summary-of-the-news-at-ces-on-jan-6th-2022-385b8d56d48",
+ "topTerms": [
+  "linkedin",
+  "color",
+  "micah",
+  "blumberg",
+  "technology",
+  "quantum",
+  "mask",
+  "clubhouse"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  },
+  {
+   "id": "vrma-a673d2063c5",
+   "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+  },
+  {
+   "id": "vrma-23bad1d1b952",
+   "title": "The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality"
+  },
+  {
+   "id": "vrma-358ddd631ebe",
+   "title": "The beating heart of technology in San Francisco."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "CES Day 2: Summary of the News at CES on Jan 6th, 2022",
+   "body": "BMW iX Flow (color changing car), Sky Drive (human sized quad copter), Unlink VR (makes the Valve Index wireless), Dynamic Robotic System…",
+   "image": "/wiki/svgn/articles/media/svgn-88470839/002.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "This article was written by Micah Blumberg",
+   "body": "This article was written by Micah Blumberg",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Please join us live on Clubhouse tonight at 10pm to discuss CES 2022 News Live, the recording will be added here afterwards: here it is:",
+   "body": "The main narrative of this news story in the audio that you can listen to below. The rest of the links on this page are meant to accompany the audio story.\n\nCES News at 10pm: Day 2, Jan 6, 2022 - Silicon Valley Global News Edit description www.clubhouse.com",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "BMW iX Flow (color changing car)",
+   "body": "",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Interview with Dr. Stella Clarke, who works at BMW in Munich Germany developing this color changing car. #CES #CES2022",
+   "body": "",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "The BMW iX Flow Color changing car up close in person.",
+   "body": "The BMW iX Flow Color changing car up close in person. It uses e-ink technology, it only requires power to change the color so the color does not drain your battery when its not changing. Same technology that is found in the Kindle e-reader.",
+   "image": "/wiki/svgn/articles/media/svgn-88470839/000.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "The color changing car will eventually be available for consumers to purchase but it",
+   "body": "The color changing car will eventually be available for consumers to purchase but it might be years away. They still have a lot of work to do behind the scenes it’s going to ship to consumers. That additional work includes integrating color e-ink technology, this iteration as you can see is black & white.",
+   "image": "/wiki/svgn/articles/media/svgn-88470839/001.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "Sky Drive: A personal human scale quadcopter.",
+   "body": "Micah Blumberg on LinkedIn: #CES I got to sit in the Sky Drive at #CES ! It's a quadcopter for people. Here is the raw uncut video.... www.linkedin.com\n\nFrom inside\n\nSkyDrive Inc. | SkyDrive Inc. Develop \"flying car\" from Japan. SkyDrive Inc. is a company with such passions. It is a start-up that started with… en.skydrive2020.com",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Dynamic Robotic System Lab: A VR powered Telepresence Robot",
+   "body": "Micah Blumberg on LinkedIn: #VR #telepresence #Robot At the Seoul National University: Dynamic Robotic System Lab I got to play with an impressive telepresence robot that… www.linkedin.com",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470839/003.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470839/005.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470839/007.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470839/009.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470839/011.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "This research is being done at Seoul National University\n\nSeoul National University",
+   "body": "This research is being done at Seoul National University\n\nSeoul National University Academic Resources Calendar Registration Credit Acquisition Double Major / Minor Domestic Exchange Leaves of Absences… en.snu.ac.kr",
+   "image": "/wiki/svgn/articles/media/svgn-88470839/013.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "Cellid, Inc: AR Display Prototype",
+   "body": "Cellid Cellid creates see-through display system and spatial tracker for AR glasses that blend the physical and digital… www.cellid.com",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "Quantum Shieldz Cypher: A clever way to secure your telephone conversations.",
+   "body": "Quantum Shieldz Cipher(TM) quantum shieldz cipher | Quantum Anti-Eavesdropping Solution | Quantum Entropy | This small card-sized device can… www.quantumshieldz.com",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "Common Computer: an AI Network for bringing your NFT into a your app of choice, such as a game.",
+   "body": "Common Computer Inc. Great culture attracts smart creative talents and gives them a space to maximize their creativity. We organize our… comcom.ai",
+   "image": ""
+  },
+  {
+   "seq": 19,
+   "headline": "D’Arts: Hatch-Pot VR: Unlocking the Infinite Market for VR Manga",
+   "body": "It’s no code software to create your own VR story.\n\nMicah Blumberg on LinkedIn: #CES #CES2022 D'Arts: Hatch-Pot VR: Unlocking the Infinite Market for VR Manga It's no code software to create your own VR story… www.linkedin.com\n\nハッチポットビルダー│VRアニメビルダー&プラットフォーム コードを書かなくても、脚本を作るように台詞やト書きなどを入力するだけで、AIが脚本に合わせてVRコンテンツを自動生成してくれます。弊社と契約したクリエイターが、このツールを利用することで、素早く大量にVRアニメなどのコンテンツを発信していく… hatchpot-vr.studio.site",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "Luxonis: OAK-D",
+   "body": "A depth sensing camera with three lenses, the outer two are for depth, center for 4K color capture. The point is they made all of this object tracking & thermal monitoring run on a small device with no extra computer system. No PC needed.\n\nOAK-D-Lite - DepthAI Hardware Documentation 1.0.0 documentation OAK-D-Lite takes the affordability idea and pushes it one step forward. By having the same SpatialAI functionality as… docs.luxonis.com",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "Unlink VR makes the Valve Index wireless",
+   "body": "Homepage - Unlink VR Free space optical communication for Hi-End VR experience and more Lasers are just better Wires - Laser beam… unlink-vr.com",
+   "image": ""
+  },
+  {
+   "seq": 22,
+   "headline": "Qudi: World’s first emotional mask",
+   "body": "It cost’s about $200 but the software application for your phone gives you a lot of modes to play with.\n\nQudi Mask - first emotional LED mask! Qudi Mask - first voice-activated LED mask, that opens mouth to your speech, react to your head movements, and shows… qudi.space",
+   "image": ""
+  },
+  {
+   "seq": 23,
+   "headline": "Metaverse Music (from Samsung C-Lab Outside)",
+   "body": "Micah Blumberg on LinkedIn: Metaverse Music (from Samsung C-Lab Outside at CES 2022) They are Metaverse Music (from Samsung C-Lab Outside at CES 2022) They are making music interactive so your actions in the… www.linkedin.com",
+   "image": ""
+  },
+  {
+   "seq": 24,
+   "headline": "bitsensing Inc: New 4D Vertical Range Detecting Radar",
+   "body": "bitsensing - Designing Imaging Radar for All bitsensing designs and develops cutting-edge imaging radar technology solutions for the ultimate smart cities and… bitsensing.com",
+   "image": ""
+  },
+  {
+   "seq": 25,
+   "headline": "Light Space 3D (New AR Headset)",
+   "body": "Part 1\n\nPart 2\n\nWe will be at this again tomorrow Jan 7th 2022: Join us on Clubhouse then also.",
+   "image": ""
+  },
+  {
+   "seq": 26,
+   "headline": "Previous stories",
+   "body": "CES 2022 Day 0: News at 10pm Preview: News from Qualcomm, John Deere, NVIDIA, Canon, Hyundai, and tonight’s guests on Clubhouse: Fluent.ai and FluentPet. medium.com\n\nCES 2022 Day 1: AR VR 3D Metaverse Global News at 10pm NewSight Reality (AR), Blickfeld Lidar, CYVISION (AR in the car), VRgineers (XTAL VR headset), Samsung booth (AR Car… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 27,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Micah Blumberg]] · [[News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…]] · [[The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality]] · [[The beating heart of technology in San Francisco.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    },
+    {
+     "id": "vrma-a673d2063c5",
+     "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+    },
+    {
+     "id": "vrma-23bad1d1b952",
+     "title": "The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality"
+    },
+    {
+     "id": "vrma-358ddd631ebe",
+     "title": "The beating heart of technology in San Francisco."
+    }
+   ]
+  }
+ ]
+}

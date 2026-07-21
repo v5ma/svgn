@@ -1,13 +1,59 @@
-# SVGN Corpus
+# SVGN Public Corpus
 
-Canonical Markdown source for SVGN.io (Silicon Valley Global News).
-Architecture (per SVGN_wiki_github vision): **GitHub holds the living Markdown; Cloudflare builds, indexes, and renders it.**
+GitHub is the versioned public source for SVGN.io. The corpus deliberately
+supports more than one source representation:
 
-- `content/stories/` — one Markdown file per story: YAML frontmatter (id, date, canonical URL, source URL, topics, related ids) + full lossless body + `[[wikilinks]]` to connected stories.
-- `graph.json` — derived index (nodes, edges, backlinks) in a D1-ready shape; regenerate, never hand-edit.
-- Large media stays on Cloudflare (`/wiki/svgn/articles/media/…`); Markdown references it by URL — GitHub holds text + structure only (respects the wiki 5,000-file soft limit guidance).
+- `content/articles/` preserves every published article as exact HTML.
+- `content/stories/` keeps a searchable Markdown projection with frontmatter and
+  `[[wikilinks]]`. Markdown is especially useful for wikis, but is not required
+  for an SVGN news article.
+- `content/cards/` contains Fable's lossless designed card decks. These are the
+  shared projection for 2D card browsing and the member-only 3D WebXR rooms.
+- `content/manifest.json` binds HTML, Markdown, and card JSON to one stable
+  article id with SHA-256 hashes.
+- `graph.json` is the derived story/link graph; regenerate it rather than
+  hand-editing it.
 
-Regenerate from the live site data:
-`node production-canon/tools/svgn-deck-compiler/build-corpus.mjs --out <this dir>`
+All 2D articles are public. `historicalAudience` in the manifest records how an
+article was originally distributed; it does not restrict the public archive.
+Membership applies to the interactive 3D WebXR content experience.
 
-Flow: edit Markdown → commit → Cloudflare rebuild → svgn.io updates. Agents (Codex/Claude) may edit and cross-link pages; every change is a dated commit in the provenance record.
+Large media remains same-origin on SVGN.io under
+`/wiki/svgn/articles/media/...`; the Git repository preserves the article,
+structure, cards, provenance, and references without duplicating the media
+warehouse.
+
+## Publishing flow
+
+`ChatGPT conversation -> reviewed HTML article -> Git commit -> validation -> Cloudflare sync/build -> SVGN.io`
+
+The website should synchronize from this repository when content changes. A
+visitor's browser should not contact GitHub for every page view. That keeps the
+site fast and avoids GitHub API/rate-limit dependence.
+
+For a new article, an agent may add reviewed HTML directly. The same stable id
+must be used in its card deck and manifest record. Public wikis may use the same
+flow with Markdown as their canonical source; private or unfinished wikis must
+not be copied here.
+
+A new HTML article must contain `data-svgn-article-id="svgn-..."`, an `<h1>`,
+an `<article>`, and `<meta name="svgn:slug" content="...">`. Add its matching
+`svgn.designed_deck.v1` JSON file under `content/cards/`, then rebuild and
+validate the manifest. Existing imported articles retain their slug from the
+previous manifest, so their exact HTML bytes do not need to be altered.
+
+## Commands
+
+From this repository:
+
+```text
+npm run sync
+npm run manifest
+npm run validate
+```
+
+`sync` imports the exact currently hosted public corpus and Fable card decks
+from the sibling `v5ma.github.io` checkout. It never deploys or pushes.
+`manifest` rebuilds the hashes and index from this repository, making the
+GitHub-first authoring direction independent of the old website archive.
+`validate` proves file identity, hashes, article ids, and card-deck contracts.

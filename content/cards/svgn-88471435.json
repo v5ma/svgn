@@ -1,0 +1,90 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471435",
+ "title": "Eight new stories for VRMA.io Virtual Reality Media",
+ "dek": "Written by Micah Blumberg for VRMA Virtual Reality Media",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-09-13",
+ "articleHref": "/wiki/svgn/articles/2017-09-13-eight-new-stories-for-vrma-io-virtual-reality-media-vrma-3706bd13a324",
+ "sourceUrl": "https://www.svgn.io/p/eight-new-stories-for-vrma-io-virtual-reality-media-3706bd13a324",
+ "topTerms": [
+  "reality",
+  "medium",
+  "virtual",
+  "vrma",
+  "neural",
+  "francisco",
+  "written",
+  "micah"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-f28a15aacd4f",
+   "title": "San Francisco Virtual Reality 360 Live"
+  },
+  {
+   "id": "vrma-3c3253b1eb0e",
+   "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+  },
+  {
+   "id": "vrma-3a5a47ea600e",
+   "title": "San Francisco Virtual Reality 360"
+  },
+  {
+   "id": "vrma-3c38de901812",
+   "title": "San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Eight new stories for VRMA.io Virtual Reality Media",
+   "body": "Written by Micah Blumberg for VRMA Virtual Reality Media",
+   "image": "/wiki/svgn/articles/media/svgn-88471435/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Eight new stories for VRMA.io Virtual Reality Media Animoji = Volumetric Video + Neural",
+   "body": "Eight new stories for VRMA.io Virtual Reality Media Animoji = Volumetric Video + Neural Networks\n\nAnimoji = Avatar + Emoji. An Animoji is Volumetric Video + Neural Networks Article written by Micah Blumberg for VRMA Virtual Reality Media Today at Apple’s Special Event Apple unveiled the… medium.com\n\n2. Silicon Valley needs to give Women Equal Respect.\n\nSilicon Valley needs to do more to change because Women deserve equal respect in VR, in AR in… Article written for VRMA Virtual Reality Media by Micah Blumberg medium.com\n\n3. Join us for the San Francisco Virtual Reality 360 monthly talks.\n\nSan Francisco Virtual Reality 360 is a series of monthly talks with demos that we are going to host… Important: If your company would like to give a live talk at one of our events, a talk we are going to film and publish… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471435/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "4.",
+   "body": "4. Getting 3D Shapes for VR from 2D images with AI to make a Self Aware Robot’s brain!\n\nGetting 3D Shapes for VR from 2D images with AI to make a Self Aware Robot’s brain! Longer title: “Getting 3D shapes for VR from 2D images with AI Neural Networks for the purpose of building a Self Aware… medium.com\n\n5. The entire computing industry seems to be moving away from polygons and towards neural network upscaled point clouds.\n\nThe entire computing industry seems to be moving away from polygons and towards neural network… Written by Micah Blumberg, who studies the brain and hosts the Neural Lace Podcast at vrma.io and who is a VR… medium.com\n\n6. Steam VR will run inside Microsoft Mixed Reality headsets!\n\nSteam VR will run inside Microsoft Mixed Reality headsets! It’s official now that Steam VR will run inside the Microsoft Mixed Reality headsets. If you have a lower end computer… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "7.",
+   "body": "7. The beating heart of technology in San Francisco.\n\nThe beating heart of technology in San Francisco. A neighborhood in San Francisco called Soma is quickly becoming known as the heart of the San Francisco VR community… medium.com\n\n8. Review: MIYUBI on the Oculus Rift — Reviewed without Spoilers\n\nReview: MIYUBI on the Oculus Rift — Reviewed without Spoilers Article written by Micah Blumberg, VRMA Virtual Reality Media medium.com",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[San Francisco Virtual Reality 360 Live]] · [[Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō]] · [[San Francisco Virtual Reality 360]] · [[San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-f28a15aacd4f",
+     "title": "San Francisco Virtual Reality 360 Live"
+    },
+    {
+     "id": "vrma-3c3253b1eb0e",
+     "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+    },
+    {
+     "id": "vrma-3a5a47ea600e",
+     "title": "San Francisco Virtual Reality 360"
+    },
+    {
+     "id": "vrma-3c38de901812",
+     "title": "San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017."
+    }
+   ]
+  }
+ ]
+}

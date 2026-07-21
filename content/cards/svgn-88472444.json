@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472444",
+ "title": "Echo Arena Esports VR Battle",
+ "dek": "Journalist Shuang van Reizen captured this video with Facebook Live for SVGN.io",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-13",
+ "articleHref": "/wiki/svgn/articles/2017-10-13-echo-arena-esports-vr-battle-vrma-cc6c75348000",
+ "sourceUrl": "https://www.svgn.io/p/echo-arena-esports-vr-battle-cc6c75348000",
+ "topTerms": [
+  "journalist",
+  "shuang",
+  "reizen",
+  "captured",
+  "video",
+  "facebook",
+  "live",
+  "svgn"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-c7785a874e00",
+   "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+  },
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  },
+  {
+   "id": "vrma-d9753d2bab19",
+   "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+  },
+  {
+   "id": "vrma-dfaaccf19434",
+   "title": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Echo Arena Esports VR Battle",
+   "body": "Journalist Shuang van Reizen captured this video with Facebook Live for SVGN.io",
+   "image": "/wiki/svgn/articles/media/svgn-88472444/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Echo Arena Esports VR Battle",
+   "body": "Phangasm (orange) vs Kangorilla (blue)\n\nEcho Arena: Think of a Tron like space handball",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472444/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472444/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News",
+   "body": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News (more credits at the bottom) medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472444/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…]] · [[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]] · [[Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…]] · [[Terrorists may have infiltrated social media companies like Facebook and youtube, taking…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-c7785a874e00",
+     "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+    },
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    },
+    {
+     "id": "vrma-d9753d2bab19",
+     "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+    },
+    {
+     "id": "vrma-dfaaccf19434",
+     "title": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking…"
+    }
+   ]
+  }
+ ]
+}

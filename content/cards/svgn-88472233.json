@@ -1,0 +1,162 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472233",
+ "title": "A collection of news highlights from GDC and VRDC",
+ "dek": "Journal entry from Micah Blumberg",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-03-20",
+ "articleHref": "/wiki/svgn/articles/2018-03-20-a-collection-of-news-highlights-from-gdc-and-vrdc-vrma-8ed82a614312",
+ "sourceUrl": "https://www.svgn.io/p/a-collection-of-news-highlighs-from-gdc-and-vrdc-8ed82a614312",
+ "topTerms": [
+  "reality",
+  "oculus",
+  "virtual",
+  "atari",
+  "magic",
+  "leap",
+  "vive",
+  "developers"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-eddd3e5de723",
+   "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  },
+  {
+   "id": "vrma-334c25377ec9",
+   "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "A collection of news highlights from GDC and VRDC",
+   "body": "Journal entry from Micah Blumberg",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Oculus announced Oculus Start a new program for VR developers, you can join for free and",
+   "body": "Oculus announced Oculus Start a new program for VR developers, you can join for free and you get a year of Unity Plus for free for joining visit developer.oculus.com for details.\n\nOculus also announced the release of Platform Level Stats Reports, its a 28 day rolling report on Oculus hardware statistics for developers to look at, it includes Oculus Hardware Phone Model Statistics to help developers make informed decisions.\n\nOculus Developer Center | Overview Oculus is the platform for developing PC, Mobile and Web virtual reality experiences. developer.oculus.com\n\nWatch this new Nvidia RTX Ray Tracing Demo\n\nhttps://www.youtube.com/watch?v=jkhBlmKtEAk\n\nRead this Nvidia blog post about this new technology https://blogs.nvidia.com/blog/2018/03/19/whats-difference-between-ray-tracing-rasterization/",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "What's the Difference Between Ray Tracing, Rasterization?",
+   "body": "What's the Difference Between Ray Tracing, Rasterization? | NVIDIA Blog You've seen this movie before. Literally. There may not be many people outside of computer graphics who know what ray… blogs.nvidia.com\n\nAtari revealed more information about it’s new game console intended for your television.\n\n“Atari Unveils the Atari VCS “Video Computer System” and its Controllers\n\nAtari unveils the official name, logo, and controller peripherals of what was previously called the Ataribox, and is now the Atari VCS.” https://www.dualshockers.com/atari-vcs-video-computer-system-unveiled/\n\nAtari Unveils the Atari VCS \"Video Computer System\" and its Controllers Today at Game Developers Conference, Atari took another step in unveiling its upcoming hardware platform, that now has… www.dualshockers.com",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Budget Cuts a Virtual Reality Game Application receives a release date: May 16th 2018 for",
+   "body": "Budget Cuts a Virtual Reality Game Application receives a release date: May 16th 2018 for SteamVR and Oculus Rift. http://neatcorporation.com/\n\nNeat Corporation Sugar, Spice, and Everything Neat, Linnea is the personification of rainbows and lives to make unforgetable experiences.… neatcorporation.com\n\nUnity and Magic Leap are partnering to make it easier for developers to create apps for the Augmented Reality glasses. https://blogs.unity3d.com/2018/03/19/take-the-next-leap-unity-and-magic-leap-partner-to-deliver-technical-preview/\n\nTake the Next Leap: Unity and Magic Leap Partner to Deliver Technical Preview - Unity Blog We are proud to partner with Magic Leap to integrate the Magic Leap platform with Unity. For all creators looking to get… blogs.unity3d.com",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Magic Leap opened it’s creator portal yesterday for",
+   "body": "Magic Leap opened it’s creator portal yesterday for developers\n\nhttps://www.magicleap.com/\n\nMagic in the Making This is Magic Leap. We're adding another dimension to computing where digital respects the physical. First stop: Magic… www.magicleap.com\n\nIncase you missed the news the HTC Vive with controllers and base stations dropped in price you can now get it for $499 https://www.vive.com/us/ The Vive Pro price for the headset alone without a base station or controllers was announced to be $799. It remains to be seen how well the Vive Pro will sell but it’s price is higher than many people expected and a lot of folks online in Virtual Reality groups seem to be upset by the high price which is greater than expected.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "VIVE™ | Discover Virtual Reality Beyond Imagination VIVE is a first-of-its-kind virtual",
+   "body": "VIVE™ | Discover Virtual Reality Beyond Imagination VIVE is a first-of-its-kind virtual reality system. Let yourself be visually, physically and emotionally amazed by new… www.vive.com\n\n“Disney’s Latest Research Project Can Turn Scripts Into Virtual Reality” http://variety.com/2018/digital/news/disney-research-cardinal-previz-vr-1202730650/\n\nDisney's Latest Research Project Can Turn Scripts Into Virtual Reality Disney Research has been working on a way to turn natural language scripts into virtual reality (VR) pre-visualizations.… variety.com\n\nAt GDC we saw Mixcast demo Mixed Reality without a Greenscreen using the Intel Realsense Camera\n\nMixed reality solutions for VR broadcasting | MixCast Augmented Virtuality is an exciting new medium that allows for a more engaging experience for spectators! Augmented… mixcast.me",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/001.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/003.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/005.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/007.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/009.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/011.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/013.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/015.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/017.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472233/019.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[HTC Vive’s Commercial Business Strategy for Virtual Reality]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-eddd3e5de723",
+     "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    },
+    {
+     "id": "vrma-334c25377ec9",
+     "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+    }
+   ]
+  }
+ ]
+}

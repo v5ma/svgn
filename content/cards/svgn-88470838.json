@@ -1,0 +1,168 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470838",
+ "title": "CES 2022 Day 1: AR VR 3D Metaverse Global News at 10pm",
+ "dek": "NewSight Reality (AR), Blickfeld Lidar, CYVISION (AR in the car), VRgineers (XTAL VR headset), Samsung booth (AR Car Concept + Nice looking…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-01-06",
+ "articleHref": "/wiki/svgn/articles/2022-01-06-ces-2022-day-1-ar-vr-3d-metaverse-global-news-at-10pm-vrma-35d903e72cdb",
+ "sourceUrl": "https://www.svgn.io/p/ces-day-1-ar-vr-3d-metaverse-global-news-at-10pm-35d903e72cdb",
+ "topTerms": [
+  "reality",
+  "augmented",
+  "great",
+  "video",
+  "hyundai",
+  "silicon",
+  "valley",
+  "global"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-ccd179bcac41",
+   "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+  },
+  {
+   "id": "vrma-e57a41fb406b",
+   "title": "Three events added to the Silicon Valley Global Events Calendar"
+  },
+  {
+   "id": "vrma-f800148de385",
+   "title": "Silicon Valley Global News: Front Page"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "CES 2022 Day 1: AR VR 3D Metaverse Global News at 10pm",
+   "body": "NewSight Reality (AR), Blickfeld Lidar, CYVISION (AR in the car), VRgineers (XTAL VR headset), Samsung booth (AR Car Concept + Nice looking…",
+   "image": "/wiki/svgn/articles/media/svgn-88470838/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The text of this article was assembled by Micah Blumberg.",
+   "body": "The text of this article was assembled by Micah Blumberg.\n\nPlease join us every night of CES at 10pm PT Pacific Time to listen to our news program with my co-host Cecile Tamura. This link below is the replay from July 5th’s 10pm News.\n\nCES 2022 News at 10pm - Silicon Valley Global News With Phil Garfinkle, Micah Blumberg and 6 others, hosted by Silicon Valley Global News www.clubhouse.com\n\nOn July 5th our first invited guest was the CEO of NewSight Reality, Phil Garfinkle, and perhaps others like yourself if you show up.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "“NSR’s AR Transparent Optical Module (TOM) for Augmented Reality Glass.",
+   "body": "“NSR’s AR Transparent Optical Module (TOM) for Augmented Reality Glass. Think very small, bright, and secure AR glasses that look like any pair of glasses, and secure because only the wearer can see the contents.” NewSight Reality NSR's transformational design replaces the light engine and optical engine with a single multi-layer hermetically… newsightreality.com\n\nToday at CES I found a lot of companies in the AR, VR, & Metaverse space. Tomorrow I am planning to demo a new Augmented Reality Eye Wear from NewSight Reality.\n\nIt is described as the ‘first-of-its-kind augmented reality technology that was built small enough to fit in the everyday design of eyewear. Up until today, AR has only been possible in clunky headsets, but the TOM technology developed by NewSight Reality uses a less than 2mm thick glass that allows a combination of the real world and the digital world through the eyeglass lens.’",
+   "image": "/wiki/svgn/articles/media/svgn-88470838/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Blickfeld Lidar",
+   "body": "Today at CES I interviewed Dr. Mathias Müller, Founder of Blickfeld Lidar at CES, you can watch that interview below. He has a small edge device capable of doing striking the right balance of features for clients who have specific depth & object classification needs.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "CYVISION",
+   "body": "This was hands down the best Augmented Reality Vehicle demo that I got to try at CES. Better than Google maps AR on the phone because the display was big and it was in the wind shield of the vehicle. #CES\n\nSee the video here:\n\nCYVISION has a great Augmented Reality in a car demo. There were 3D holograms in the windshield of the car, and they appeared on the street in front of me (overlayed on a video of the street) AR in the windows of cars is the future",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "VRGINEERS (XTAL VR Headset)",
+   "body": "I interviewed Marek Polčák, CEO of VRgineers, maker of the VR headset called XTAL, he reveals his latest products that ship with XTAL. It’s very impressive.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Samsung",
+   "body": "I walked through the Samsung booth at CES. I saw a great example vision of Augmented Reality in the car. They had some cool projection mapping technology, and lots of good looking watches, folding smart phones, and bright microled displays.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "ITRI",
+   "body": "At the Industrial Technology Research Institute booth I tried out the live motion capture that was transferred to my younger female avatar on the screen in front of me. You can see how it went.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Hyundai + Boston Dynamics + Microsoft Mesh Hyundai is in a sense promising us a future",
+   "body": "Hyundai + Boston Dynamics + Microsoft Mesh Hyundai is in a sense promising us a future where robots will be remote hands connecting the Metaverse back to the real world, and even to other planets, so we can visit Mars in a day, instead of in six to nine months or however long it takes to travel there. (How long does it take to travel to Mars?)\n\nHyundai partnered with Boston Dynamics to bring to the world some very impressive new robots. Until CES 2022 I hadn’t seen anything this good in robotics.\n\nAnother great video of the Hyundai & Boston Dynamics partnership in action\n\nA video compilation of more fun moments at the Hyundai booth",
+   "image": "/wiki/svgn/articles/media/svgn-88470838/003.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470838/005.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470838/007.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470838/009.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470838/011.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470838/013.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "CANON At CES I went to the Canon booth and tried out the result of their dual fish eye",
+   "body": "CANON At CES I went to the Canon booth and tried out the result of their dual fish eye lens inside an Oculus Quest. The image was 3D 180 and super crisp. This product is great for VR film makers I think. It’s on my list of things to buy this year.",
+   "image": "/wiki/svgn/articles/media/svgn-88470838/015.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "JOHN DEERE",
+   "body": "I shot this video during the conference at CES yesterday but I’m sharing it for the first time today. You can read more about it in the previous article.\n\nThe John Deere Self Driving Autonomous Production Ready Anomaly detecting tractor for automating farm labor. ⁦",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "Sleep Number",
+   "body": "I tried the Sleep Number bed and Microsoft Hololens 2.\n\nThe Sleep Number bed was great, I want one, I’m getting one, the Hololens 2 illustrated for me a great way to create a presentation that business’s can give to their customers in person.\n\nThanks for reading.\n\nHere again is the replay from last nights Clubhouse chat:\n\nCES 2022 News at 10pm — Silicon Valley Global News With Phil Garfinkle, Micah Blumberg and 6 others, hosted by Silicon Valley Global News www.clubhouse.com",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io]] · [[Three events added to the Silicon Valley Global Events Calendar]] · [[Silicon Valley Global News: Front Page]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-ccd179bcac41",
+     "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+    },
+    {
+     "id": "vrma-e57a41fb406b",
+     "title": "Three events added to the Silicon Valley Global Events Calendar"
+    },
+    {
+     "id": "vrma-f800148de385",
+     "title": "Silicon Valley Global News: Front Page"
+    }
+   ]
+  }
+ ]
+}

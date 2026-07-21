@@ -1,0 +1,120 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472073",
+ "title": "Matterport, a 3D camera maker, has just released a new deep learning algorthim under an open source…",
+ "dek": "CEO Matt Bell announced the news on Facebook November 1st. He said “Matterport has just open-sourced our implementation of Mask R-CNN, a…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-11-02",
+ "articleHref": "/wiki/svgn/articles/2017-11-02-matterport-a-3d-camera-maker-has-just-released-a-new-deep-learning-algorthim-under-an--vrma-df3a3c569840",
+ "sourceUrl": "https://www.svgn.io/p/matterport-a-3d-camera-maker-has-just-released-a-new-deep-learning-algorthim-under-an-open-source-df3a3c569840",
+ "topTerms": [
+  "matt",
+  "bell",
+  "mask",
+  "https",
+  "facebook",
+  "november",
+  "matterport",
+  "r-cnn"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-df3a3c569840",
+   "title": "Matterport, a 3D camera maker, has just released a new deep learning algorthim under an open source…"
+  },
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  },
+  {
+   "id": "vrma-d9753d2bab19",
+   "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+  },
+  {
+   "id": "vrma-c7785a874e00",
+   "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Matterport, a 3D camera maker, has just released a new deep learning algorthim under an open source…",
+   "body": "CEO Matt Bell announced the news on Facebook November 1st. He said “Matterport has just open-sourced our implementation of Mask R-CNN, a…",
+   "image": "/wiki/svgn/articles/media/svgn-88472073/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "CEO Matt Bell announced the news on Facebook November 1st.",
+   "body": "CEO Matt Bell announced the news on Facebook November 1st. He said “Matterport has just open-sourced our implementation of Mask R-CNN, a leading deep learning algorithm for doing pixel-wise object detection and segmentation in images. Compared to basic image detection algorithms, this provides much more precision and flexibility to do complex tasks.\n\n“This is some amazing work by Waleed Abdulla , who implemented it from the rough information in the Facebook Research paper from a few months ago.\n\n“You can find it here: https://github.com/matterport/Mask_RCNN\n\n“If you’d like to help make more people aware of this great free open source tool, please upvote on hacker news and r/machinelearning. By working together we can finally bring the era of manual sheep-counting to an end.”",
+   "image": "/wiki/svgn/articles/media/svgn-88472073/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "Matt Bell “Places to go to upvote (copy and paste the links, then look for the Mask R-CNN",
+   "body": "Matt Bell “Places to go to upvote (copy and paste the links, then look for the Mask R-CNN post):\n\nhttps://news.ycombinator.com/newest\n\nhttps://www.reddit.com/r/MachineLearning/ “\n\nThank you Matt Bell!\n\nThe NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer… Article by Micah Blumberg, host of the Neural Lace Podcast and the NerveGear Show reference link http://vrma.io medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472073/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472073/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472073/007.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472073/009.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472073/011.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472073/013.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "San Francisco Virtual Reality 360 novem November 30th, 2017 Microsoft Reactor 6pm-10pm",
+   "body": "San Francisco Virtual Reality 360 novem November 30th, 2017 Microsoft Reactor 6pm-10pm There is a collision course for all domains of science, all manner of… www.eventbrite.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472073/015.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Matterport, a 3D camera maker, has just released a new deep learning algorthim under an open source…]] · [[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]] · [[Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…]] · [[Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-df3a3c569840",
+     "title": "Matterport, a 3D camera maker, has just released a new deep learning algorthim under an open source…"
+    },
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    },
+    {
+     "id": "vrma-d9753d2bab19",
+     "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+    },
+    {
+     "id": "vrma-c7785a874e00",
+     "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+    }
+   ]
+  }
+ ]
+}

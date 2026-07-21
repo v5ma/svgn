@@ -1,0 +1,138 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472105",
+ "title": "Privacy in the age of Internet of Things, Alexa, Google Assistant, with Homomorphic Encryption and…",
+ "dek": "At GTC 2018 I interviewed Nigel Cannings with Intelligent Voice",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-03-28",
+ "articleHref": "/wiki/svgn/articles/2018-03-28-privacy-in-the-age-of-internet-of-things-alexa-google-assistant-with-homomorphic-encry-vrma-675b6dae5195",
+ "sourceUrl": "https://www.svgn.io/p/privacy-in-the-age-of-internet-of-things-alexa-google-assistant-with-homomorphic-encryption-and-675b6dae5195",
+ "topTerms": [
+  "data",
+  "vive",
+  "virtual",
+  "reality",
+  "nvidia",
+  "voice",
+  "secure",
+  "even"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-eddd3e5de723",
+   "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+  },
+  {
+   "id": "vrma-3c38de901812",
+   "title": "San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017."
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Privacy in the age of Internet of Things, Alexa, Google Assistant, with Homomorphic Encryption and…",
+   "body": "At GTC 2018 I interviewed Nigel Cannings with Intelligent Voice",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "by Micah Blumberg, Researcher and Journalist: About\n\nIntelligent Voice can make your",
+   "body": "by Micah Blumberg, Researcher and Journalist: About\n\nIntelligent Voice can make your personal data secure, such as voice data collected by Amazon Echo, Google Home, Apple Speaker, secure from even cloud providers like previously mentioned companies because their solution, which is based on an implementation of homomorphic encryption combined with artificial neural networks allows companies to run computational processes on your data without ever decrypting your data in the cloud.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/015.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/017.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Recent articles from GTC 2018\n\nHTC Vive’s Commercial Business Strategy for Virtual",
+   "body": "Recent articles from GTC 2018\n\nHTC Vive’s Commercial Business Strategy for Virtual Reality\n\nHTC Vive’s Commercial Business Strategy for Virtual Reality Includes a hint about how easy it is to use the Vive Lighthouse 2.0 technology (just attach a puck to any wall or even… medium.com\n\nNvidia demo: Engineer drives a real car from inside VR\n\nNvidia demo: Engineer drives a real car from inside VR Nvidia combines its Virtual Reality Holodeck application with Self Driving Cars so a human can take over a vehicle… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472105/019.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[HTC Vive’s Commercial Business Strategy for Virtual Reality]] · [[San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017.]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-eddd3e5de723",
+     "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+    },
+    {
+     "id": "vrma-3c38de901812",
+     "title": "San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017."
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    }
+   ]
+  }
+ ]
+}

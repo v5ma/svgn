@@ -1,0 +1,150 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471848",
+ "title": "Oculus Half Dome VR Headset Prototype revealed at F8 today",
+ "dek": "The headset has a 140 Degree Field of View and motors behind the lenses to make nearby objects sharper and easier to read.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-05-03",
+ "articleHref": "/wiki/svgn/articles/2018-05-03-oculus-half-dome-vr-headset-prototype-revealed-at-f8-today-vrma-5bcce90c31a5",
+ "sourceUrl": "https://www.svgn.io/p/oculus-half-dome-vr-headset-prototype-revealed-at-f8-today-5bcce90c31a5",
+ "topTerms": [
+  "micah",
+  "lenses",
+  "technology",
+  "global",
+  "blumberg",
+  "journalist",
+  "researcher",
+  "oculus"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  },
+  {
+   "id": "vrma-35d903e72cdb",
+   "title": "CES 2022 Day 1: AR VR 3D Metaverse Global News at 10pm"
+  },
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-a673d2063c5",
+   "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Oculus Half Dome VR Headset Prototype revealed at F8 today",
+   "body": "The headset has a 140 Degree Field of View and motors behind the lenses to make nearby objects sharper and easier to read.",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Micah Blumberg Journalist, Researcher, Neurohaxor reporting from F8",
+   "body": "Micah Blumberg Journalist, Researcher, Neurohaxor reporting from F8",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The Oculus Half Dome also features lenses that move physically closer or farther away to",
+   "body": "The Oculus Half Dome also features lenses that move physically closer or farther away to your eyes so you can focus on close-up items or far away items with demonstrated improvements in clarity.",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Notably the lenses move without creating vibrations or noise, so you may not even notice",
+   "body": "Notably the lenses move without creating vibrations or noise, so you may not even notice that your lenses are moving independently depending on the focal distance of what you are trying to look at.",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "The FOV appears to be increased vertically more than I expected and perhaps that could be",
+   "body": "The FOV appears to be increased vertically more than I expected and perhaps that could be related to the development of hand tracking and hand presence that was also touched on by the speaker Maria Fernandez Guajardo, Head of Product Management and Core Technology at Oculus right before she revealed the Half Dome Prototype.",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/015.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/017.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/019.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "The Varifocal Display technology, also called VAR could be related to work done by Gordon",
+   "body": "The Varifocal Display technology, also called VAR could be related to work done by Gordon Wetzstein’s students at Stanford (Hat Tip to Shannon Norrell)\n\nAdaptive VR adjusts to your vision, even if you wear glasses Virtual reality (VR) is a hot topic among tech enthusiasts. With initial success in the gaming and entertainment… blogs.mathworks.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/021.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "About The Neural Lace Podcast and more Author Micah Blumberg, Journalist, Researcher,",
+   "body": "About The Neural Lace Podcast and more Author Micah Blumberg, Journalist, Researcher, NeuroHacker, micah@vrma.io medium.com\n\nSilicon Valley Global News SVGN.io Silicon Valley Global News is about the Global Technology Industry. medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471848/023.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Micah Blumberg]] · [[CES 2022 Day 1: AR VR 3D Metaverse Global News at 10pm]] · [[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    },
+    {
+     "id": "vrma-35d903e72cdb",
+     "title": "CES 2022 Day 1: AR VR 3D Metaverse Global News at 10pm"
+    },
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-a673d2063c5",
+     "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+    }
+   ]
+  }
+ ]
+}

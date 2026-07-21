@@ -1,0 +1,114 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471847",
+ "title": "People to follow: Tom Emerich snaps new photos of the new Lenovo Star Wars Jedi Challenge AR System",
+ "dek": "On my list of great people to follow on social media is also Tom Emrich https://www.facebook.com/tomemrich",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-10",
+ "articleHref": "/wiki/svgn/articles/2017-10-10-people-to-follow-tom-emerich-snaps-new-photos-of-the-new-lenovo-star-wars-jedi-challen-vrma-ccb07f632282",
+ "sourceUrl": "https://www.svgn.io/p/people-to-follow-tom-emerich-snaps-new-photos-of-the-new-lenovo-star-wars-jedi-challenge-ar-system-ccb07f632282",
+ "topTerms": [
+  "google",
+  "reality",
+  "virtual",
+  "people",
+  "apps",
+  "things",
+  "pixel",
+  "name"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  },
+  {
+   "id": "vrma-334c25377ec9",
+   "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+  },
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "People to follow: Tom Emerich snaps new photos of the new Lenovo Star Wars Jedi Challenge AR System",
+   "body": "On my list of great people to follow on social media is also Tom Emrich https://www.facebook.com/tomemrich",
+   "image": "/wiki/svgn/articles/media/svgn-88471847/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471847/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471847/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Tom is constantly posting must read articles like these:\n\nWhy will AR Apps struggle for",
+   "body": "Tom is constantly posting must read articles like these:\n\nWhy will AR Apps struggle for engagement without ARCloud? AR-Native apps need real-time connections to People, Places & Things medium.com\n\nGoogle Lens pretty much confirmed for Pixel release Google Pixel 2’s main super secret feature seems to have spilled here days before the device is revealed with Google… www.slashgear.com\n\nJ.J. Abrams Is Producing a Live-Action Remake of Anime Sensation Your Name Your Name is one of the best animated films in recent memory, and Hollywood has finally taken notice. Paramount is… io9.gizmodo.com\n\nAugmented reality and the rise of the digital object — The Boston Globe If the Internet of Things already has you browsing around for a smart trash can big enough for all of your unused… www.bostonglobe.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471847/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "How Virtual Reality is finally starting to be useful for businesses Immersive technology",
+   "body": "How Virtual Reality is finally starting to be useful for businesses Immersive technology is having its moment. After decades of gestation, the catch-all term to describe virtual and… www.canadianbusiness.com\n\nViveport Unveils New Public Beta Of Viveport Arcade Manager Software We’ve covered with increasing frequency on VRFocus the rise of the virtual reality (VR) Arcade. The digital out-of-home… www.vrfocus.com\n\nMagic Leap Updates Site in Preparation for the “journey to launch” Magic Leap today launched a refresh of their official website which includes a new teaser stating that the company… www.roadtovr.com\n\nEnd",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471847/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471847/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471847/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…]] · [[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    },
+    {
+     "id": "vrma-334c25377ec9",
+     "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+    },
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471650",
+ "title": "Magic Leap not so magical",
+ "dek": "The 2.3 Billion Dollar Hustle",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-07-12",
+ "articleHref": "/wiki/svgn/articles/2018-07-12-magic-leap-not-so-magical-vrma-ca442f71a5c3",
+ "sourceUrl": "https://www.svgn.io/p/magic-leap-not-so-magical-ca442f71a5c3",
+ "topTerms": [
+  "hololens",
+  "reality",
+  "part",
+  "people",
+  "device",
+  "tracking",
+  "going",
+  "magic"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-57040e018fa2",
+   "title": "Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT"
+  },
+  {
+   "id": "vrma-822bbe1f599",
+   "title": "Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-8eb9947f544f",
+   "title": "The Metaverse launches today with Varjo Reality Cloud."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Magic Leap not so magical",
+   "body": "The 2.3 Billion Dollar Hustle",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The new Magic Leap demo is so disappointing.",
+   "body": "The new Magic Leap demo is so disappointing.\n\nI would say this looks like it is basically a similar device to the Microsoft Hololens but in a smaller package. I doubt that Microsoft spent 2.3 billion dollars developing Hololens.",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "The tracking looks okay if you watch the blue line tracking markers under that grid.",
+   "body": "The tracking looks okay if you watch the blue line tracking markers under that grid. It is apparently similar to the mesh and plane detection technology already included in your smart phone with ARkit, ARcore, and with Hololens.",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "The apparent need to configure your tracking area in each room is disappointing to me,",
+   "body": "The apparent need to configure your tracking area in each room is disappointing to me, ideally it should just work everywhere automatically always.\n\nFolks on twitter and facebook are similarly dissappointed by this demo comparing it to the Hololens from 4 years ago. I have a Hololens and honestly I don’t even like the Hololens that much. Why? Part of the problem with Hololens its limited FOV (field of view), part is because Hololens was not comfortable to wear, part of what I didn’t like was the constant plane detection, and the continual need to set up your space each time you wanted to use it, part of what I didn’t like is that with this kind of display you are not going to be able to also run VR (Virtual Reality) apps. This is AR (Augmented Reality) but its not an XR device because it can’t also do VR. I think people will buy this in small numbers, and it will be used for show and tell, and then its going to end up being another device on the shelf that you won’t use after a while like the hololens which people stop using after the novelty wears off.",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/007.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/009.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/011.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/013.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Will you get one?",
+   "body": "Will you get one? Will you use it daily? Weekly? Do you use AR apps on your phone regularly? I suspect that the majority of people will prefer to use the HTC Vive Pro Augmented Reality with its 100 degree field of view and with 16 base stations to cover 8 rooms of your house or office.\n\nPeople are saying that we were promised something like this cinematic quality whale crashing through the floor of gym, reality mixed with the movies. An experience that is possible with the Vive Pro but not with this.\n\nWith Magic Leap investors were taken for 2.3 billion dollars and the result is not cinematic quality graphics that are indistinguishable from reality. We have seen better product demonstrations from Google and Apple recently such as with Cloud Anchors that enable multiplayer shared AR experiences.",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/015.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/017.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/019.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/021.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/023.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/025.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/027.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "CastAR was better than this and they went out of business so what do you think is going",
+   "body": "CastAR was better than this and they went out of business so what do you think is going to happen?\n\nSilicon Valley Global News SVGN.io",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/029.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471650/031.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT]] · [[Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[The Metaverse launches today with Varjo Reality Cloud.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-57040e018fa2",
+     "title": "Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT"
+    },
+    {
+     "id": "vrma-822bbe1f599",
+     "title": "Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-8eb9947f544f",
+     "title": "The Metaverse launches today with Varjo Reality Cloud."
+    }
+   ]
+  }
+ ]
+}

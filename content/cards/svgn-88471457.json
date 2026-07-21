@@ -1,0 +1,102 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471457",
+ "title": "You should come work with me, because together we are going to change the world, but I can’t do it…",
+ "dek": "The Neural Lace Talks is a podcast about Science and Technology. Main website http://vrma.io Contact via micah@vrma.io",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-03-09",
+ "articleHref": "/wiki/svgn/articles/2017-03-09-you-should-come-work-with-me-because-together-we-are-going-to-change-the-world-but-i-c-vrma-972ea64089cf",
+ "sourceUrl": "https://www.svgn.io/p/you-should-work-for-me-because-im-going-to-change-the-world-but-i-need-your-help-to-do-it-972ea64089cf",
+ "topTerms": [
+  "people",
+  "need",
+  "lets",
+  "build",
+  "work",
+  "computer",
+  "world",
+  "reality"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-57040e018fa2",
+   "title": "Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT"
+  },
+  {
+   "id": "vrma-24288a777259",
+   "title": "Virtual reality for pain relief and Stentrode: A brain computer interface that can be implanted in…"
+  },
+  {
+   "id": "vrma-c6635d693766",
+   "title": "The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…"
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "You should come work with me, because together we are going to change the world, but I can’t do it…",
+   "body": "The Neural Lace Talks is a podcast about Science and Technology. Main website http://vrma.io Contact via micah@vrma.io",
+   "image": "/wiki/svgn/articles/media/svgn-88471457/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The Neural Lace Talks is a podcast about Science and Technology.",
+   "body": "The Neural Lace Talks is a podcast about Science and Technology.  Main website http://vrma.io Contact via micah@vrma.io\n\nI need the very best people, I’m not Apple, and I’m not Google, and I can’t offer you a healthcare plan today (maybe tomorrow) but if you can work with me we can accomplish amazing things I know it!\n\nI need computer vision experts, deep learning experts, eeg experts, expert neuroscientists, people who understand business, investing, and building companies, I need people who are willing to dream big most of all. I need a media team as well, savvy journalists, post production video people, a world class film crew. I need artists, designers, fashion tech people, musicians, djs, vocalists, virtual reality and augmented reality developers, I need companies that make sensors, companies that make ar vr glasses.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "My media team is the industry research arm of the company, we need to know about all the",
+   "body": "My media team is the industry research arm of the company, we need to know about all the emerging technologies, and the people behind them, and we need them to know us. So thats VRMA Virtual Reality Media.\n\nThe core of the company is called Self Aware Networks, because that is what we are, and because that is what we are building.\n\nWhile we are at it lets work together to build telepresence robots for Space VR, if Space VR will let continue to let us help make it so. My hope is that this project will help persuade some company that makes awesome GPU’s like Nvidia to give us an even bigger computer to work with, like a one hundred thousand dollar super computer.\n\nLets build self-aware networks, and I mean sentient artificial brains, with internal representations, with artificial qualia, essentially I mean artificial life.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Lets build Neural Lace to connect the brain and the computer to hack into the brains VR",
+   "body": "Lets build Neural Lace to connect the brain and the computer to hack into the brains VR system.\n\nLets build artificial neo cortex to extend the human brain’s thought work space.\n\nBeyond that lets do some good for the world, which brings me to my third company, that I am building with some great people, called Social Innovation AR/VR + AI + Blockchain\n\nWith Social Innovation lets build new tools to connect human beings to solve the three major issues facing mankind, the distribution of information, distribution of goods, distribution of services to end world hunger, help people transition to new jobs after automation begins to start taking jobs from the masses, lets massively reduce poverty, solve education on a global level.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "I need world class event organizers to bring people together, to create new focus groups,",
+   "body": "I need world class event organizers to bring people together, to create new focus groups, new think tanks, that unite ordinary people with real problems like teachers, with the virtual reality industry, in massive conventions, designed to think about solving education with VR globally.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471457/001.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT]] · [[Virtual reality for pain relief and Stentrode: A brain computer interface that can be implanted in…]] · [[The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-57040e018fa2",
+     "title": "Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT"
+    },
+    {
+     "id": "vrma-24288a777259",
+     "title": "Virtual reality for pain relief and Stentrode: A brain computer interface that can be implanted in…"
+    },
+    {
+     "id": "vrma-c6635d693766",
+     "title": "The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…"
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    }
+   ]
+  }
+ ]
+}

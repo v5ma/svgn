@@ -1,0 +1,75 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472237",
+ "title": "How do I create a header for my medium page that is like the hackernoon header?",
+ "dek": "How do I create a header for my medium page that is like the hackernoon header? By SVGN.io on October 5, 2017 . Exported from Medium on May 22, 2026.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-05",
+ "articleHref": "/wiki/svgn/articles/2017-10-05-how-do-i-create-a-header-for-my-medium-page-that-is-like-the-hackernoon-header-vrma-e626e873faf0",
+ "sourceUrl": "https://www.svgn.io/p/how-do-i-create-a-header-for-my-medium-page-that-is-like-the-hackernoon-header-e626e873faf0",
+ "topTerms": [
+  "header",
+  "create",
+  "medium",
+  "page",
+  "hackernoon"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-e626e873faf0",
+   "title": "How do I create a header for my medium page that is like the hackernoon header?"
+  },
+  {
+   "id": "vrma-f548ef208efd",
+   "title": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…"
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  },
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "How do I create a header for my medium page that is like the hackernoon header?",
+   "body": "How do I create a header for my medium page that is like the hackernoon header? By SVGN.io on October 5, 2017 . Exported from Medium on May 22, 2026.",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "How do I create a header for my medium page that is like the hackernoon header?",
+   "body": "How do I create a header for my medium page that is like the hackernoon header?",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[How do I create a header for my medium page that is like the hackernoon header?]] · [[Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-e626e873faf0",
+     "title": "How do I create a header for my medium page that is like the hackernoon header?"
+    },
+    {
+     "id": "vrma-f548ef208efd",
+     "title": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…"
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    },
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    }
+   ]
+  }
+ ]
+}

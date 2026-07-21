@@ -1,0 +1,114 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471443",
+ "title": "Every Speaker at SFVR 360 ôctō on October 20th",
+ "dek": "Speakers",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-09",
+ "articleHref": "/wiki/svgn/articles/2017-10-09-every-speaker-at-sfvr-360-ct-on-october-20th-vrma-8f0f6f0cbfca",
+ "sourceUrl": "https://www.svgn.io/p/speakers-so-far-for-sfvr-360-octo-8f0f6f0cbfca",
+ "topTerms": [
+  "reality",
+  "design",
+  "virtual",
+  "gamehearts",
+  "school",
+  "ways",
+  "middle",
+  "experiences"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  },
+  {
+   "id": "vrma-334c25377ec9",
+   "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+  },
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Every Speaker at SFVR 360 ôctō on October 20th",
+   "body": "Speakers",
+   "image": "/wiki/svgn/articles/media/svgn-88471443/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Every demo for SFVR 360 ôctō on October 20th One Reality medium.com",
+   "body": "Every demo for SFVR 360 ôctō on October 20th One Reality medium.com",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Speakers",
+   "body": "",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Azine Davoudzadeh Azine Davoudzadeh is a dynamic educator, creator and thought leader.",
+   "body": "Azine Davoudzadeh Azine Davoudzadeh is a dynamic educator, creator and thought leader. She has been teaching for over a decade and has experience implementing innovative ways of learning. She recently received her Masters in Education, where she researched how Virtual Reality effects middle school girls future career choices as well as learning outcomes in writing. She is looking to find ways to encourage young women to become more interested in VR. Currently, she teaches at Gale Ranch Middle School and offers after school Introductory VR classes to middle and high school students. “I am looking for VR developers to team up with in order to create classroom ready experiences we can test.” https://www.linkedin.com/in/azined/",
+   "image": "/wiki/svgn/articles/media/svgn-88471443/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Sheridan Tatsuno Co-founder of OneReality.se.",
+   "body": "Sheridan Tatsuno Co-founder of OneReality.se. Urban planner, writer, and tech strategist based in San Francisco. www.onereality.se, https://www.facebook.com/groups/263449064157532/",
+   "image": "/wiki/svgn/articles/media/svgn-88471443/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Ksenia Benifand Ksenia is a human-centred designer and futurist with a decade of",
+   "body": "Ksenia Benifand Ksenia is a human-centred designer and futurist with a decade of multidisciplinary experience helping private and public sectors, social enterprises and non-profits discover and design opportunities for innovation. She began her career in 3D animation, visual effects, and digital asset design working with filmmakers, artists and change makers to address social and environmental issues. She then transitioned into business model innovation and policy design. She currently leads the Strategic Foresight & Planning Unit within Government of Alberta, and advises health policy decision makers on future of technological advancements and applications (Virtual Reality, Artificial Intelligence, and etc.) in the healthcare sector. Her foray into designing Virtual Reality experiences, utilizes design thinking and participatory futures tools to address critical personal, social and cultural explorations. She holds a Master of Design, Strategic Foresight & Innovation.",
+   "image": "/wiki/svgn/articles/media/svgn-88471443/005.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Troy Allen Norcross Co-Owner of a freelance software development company, Gamehearts LLC,",
+   "body": "Troy Allen Norcross Co-Owner of a freelance software development company, Gamehearts LLC, that combines a creative user experiences with a strong coding background. Passionate about finding ways to solve problems a completely new method of interfacing with character and environmental development while working with Virtual Reality. gamehearts.co\n\nGamehearts LLC When there is a new innovative technology Gamehearts is there to design, develop, and deploy on it. From mobile phones… gamehearts.co\n\nSan Francisco Virtual Reality 360 ôctō Hey SFVR Folks, medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471443/007.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471443/009.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…]] · [[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    },
+    {
+     "id": "vrma-334c25377ec9",
+     "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+    },
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    }
+   ]
+  }
+ ]
+}

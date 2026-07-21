@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472443",
+ "title": "Medium has received significant updates.",
+ "dek": "Shuang van Reizen was live yesterday for Silicon Valley Global News at Oculus Connect 4 covering the latest version of Medium that runs on…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-14",
+ "articleHref": "/wiki/svgn/articles/2017-10-14-medium-has-received-significant-updates-vrma-4a8f97db5636",
+ "sourceUrl": "https://www.svgn.io/p/medium-has-received-significant-updates-4a8f97db5636",
+ "topTerms": [
+  "medium",
+  "oculus",
+  "silicon",
+  "valley",
+  "global",
+  "connect",
+  "shuang",
+  "reizen"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-ccd179bcac41",
+   "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+  },
+  {
+   "id": "vrma-e57a41fb406b",
+   "title": "Three events added to the Silicon Valley Global Events Calendar"
+  },
+  {
+   "id": "vrma-f800148de385",
+   "title": "Silicon Valley Global News: Front Page"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Medium has received significant updates.",
+   "body": "Shuang van Reizen was live yesterday for Silicon Valley Global News at Oculus Connect 4 covering the latest version of Medium that runs on…",
+   "image": "/wiki/svgn/articles/media/svgn-88472443/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Shuang van Reizen was live yesterday for Silicon Valley Global News at Oculus Connect 4",
+   "body": "Shuang van Reizen was live yesterday for Silicon Valley Global News at Oculus Connect 4 covering the latest version of Medium that runs on Oculus Rift\n\nWhat is great about Medium is that now the art you create can be pulled into the Facebook AR application so that you can place your art in the real world. Also Art created in Medium can now turned into 3D sculptures thanks to 3D printers and export features.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472443/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472443/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News",
+   "body": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News (more credits at the bottom) medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472443/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io]] · [[Three events added to the Silicon Valley Global Events Calendar]] · [[Silicon Valley Global News: Front Page]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-ccd179bcac41",
+     "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+    },
+    {
+     "id": "vrma-e57a41fb406b",
+     "title": "Three events added to the Silicon Valley Global Events Calendar"
+    },
+    {
+     "id": "vrma-f800148de385",
+     "title": "Silicon Valley Global News: Front Page"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472089",
+ "title": "Was the magical Law of Attraction in Donald Trump’s election playbook? Apparently it was:",
+ "dek": "Note: This is not about Politics, it’s about something trippy I noticed during the Political Campaign on CNN.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2016-11-15",
+ "articleHref": "/wiki/svgn/articles/2016-11-15-was-the-magical-law-of-attraction-in-donald-trump-s-election-playbook-apparently-it-wa-vrma-b08b17e56ddb",
+ "sourceUrl": "https://www.svgn.io/p/this-is-not-about-politics-its-about-something-trippy-i-noticed-during-the-political-campaign-on-b08b17e56ddb",
+ "topTerms": [
+  "trump",
+  "attraction",
+  "donald",
+  "conway",
+  "abraham",
+  "going",
+  "people",
+  "election"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-b08b17e56ddb",
+   "title": "Was the magical Law of Attraction in Donald Trump’s election playbook? Apparently it was:"
+  },
+  {
+   "id": "vrma-d9753d2bab19",
+   "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+  },
+  {
+   "id": "vrma-42d8a528a1a4",
+   "title": "What I said about what people expect to happen to Trump is actually true."
+  },
+  {
+   "id": "vrma-590e3b0a7351",
+   "title": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Was the magical Law of Attraction in Donald Trump’s election playbook? Apparently it was:",
+   "body": "Note: This is not about Politics, it’s about something trippy I noticed during the Political Campaign on CNN.",
+   "image": "/wiki/svgn/articles/media/svgn-88472089/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Was the magical Law of Attraction in Donald Trump’s election playbook?",
+   "body": "Was the magical Law of Attraction in Donald Trump’s election playbook? Apparently it was:\n\nI saw something on CNN back before the Election was over, this was just after the 2005 tapes of Donald Trump were released. At that point almost everybody including apparently also Trump thought he was going to lose the election, everyone except for his campaign manager Kellyanne Conway thought that it was over for him.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Conway said this to CNN:\n\nShe told him after his off script rant, “You and I are in a",
+   "body": "Conway said this to CNN:\n\nShe told him after his off script rant, “You and I are in a fight for the next 17 days.” When Trump asked why, Conway replied: “Because I know you’re going to win. And that comment you just made sounds like you think you’re going to lose. And we’re going to argue about it until you win.\n\nHis response?\n\n“He was like, ‘OK, honey. Then we’ll win,’ “ Conway said.”\n\nIn the next couple weeks Trump said “We’re Winning” several times on tv. He denied the polls were bad for him, he pushed an alternative reality in which he was winning.\n\nThen on tv I started seeing Obama & Hillary each trying to encourage more people to get out to vote, for fear that she might lose if people didn’t go to the polls to vote for her. Obama & Hillary were expressing fear of losing, and Donald was expressing confidence in winning. Donald’s confidence was like a rally at a sports game. Obama & Hillary were depressing their own people by talking about potentially losing.",
+   "image": "/wiki/svgn/articles/media/svgn-88472089/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "All this was trippy for me because it sounded like Conway and Trump were focused on using",
+   "body": "All this was trippy for me because it sounded like Conway and Trump were focused on using the Law of Attraction to win the Presidency.\n\nDo you remember the Law of Attraction?\n\nDo you remember Abraham Hicks? Abraham is an alien from another dimension who says all kinds of amazing insightful things. One of those things Abraham came up with was the Law of Attraction: Which is the idea that you Can make your reality by choosing your reality “thoughts become things” they said, many people laughed it off and said it was stupid. It is superstition and it is magic. Your head is not a magnet they said, you can’t attract a refrigerator with your thoughts. Okay fine it is silly.\n\nSo I searched for Abraham Hicks, Law of Attraction, and Donald Trump, and holy shit guess what I found? Donald Trump is used as an example of someone who is a master of the Law of Attraction by the alien being (Abraham) who invented the Law of Attraction, and now he’s the President Elect. Isn’t that insane?",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "https://m.youtube.com/watch?v=6DD0lEQv7Ss",
+   "body": "https://m.youtube.com/watch?v=6DD0lEQv7Ss",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Was the magical Law of Attraction in Donald Trump’s election playbook? Apparently it was:]] · [[Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…]] · [[What I said about what people expect to happen to Trump is actually true.]] · [[People in the core of the VR industry at places like the offices of Unity and Epic Games have been…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-b08b17e56ddb",
+     "title": "Was the magical Law of Attraction in Donald Trump’s election playbook? Apparently it was:"
+    },
+    {
+     "id": "vrma-d9753d2bab19",
+     "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+    },
+    {
+     "id": "vrma-42d8a528a1a4",
+     "title": "What I said about what people expect to happen to Trump is actually true."
+    },
+    {
+     "id": "vrma-590e3b0a7351",
+     "title": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been…"
+    }
+   ]
+  }
+ ]
+}

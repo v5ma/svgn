@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471637",
+ "title": "Rift Touch bundle drops to $399",
+ "dek": "The threat of Microsoft Mixed Reality headsets being sold for $300 dollars has spurred Oculus into dropping the price of the Rift + Touch…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-07-10",
+ "articleHref": "/wiki/svgn/articles/2017-07-10-rift-touch-bundle-drops-to-399-vrma-600749f7af35",
+ "sourceUrl": "https://www.svgn.io/p/rift-touch-bundle-drops-to-399-600749f7af35",
+ "topTerms": [
+  "vrma",
+  "article",
+  "reality",
+  "oculus",
+  "rift",
+  "virtual",
+  "micah",
+  "medium"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-30794b94c54e",
+   "title": "The VRMA Virtual Reality Media Publication the complete list of articles."
+  },
+  {
+   "id": "vrma-4ce638af7452",
+   "title": "The VRMA Virtual Reality Media Publication the complete list of articles."
+  },
+  {
+   "id": "vrma-1dc6a5851f41",
+   "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+  },
+  {
+   "id": "vrma-3706bd13a324",
+   "title": "Eight new stories for VRMA.io Virtual Reality Media"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Rift Touch bundle drops to $399",
+   "body": "The threat of Microsoft Mixed Reality headsets being sold for $300 dollars has spurred Oculus into dropping the price of the Rift + Touch…",
+   "image": "/wiki/svgn/articles/media/svgn-88471637/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The threat of Microsoft Mixed Reality headsets being sold for $300 dollars has spurred",
+   "body": "The threat of Microsoft Mixed Reality headsets being sold for $300 dollars has spurred Oculus into dropping the price of the Rift + Touch Bundle to $399.\n\nOculus Rift | Oculus The Oculus Rift is a virtual reality system that completely immerses you inside virtual worlds. Oculus Rift is… www.oculus.com\n\nSee my recent article about Rift v. Vive here, it was viewed by more than 1k (1.3k currently) people in a twenty four hour period:\n\nVive v. Rift which is better and what the VR/AR industry need to enter the mass market and become… VRMA Virtual Reality Media, Article by Micah Blumberg on July 7th, 2017 http://VRMA.work and http://VRMA.io email micah… medium.com\n\nListen to the story I did with Jules Urbach the CEO of Otoy",
+   "image": "/wiki/svgn/articles/media/svgn-88471637/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at",
+   "body": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY The Neural Lace Talks is a podcast about Science and Technology.  Main website http://vrma.io Contact via micah@vrma.io medium.com\n\nA guest article by Fifer Garbesi\n\nWhat EEG Can Bring to Your VR Experience Article written by Fifer Garbesi for VRMA.io Virtual Reality Media Regarding the 8th Augmented World Expo AWE2017… medium.com\n\nA guest article by Erin Pangilinan\n\nThe Power of Artificial Intelligence (AI), Virtual and Augmented Reality (VR and AR) on Medical… Article written by Erin Pangilinan for the Neural Lace Podcast at VRMA.io & VRMA.work VRMA is Virtual Reality Media… vrma.work\n\nAn article I wrote about MicrodoseVR",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "The brain as a special kind of hard drive.",
+   "body": "The brain as a special kind of hard drive. June 7th, 2017 Written by Micah Blumberg, Journalist, Neuroscientist by hobby since 2005, Founder of the Neural Lace… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471637/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[The VRMA Virtual Reality Media Publication the complete list of articles.]] · [[The VRMA Virtual Reality Media Publication the complete list of articles.]] · [[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]] · [[Eight new stories for VRMA.io Virtual Reality Media]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-30794b94c54e",
+     "title": "The VRMA Virtual Reality Media Publication the complete list of articles."
+    },
+    {
+     "id": "vrma-4ce638af7452",
+     "title": "The VRMA Virtual Reality Media Publication the complete list of articles."
+    },
+    {
+     "id": "vrma-1dc6a5851f41",
+     "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+    },
+    {
+     "id": "vrma-3706bd13a324",
+     "title": "Eight new stories for VRMA.io Virtual Reality Media"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472236",
+ "title": "Silicon Valley Global News: Front Page",
+ "dek": "October 1st 2017 Article by Micah Blumberg for Silicon Valley Global News. Writing and curating news stories about VR, AR, AI, Blockchain…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-01",
+ "articleHref": "/wiki/svgn/articles/2017-10-01-silicon-valley-global-news-front-page-vrma-f800148de385",
+ "sourceUrl": "https://www.svgn.io/p/silicon-valley-global-news-front-page-f800148de385",
+ "topTerms": [
+  "global",
+  "media",
+  "virtual",
+  "reality",
+  "silicon",
+  "valley",
+  "medium",
+  "list"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-ccd179bcac41",
+   "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+  },
+  {
+   "id": "vrma-e57a41fb406b",
+   "title": "Three events added to the Silicon Valley Global Events Calendar"
+  },
+  {
+   "id": "vrma-1dc6a5851f41",
+   "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Silicon Valley Global News: Front Page",
+   "body": "October 1st 2017 Article by Micah Blumberg for Silicon Valley Global News. Writing and curating news stories about VR, AR, AI, Blockchain…",
+   "image": "/wiki/svgn/articles/media/svgn-88472236/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "October 1st 2017 Article by Micah Blumberg for Silicon Valley Global News.",
+   "body": "October 1st 2017 Article by Micah Blumberg for Silicon Valley Global News. Writing and curating news stories about VR, AR, AI, Blockchain, Cryptocurrency, Self Driving Cars, Autonomous Vehicles, Neuroscience, Computational Biology, Computational Neuroscience, Evolution, Self Aware Networks, Microchips, GPU, Robots, the Global Technology Industry, Women in Tech and other stories that affect us all. SVGN.io is powered in part by River Studios.\n\nGlobal Tech News in case you missed it: October 1st 2017 Article by Micah Blumberg for Silicon Valley Global News. Writing and curating news stories about VR… medium.com\n\nOct 1: People to follow: Tom Emerich snaps new photos of the new Lenovo Star Wars Jedi Challenge AR System",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Tom Emerich snaps new photos of the new Lenovo Star Wars Jedi Challenge AR System On my",
+   "body": "Tom Emerich snaps new photos of the new Lenovo Star Wars Jedi Challenge AR System On my list of great people to follow on social media is also Tom Emrich https://www.facebook.com/tomemrich medium.com\n\nOct 1: People to follow: Robert Scoble tried 120 ARkit apps and he made a great list. This might make it easier to find ARkit apps that you like.VRMA Virtual Reality Media is now Silicon Valley Global News\n\nRobert Scoble tried 120 ARkit apps and he made a great list. *Note: The article was originally written on Facebook by Robert Scoble” You can find Robert on Facebook at https://www… medium.com\n\nThe VRMA Virtual Reality Media Publication the complete list of articles. VRMA Virtual Reality Media is now Silicon Valley Global News",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "The VRMA Virtual Reality Media Publication the complete list of articles.",
+   "body": "The VRMA Virtual Reality Media Publication the complete list of articles. Virtual Reality Media is now Silicon Valley Global News http://svgn.io medium.com\n\n29 Facebook groups in descending order of membership size.\n\nVirtual Reality Media Alliance 29 Facebook groups in descending order of membership size. medium.com",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472236/001.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472236/003.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472236/005.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io]] · [[Three events added to the Silicon Valley Global Events Calendar]] · [[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-ccd179bcac41",
+     "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+    },
+    {
+     "id": "vrma-e57a41fb406b",
+     "title": "Three events added to the Silicon Valley Global Events Calendar"
+    },
+    {
+     "id": "vrma-1dc6a5851f41",
+     "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+    }
+   ]
+  }
+ ]
+}

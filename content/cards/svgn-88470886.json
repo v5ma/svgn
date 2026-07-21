@@ -1,0 +1,150 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470886",
+ "title": "Varjo, with XR-3, has made the first fusion algorithm on top of lidar with video pass through.",
+ "dek": "Varjo’s fusion algorithm is combining volumetric capture (lidar) with video, with Nvidia’s deep learning optical flow algorithm, to…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2020-12-05",
+ "articleHref": "/wiki/svgn/articles/2020-12-05-varjo-with-xr-3-has-made-the-first-fusion-algorithm-on-top-of-lidar-with-video-pass-th-svgn-88470886",
+ "sourceUrl": "https://www.svgn.io/p/varjo-with-xr-3-has-made-the-first-fusion-algorithm-on-top-of-lidar-with-video-pass-through-a17ed33b7b0",
+ "topTerms": [
+  "varjo",
+  "headset",
+  "reality",
+  "facebook",
+  "depth",
+  "lidar",
+  "xr-3",
+  "neural"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-d610a1b6c908",
+   "title": "We shot through the Varjo Mixed Reality add on that makes their VR headset into an XR headset!"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-8916d80e0339",
+   "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+  },
+  {
+   "id": "vrma-4aa546469123",
+   "title": "Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Varjo, with XR-3, has made the first fusion algorithm on top of lidar with video pass through.",
+   "body": "Varjo’s fusion algorithm is combining volumetric capture (lidar) with video, with Nvidia’s deep learning optical flow algorithm, to…",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Story by Micah Blumberg (with help from Cecile Tamura), Silicon Valley Global News.",
+   "body": "Story by Micah Blumberg (with help from Cecile Tamura), Silicon Valley Global News.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Varjo is combining lidar and video to do high resolution depth capture that goes beyond",
+   "body": "Varjo is combining lidar and video to do high resolution depth capture that goes beyond what can be done with lidar alone. This process allows really stable pixel perfect depth capture at 90 fps, for things like real time holoportation to take you to other places on the planet in VR or XR. When combined with 3D Semantic Segmentation the possibilities are mind-expanding.\n\nVarjo uses the full field of view lidar on their new XR-3 headset (with the same fov for the lidar as the video) 108 degrees wide lidar feed of the world around you, it’s used as a ground truth with the VSD (video) cameras which are run through Nvidia’s deep neural network optical flow algorithm that create a depthmap for the video see through feed, for every single pixel captured by the VSD cameras.",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Then there are three layers of filtering that bias the data based on the time of flight",
+   "body": "Then there are three layers of filtering that bias the data based on the time of flight (lidar) data, the resulting depth image (seen on the right of the above image has incredible high resolution depth) with highly detailed, really stable, pixel perfect, depth contours in every single frame at 90 frames per second, it captures depth details like hair, this allows incredible beautiful depth gradients, and allows camera reprojections, 3D reconstructions, really high quality holoportation of the things in front of the headset, in real time, to other places on the planet.\n\nSee the full interview with Urho Kontorri, the co-founder and Chief Innovation Officer of Varjo, about the details of new XR-3 & VR-3 launching this month.",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Silicon Valley Global News (with Cecilia Tamura and Micah Blumberg) had the chance to have a very long in depth interview with Urho Konttori, the co-founder and Chief Innovation Officer of Varjo, about the details of new XR-3 & VR-3 launching this month.",
+   "body": "",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "I’ve personally tried the Varjo headsets on 3 separate occasions before the Pandemic",
+   "body": "I’ve personally tried the Varjo headsets on 3 separate occasions before the Pandemic began. This is the highest quality possible virtual reality and or mixed reality headset that money can buy. I’ve also tried the Magic Leap and the Hololens 2 headset on multiple occasions but so far no Mixed Reality headset compares to the Varjo XR-2 or XR-3.\n\nI say with confidence that the XR-3 really is the very best Mixed Reality headset that professionals can buy, but it’s also the VR headset of choice for big companies like Kia Motors in the age of the pandemic for remote design work with Autodesk software.",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/005.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Varjo is also the latest VR XR headset maker to integrate Ultraleap’s hand-tracking",
+   "body": "Varjo is also the latest VR XR headset maker to integrate Ultraleap’s hand-tracking technology (Ultraleap formerly called Leap Motion). A purchase includes licenses for the latest generation 5 algorithm (that was at the time of the interview still unavailable to the general public, but Varjo includes those Ultraleap licenses with purchase of the XR-3 or VR-3).\n\nDigital worlds that feel human | Ultraleap Our world-leading hand tracking and haptics powers intuitive, touchless gesture control in AR/VR, interactive kiosks… www.ultraleap.com",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/007.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "The Varjo XR-3 and VR-3 are each a major technological advance forward.",
+   "body": "A critical new feature is that now you can have high resolution everywhere you look in the headset thanks to a higher resolution peripheral screen with foveated rendering technology.\n\nProfessionals can have the confidence now that what they are seeing in the color space is exactly the same across all Varjo headsets with Professional Grade Color Space (99% sRGB and 93% DCI-p3)",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "The Varjo screen is wider than any of the mainstream consumer VR headsets including the",
+   "body": "The Varjo screen is wider than any of the mainstream consumer VR headsets including the Valve Index and the Reverb G2 HP.\n\nNotable improvements to the Varjo XR-3 & VR-3 include a 40% wider FOV than their previous generation for the sweet spot, and the center of focus was moved downward based on feedback from professional customers.",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/009.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "However as previously noted there is no longer a significant difference where you are",
+   "body": "However as previously noted there is no longer a significant difference where you are looking depending on whether it’s the center display or the peripheral display because of the integration of foveated rendering.",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/011.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/013.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Kia Motors Kia motors, a Varjo customer, has changed their business around the Varjo",
+   "body": "Kia Motors Kia motors, a Varjo customer, has changed their business around the Varjo headset, in part because of the pandemic, because of flight restrictions. So they meet once a week or more in the Varjo headset, to review Kia car designs in perfect clarity.\n\nAs a result of using the Varjo XR headsets Kia motor’s design flows are faster and their team coordination has improved.",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/015.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "Thanks for reading.",
+   "body": "Thanks for reading.\n\nCecile Tamura and I admin several great groups on Facebook that you can join or comment on this article in.\n\nDeep Learning Deep learning has 135,902 members. Nowadays society tends to be soft and automated evolving into the 4th industrial… www.facebook.com\n\nSteamVR SteamVR has 30,083 members. This is a group that is exclusively for content related to Valve's Steam VR. It's for Steam… www.facebook.com\n\nVR News VR News Chris Esposito, Cecile G. Tamura, and myself (Micah Blumberg) created \"Gear VR, Oculus Rift, HTC Vive… www.facebook.com\n\nSelf-Aware Networks: Computational Biology, Neural Lace Group Objective: To build Neural Lace, Artificial Cortex, and Artificial brains. Neural Lace is also knowns as Neural… www.facebook.com",
+   "image": "/wiki/svgn/articles/media/svgn-88470886/017.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "Augmented Reality + WebAR only (no VR topics) Augmented Reality + WebAR only (no VR",
+   "body": "Augmented Reality + WebAR only (no VR topics) Augmented Reality + WebAR only (no VR topics) To begin with Augmented Reality asks us to imagine interacting with our… www.facebook.com\n\nMixed Reality (Augmented Reality hardware & software) The topics for this group included Mixed Reality devices, software, news and augmented reality tech demos. In general… www.facebook.com\n\nThe Matrix The Matrix has 213 members. Share & discuss a broad range of intellectually stimulating topics webxr programming… www.facebook.com",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[We shot through the Varjo Mixed Reality add on that makes their VR headset into an XR headset!]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…]] · [[Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-d610a1b6c908",
+     "title": "We shot through the Varjo Mixed Reality add on that makes their VR headset into an XR headset!"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-8916d80e0339",
+     "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+    },
+    {
+     "id": "vrma-4aa546469123",
+     "title": "Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2"
+    }
+   ]
+  }
+ ]
+}

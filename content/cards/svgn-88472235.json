@@ -1,0 +1,138 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472235",
+ "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io",
+ "dek": "A Co-Authored Podcast/Article by Kevin Kunes, Victoria Del Castillo, and Micah Blumberg",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-03-18",
+ "articleHref": "/wiki/svgn/articles/2018-03-18-gdc-excitement-a-pre-show-chat-via-silicon-valley-global-news-http-svgn-io-vrma-ccd179bcac41",
+ "sourceUrl": "https://www.svgn.io/p/gdc-excitement-a-pre-show-chat-via-silicon-valley-global-news-http-svgn-io-ccd179bcac41",
+ "topTerms": [
+  "games",
+  "reality",
+  "some",
+  "virtual",
+  "https",
+  "victoria",
+  "play",
+  "people"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  },
+  {
+   "id": "vrma-4e7fff539676",
+   "title": "Nick Whiting from Epic Games explains the origin of XR (XR = Virtual Reality + Augmented Reality)."
+  },
+  {
+   "id": "vrma-c9f185cf1426",
+   "title": "Games & Virtual Reality 2018"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io",
+   "body": "A Co-Authored Podcast/Article by Kevin Kunes, Victoria Del Castillo, and Micah Blumberg",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Click here to listen to the podcast https://youtu.be/io9xuDk_TZI\n\nVictoria is a VR",
+   "body": "Click here to listen to the podcast https://youtu.be/io9xuDk_TZI\n\nVictoria is a VR developer, a Mixed Reality performance artist, and a conference associate at GDC for the past three years.\n\nKevin is an avid VR Games Enthusiast, he owns an HTC Vive and an Oculus, he owned the PS4-VR he tends to play all the top games every year when they come out, and in some cases that means he tries it on a friends headset or at a conference.\n\nMicah is Virtual Reality Enthusiast who is interested in Brain Computer Interfaces as they are being integrated into the next wave of VR and AR devices.\n\nVictoria is most excited about the sessions at GDC because you get to hear amazing people who have made amazing games giving incredible advice.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "GDC is a unique opportunity to meet some of the most exciting people in the world who are",
+   "body": "GDC is a unique opportunity to meet some of the most exciting people in the world who are develop the best games hardware software as well as VR hardware and software. It’s also a unique opportunity to try AR VR headsets and other new game systems before they come to the market.\n\nGDC is a place where you can get an exclusive sneak peak into games before most people in the world get the play them.\n\nSome of the games we want to play in VR include Zelda, Mario Kart, Beat Saber, and Skyrim VR on the PC. Some of the games we like include Mindshow, Fallout 4 VR, Rick & Morty VR, Job Simulator.\n\nVictoria really wants to see a VRDC session called Hardware vs Software it’s about lessons learned from the 60s until today. Room 25 in the North Hall.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Kevin plans to hunt down the Far Cry booth.",
+   "body": "Kevin plans to hunt down the Far Cry booth. He thinks Far Cry 5 may end up being the game of the year.\n\nTo hear everything else that we talked about listen to the video by clicking this link https://youtu.be/io9xuDk_TZI",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472235/001.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472235/003.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472235/005.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472235/007.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472235/009.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472235/011.png"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472235/013.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "This was originally shared in the Steam VR group, and the San Francisco Virtual Reality",
+   "body": "This was originally shared in the Steam VR group, and the San Francisco Virtual Reality group.\n\nSan Francisco Virtual Reality SFVR This is SFVR360.com Our other website is SFVR.net We're the leading virtual reality gathering in San Francisco, and we… www.facebook.com\n\nhttps://www.facebook.com/groups/htcvive/",
+   "image": "/wiki/svgn/articles/media/svgn-88472235/015.png"
+  },
+  {
+   "seq": 13,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]] · [[Nick Whiting from Epic Games explains the origin of XR (XR = Virtual Reality + Augmented Reality).]] · [[Games & Virtual Reality 2018]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    },
+    {
+     "id": "vrma-4e7fff539676",
+     "title": "Nick Whiting from Epic Games explains the origin of XR (XR = Virtual Reality + Augmented Reality)."
+    },
+    {
+     "id": "vrma-c9f185cf1426",
+     "title": "Games & Virtual Reality 2018"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    }
+   ]
+  }
+ ]
+}

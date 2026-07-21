@@ -1,0 +1,84 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471444",
+ "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…",
+ "dek": "Gear VR https://www.facebook.com/Gear-VR-588869044624254/",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-11-02",
+ "articleHref": "/wiki/svgn/articles/2017-11-02-a-list-of-facebook-pages-that-i-very-casually-maintain-now-added-to-the-vrma-virtual-r-vrma-1dc6a5851f41",
+ "sourceUrl": "https://www.svgn.io/p/a-list-of-facebook-pages-that-i-very-casually-maintain-now-added-to-the-vrma-virtual-reality-media-1dc6a5851f41",
+ "topTerms": [
+  "facebook",
+  "https",
+  "virtual",
+  "reality",
+  "media",
+  "alliance",
+  "groups",
+  "group"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-357d34f7b350",
+   "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+  },
+  {
+   "id": "vrma-1dc6a5851f41",
+   "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+  },
+  {
+   "id": "vrma-df01fa2f5af7",
+   "title": "The Virtual Reality Media Alliance: Companies"
+  },
+  {
+   "id": "vrma-406ccc1adbe8",
+   "title": "The Virtual Reality Media Alliance"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…",
+   "body": "Gear VR https://www.facebook.com/Gear-VR-588869044624254/",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "HTC VIVE the Steam VR Group",
+   "body": "HTC VIVE the Steam VR Group https://www.facebook.com/HTC-VIVE-the-Steam-VR-Group-279122999103555/\n\nVRMA Virtual Reality Media Alliance https://www.facebook.com/vrviral/\n\nSFVR San Francisco Virtual Reality https://www.facebook.com/sfvrtech/\n\nOculus Rift Creative Community https://www.facebook.com/Oculus-Rift-Creative-Community-107479903011966/\n\nPlaystation VR https://www.facebook.com/Sony-Playstation-VR-1555157964789842/?ref=bookmarks\n\nI fucking love Neurophysics. https://www.facebook.com/iflneurophysics/?ref=bookmarks\n\nDaydream https://www.facebook.com/daydreamvirtualreality/\n\nNeo Mind Cycle https://www.facebook.com/NeoMindCycle/\n\nLucid Dreaming https://www.facebook.com/Lucid-Dreaming-203126696397602/\n\nThe Virtual Reality Media Alliance When you join VRMA I will list your social media group, blog, event, and or company here with the 29 Groups that I… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The original list of 29 Facebook groups that started the Virtual Reality Media Alliance",
+   "body": "The original list of 29 Facebook groups that started the Virtual Reality Media Alliance 29 Facebook groups in descending order of membership size. medium.com",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size.]] · [[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]] · [[The Virtual Reality Media Alliance: Companies]] · [[The Virtual Reality Media Alliance]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-357d34f7b350",
+     "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+    },
+    {
+     "id": "vrma-1dc6a5851f41",
+     "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+    },
+    {
+     "id": "vrma-df01fa2f5af7",
+     "title": "The Virtual Reality Media Alliance: Companies"
+    },
+    {
+     "id": "vrma-406ccc1adbe8",
+     "title": "The Virtual Reality Media Alliance"
+    }
+   ]
+  }
+ ]
+}

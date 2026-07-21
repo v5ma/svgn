@@ -1,0 +1,76 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471624",
+ "title": "Tribal knowledge and the lessons of history will help us build next generation search engines and…",
+ "dek": "The Neural Lace Talks is a podcast about Science and Technology. Main website http://vrma.io Contact via micah@vrma.io",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-03-17",
+ "articleHref": "/wiki/svgn/articles/2017-03-17-tribal-knowledge-and-the-lessons-of-history-will-help-us-build-next-generation-search--vrma-4029ed3868f7",
+ "sourceUrl": "https://www.svgn.io/p/the-lessons-of-history-will-help-us-build-the-search-engines-of-tomorrow-4029ed3868f7",
+ "topTerms": [
+  "great",
+  "find",
+  "tech",
+  "conversation",
+  "life",
+  "because",
+  "talk",
+  "history"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-b1cc88f6e381",
+   "title": "History is plentiful with examples of women doing amazing feats of science and math."
+  },
+  {
+   "id": "vrma-4029ed3868f7",
+   "title": "Tribal knowledge and the lessons of history will help us build next generation search engines and…"
+  },
+  {
+   "id": "vrma-972ea64089cf",
+   "title": "You should come work with me, because together we are going to change the world, but I can’t do it…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Tribal knowledge and the lessons of history will help us build next generation search engines and…",
+   "body": "The Neural Lace Talks is a podcast about Science and Technology. Main website http://vrma.io Contact via micah@vrma.io",
+   "image": "/wiki/svgn/articles/media/svgn-88471624/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The Neural Lace Talks is a podcast about Science and Technology.",
+   "body": "The Neural Lace Talks is a podcast about Science and Technology.  Main website http://vrma.io Contact via micah@vrma.io",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "I had a long conversation with a man the previous night, we were having one of those",
+   "body": "I had a long conversation with a man the previous night, we were having one of those conversations I typically have with folks that will often cause someone who isn’t in the conversation to cut in saying something like “wow that is the most interesting conversation I’ve ever eavesdropped on” because we often make people’s heads explode when we talk, and I don’t mean literally. I’m really not sure how I keep finding the most amazing and most brilliant people to talk to, I would guess that San Francisco was a special place, and it is, but these kinds of interesting conversations happen to me everywhere I travel. For instance there was a completely different man in Florida last week who gave me the most sage advice. I feel as though transcendent wisdom is constantly being delivered upon me, everywhere I go, as if my being were some kind of electromagnetic computational bio-fusion reactor for physically attracting amazing conversations (don’t ask me what that means it’s cognitive neuroscience humor). So back to the conversation I had with a man the previous night, he had a criticism for me, one that I have frequently heard from a great many intelligent and lovely people, he said to me that I need to focus on doing one thing really well, and he asked me to specifically look at the history of libraries, including ancient libraries, for clues to how we can fix internet search. This involved an examination of life size holographic dancing singers (who are manipulating crowds of folks in Japan, and have been for a great many years now) followed by a very well reasoned argument that we are going to talk to computers and computers will talk back with human level conversation, and I mean at expert librarian human level conversation, within about five years, and that what we have awaiting us is a “glasses free” meaning no VR or AR or MR, and a laptop free future, (an idea that I have a lot of trouble with, but I’m listening) where the entire computer fits into a watch, or a ring, and there is a second device that will make life size holograms and giant screens appear in any room, so that we can with greater ease than ever before find information, share information (he means locally), and all of us can be expertly informed and expertly persuasive with innovations in human level AI experts that are Life Size Holograms implementing brand new search engine concepts that are fundamentally based on a historical examination of how information has been organized throughout time. This talk also included a fantastic lesson in how to be an extraordinary success in tech and business. It was amazing to hear him destroy the Twitters and Pinterests of the world, because these are people he knows and has known for a great many years, and it was very interesting to hear his argument about how the lack of Tribal Knowledge in general that exists in a great number of Silicon Valley Tech Companies is the reason these companies are not making real money, or not making the money they might otherwise be making. It is in part because they are not harvesting the fruit that is the history of how humans have learned to do things over great periods of time. They are not making money because they are more interested in engineering new things for the sake of knowing how or what they can build, when it comes to technology, than they are in pursuing the question of why, why in the context of why things have been done this way or that way, why in the context of what problem are we solving and what questions are we asking, and why did our ancestors resolve to do it this way or that way eventually. (This is the point when someone usually references Richard Feymann saying that we should ask the question of how and not the question why). Some of what he said I will need to unpack later on, but the sum of his advice was that to find great success, among all these young tech startups, I should consult the older generations, to find an old man for example, who might be working class, who works hard every day, and find out about his life, to find out what would make his life easier, and the answer to that question is where we can find the product that scales to everyone. That is where the younger tech enlightened folk will find the answer to what we should be building, or why we should be focusing on this verses that. Consult the elders, learn from the great things that were built over decades and centuries and millenniums, learn from history, then the tech world will begin to make products that make money, that was his message to me. Learn the lessons of history, and that is where the path of great success will come from. At the end of the day, business is about providing value, value is something you can sell, real value sells real well, so look to history, find out what you can make with tech that ads value to a particular person’s life, a person who is wise with Tribal Knowledge, then the tech you build will scale big, because it provides the kind of value that sells very well.",
+   "image": "/wiki/svgn/articles/media/svgn-88471624/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[History is plentiful with examples of women doing amazing feats of science and math.]] · [[Tribal knowledge and the lessons of history will help us build next generation search engines and…]] · [[You should come work with me, because together we are going to change the world, but I can’t do it…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-b1cc88f6e381",
+     "title": "History is plentiful with examples of women doing amazing feats of science and math."
+    },
+    {
+     "id": "vrma-4029ed3868f7",
+     "title": "Tribal knowledge and the lessons of history will help us build next generation search engines and…"
+    },
+    {
+     "id": "vrma-972ea64089cf",
+     "title": "You should come work with me, because together we are going to change the world, but I can’t do it…"
+    }
+   ]
+  }
+ ]
+}

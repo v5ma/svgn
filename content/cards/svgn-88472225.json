@@ -1,0 +1,366 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472225",
+ "title": "A Major GDC Goal Achieved: Hands on with the HTC Vive Focus at GDC 2018",
+ "dek": "How it compares and contrasts to the HTC Vive, the Gear VR, and the Oculus Santa Cruz prototype.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-03-20",
+ "articleHref": "/wiki/svgn/articles/2018-03-20-a-major-gdc-goal-achieved-hands-on-with-the-htc-vive-focus-at-gdc-2018-vrma-c679f6dc6541",
+ "sourceUrl": "https://www.svgn.io/p/a-major-gdc-goal-achieved-hands-on-with-the-htc-vive-focus-at-gdc-2018-c679f6dc6541",
+ "topTerms": [
+  "vive",
+  "focus",
+  "mobile",
+  "headset",
+  "graphics",
+  "experience",
+  "oculus",
+  "controller"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-9f3bd9b2f76a",
+   "title": "Qualcomm has already built a working 6dof controller for MobileVR headsets, that lets you have hand…"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-da5a236fd239",
+   "title": "Valve Index shows up right on time to crush the weak excuse of a VR headset called Oculus Rift S."
+  },
+  {
+   "id": "vrma-5c0c331fcd7",
+   "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "A Major GDC Goal Achieved: Hands on with the HTC Vive Focus at GDC 2018",
+   "body": "How it compares and contrasts to the HTC Vive, the Gear VR, and the Oculus Santa Cruz prototype.",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "by Micah Blumberg, http://svgn.io",
+   "body": "by Micah Blumberg, http://svgn.io",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/015.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/017.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Silicon Valley Global News SVGN.io went hands on with the HTC Vive Focus at GDC 2018 The",
+   "body": "Silicon Valley Global News SVGN.io went hands on with the HTC Vive Focus at GDC 2018 The Game Developer Conference in San Francisco\n\nFifer tries Vive Focus at GDC 2018 https://youtu.be/6pgyim1-B3I",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/019.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/021.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/023.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/025.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/027.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/029.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/031.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/033.jpg"
+  },
+  {
+   "seq": 20,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/035.jpg"
+  },
+  {
+   "seq": 21,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/037.jpg"
+  },
+  {
+   "seq": 22,
+   "headline": "So I was super excited to finally get to try to the HTC Vive Focus which is the all in",
+   "body": "So I was super excited to finally get to try to the HTC Vive Focus which is the all in one Vive with a mobile chipset. Consumers will not have to purchase a separate computer to use this type of device because the headset itself contains the computer.",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/039.jpg"
+  },
+  {
+   "seq": 23,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/041.jpg"
+  },
+  {
+   "seq": 24,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/043.jpg"
+  },
+  {
+   "seq": 25,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/045.jpg"
+  },
+  {
+   "seq": 26,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/047.jpg"
+  },
+  {
+   "seq": 27,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/049.jpg"
+  },
+  {
+   "seq": 28,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/051.jpg"
+  },
+  {
+   "seq": 29,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/053.jpg"
+  },
+  {
+   "seq": 30,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/055.jpg"
+  },
+  {
+   "seq": 31,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/057.jpg"
+  },
+  {
+   "seq": 32,
+   "headline": "However it isn’t reasonable to expect that this is going to be as powerful as the HTC",
+   "body": "However it isn’t reasonable to expect that this is going to be as powerful as the HTC Vive Pro on a computer with a desktop GPU, and immediately I could see that the graphics were a bit more like mobile graphics. You can compare it to Gear VR but its much better than Gear VR, not quite in the realm of PSVR graphics. It’s really great to be able to move within a mobile VR experience that has good graphics and six degrees of freedom, also known as position tracking, this is something that Gear VR lacks, and Oculus Rift has.",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/059.jpg"
+  },
+  {
+   "seq": 33,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/061.jpg"
+  },
+  {
+   "seq": 34,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/063.jpg"
+  },
+  {
+   "seq": 35,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/065.jpg"
+  },
+  {
+   "seq": 36,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/067.jpg"
+  },
+  {
+   "seq": 37,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/069.jpg"
+  },
+  {
+   "seq": 38,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/071.jpg"
+  },
+  {
+   "seq": 39,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/073.jpg"
+  },
+  {
+   "seq": 40,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/075.jpg"
+  },
+  {
+   "seq": 41,
+   "headline": "I felt the graphics swim a little bit, but I was reminded that I was in a busy conference",
+   "body": "I felt the graphics swim a little bit, but I was reminded that I was in a busy conference room surrounded by people, and I was told that if you actually have one of these devices to yourself, in a more open space that isn’t filled with other people the tracking is actually quite good.\n\nI previously wrote that the single controller was a 3dof controller, not a 6dof controller, which means that the controller is not like the HTC Vive controllers that you can see moving in space, the controllers position in space is not tracked like the controllers on the Microsoft Mixed Reality headset or the Oculus Santa Cruz headset, instead the controller is a lot more like the Daydream and Gear VR controllers, and effectively it serves as a kind of laser pointer, or a mouse for VR.",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/077.jpg"
+  },
+  {
+   "seq": 42,
+   "headline": "I haven’t personally tried the Oculus Go, but a friend of mine tried the Oculus Go side",
+   "body": "I haven’t personally tried the Oculus Go, but a friend of mine tried the Oculus Go side by side with the HTC Vive Focus, she had pictures to prove it, and she said that the graphics in the HTC Vive Focus were superior.",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/079.jpg"
+  },
+  {
+   "seq": 43,
+   "headline": "When I was wearing the HTC Vive Focus I tried to ask myself if the graphics looked more",
+   "body": "When I was wearing the HTC Vive Focus I tried to ask myself if the graphics looked more like Mobile VR or more like Desktop VR, and the honest answer is that Vive Focus looks more like Mobile VR, while my experience with the Oculus Santa Cruz headset felt a lot closer to Desktop VR, however this is very subjective and it’s not an apples to apples comparison. I would need to test both headsets again several times, preferably with the exact same application on both headsets to really see the strengths and weaknesses of both headsets. So please take my impressions with a grain of salt, and you know don’t make a purchasing decision based on someone’s first impressions, it remains to be seen what the price of these systems will be and how great the application support will be for them.",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/081.jpg"
+  },
+  {
+   "seq": 44,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/083.jpg"
+  },
+  {
+   "seq": 45,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/085.jpg"
+  },
+  {
+   "seq": 46,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/087.jpg"
+  },
+  {
+   "seq": 47,
+   "headline": "The biggest thing that separates the Oculus Santa Cruz all in one system from almost all",
+   "body": "The biggest thing that separates the Oculus Santa Cruz all in one system from almost all other all in one mobile VR headsets I think is the fact that it has two controllers that are each position tracked, so the kinds of VR experiences that you make are in a way intended to be closer to the desktop VR experience an a step away from the mobile or Google Daydream type of experience which I think is a really good direction to go it.\n\nI’m really excited about all in one mobile VR in general, and the HTC Vive Focus is very impressive experience, its something that people can pack into a bag and easily show off to friends and family, its something that event organizers like myself, and VR developers (like the folks I work with) will appreciate for the ease of a demo setup. You no longer have to worry about managing Windows updates, graphics card software updates, or setting up a base stations, or tracking cameras or carrying a ton of equipment when you are running your demo on an all in one mobile headset, and yet you still get the immersion of a VR experience that has position tracking.",
+   "image": "/wiki/svgn/articles/media/svgn-88472225/089.jpg"
+  },
+  {
+   "seq": 48,
+   "headline": "Micah tried Vive Focus https://youtu.be/9rgU_O84Xyg\n\nThe bottomline for my first",
+   "body": "Micah tried Vive Focus https://youtu.be/9rgU_O84Xyg\n\nThe bottomline for my first impression of the HTC Vive Focus is that I like it, it’s exciting I would like to think that its something that I might use if I had one, and something that people in the VR industry would use to show off their software. However I have reservations about it having just a single 3dof controller, that feels like a design failure to me. Especially when the Oculus Santa Cruz has two 6dof controllers. I kinda hope that the HTC Vive Focus gets a few upgrades and a few updates before it is expanded to markets outside China. I like the fact that they made this, its nice looking, it felt comfortable, it was fun being inside it, having no wires, and being able to move around inside a VR app that was essentially free from a computer. I really don’t want VR to be tied to my computer any more, I’m ready to leave behind VR Ready PCs entirely and just move into using all in one VR AR headsets. The Vive Focus by the way does not do AR. A Vive all in one AR product could be exciting as well. The ability to have VR (AR) experiences while being able to see the world around you would be quite nice. It makes me hope that the Magic Leap is able to deliver on its promises. (In the News the Magic Leap SDK dropped today)",
+   "image": ""
+  },
+  {
+   "seq": 49,
+   "headline": "PS: I think the key to factor to how successful these all in one VR devices might be may",
+   "body": "PS: I think the key to factor to how successful these all in one VR devices might be may come down to price and when they become available. So far it is available in China and Vive hasn’t said that they plan to release it anywhere else so we will see if it comes to the US, the UK and other places outside China.\n\nAs far as price savings it is actually a big deal that users no longer need to purchase a computer, or a phone to drive the VR headset, so that is a big price savings over the premium Vive Pro experience which we learned today costs $799 for the headset without base stations or controllers. (The regular HTC Vive also dropped in price by 100 to about $500 dollars)\n\nAfter thinking about my experience for several hours I am kinda still leaning towards the Oculus Santa Cruz still as the device that I have tried that I want to own the most at this point in time. The Vive Focus isn’t bad at all, the image quality and the headsets position tracking is quite nice it is a very nice product overall. Unfortunately that single 3dof controller, that is like the Google Daydream controller, isn’t very exciting. I would be a lot happier if they copied the Microsoft Mixed Reality platform and used the two cameras in the headset to track that one controllers position in space. I think that would make a world of difference on the Vive Focus. Alas.",
+   "image": ""
+  },
+  {
+   "seq": 50,
+   "headline": "End.",
+   "body": "End.\n\nAbout the author: Micah Blumberg is a Journalist & Researcher at Death Star Robot, openly sharing the worlds most dangerous research (humor) to build neural lace, artificial cortex, and artificial brains reference: deathstarrobot.com vrma.io svgn.io neurohaxor.com neurotechx.com vrma.work and microdosevr.com I’m reporting from GDC 2018 the Game Developer Conference in San Francisco at the Moscone Center.",
+   "image": ""
+  },
+  {
+   "seq": 51,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Qualcomm has already built a working 6dof controller for MobileVR headsets, that lets you have hand…]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Valve Index shows up right on time to crush the weak excuse of a VR headset called Oculus Rift S.]] · [[The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-9f3bd9b2f76a",
+     "title": "Qualcomm has already built a working 6dof controller for MobileVR headsets, that lets you have hand…"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-da5a236fd239",
+     "title": "Valve Index shows up right on time to crush the weak excuse of a VR headset called Oculus Rift S."
+    },
+    {
+     "id": "vrma-5c0c331fcd7",
+     "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+    }
+   ]
+  }
+ ]
+}

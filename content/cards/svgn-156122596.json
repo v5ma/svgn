@@ -1,0 +1,352 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-156122596",
+ "title": "This year’s AI gatherings, like HumanX, discuss the autonomous Agentic future poised to transform entire industries.",
+ "dek": "In March, Vegas becomes the epicenter for global innovators at HumanX, bringing together top AI companies, for business-driven AI conversations shaping the future.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-01-30",
+ "articleHref": "/wiki/svgn/articles/2025-01-30-this-year-s-ai-gatherings-like-humanx-discuss-the-autonomous-agentic-future-poised-to--svgn-156122596",
+ "sourceUrl": "https://www.svgn.io/p/this-years-ai-gatherings-like-humanx",
+ "topTerms": [
+  "micah",
+  "humanx",
+  "blumberg",
+  "read",
+  "full",
+  "conference",
+  "ethical",
+  "technical"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  },
+  {
+   "id": "vrma-dc6e07210187",
+   "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+  },
+  {
+   "id": "vrma-17c4067a648e",
+   "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "This year’s AI gatherings, like HumanX, discuss the autonomous Agentic future poised to transform entire industries.",
+   "body": "In March, Vegas becomes the epicenter for global innovators at HumanX, bringing together top AI companies, for business-driven AI conversations shaping the future.",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/036.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Section 1: A Transformative Year for AI: HumanX Carves Out a Human-Centric",
+   "body": "Section 1: A Transformative Year for AI: HumanX Carves Out a Human-Centric Vision\n\nSection 2: Navigating the 2025 AI Circuit: Major Summits and Emerging Opportunities\n\nSection 3: Inside HumanX: Spotlight on Las Vegas’s Dynamic Forum for Ethics and Innovation",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Section 1: A Transformative Year for AI: HumanX Carves Out a Human-Centric Vision",
+   "body": "For months, tech circles have been buzzing with anticipation: 2025 promises to be a milestone year for artificial intelligence conferences. The perennial heavyweights—NeurIPS, ICML, and AAAI—still dominate the landscape, drawing renowned researchers and top venture capitalists alike. Yet HumanX , set to debut in Las Vegas from March 10-13, is rapidly emerging as a notable new forum. Its focus goes beyond technical breakthroughs, positioning AI instead as a transformative force in business , culture , and everyday human experiences .\n\nWhat truly distinguishes HumanX is its emphasis on people —how real users interact with AI solutions and how forward-thinking design can integrate seamlessly into daily life. While large-scale industry events like Nvidia’s GTC or the AI Summit in London typically highlight cutting-edge GPU innovations and the next generation of automation, HumanX is carving out a different narrative. The conversation here centers on user-centric design , ethical deployment , and the tangible ways AI shapes our shared experiences. This approach resonates with leaders who understand that AI isn’t just a technical revolution; it’s a societal one as well.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "The timing couldn’t be more relevant.",
+   "body": "The timing couldn’t be more relevant. At this year’s CES, entire floors showcased robotics, predictive healthcare tools, and AI-driven sustainability platforms. Everywhere you looked, intelligent algorithms were front and center. By contextualizing these advancements, HumanX aims to spotlight an emerging frontier—how AI can enhance our connections to products, services, and one another. This people-first perspective has begun to attract attention across sectors like healthcare, retail, hospitality, and finance.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "It also taps into a crucial shift happening within boardrooms worldwide.",
+   "body": "It also taps into a crucial shift happening within boardrooms worldwide. For many decision-makers, the pressing question is no longer “What’s next in AI?” but rather “How do we deploy AI responsibly and authentically?” This nuance—often overshadowed at events that focus primarily on technical metrics—lies at the heart of HumanX. Here, industry leaders and innovators alike will explore how to bridge cutting-edge lab research with real-world implementation that aligns with ethical guidelines and user needs.\n\nTaking a broader view, the story of 2025’s AI conference lineup underlines a universal truth: AI has graduated from the lab to become a ubiquitous force shaping healthcare, education, and even the way we socialize. Whether you’re probing new AI policy frameworks or investigating how businesses are retraining employees for data-enhanced roles, the lens through which we examine these advancements is widening. Readers, too, are eager for insights that go beyond mere conference agendas—such as behind-the-scenes stories of founders turning AI breakthroughs into practical solutions, or candid discussions about how major organizations plan to balance profit with accountability .",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/001.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "This is where HumanX finds its sweet spot.",
+   "body": "This is where HumanX finds its sweet spot. By championing design thinking and ethical practices alongside technical innovation, the conference underscores that AI is as much about human transformation as it is about technology. And as this agentic future unfolds, conferences like HumanX shine a spotlight not just on the next big algorithm but on how AI can become a truly positive force in our everyday lives.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Section 2: Navigating the 2025 AI Circuit: Major Summits and Emerging Opportunities",
+   "body": "A glance at the 2025 conference circuit reveals just how far AI has come—no longer confined to research labs, it’s now a global catalyst for innovation spanning industries and disciplines. February opens with the AAAI Conference in Philadelphia, a venerable forum where pioneering research meets real-world challenges. Attendees converge to explore topics ranging from human-computer interaction to robotics , laying a conceptual foundation that informs the rest of the year’s discussions.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Early in March HumanX will launch in Las Vegas, aiming to complement these technical",
+   "body": "Early in March HumanX will launch in Las Vegas, aiming to complement these technical breakthroughs with a more people-centric outlook. Its emphasis on ethical deployment , user-focused design , and real-world impact underscores a pivotal transformation in 2025: AI is moving from cutting-edge labs into our daily routines, prompting new questions about how best to harmonize technology with genuine human needs. Later in March, the focus shifts west. Nvidia’s GTC in San Jose dives into the high-performance computing arena, spotlighting GPU advancements that power complex AI models. As spring transitions to summer, the International Conference on Learning Representations (ICLR) takes the stage in Singapore. Known for its deep dive into representation learning ,",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/003.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "ICLR increasingly addresses real-world use cases—underscoring the field’s drive to create",
+   "body": "ICLR increasingly addresses real-world use cases—underscoring the field’s drive to create models that are as practical as they are powerful. Executives seeking strategic insights rather than purely technical details often turn to events like the Data + AI Summit in San Francisco, which combines hands-on workshops in data engineering and machine learning with broader enterprise-focused discussions. Across the Atlantic, the AI Summit London in June brings together diverse stakeholders—retailers, healthcare professionals, government agencies—all exploring how to integrate AI responsibly and at scale.\n\nIn late summer, Ai4 in Las Vegas gathers a global cohort of business and tech leaders, showcasing how AI solutions are already reshaping industries from cybersecurity to healthcare diagnostics . Like HumanX, Ai4 aims to bridge the gap between research labs and boardrooms, further illustrating the shared goal of ensuring AI’s transformative potential is both accessible and ethical. By autumn, World Summit AI in Amsterdam continues this global dialogue, emphasizing ethical frameworks and governance models that help organizations navigate AI’s rapid evolution.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "By December, NeurIPS in San Diego closes out the year by celebrating cutting-edge AI",
+   "body": "By December, NeurIPS in San Diego closes out the year by celebrating cutting-edge AI research. Even this predominantly academic conference now devotes significant attention to human impact , demonstrating how the entire ecosystem is shifting to incorporate ethical considerations and user-centric values. Taken together, the 2025 conference lineup paints a picture of an industry in transition—where established pillars like AAAI and NeurIPS delve into foundational science, while newer forums like HumanX highlight design thinking, community-building, and agentic AI . The result is a multidimensional conversation about how best to harness AI’s power, ensuring it not only excels on technical fronts but also resonates with the real-world experiences that shape our global future.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "Section 3: Inside HumanX: Spotlight on Las Vegas’s Dynamic Forum for Ethics and Innovation",
+   "body": "Running from March 10 to 13, 2025 , at the Fontainebleau in Las Vegas , HumanX is set to host more than 3,500 industry attendees and over 300 expert speakers¹ . Beyond showcasing the latest advances in generative AI , agentic AI , and other emerging technologies, the conference aims to highlight practical applications that can drive responsible adoption and long-term value.\n\nAmong the distinguished lineup of speakers are:\n\nIndustry Leaders\n\nKevin Weil , CPO at OpenAI\n\nSridhar Ramaswamy , CEO at Snowflake\n\nSwami Sivasubramanian , VP of AI & Data at Amazon\n\nClara Shih , Head of Business AI at Meta\n\nAI Pioneers\n\nThomas Wolf , Co-founder & Chief Science Officer at Hugging Face\n\nRaquel Urtasun , Founder & CEO at Waabi",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "Amjad Masad , CEO at Replit\n\nMike Krieger , CPO at Anthropic\n\nInvestors and",
+   "body": "Amjad Masad , CEO at Replit\n\nMike Krieger , CPO at Anthropic\n\nInvestors and Experts\n\nAlfred Lin , Partner at Sequoia Capital\n\nVinod Khosla , Partner at Khosla Ventures\n\nJae Evans , Global CIO & EVP at Oracle\n\nThese thought leaders will address topics spanning nine diverse tracks² , covering everything from machine learning breakthroughs and ethical AI governance to bias mitigation and transparent deployment . Sessions will also delve into data pipeline optimization and model interpretability , offering a pragmatic roadmap for organizations keen to integrate advanced AI solutions without sidelining human-centric values.\n\nCrucially, HumanX is designed for impact, rather than theory alone. The conference features two curated matchmaking programs , SolutionBridge and VentureConnect³ , which pair companies and investors with promising vendors and startups. This hands-on approach underscores HumanX’s mission to move beyond pure research, driving business transformation through meaningful partnerships and real-world implementations.",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "Underlying all of these discussions is the recognition that AI—whether in healthcare",
+   "body": "Underlying all of these discussions is the recognition that AI—whether in healthcare diagnostics, autonomous vehicles, or personalized consumer experiences—must be guided by ethical principles and thoughtful design . As agentic AI applications become more autonomous, the imperative to ensure responsible deployment grows clearer. By tackling both technical innovations and ethical frameworks, HumanX and its high-caliber roster of speakers offer an inclusive vision of how to harness AI’s power without losing sight of human values .\n\n¹ Projected by conference organizers based on registration data. ² Tracks include areas such as generative AI, AI ethics, agentic AI, and more. ³ SolutionBridge and VentureConnect are official HumanX programs pairing innovators with potential partners or investors.",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "Additional reading:",
+   "body": "Additional reading:",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/005.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "This year’s AI gatherings, like HumanX, discuss the autonomous Agentic future poised to transform entire industries.",
+   "body": "Micah Blumberg\n\n·\n\nJan 30",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "Section 1: A Transformative Year for AI: HumanX Carves Out a Human-Centric Vision\n\nRead",
+   "body": "Section 1: A Transformative Year for AI: HumanX Carves Out a Human-Centric Vision\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/005.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "After the DeepSeek Shock: CES 2025’s ‘One to Three Scaling Laws’ and the Race for AI Dominance",
+   "body": "Micah Blumberg\n\n·\n\nJan 28",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "It was a day of drama on Wall Street when shares of Nvidia plummeted by nearly 17",
+   "body": "It was a day of drama on Wall Street when shares of Nvidia plummeted by nearly 17 percent, slicing off around $600 billion from the chipmaker’s market cap. For a company that has long reigned as the go-to source of high-end graphics processing units (GPUs) in an age dominated by artificial intelligence, the tumble seemed to come out of nowhere. Likewise, competing chip designer AMD was down 6 percent, and TSMC—responsible for manufacturing many of Nvidia’s advanced chips—saw a 12 percent slide.\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/007.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "Micah’s New Law of Thermodynamics",
+   "body": "Micah Blumberg\n\n·\n\nJan 27",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "Introducing Micah’s New Law of Thermodynamics, A Signal-Dissipation Framework for",
+   "body": "Introducing Micah’s New Law of Thermodynamics, A Signal-Dissipation Framework for Equilibrium and Consciousness.\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/009.jpg"
+  },
+  {
+   "seq": 21,
+   "headline": "Introducing Quantum SuperTimePosition",
+   "body": "Micah Blumberg\n\n·\n\nJan 3",
+   "image": ""
+  },
+  {
+   "seq": 22,
+   "headline": "In a series of exploratory conversations, a new interpretation of quantum mechanics has",
+   "body": "In a series of exploratory conversations, a new interpretation of quantum mechanics has emerged—dubbed Quantum SuperTimePosition. This viewpoint suggests that quantum states evolve at a faster “internal clock rate” than we can measure, and that gravitational time dilation can modify this internal clock. According to this idea, quantum probabilities and …\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/011.jpg"
+  },
+  {
+   "seq": 23,
+   "headline": "Wave-Dissipation Universality",
+   "body": "Micah Blumberg\n\n·\n\nJan 3",
+   "image": ""
+  },
+  {
+   "seq": 24,
+   "headline": "Wave Perturbation & Dissipation Across Scales\n\nRead full story",
+   "body": "Wave Perturbation & Dissipation Across Scales\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/013.jpg"
+  },
+  {
+   "seq": 25,
+   "headline": "Why Einstein Was Right When He Said — “God Does Not Play Dice\"",
+   "body": "Micah Blumberg\n\n·\n\nJan 4",
+   "image": ""
+  },
+  {
+   "seq": 26,
+   "headline": "Albert Einstein famously remarked, “God does not play dice,” expressing skepticism toward",
+   "body": "Albert Einstein famously remarked, “God does not play dice,” expressing skepticism toward the idea that fundamental physics is ruled purely by intrinsic randomness.\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/015.jpg"
+  },
+  {
+   "seq": 27,
+   "headline": "A new book out today \"Bridging Molecular Mechanisms and Neural Oscillatory Dynamics\"",
+   "body": "Micah Blumberg\n\n·\n\nOctober 30, 2024\n\nThis book “Bridging Molecular Mechanisms and Neural Oscillatory Dynamics” and the Self Aware Networks Theory of Mind provide a novel unified framework for understanding consciousness addressing attention binding, the hard problem: how we observe what we observe, and qualia, what those observations are made out of .\n\nRead full story",
+   "image": ""
+  },
+  {
+   "seq": 28,
+   "headline": "A New Law of Thermodynamics",
+   "body": "Micah Blumberg\n\n·\n\nDecember 31, 2024",
+   "image": ""
+  },
+  {
+   "seq": 29,
+   "headline": "This letter came about because tonight I was watching Stephen Wolfram speak in a video to",
+   "body": "This letter came about because tonight I was watching Stephen Wolfram speak in a video to Dr. Brian Keating, and he was saying that the 2nd Law of Thermodynamics represents the observed result of an irreducible computation being performed by the molecules of gas. This made me sit up in my seat and realize that not only did I know the computation, being …\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/017.jpg"
+  },
+  {
+   "seq": 30,
+   "headline": "Dark Time Theory: A conversation about the core ideas forming a new frontier in physics.",
+   "body": "Micah Blumberg\n\n·\n\nOctober 22, 2024",
+   "image": ""
+  },
+  {
+   "seq": 31,
+   "headline": "Forward: ChatGPT o1-preview is much smarter and more skeptical than traditional ChatGPT",
+   "body": "Forward: ChatGPT o1-preview is much smarter and more skeptical than traditional ChatGPT 4o. It initially rejected my latest draft article on Dark Time Theory. So I had to reargue the basics from scratch, and I succeeded in persuading the model to my view.\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/019.jpg"
+  },
+  {
+   "seq": 32,
+   "headline": "Quantum Gravity's New Frontier: Time, Density, and Information",
+   "body": "Micah Blumberg\n\n·\n\nOctober 21, 2024",
+   "image": ""
+  },
+  {
+   "seq": 33,
+   "headline": "In the realm of theoretical physics, where the boundaries of human understanding are",
+   "body": "In the realm of theoretical physics, where the boundaries of human understanding are constantly pushed, two names have recently captured the attention of the scientific community: Ivette Fuentes and Netta Engelhardt. These accomplished physicists, while both working at the cutting edge of their field, approach the mysteries of the universe from fascinat…\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/021.jpg"
+  },
+  {
+   "seq": 34,
+   "headline": "Explain it to me like I am six: Quantum Gradient Time Crystal Dilation Theory. (Part 3)",
+   "body": "Micah Blumberg\n\n·\n\nMarch 27, 2024",
+   "image": ""
+  },
+  {
+   "seq": 35,
+   "headline": "I tried to explain my new Unified Field Theory while playing Population One on Meta Quest",
+   "body": "I tried to explain my new Unified Field Theory while playing Population One on Meta Quest 3. They didn’t understand, so they asked me to explain to them like they were six. I decided to use Figmin XR to illustrate the idea.\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/023.jpg"
+  },
+  {
+   "seq": 36,
+   "headline": "Quantum Gradient Time Crystal Dilation breaks the assumption that gravity equals metric curvature alone.",
+   "body": "Micah Blumberg\n\n·\n\nFebruary 15, 2024",
+   "image": ""
+  },
+  {
+   "seq": 37,
+   "headline": "This article is Part II in a series that explores a novel new Unified Field Theory called",
+   "body": "This article is Part II in a series that explores a novel new Unified Field Theory called Quantum Gradient Time Crystal Dilation (QGTCD) and its potential connections to existing frameworks like General Relativity (GR), Quantum Field Theory (QFT), and Modified Newtonian Dynamics (MOND). It presents a fascinating and ambitious attempt to unify aspects of…\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/025.jpg"
+  },
+  {
+   "seq": 38,
+   "headline": "New Unified Field Theory: Quantum Gradient Time Crystal Dilation: explains quantum mass as a time crystal dilating time at quantum scale & making gravity by increasing time frames.",
+   "body": "Micah Blumberg\n\n·\n\nJanuary 28, 2024",
+   "image": ""
+  },
+  {
+   "seq": 39,
+   "headline": "Note the content of this article was originally published on github here is the link:",
+   "body": "Note the content of this article was originally published on github here is the link: https://github.com/v5ma/selfawarenetworks/blob/main/QGTCD.md\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/027.jpg"
+  },
+  {
+   "seq": 40,
+   "headline": "The Brain's Hidden 3D Phase Field: How Neural Oscillations Compose Your Reality",
+   "body": "Micah Blumberg\n\n·\n\nOctober 22, 2024",
+   "image": ""
+  },
+  {
+   "seq": 41,
+   "headline": "This part of the article was composed by Claude AI after reading the content that I will",
+   "body": "This part of the article was composed by Claude AI after reading the content that I will post afterwards, after Claude’s remarks, note Claude’s remarks are based on a note from the Self Aware Networks: Theory Of Mind, a collection of notes & conjectures & research posted to\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/029.jpg"
+  },
+  {
+   "seq": 42,
+   "headline": "The Brain's Hidden 3D Phase Field: How Neural Oscillations Compose Your Reality",
+   "body": "Micah Blumberg\n\n·\n\nOctober 22, 2024",
+   "image": ""
+  },
+  {
+   "seq": 43,
+   "headline": "This part of the article was composed by Claude AI after reading the content that I will",
+   "body": "This part of the article was composed by Claude AI after reading the content that I will post afterwards, after Claude’s remarks, note Claude’s remarks are based on a note from the Self Aware Networks: Theory Of Mind, a collection of notes & conjectures & research posted to\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/029.jpg"
+  },
+  {
+   "seq": 44,
+   "headline": "\"Brain states as wave life motifs\" Waves of Consciousness: A New Paradigm for Understanding Brain States",
+   "body": "Micah Blumberg\n\n·\n\nOctober 13, 2024",
+   "image": ""
+  },
+  {
+   "seq": 45,
+   "headline": "”Brain states as wave-like motifs”\n\nRead full story",
+   "body": "”Brain states as wave-like motifs”\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/031.jpg"
+  },
+  {
+   "seq": 46,
+   "headline": "New Study Challenges Sensory Cortex Role in Predictive Coding: Implications for Neural Information Processing Models",
+   "body": "Micah Blumberg\n\n·\n\nOctober 5, 2024",
+   "image": ""
+  },
+  {
+   "seq": 47,
+   "headline": "The paper \"Stimulus history, not expectation, drives sensory prediction errors in",
+   "body": "The paper \"Stimulus history, not expectation, drives sensory prediction errors in mammalian cortex\" suggests that the neural prediction error signals in sensory cortices, often attributed to predictive coding models, are more closely driven by stimulus history rather than active top-down expectation. This finding challenges the idea that predictive codi…\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/033.jpg"
+  },
+  {
+   "seq": 48,
+   "headline": "Analog biological backpropagation: A new conjecture \"Self Aware Networks\" explains how derivatives & loss functions are represented in the brain.",
+   "body": "Micah Blumberg\n\n·\n\nSeptember 6, 2024",
+   "image": ""
+  },
+  {
+   "seq": 49,
+   "headline": "Have you ever wanted to know how Gradient Descent could work in the real human brain?",
+   "body": "Have you ever wanted to know how Gradient Descent could work in the real human brain? Here is a new conjecture that establishes a new argument about back propagation, derivatives, and loss functions in the brain with the purpose of connecting to ideas in Deep Neural Networks.\n\nRead full story\n\nEnd.",
+   "image": "/wiki/svgn/articles/media/svgn-156122596/035.jpg"
+  },
+  {
+   "seq": 50,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Micah Blumberg]] · [[Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages.]] · [[GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    },
+    {
+     "id": "vrma-dc6e07210187",
+     "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+    },
+    {
+     "id": "vrma-17c4067a648e",
+     "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+    }
+   ]
+  }
+ ]
+}

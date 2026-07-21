@@ -1,0 +1,84 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471638",
+ "title": "HTC leads VR Chat’s $4,000,000 Series A investment round, along with Rothenberg Ventures…",
+ "dek": "Written by Micah Blumberg for VRMA Virtual Reality Media and Silicon Valley Global News. http://vrma.io http://vrma.work (Note: VRMA is…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-09-21",
+ "articleHref": "/wiki/svgn/articles/2017-09-21-htc-leads-vr-chat-s-4-000-000-series-a-investment-round-along-with-rothenberg-ventures-vrma-f78331c55556",
+ "sourceUrl": "https://www.svgn.io/p/htc-leads-vrchats-4-000-000-series-a-investment-round-alongside-brightstone-vc-gvr-fund-and-f78331c55556",
+ "topTerms": [
+  "chat",
+  "vrchat",
+  "vrma",
+  "vive",
+  "steam",
+  "http",
+  "leading",
+  "social"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  },
+  {
+   "id": "vrma-dfaaccf19434",
+   "title": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking…"
+  },
+  {
+   "id": "vrma-b42b7db216bc",
+   "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+  },
+  {
+   "id": "vrma-b3aaab26bb26",
+   "title": "Now you can turn your whole house into a Steam VR playground with Vive 2.0"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "HTC leads VR Chat’s $4,000,000 Series A investment round, along with Rothenberg Ventures…",
+   "body": "Written by Micah Blumberg for VRMA Virtual Reality Media and Silicon Valley Global News. http://vrma.io http://vrma.work (Note: VRMA is…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Written by Micah Blumberg for VRMA Virtual Reality Media and Silicon Valley Global News.",
+   "body": "Written by Micah Blumberg for VRMA Virtual Reality Media and Silicon Valley Global News. http://vrma.io http://vrma.work (Note: VRMA is powered by River Studios which is funded by Rothenberg Ventures)\n\nHTC Vive chooses leading Social VR platform VRChat as key partner The VRChat team is proud to announce that we are joining forces with HTC Vive as a key investor and strategic partner… medium.com\n\nHere is a video that shows you what VR Chat is like https://www.youtube.com/watch?v=ZkqZxP7eVU4\n\nVR Chat is a Steam VR app that was released on Steam VR in January 2017\n\nVR Chat free and it supports the HTC Vive, Oculus Rift, and OSVR.\n\nThe founder’s have promised to keep it free and in support of multiple platforms for the foreseeable future.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Here is a VR Chat Tutorial to help you get started.",
+   "body": "Here is a VR Chat Tutorial to help you get started. I hope to see you in there. https://www.youtube.com/watch?v=NMHqb5CWeMQ\n\nPoints to Tom’s Hardware for talking to the folks at VR Chat inside VR Chat.\n\nHanging Out With The VRChat Devs, In VRChat The VRChat social platform launched on Steam on February 1. Leading up to the launch, the developers at VR Chat Inc… www.tomshardware.com\n\nEND of story.",
+   "image": "/wiki/svgn/articles/media/svgn-88471638/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]] · [[Terrorists may have infiltrated social media companies like Facebook and youtube, taking…]] · [[Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…]] · [[Now you can turn your whole house into a Steam VR playground with Vive 2.0]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    },
+    {
+     "id": "vrma-dfaaccf19434",
+     "title": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking…"
+    },
+    {
+     "id": "vrma-b42b7db216bc",
+     "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+    },
+    {
+     "id": "vrma-b3aaab26bb26",
+     "title": "Now you can turn your whole house into a Steam VR playground with Vive 2.0"
+    }
+   ]
+  }
+ ]
+}

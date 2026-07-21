@@ -1,0 +1,114 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471228",
+ "title": "A New Star Wars Trilogy in VR: Disney’s Star Wars: Secrets of the Empire brings their multiplayer…",
+ "dek": "David S. Goyer is the Writer and Executive Producer of Star Wars: Secrets of the Empire. He created an incredible experience with the folks…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-09-30",
+ "articleHref": "/wiki/svgn/articles/2018-09-30-a-new-star-wars-trilogy-in-vr-disney-s-star-wars-secrets-of-the-empire-brings-their-mu-vrma-6d516b381bd5",
+ "sourceUrl": "https://www.svgn.io/p/a-new-star-wars-trilogy-in-vr-disneys-star-wars-secrets-of-the-empire-brings-their-multiplayer-6d516b381bd5",
+ "topTerms": [
+  "oculus",
+  "quest",
+  "experience",
+  "void",
+  "based",
+  "star",
+  "wars",
+  "location"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-b42b7db216bc",
+   "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-14f4d71df57d",
+   "title": "F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399"
+  },
+  {
+   "id": "vrma-387f0bc78269",
+   "title": "The Oculus Quest is not just a new VR device it’s a cultural event."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "A New Star Wars Trilogy in VR: Disney’s Star Wars: Secrets of the Empire brings their multiplayer…",
+   "body": "David S. Goyer is the Writer and Executive Producer of Star Wars: Secrets of the Empire. He created an incredible experience with the folks…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "David S.",
+   "body": "David S. Goyer is the Writer and Executive Producer of Star Wars: Secrets of the Empire. He created an incredible experience with the folks at The Void and now he is bringing the next experience to the Oculus Quest. Based on what I saw at OC5 I believe that we are meant to think of this new three part Star Wars story (a trilogy) as a Multi-Player experience that can accommodate 4–6 players. Episode 1 is called: Vader Immortal. (Update: 10/2/2018 Please note that Oculus Quest will launch in the Spring of 2019 for $399. It’s a standalone headset with all the hardware inside, no external computer or phone is required to power it.) https://youtu.be/7VeEDoCkzXc\n\nWith Oculus Quest it will be possible for the average home or family to bring location based experiences, like Star Wars the Void experience, into their homes and offices.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "In the keynote we learned that Oculus & ILMxLAB formed a partnership to bring the Star",
+   "body": "In the keynote we learned that Oculus & ILMxLAB formed a partnership to bring the Star Wars: Secrets of the Empire series to the Oculus Quest, but what they really mean by that is we are getting Mixed Reality Multiplayer Location Based Entertainment experiences with 4 to 6 people (the number of people in the Void Experience is 4 and the number of people in the 4000ft Arena experience was 6.",
+   "image": "/wiki/svgn/articles/media/svgn-88471228/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471228/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Oculus Quest is wireless with great sound = the basis of major new contracts with brands",
+   "body": "Oculus Quest is wireless with great sound = the basis of major new contracts with brands like Disney, Star Wars, Lucasfilm and ILMxLAB You won’t need your own arcade center, you won’t need lighthouses or external motion tracking cameras or external computer systems, you will just need one Oculus Quest VR headset per person. You may not even need the controllers because Oculus Quest does full body tracking.",
+   "image": "/wiki/svgn/articles/media/svgn-88471228/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Let me tell you I tried Star Wars in the Void, and previously I have also tried",
+   "body": "Let me tell you I tried Star Wars in the Void, and previously I have also tried Ghostbusters in the Void. The Void as a location based VR experience is really refined, its far more refined than the Dead & Buried Arena experience with 6 players with the Oculus Quest was at OC5, but that’s okay, the Dead & Buried Arena experience was brand new and it was a demo only its not a finished product, while the Void has been serving customers for a long while with their products. Whats missing from the Quest’s location based VR equation are heat effects, vibration effects to simulate elevators, wind effects, and a physical statue of an R2 unit. Still if I was a company like the Void, doing location based entertainment, I might be worried about the future.",
+   "image": "/wiki/svgn/articles/media/svgn-88471228/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Some folks that I met at OC5 were puzzled why Star Wars: Secrets of the Empire: The Void",
+   "body": "Some folks that I met at OC5 were puzzled why Star Wars: Secrets of the Empire: The Void Experience was at Oculus Connect 5. Interestingly the Void Experience (at OC5) was physically positioned across from another location based experience 6 players playing together each with an Oculus Quest in a “4000 sq ft Arena”. (the game was called Dead & Buried). Were asked to note that their were no external motion trackers on the walls or in the space at all. All the position tracking of the Arena and the players was done inside the VR headsets. By contrast if you peak underneath the headset in “The Void” you can see motion tracking sensors all over the place above the players. That’s a sharp contrast. One that could impact the long term viability of the Location Based Entertainment VR market.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Andrew Bosworth the VP of AR/VR is using a keyboard with the Oculus Quest but where are",
+   "body": "Andrew Bosworth the VP of AR/VR is using a keyboard with the Oculus Quest but where are the touch controllers? You are also seeing hand & body tracking. See here: https://youtu.be/ZUeNt7qOGos\n\nHugo Barra the VP of VR at Oculus explains how Oculus Insight works. https://youtu.be/1sHwDJtI0eQ\n\nAnna Kozminski a Software Program Manager at Oculus explains how Oculus Quest does Mixed Reality. https://youtu.be/aUP0E70btZE\n\nOculus Quest Hands On + Video of Graphics Comparison with Rift\n\nRift vs Oculus Quest Graphics Comparison",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399]] · [[The Oculus Quest is not just a new VR device it’s a cultural event.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-b42b7db216bc",
+     "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-14f4d71df57d",
+     "title": "F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399"
+    },
+    {
+     "id": "vrma-387f0bc78269",
+     "title": "The Oculus Quest is not just a new VR device it’s a cultural event."
+    }
+   ]
+  }
+ ]
+}

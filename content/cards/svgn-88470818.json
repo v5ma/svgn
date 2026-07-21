@@ -1,0 +1,84 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470818",
+ "title": "Elias 4 offers a revolutionary combination of live-editing & visual scripting for sound effects…",
+ "dek": "I interviewed the CEO of Elias, Kristofer Eng, at GDC 2022 last week.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-03-28",
+ "articleHref": "/wiki/svgn/articles/2022-03-28-elias-4-offers-a-revolutionary-combination-of-live-editing-and-visual-scripting-for-so-vrma-4e7b479a688b",
+ "sourceUrl": "https://www.svgn.io/p/elias-4-offers-a-revolutionary-combination-of-live-editing-visual-scripting-for-sound-effects-4e7b479a688b",
+ "topTerms": [
+  "audio",
+  "player",
+  "micah",
+  "tool",
+  "particular",
+  "needs",
+  "article",
+  "interview"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-509e515d8554",
+   "title": "Exclusive Audio Interview from OC4: Oculus Project Santa Cruz"
+  },
+  {
+   "id": "vrma-172414c43c7",
+   "title": "New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO…"
+  },
+  {
+   "id": "vrma-cb1579029a04",
+   "title": "Moss Book II Developer Interview (with a tidbit about Playstation VR 2)"
+  },
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Elias 4 offers a revolutionary combination of live-editing & visual scripting for sound effects…",
+   "body": "I interviewed the CEO of Elias, Kristofer Eng, at GDC 2022 last week.",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article & Interview by Micah Blumberg, about Micah http://vrma.io\n\nThis new audio engine",
+   "body": "Article & Interview by Micah Blumberg, about Micah http://vrma.io\n\nThis new audio engine is welcome news for composers and sound effects creators. You will instantly hear the changes you make in your current play session, you can hotswap your audio assets. The visual scripting cuts out the middle layers so you can create logic within the authoring tool. The tool is adaptive to the player. So the game can recognize when a particular way player needs to be motivated, rewarded, or encouraged in a particular and then Elias 4 allows you to quickly & easily at the audio that the player needs at that moment.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470818/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Exclusive Audio Interview from OC4: Oculus Project Santa Cruz]] · [[New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO…]] · [[Moss Book II Developer Interview (with a tidbit about Playstation VR 2)]] · [[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-509e515d8554",
+     "title": "Exclusive Audio Interview from OC4: Oculus Project Santa Cruz"
+    },
+    {
+     "id": "vrma-172414c43c7",
+     "title": "New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO…"
+    },
+    {
+     "id": "vrma-cb1579029a04",
+     "title": "Moss Book II Developer Interview (with a tidbit about Playstation VR 2)"
+    },
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    }
+   ]
+  }
+ ]
+}

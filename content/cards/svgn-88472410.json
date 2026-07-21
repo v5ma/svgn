@@ -1,0 +1,78 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472410",
+ "title": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been…",
+ "dek": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been using XR to mean both AR and VR for a long time. Mixed Reality means something different depending on which company is ta",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-01-12",
+ "articleHref": "/wiki/svgn/articles/2018-01-12-people-in-the-core-of-the-vr-industry-at-places-like-the-offices-of-unity-and-epic-gam-vrma-590e3b0a7351",
+ "sourceUrl": "https://www.svgn.io/p/people-in-the-core-of-the-vr-industry-at-places-like-the-offices-of-unity-and-epic-games-have-been-590e3b0a7351",
+ "topTerms": [
+  "mixed",
+  "reality",
+  "people",
+  "core",
+  "industry",
+  "places",
+  "offices",
+  "unity"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-590e3b0a7351",
+   "title": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been…"
+  },
+  {
+   "id": "vrma-2fcb84037d77",
+   "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+  },
+  {
+   "id": "vrma-5ecdac6a7b3a",
+   "title": "Come experience the Unreal Garden mixed reality art exhibit presented by Onedome."
+  },
+  {
+   "id": "vrma-822bbe1f599",
+   "title": "Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been…",
+   "body": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been using XR to mean both AR and VR for a long time. Mixed Reality means something different depending on which company is ta",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "People in the core of the VR industry at places like the offices of Unity and Epic Games",
+   "body": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been using XR to mean both AR and VR for a long time. Mixed Reality means something different depending on which company is talking about it, and Microsoft Mixed Reality headsets are only VR they do not do AR. Mixed Reality also evokes Mixed Reality Green Screen, so it’s not as useful as XR. Good try though!",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[People in the core of the VR industry at places like the offices of Unity and Epic Games have been…]] · [[At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…]] · [[Come experience the Unreal Garden mixed reality art exhibit presented by Onedome.]] · [[Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-590e3b0a7351",
+     "title": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been…"
+    },
+    {
+     "id": "vrma-2fcb84037d77",
+     "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+    },
+    {
+     "id": "vrma-5ecdac6a7b3a",
+     "title": "Come experience the Unreal Garden mixed reality art exhibit presented by Onedome."
+    },
+    {
+     "id": "vrma-822bbe1f599",
+     "title": "Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399"
+    }
+   ]
+  }
+ ]
+}

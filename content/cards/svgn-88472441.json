@@ -1,0 +1,102 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472441",
+ "title": "Brass Tactics demo",
+ "dek": "Written by Micah Blumberg, Silicon Valley Global News",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-14",
+ "articleHref": "/wiki/svgn/articles/2017-10-14-brass-tactics-demo-vrma-53e5c179d2e2",
+ "sourceUrl": "https://www.svgn.io/p/brass-tactics-demo-53e5c179d2e2",
+ "topTerms": [
+  "micah",
+  "blumberg",
+  "silicon",
+  "valley",
+  "global",
+  "oculus",
+  "connect",
+  "brass"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-ccd179bcac41",
+   "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+  },
+  {
+   "id": "vrma-e57a41fb406b",
+   "title": "Three events added to the Silicon Valley Global Events Calendar"
+  },
+  {
+   "id": "vrma-f800148de385",
+   "title": "Silicon Valley Global News: Front Page"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Brass Tactics demo",
+   "body": "Written by Micah Blumberg, Silicon Valley Global News",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "I went to Oculus Connect 4 and tried Brass Tactics\n\nI interviewed the developer Mark",
+   "body": "I went to Oculus Connect 4 and tried Brass Tactics\n\nI interviewed the developer Mark Terrano with Hidden Path Entertainment, Brass Tactics demo",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472441/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472441/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472441/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News",
+   "body": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News (more credits at the bottom) medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472441/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io]] · [[Three events added to the Silicon Valley Global Events Calendar]] · [[Silicon Valley Global News: Front Page]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-ccd179bcac41",
+     "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+    },
+    {
+     "id": "vrma-e57a41fb406b",
+     "title": "Three events added to the Silicon Valley Global Events Calendar"
+    },
+    {
+     "id": "vrma-f800148de385",
+     "title": "Silicon Valley Global News: Front Page"
+    }
+   ]
+  }
+ ]
+}

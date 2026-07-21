@@ -1,0 +1,180 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470826",
+ "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…",
+ "dek": "At GDC 2022 I tried the Tilt Five AR headset, the Think Reality A3 Smart Glasses demo, and the Steam Deck. Here are my impressions and…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-03-28",
+ "articleHref": "/wiki/svgn/articles/2022-03-28-think-reality-a3-ar-smart-glasses-the-tilt-five-ar-headset-and-the-steam-deck-which-i--vrma-8916d80e0339",
+ "sourceUrl": "https://www.svgn.io/p/think-reality-a3-ar-smart-glasses-the-tilt-five-ar-headset-and-the-steam-deck-which-i-think-is-an-8916d80e0339",
+ "topTerms": [
+  "reality",
+  "glasses",
+  "meta",
+  "quest",
+  "steam",
+  "tilt",
+  "five",
+  "deck"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-8916d80e0339",
+   "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  },
+  {
+   "id": "vrma-8eb9947f544f",
+   "title": "The Metaverse launches today with Varjo Reality Cloud."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…",
+   "body": "At GDC 2022 I tried the Tilt Five AR headset, the Think Reality A3 Smart Glasses demo, and the Steam Deck. Here are my impressions and…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article by Micah Blumberg, About Micah: http://vrma.io\n\nThe Think Reality A3 AR Smart",
+   "body": "Article by Micah Blumberg, About Micah: http://vrma.io\n\nThe Think Reality A3 AR Smart Glasses for Enterprise made with the Qualcomm Snapdragon processor is a high quality AR headset that sells for about $1500.\n\nIt’s capabilities are similar to the Meta Quest (MSRP $300) but with a smaller field of view and it’s without 6dof controllers which are obviously missing in a comparison with the Quest.\n\nWith the Think Reality A3 AR Smart Glasses you can walk around inside a virtual reality room that is overlaid on top of reality, so it is Augmented Reality, but you won’t really be able to engage that much in “real reality” with these glasses on because you will be distracted by the computer graphics.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "The ability to see the world might serve to stop you from accidentally walking into",
+   "body": "The ability to see the world might serve to stop you from accidentally walking into someone else, but the demo I tried did not attempt to “Augment” or “Highlight” the actual reality of the place I was in. This was very much a VR experience with AR glasses and that’s about it.\n\nControlling the device involves head tracking, you point your head at a highlighted dot, and that causes the room to change, with the old room rotating out and the new room rotating in. To be completely honest it’s not going to be that useful without two tracked controllers like the Quest has.\n\nYou have a 60 degree FOV compared to a much larger Field of View on Meta Quest that some people have measured at 89 degrees.\n\nTo my complete astonishment I found out that the Tilt Five is not like the Think Reality A3 or the Meta Quest in that you will not see 3D graphics in the air in front of you. Instead the graphics from Tilt Five apps are reflected to the glasses from the reflective material that serves as the board for 3D computer games.",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "The experience of using Tilt Five reminds me a lot of using the Nintendo Wii at parties.",
+   "body": "The experience of using Tilt Five reminds me a lot of using the Nintendo Wii at parties. It’s like a large screen that you can only see with glasses, except that your view point on the screen changes with the 3D graphics.",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "I felt a little bit of eye strain and motion sickness when I used the Tilt Five AR",
+   "body": "I felt a little bit of eye strain and motion sickness when I used the Tilt Five AR glasses. It’s enough that motion sensitive people might want to steer clear, but not enough that I wouldn’t play this at a party, a bar, or at a game night if given the chance. I would use it at a party, for sure, I just would not replace a Playstation 5 with it. I would not replace a Meta Quest with it. It’s still cool though.\n\nMy view is that the Tilt Five is a great concept that could be improved with the Think Reality A3 Smart Glasses so we have a product that is dedicated to board games, with controllers, and 3D that actually floats above the board game. I would love to see a partnership between Lenovo & Tilt Five, but obviously either company could bring this concept I am proposing to fruition on their own if they wanted to.",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "The Steam Deck by Valve is probably the best thing that I tried at GDC 2022.",
+   "body": "The Steam Deck by Valve is probably the best thing that I tried at GDC 2022. Trust the reviews you have already seen about Steam Deck. It’s screen feels or seems to be a lot bigger in real life than it does in photos on the web.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "I played a short demo of a Steam game called Aniquilation by publisher Gamera Game and I",
+   "body": "I played a short demo of a Steam game called Aniquilation by publisher Gamera Game and I have to say that the experience was excellent. The Steam Deck is built with high quality parts and it would be easy to imagine pairing this with an external keyboard to replace my iPad, to use it for Steam Games and also to watch movies on it. I didn’t expect to like the Steam Deck this much.\n\nThe Steam Deck by Valve is so good that it seems plausible that Meta is going to copy this and ship a Meta Deck that combines the Facebook Portal Device and the Meta Quest 3 into a single product. One that enhances the graphics that are possible on the Meta Quest device.",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/015.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "End.",
+   "body": "End.",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/017.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/019.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/021.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/023.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/025.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/027.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/029.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470826/031.jpg"
+  },
+  {
+   "seq": 20,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[The Metaverse launches today with Varjo Reality Cloud.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-8916d80e0339",
+     "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    },
+    {
+     "id": "vrma-8eb9947f544f",
+     "title": "The Metaverse launches today with Varjo Reality Cloud."
+    }
+   ]
+  }
+ ]
+}

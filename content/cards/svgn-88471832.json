@@ -1,0 +1,156 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471832",
+ "title": "Interview with SwanVR about Beat Saber",
+ "dek": "We spoke to the Mixed Reality performer whose video went viral and has been estimated to have been viewed over 100 million times, and…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-03-23",
+ "articleHref": "/wiki/svgn/articles/2018-03-23-interview-with-swanvr-about-beat-saber-vrma-675282c51d03",
+ "sourceUrl": "https://www.svgn.io/p/interview-with-the-beat-saber-girl-675282c51d03",
+ "topTerms": [
+  "reality",
+  "video",
+  "industry",
+  "beat",
+  "saber",
+  "mixed",
+  "shared",
+  "global"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-9f307aa2d0b0",
+   "title": "The Bridge Mixed Reality Headset: A hands on Video."
+  },
+  {
+   "id": "vrma-2fcb84037d77",
+   "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+  },
+  {
+   "id": "vrma-5ecdac6a7b3a",
+   "title": "Come experience the Unreal Garden mixed reality art exhibit presented by Onedome."
+  },
+  {
+   "id": "vrma-822bbe1f599",
+   "title": "Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Interview with SwanVR about Beat Saber",
+   "body": "We spoke to the Mixed Reality performer whose video went viral and has been estimated to have been viewed over 100 million times, and…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Written by Micah Blumberg for SVGN.io (also host of the Neural Lace Podcast",
+   "body": "Written by Micah Blumberg for SVGN.io (also host of the Neural Lace Podcast VRMA.io)\n\nExhibit A: The video shared by Gamology with over 25 million views\n\nThe Player and Performer in the video that went viral is: SwanVRart aka Shuang van Reizen\n\nThe most exciting thing happening in the Virtual Reality industry right now is perhaps the global buzz around a little VR application called Beat Saber.\n\nGamespot called it the “Jedi training disguised as a rhythm game.” The original video: http://bit.ly/2Fgamth\n\nIt was created in Mixed Reality is powered by LIV. https://liv.tv/liv-cube\n\nLIV® Cube - Popup Mixed Reality The LIV® Cube is the industry standard for creating mixed reality content in real-time. With its own carrying case, it… liv.tv",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The Player and Performer is: SwanVRart aka Shuang van Reizen\n\nThe Game is Beat Saber,",
+   "body": "The Player and Performer is: SwanVRart aka Shuang van Reizen\n\nThe Game is Beat Saber, which was developed by Hyperbolic Magnetis and the audio track was: Escape by Jaroslav Beck\n\nAll the stats shared in this story amount illustrate not only the excitement around Beat Saber and Mixed Reality performances, but also excitement for the VR industry as a whole.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/005.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/007.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/009.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/011.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/013.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/015.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Then a variety of page administrators copied the original video and posted it on Facebook",
+   "body": "Then a variety of page administrators copied the original video and posted it on Facebook and it went viral from there\n\nI collected some screenshots of the stats the video is getting, it has been shared so many times, by so many people. Press outlets from around the world are reaching out to Swan to hear her story.\n\nAll this attention could be really great news for the emergence of the VR industry as a mainstream industry with global excitement peaking and the global mass of Star Wars fans being especially interesting in weilding dual lightsabers in Virtual Reality.\n\nI have also played Beat Saber and I love it, its a lot harder than it looks, so I can recommend that you try it at your earliest opportunity. I hope to get a review copy at some point so I can do a follow up to this article.",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/017.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/019.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/021.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471832/023.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[The Bridge Mixed Reality Headset: A hands on Video.]] · [[At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…]] · [[Come experience the Unreal Garden mixed reality art exhibit presented by Onedome.]] · [[Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-9f307aa2d0b0",
+     "title": "The Bridge Mixed Reality Headset: A hands on Video."
+    },
+    {
+     "id": "vrma-2fcb84037d77",
+     "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+    },
+    {
+     "id": "vrma-5ecdac6a7b3a",
+     "title": "Come experience the Unreal Garden mixed reality art exhibit presented by Onedome."
+    },
+    {
+     "id": "vrma-822bbe1f599",
+     "title": "Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399"
+    }
+   ]
+  }
+ ]
+}

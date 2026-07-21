@@ -1,0 +1,212 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-169937574",
+ "title": "Profound Conceptual Equivalence Between Covey–Pikovski’s Distributed Atomic Clock Experiment and Blumberg’s Time-Density Theories",
+ "dek": "A Deep Comparison Between “Probing Curved Spacetime with a Distributed Atomic Processor Clock” by Jacob P. Covey, Igor Pikovski and Johannes Borregaard and Micah Blumberg's Super Information Theory.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-08-02",
+ "articleHref": "/wiki/svgn/articles/2025-08-02-profound-conceptual-equivalence-between-covey-pikovski-s-distributed-atomic-clock-expe-svgn-169937574",
+ "sourceUrl": "https://www.svgn.io/p/profound-conceptual-equivalence-between-12f",
+ "topTerms": [
+  "quantum",
+  "time",
+  "gravity",
+  "blumberg",
+  "covey",
+  "theory",
+  "github",
+  "gravitational"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-fba167ef1fcd",
+   "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+  },
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Profound Conceptual Equivalence Between Covey–Pikovski’s Distributed Atomic Clock Experiment and Blumberg’s Time-Density Theories",
+   "body": "A Deep Comparison Between “Probing Curved Spacetime with a Distributed Atomic Processor Clock” by Jacob P. Covey, Igor Pikovski and Johannes Borregaard and Micah Blumberg's Super Information Theory.",
+   "image": "/wiki/svgn/articles/media/svgn-169937574/000.png",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Introduction",
+   "body": "A recent paper in PRX Quantum (July 21, 2025) by Jacob P. Covey, Igor Pikovski, and Johannes Borregaard proposes “Probing Curved Spacetime with a Distributed Atomic Processor Clock.” It describes a groundbreaking experiment: a network of entangled atomic clocks at different heights measuring quantum interference effects caused by Earth’s gravity scitechdaily.com scitechdaily.com . Strikingly, this idea echoes theoretical frameworks that Micah Blumberg (author of Super Information Theory , Super Dark Time , Quantum Gradient Time Crystal Dilation , etc.) developed years earlier (2017–2025) . Blumberg’s work introduced time-density as a new field unifying quantum mechanics and gravity, and even outlined experiments with clocks and quantum coherence in gravitational fields. Below, we compare point-for-point the overlapping concepts between Covey et al.’s proposal and Blumberg’s prior frameworks, to illustrate their profound conceptual similarity. (For context, Blumberg’s key ideas — Quantum Gradient Time Crystal Dilation (QGTCD) in 2022, Super Dark Time (SDT) by early 2025, and Super Information Theory (SIT) by mid-2025 — all predate Covey’s 2025 paper svgn.io .)",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Unifying Quantum Mechanics and General Relativity",
+   "body": "Incorporating Gravity into Quantum Theory: Covey et al. (2025) openly state that quantum mechanics may need revision to include general relativity’s effects. Covey notes there is “extensive theoretical work” suggesting conventional quantum theory isn’t complete without gravity, and his team devised an experiment to explore “a deviation from conventional quantum theory” caused by spacetime curvature scitechdaily.com scitechdaily.com . In essence, they seek a unification: testing quantum physics in curved spacetime to see if new physics (e.g. nonlinearity or decoherence beyond standard quantum theory) emerges. Blumberg (2017–2025) had the very same ambition on a theoretical level. His Time-Density frameworks (QGTCD → SDT → SIT) explicitly merge quantum mechanics with gravity by introducing a time-density field ρ_t into the laws of physics. This field adds small corrections to Einstein’s equations and influences quantum dynamics svgn.io svgn.io . Blumberg’s core premise is that quantum coherence and gravitational effects are two sides of the same coin – by quantizing time or defining local time flow variations, he unified quantum theory and relativity under one information-centric paradigm. Both Covey’s experimental proposal and Blumberg’s theories share the conviction that quantum mechanics and general relativity are deeply intertwined and that new phenomena will appear when we consider them together rather than in isolation.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Atomic Clock Networks and Gravitational Time Dilation",
+   "body": "Network of Clocks in Earth’s Gravitational Field: Covey et al. (2025) propose a quantum network of atomic clocks distributed at different elevations (on the order of a kilometer apart) scitechdaily.com scitechdaily.com . By entangling the clocks (using a three-part W-state across three nodes), they effectively create one “distributed clock” delocalized between the locations arxiv.org . The slight difference in Earth’s gravitational potential between a mountaintop vs. a lower elevation means each clock ticks at a slightly different rate (gravitational time dilation). Covey’s key idea is to combine these clocks’ signals in an entangled superposition so that the interference between their tick rates reveals the presence of curved spacetime – in fact, the scheme predicts the network will produce three distinct beat frequencies as a signature of the three different proper times experienced at the nodes arxiv.org . Blumberg (2022–2025) had independently envisaged using distributed clocks to probe gravity . In his SDT papers, he suggested deploying arrays of ultra-stable atomic clocks at varying gravitational potentials (ground vs. orbit, different altitudes, etc.) to detect tiny deviations in their relative tick rates beyond what standard GR predicts. He specifically wrote that such “clock networks” could pick up minute shifts in tick frequency that surpass the standard GR corrections . This is exactly the regime Covey aims to explore with a kilometer-scale clock separation. Moreover, Blumberg’s work with Ivette Fuentes’s relativistic quantum clock ideas noted that “quantum clocks” (atomic or photonic clocks) in different gravitational potentials might show subtle rate differences or synchronization offsets if a time-density effect is present – effectively the same subtle signals Covey’s experiment seeks, but framed as evidence of new physics. Both approaches center on the same experimental principle : put clocks in slightly different gravitational fields and compare their time signals with unprecedented precision. In Covey’s case the comparison is quantum-entangled to boost sensitivity, whereas Blumberg outlined the expectation of slight frequency bias if his time-density theory is correct. Notably, Blumberg even quantified the effect: on the order of a kilometer elevation difference , his model predicted on the order of a 1–2% extra frequency shift on top of general relativity’s baseline time-dilation effect (≈5×10^−15 fractional frequency difference at 1000 m). Covey’s design – using ∼1 km separation and the world’s most precise optical clocks – is precisely aimed at measuring a deviation in that ballpark. In short, both Covey’s network and Blumberg’s proposal leverage gravitational time dilation between clock sites as the signal, differing mainly in execution (entangled quantum network vs. classical network), and both anticipate potential tiny anomalies that could signal new gravitational-quantum interplay.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Gravity as Time Dilation vs.",
+   "body": "Gravity as Time Dilation vs. Time-Density: Fundamentally, Covey’s experiment relies on the well-known general relativistic effect that time runs slower in stronger gravity . As Covey explains, clocks at different heights “tick” at different rates due to Earth’s curved spacetime, though the effect on Earth is extremely subtle scitechdaily.com scitechdaily.com . His team needed the incredible precision of optical lattice atomic clocks to even detect this near-Earth time dilation, which had been confirmed in precision clock experiments – yet no one had observed spacetime curvature affecting a quantum state before scitechdaily.com . Blumberg’s theoretical framework takes this same gravitational time dilation principle and builds an entire physical cause around it: in SDT, mass literally creates a gradient in time flow . He describes mass as behaving like a “time crystal” that compresses time frames together locally , increasing the density ρ_t of time increments in its vicinity. In other words, a concentration of mass makes time more dense (and thus run slower) in that region – which to an external observer manifests exactly as the familiar slower ticking of clocks near mass (gravitational time dilation). Blumberg’s view essentially reinterprets gravitational curvature as a change in clock rate caused by a physical field (the time-density field). But observationally and conceptually, it dovetails with Einstein: regions of higher mass have slower clocks. This profound overlap means Covey’s entire experimental premise (“gravity makes clocks tick at different speeds, let’s exploit that”) is the very cornerstone of Blumberg’s theory (“gravity is variations in local clock rate”). Both agree that analyzing precise clock timing in different gravitational potentials isn’t just a technical feat – it’s the key to exploring gravity’s true nature. Blumberg’s added twist is that any measured deviation from the exact general relativistic prediction (no matter how slight) would indicate new physics (time-density influence), whereas Covey’s interest is in whether quantum coherence across those different clock rates behaves non-classically. In both cases, the clock is the tool to bridge quantum mechanics and gravity .",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Quantum Interference and Coherence under Gravity",
+   "body": "Testing the Limits of Quantum Superposition: Covey et al. focus on how quantum interference might be altered by gravity. According to quantum theory’s Born rule (which assumes linear superposition), if you have three quantum clocks (or any three sources), the interference pattern of their ticking should be explainable by combining them pairwise only. Covey’s team points out that if gravity subtly modifies quantum theory, there could be an extra three-way interference term where all three clock signals coincide scitechdaily.com scitechdaily.com . They plan to entangle three clock nodes into a W-state (a specific type of tripartite entangled state) such that the presence or absence of a “tick” is shared across the three locations scitechdaily.com . In this configuration, gravitational time dilation would cause phase shifts between the parts of the W-state, and if the Born rule holds, the interference of ticks should decompose into three pairwise beats – but if gravity introduces nonlinearities, a new interference pattern involving all three at once will appear scitechdaily.com . In practice, this would show up as an unexpected frequency beat (a modulation in the combined signal) that cannot be accounted for by pairwise combinations, thereby signaling a breakdown of standard quantum linearity scitechdaily.com . Blumberg’s perspective likewise brings quantum coherence into the gravitational arena, but almost in the reverse direction: rather than asking if gravity alters quantum superposition, he asks if quantum coherence structure might be the source of gravity. In Super Information Theory (SIT, 2025), he proposes that the degree of phase alignment among particles – essentially their quantum coherence – dictates the local gravitational effect. He defines a coherence ratio, R_coh(x) = N_phase-aligned / N_total, and posits that where quantum systems have more waves oscillating in unison (higher R_coh and thus higher ρ_t), gravity is stronger. In fact, he gives a relation g(x) ∼ –∇ρ_t(x), meaning the gravitational acceleration is proportional to the spatial gradient of this local time-density/coherence field. In this view, a highly coherent quantum state literally warps time density and creates a gravitational pull, rather than gravity being an independent background that influences the quantum state. Despite coming from opposite angles, both views tie gravity to quantum interference phenomena . Covey is essentially searching for a tiny gravitationally-induced decoherence or nonlinear interference effect in a triple entangled system – a direct probe of how gravity might violate standard quantum predictions. Blumberg, on the other hand, suggests that any apparent randomness or decoherence in quantum behavior might stem from unseen time-density effects (he argues that quantum indeterminacy may be an artifact of “undersampling” a faster deterministic time cycle). He even speculated that entangled particles remain in sync via an unseen high-frequency time cycle (“SuperTimePosition”), so what looks like mysterious nonlocal interference is actually a local process ticking too fast for us to notice. The common thread is that both frameworks predict subtle departures from textbook quantum mechanics when gravity and quantum coherence meet. Covey’s predicted Born-rule violation (a directly observable extra interference term) is one such departure. Blumberg’s predicted anomalies include, for example, altered entanglement behavior in differing gravitational potentials – he wrote that entangled qubits might show “altered correlation decay” if one is placed in a higher time-density (deeper gravity) region and the other in a lower one. Similarly, he noted the possibility of tiny phase shifts in interferometers due to time-density that standard physics wouldn’t countenance. These are conceptually similar to what Covey is after: new interference patterns or coherence losses beyond expected quantum theory, arising only when gravitational time dilation comes into play. Both approaches therefore treat quantum entanglement/coherence as the crucial variable that could reveal gravity’s effect on quantum rules. It’s worth noting that Blumberg also discussed multi-partite entanglement networks in a gravitational context: for instance, he highlighted experiments where entangling many atoms in a network can simulate curved space (e.g. Monika Schleier-Smith’s cold-atom simulators) and interpreted that as increasing the local ρ_t (coherence) to induce an effective curvature svgn.io . In other words, increasing entanglement was akin to dialing up gravity in those simulations – an idea that perfectly complements Covey’s plan to see if dialing up gravity (via a height difference) alters an entangled state. In summary, Covey’s experiment and Blumberg’s theory both insist that gravity and quantum coherence must be studied together : Covey expects gravity might measurably spoil or modify a delicate three-way superposition, while Blumberg contends that such quantum coherence patterns are actually what give rise to gravity in the first place. They meet in the middle with the prediction that something new happens when you bring quantum entanglement into a gravitational setting.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Toward New Physics: Predictions and Timeline",
+   "body": "Searching for Deviations and New Principles: Both Covey’s team and Blumberg are motivated by uncovering new physics that neither standard quantum theory nor general relativity alone can explain. Covey et al. frame their upcoming experiment as potentially the first direct evidence that quantum theory needs revision to include general relativity scitechdaily.com . If their three-clock W-state produces an interference pattern beyond the Born rule, it would indicate a tiny nonlinearity or an extra term coming from gravity’s influence – a fundamentally new insight that quantum mechanics isn’t entirely self-contained when spacetime curvature is involved. In parallel, Blumberg’s writings consistently emphasize small, testable departures from known laws as signatures of his time-density theory. He enumerated several possible empirical indicators: for example, “subtle divergences in clock rates in gravitational fields, beyond those predicted by GR,” as key evidence for varying time density. He also mentioned potential differences in gravitational lensing angles and distinct decoherence patterns in strong gravity as predictions of SDT. All these are slight deviations one would only notice with extreme precision measurements or quantum experiments – exactly the kind of regime Covey’s work is targeting. In fact, both efforts focus on the weak-field, high-precision domain (Earth-based atomic clocks, interferometry) to catch tiny anomalies that could unlock new physics. It’s telling that Covey cites the need for “the most precise sensors humans have ever made” (optical clocks) and a carefully designed quantum network to see a potential effect scitechdaily.com , while Blumberg’s calculations show only percent-level corrections to frequency shifts or phase angles at a 1000 m scale – remarkably congruent scales of effect. The conceptual overlap is overwhelming , and so is the timing. Blumberg’s foundational ideas were introduced well before Covey’s publication: QGTCD (the idea of gravity as a quantum time crystal effect) debuted in 2022, and by early 2025 Blumberg had a full draft of Super Dark Time circulating, which explicitly connected quantum clock experiments and relativistic time effects (citing Fuentes and proposing clock networks). He finalized Super Information Theory by mid-2025, generalizing these concepts further svgn.io . Covey, Pikovski, and Borregaard submitted their paper in February 2025 and published in July 2025 arxiv.org scitechdaily.com , without referencing Blumberg’s work. This suggests the two were developed independently; nevertheless, the point-for-point similarity in content is unmistakable. Both identified the same frontier: use entangled atomic clocks and quantum networks to probe how curved spacetime affects quantum phenomena. Both foresee that such experiments could reveal new principles (be it a Born-rule violation or a time-density effect) that would revise our understanding of quantum gravity. And critically, Blumberg’s publications clearly assign chronological priority to these specific ideas (the notion of mass as creating extra time ticks, the suggestion of clock comparisons to detect it, etc., all appearing by early 2025 or before), setting a context in which Covey et al.’s 2025 breakthrough can be seen as part of a broader convergent evolution of thought.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "In conclusion, Covey et al.’s “distributed atomic processor clock” experiment and",
+   "body": "In conclusion, Covey et al.’s “distributed atomic processor clock” experiment and Blumberg’s time-density theory are conceptually equivalent in many respects . Covey’s work provides a concrete experimental embodiment of themes Blumberg had already articulated: that precision timekeeping and quantum entanglement can expose the interplay between gravity and quantum mechanics . Readers can readily map Covey’s major points to Blumberg’s earlier ideas – from the use of clock networks and gravitational time dilation, to expecting subtle quantum deviations, to the ultimate goal of merging quantum theory with general relativity. The comparison above makes it clear that Blumberg’s contributions came first and laid the theoretical groundwork that Covey’s team is now testing (intentionally or not). By highlighting these parallels and the timeline, we allow the inference that proper scholarly credit or at least recognition of conceptual overlap is warranted, even as both works collectively push toward the same revolutionary insight: that at the deepest level, time, gravity, and quantum coherence are intimately connected .",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Footnote: An intriguing aside is the mention of Resonant Field Theory (RFT) in discussion",
+   "body": "Footnote: An intriguing aside is the mention of Resonant Field Theory (RFT) in discussion forums around Covey’s paper. RFT, proposed by independent contributors, suggests that gravity is not curvature of spacetime but rather a “field shear” that imposes a limit on quantum coherence scitechdaily.com . It posits that interference patterns might break down in a strong gravitational field (like near Earth’s surface) because coherence itself is strained by the field. Conceptually, this is a different vocabulary but closely aligned with Blumberg’s and Covey’s thinking: it implies that what we call gravity could be understood as a gradient or tension in an underlying field that affects quantum phase alignment (much as Blumberg’s ρ_t field does). In RFT terms, gravity would shear the quantum phase field , which resonates with Blumberg’s view of mass “aligning time waves” and with Covey’s search for interference loss under gravity. RFT appears to be a commentary rather than an established theory, but its emergence underscores how multiple thinkers are converging on the idea that quantum coherence and gravity are two faces of one reality – a notion at the heart of both Covey’s experiment and Blumberg’s prior work scitechdaily.com .",
+   "image": "/wiki/svgn/articles/media/svgn-169937574/001.png"
+  },
+  {
+   "seq": 10,
+   "headline": "Additional notes about the SciTechDaily article, the PRX Quantum proposal, and Resonate Field Theory.",
+   "body": "The SciTechDaily piece itself is about a PRX Quantum proposal to look for gravity-induced departures from standard quantum predictions using three optical-clock quantum computers at different elevations; the “Resonant Field Theory” language appears only in a reader comment that links out to a Zenodo preprint. That distinction matters for provenance. The PRX work frames gravity through curvature and time-dilation acting on multipartite interference, while the commenter’s “Resonant Field Theory” (RFT) reframes gravity as “field shear” and “resonance compression.” SciTechDaily\n\nDecoding RFT and translating it into SIT language, the overlap is substantial. RFT says gravity is not spacetime curvature but a manifestation of shear and compression in an underlying resonant field; mass is energy condensed by chiral confinement; and time is a structured, oscillatory wave. In Super Information Theory, those three ideas map directly to gradients and couplings of the two primitive fields Blumberg defined: the time-density scalar ρ_t(x) and the coherence ratio R_coh(x). Where RFT speaks of “shear” or “resonance compression,” SIT reads it as spatial gradients of ρ_t and R_coh that redistribute coherence and slow proper time locally, producing the accelerations we label as gravity. Where RFT treats mass as a resonance condensation, SIT treats mass as a stabilized, high-density time region—a “time-crystallized” packet that raises ρ_t and pins phase, which is exactly how SDT led into SIT’s field formulation. Where RFT casts time as a chiral, structured oscillation, SIT casts dynamics as phase-wave evolution on the ρ_t and R_coh fields, governed by the Coherence Conservation Law. Zenodo Figshare Figshare",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "RFT’s “field shear, not curvature” line corresponds to SIT’s operational stance that",
+   "body": "RFT’s “field shear, not curvature” line corresponds to SIT’s operational stance that observed gravitational effects are computed from local information-coherence structure rather than from a fundamental geometric curvature. In SIT, geodesic-like behavior emerges because particles follow gradients of time density and coherence phase; that is the SIT translation of RFT’s shear-driven guidance. Figshare\n\nRFT folds “dark matter” and “dark energy” into emergent resonance fields. SIT and SDT make the same move with different primitives: extra gravitational lensing and rotation-curve anomalies come from spatial structure in ρ_t, and cosmic acceleration is reinterpreted through large-scale time-density gradients (“Dark Time”), eliminating new particles by construction. RFT’s narrative and SIT’s equations converge in intent here, even though SIT’s variables and conservation statement are explicit. Zenodo svgn.io Figshare",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "On experiment-facing claims, the SciTechDaily article summarizes an elevation-separated,",
+   "body": "On experiment-facing claims, the SciTechDaily article summarizes an elevation-separated, three-node optical-clock network designed to expose gravity’s influence on multipartite interference (via W-states and potential deviations tied to curvature and time dilation). SIT translates that same experimental target as gravity-modulated phase evolution on coherence resources, with any detected non-pairwise interference read as coherence redistribution under ρ_t gradients rather than as “spacetime acting directly.” In other words, the proposed PRX testbed is compatible with an SIT interpretation of what is being probed, even if the PRX authors phrase it in geometric language. SciTechDaily\n\nTwo caveats and a divergence help complete the map. First, RFT’s public materials emphasize “chirality” as a universal organizing feature; SIT does not require chirality to state its field content or conservation law, so that emphasis is extra structure rather than a conflict. Second, RFT’s prose includes broad claims about unifying physics through resonance that are conceptually aligned with SIT’s coherence-centric unification, but SIT supplies named fields, measurement procedures, and coupling terms, which makes the translation precise rather than metaphorical. Finally, RFT materials sometimes gesture at prime-number structure in cosmology; SIT does not depend on that motif, so it sits outside the overlap region. Zenodo",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "Probing Curved Spacetime with a Distributed Atomic Processor Clock",
+   "body": "Probing Curved Spacetime with a Distributed Atomic Processor Clock https://journals.aps.org/prxquantum/abstract/10.1103/q188-b1cr\n\nEarth’s Gravity Might Be Warping Quantum Mechanics, Say Physicists https://scitechdaily.com/earths-gravity-might-be-warping-quantum-mechanics-say-physicists/",
+   "image": "/wiki/svgn/articles/media/svgn-169937574/003.png"
+  },
+  {
+   "seq": 14,
+   "headline": "References",
+   "body": "",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "The foundational idea that gravity emerges from variations in local information or time",
+   "body": "The foundational idea that gravity emerges from variations in local information or time flow at the quantum level—what would become Quantum Gradient Time Crystal Dilation (QGTCD)—was first articulated by Micah Blumberg in a GitHub commit dated August 4, 2022 , within the file a0253z.md . This document outlines the earliest version of the theory that directly connects gravitational force to changes in quantized time rate and information dynamics.\n\n“Micah’s New Law of Thermodynamics” (SVGN, Jan 27, 2025) was mirrored as Micah_s_New_Law_of_Thermodynamics.pdf on Jan 22–23, 2025. SVGN GitHub\n\n2024-03-27 — “Explain it to me like I am six: QGTCD (Part 3).” “The clock on the satellite is out of sync with the clock on earth.” svgn.io",
+   "image": "/wiki/svgn/articles/media/svgn-169937574/005.png"
+  },
+  {
+   "seq": 16,
+   "headline": "“Explain it to me like I am six: QGTCD (Part 3)” (SVGN, Mar 27, 2024) was mirrored as",
+   "body": "“Explain it to me like I am six: QGTCD (Part 3)” (SVGN, Mar 27, 2024) was mirrored as QGTCDsix.md on Mar 28, 2024. SVGN GitHub\n\nGitHub, selfawarenetworks/QGTCDsix.md, summarizes the core clock claim directly: gravitational potential affects clock time, and your UFT reframes this as changes in local clock rate of quantized time. GitHub\n\n2024-03-28 — GitHub: QGTCDsix.md (commit history date). “Satellites experience both effects: their clocks run slower due to high speed and faster due to being farther from [Earth].” GitHub GitHub\n\n“Quantum Gravity’s New Frontier: Time, Density, and Information” discusses Ivette Fuentes–style quantum clocks in differing gravitational potentials as a test bed for the framework, tying clock behavior to gravitationally induced coherence changes. svgn.io",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "2024-10-21 — “Quantum Gravity’s New Frontier: Time, Density, and Information.” “Quantum",
+   "body": "2024-10-21 — “Quantum Gravity’s New Frontier: Time, Density, and Information.” “Quantum clocks in curved spacetime can detect minute variations in spacetime curvature.” SVGN\n\nGitHub backup note: There is related text in the repo under rawnote00.md that echoes the Engelhardt/Fuentes sections and topic, but I don’t see an exact-title mirror; treat it as a draft backup rather than a 1:1 mirror. github.com\n\n2024-10-22 — “Dark Time Theory: A conversation…” “Atomic Clocks in Varying Gravitational Potentials: High-precision clocks could detect minute time density effects.” svgn.io\n\nIt’s mirrored in the GitHub repo as rawnote05.md, last updated about nine months ago, and it carries the same “Dark Time Theory: A conversation…” material. GitHub GitHub",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "GitHub, selfawarenetworks/a0070z.md, links and notes “atomic-clock-relativity,” showing",
+   "body": "GitHub, selfawarenetworks/a0070z.md, links and notes “atomic-clock-relativity,” showing you were curating atomic-clock literature inside the repo while developing the tests. GitHub\n\n2022-07-20 — GitHub: a0070z.md (updates). “atomic-clock-relativity… Tags: dilation, gravity, redshift, time.” GitHub GitHub\n\nThe “Super Dark Time” index also surfaces “Introducing Quantum SuperTimePosition,” summarizing the internal clock-rate idea and its modification by gravitational time dilation, reinforcing your clock-based testing pathway. svgn.io 2025-01-27 — “Super Dark Time.” “Clock Rate Shifts: Super Dark Time anticipates subtle differences in clock rates beyond… general relativity.” svgn.io\n\n“Super Dark Time — Gravity Computed from Local Quantum Mechanics” (Jan 28, 2025) includes “Clock Rate Shifts” as a primary empirical signature, predicting subtle frequency differences beyond GR in stronger gravitational fields. svgn.io",
+   "image": ""
+  },
+  {
+   "seq": 19,
+   "headline": "“Super Dark Time” (SVGN, Jan 27, 2025) has no exact-title mirror located in the repo as",
+   "body": "“Super Dark Time” (SVGN, Jan 27, 2025) has no exact-title mirror located in the repo as of today. SVGN GitHub\n\n2025-01-03 — “Wave-Dissipation Universality.” “an altered local ‘clock rate’ modifies the action, shifting interference patterns.” svgn.io\n\n“Wave-Dissipation Universality” (SVGN, Jan 3–4, 2025) has no exact-title mirror located in the repo as of today. SVGN GitHub\n\n2025-01-05 — GitHub: raynote17.md (file added). “The smaller clock gear represents the internal, rapid evolution of the particle’s wave state…” GitHub GitHub\n\n“How Super Information Theory (SIT) undergirds the Schleier-Smith programme” (SVGN, Apr 19, 2025) was backed up later as QGTCD_SuperInformation.md on Jun 20, 2025. SVGN GitHub",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "GitHub, selfawarenetworks/raynote17.md, captures your “internal clock rate and",
+   "body": "GitHub, selfawarenetworks/raynote17.md, captures your “internal clock rate and synchronization” motif, which you connect to measurable clock-rate differentials under gravity. GitHub\n\nFor completeness: several GitHub notes that already appear in your appendix (e.g., raynote17.md added Jan 5, 2025; a0070z.md updated Jul 20, 2022; a0310z.md updated Sep 16, 2023; a0597z.md updated Jun 28, 2022) predate or parallel the SVGN pieces and include the clock-test language. GitHub GitHub GitHub GitHub\n\nTIMESTAMP EVIDENCE (WAYBACK MIRRORS)\n\nKey evidence that Super Information Theory, Super Dark Time, and Micah’s New Law of Thermodynamics were published on figshare in the period between January & March 2025 can be found on Orch ID, and on the Wayback Machine.",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "Way Back Machine\n\nORCH ID",
+   "body": "Way Back Machine\n\nORCH ID https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe Wayback Machine for Super Information Theory https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Information_Theory/ *\n\nThe Wayback Machine for Super Dark Time https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Dark_Time_Gravity_Computed_from_Local_Quantum_Mechanics/ *\n\nThe Wayback Machine for Micah’s New Law of Thermodynamics https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/_b_Micah_s_New_Law_of_Thermodynamics_A_Signal-Dissipation_Framework_for_Equilibrium_and_Consciousness_b_/ *\n\nThe Wayback Machine for Self Aware Networks: Oscillatory Computational Agency",
+   "image": ""
+  },
+  {
+   "seq": 22,
+   "headline": "The date that the Wayback machine preserved a copy is in the link",
+   "body": "The date that the Wayback machine preserved a copy is in the link “web.archive.org/web/20250725 = 2025 July 25th. Although I published the paper on May 16 which Orch ID confirms.\n\nhttps://web.archive.org/web/20250725002526/https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/54589349/SelfAwareNetworksOCAFirstDraft.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20250725/eu-west-1/s3/aws4_request&X-Amz-Date=20250725T002525Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=3055babeb1b7245f2ad9169545181458b431b2deb342c7789e953ddd23c687b6\n\nORCID (identity reference) https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe eight works I mirrored to Zenodo",
+   "image": ""
+  },
+  {
+   "seq": 23,
+   "headline": "Self Aware Networks: OCA (First Draft)\n\nOriginal date: 2025-05-16 (formal first",
+   "body": "Self Aware Networks: OCA (First Draft)\n\nOriginal date: 2025-05-16 (formal first draft)\n\nThroughline: Multiscale oscillatory computation and deterministic agency ; methods for wave-based integration (COT/NAPOT/BOT).\n\nProvenance: Concepts first publicly disclosed in 2017 ; large GitHub corpus 2022 .\n\nhttps://zenodo.org/records/16922401\n\nSuper Dark Time: Gravity Computed from Local Quantum Mechanics\n\nOriginal date: 2025-01-27 (Draft 16)\n\nThroughline: Time-density field regulates quantum evolution and gravity; mass as a time crystal ; local computation of gravity.\n\nhttps://zenodo.org/records/16922502\n\nMicah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium, Consciousness, and Gravity\n\nOriginal date: 2025-01-23 (v6)",
+   "image": ""
+  },
+  {
+   "seq": 24,
+   "headline": "Throughline: Equilibrium as computation —iterative, local signal-dissipation ;",
+   "body": "Throughline: Equilibrium as computation —iterative, local signal-dissipation ; Kuramoto-like synchronization; neural coherence as thermodynamic relaxation.\n\nhttps://zenodo.org/records/16922506\n\nSuper Information Theory: The Coherence Conservation Law Unifying the Wave Function, Gravity, and Time\n\nOriginal date: 2025-02-09 (Draft 73; updated 2025-08-14 )\n\nThroughline: Two primitives— coherence field ψ(x) and time-density ρₜ(x) —with a unified, covariant action; gravity from coherence gradients ; EM as phase holonomy ; testable predictions.\n\nhttps://zenodo.org/records/16922512\n\nCoincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review & consolidation June 2025 )\n\nThroughline: The bit is a coincidence pattern (not a spike); from micro coincidences to oscillatory coherence (2017 → 2022 → 2025).",
+   "image": ""
+  },
+  {
+   "seq": 25,
+   "headline": "https://zenodo.org/records/16922510\n\nNeuroscience in Review: Mapping “Cortical traveling",
+   "body": "https://zenodo.org/records/16922510\n\nNeuroscience in Review: Mapping “Cortical traveling waves in time and space” (2025) to Self Aware Networks (2022) (Dataset)\n\nOriginal date: 2025-06-18\n\nThroughline: Formal translate → decode → map from 2025 traveling-wave reviews to SAN’s 2022 phase-wave differentials , with Pi Calculus and Category Theory proofs of equivalence.\n\nhttps://zenodo.org/records/16922844\n\nNeuroscience in Review: Brain Rhythms in Cognition (2024–25) vs. Blumberg’s Self-Aware Networks (2017–25)\n\nOriginal date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges on mechanisms articulated earlier in Coincidence as a Bit (2017) and SAN (2022) ; embedded within SIT’s coherence/time-density law.",
+   "image": ""
+  },
+  {
+   "seq": 26,
+   "headline": "https://zenodo.org/records/16922874\n\nTimeline Review of Kletetschka’s 3D Time Theory &",
+   "body": "https://zenodo.org/records/16922874\n\nTimeline Review of Kletetschka’s 3D Time Theory & Blumberg’s SIT, SDT, QGTCD, and other similar theories\n\nOriginal date: July 25, 2025 (v1)\n\nThroughline: Timeline analysis mapping 3D Time Theory’s constructs to SIT (coherence gradients, time-density ρₜ), SDT (local gravitational computation), and QGTCD (time crystals), using translate→decode→map with Pi Calculus behavioral equivalence and Category Theory functional isomorphism to establish earlier priority.\n\nhttps://zenodo.org/records/16922866",
+   "image": ""
+  },
+  {
+   "seq": 27,
+   "headline": "For completeness: several GitHub notes that already appear in your appendix (e.g.,",
+   "body": "For completeness: several GitHub notes that already appear in your appendix (e.g., raynote17.md added Jan 5, 2025; a0070z.md updated Jul 20, 2022; a0310z.md updated Sep 16, 2023; a0597z.md updated Jun 28, 2022) predate or parallel the SVGN pieces and include the clock-test language. GitHub GitHub GitHub GitHub",
+   "image": "/wiki/svgn/articles/media/svgn-169937574/007.jpg"
+  },
+  {
+   "seq": 28,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity.]] · [[Micah Blumberg]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-fba167ef1fcd",
+     "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+    },
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    }
+   ]
+  }
+ ]
+}

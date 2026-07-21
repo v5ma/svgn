@@ -1,0 +1,560 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-161650513",
+ "title": "Profound Conceptual Equivalence Between Raoul Bianchetti’s Viscous Time Theory and Blumberg’s Time‑Density Frameworks",
+ "dek": "Mapping Raoul Bianchetti’s Viscous Time Theory (VTT) to Quantum Gradient Time Crystal Dilation, Super Dark Time, and Super Information Theory by Micah Blumberg",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-04-19",
+ "articleHref": "/wiki/svgn/articles/2025-04-19-profound-conceptual-equivalence-between-raoul-bianchetti-s-viscous-time-theory-and-blu-svgn-161650513",
+ "sourceUrl": "https://www.svgn.io/p/viscous-time-theory-by-raoul-bianchetti",
+ "topTerms": [
+  "time",
+  "coherence",
+  "blumberg",
+  "theory",
+  "quantum",
+  "gravity",
+  "svgn",
+  "first"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-fba167ef1fcd",
+   "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+  },
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Profound Conceptual Equivalence Between Raoul Bianchetti’s Viscous Time Theory and Blumberg’s Time‑Density Frameworks",
+   "body": "Mapping Raoul Bianchetti’s Viscous Time Theory (VTT) to Quantum Gradient Time Crystal Dilation, Super Dark Time, and Super Information Theory by Micah Blumberg",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "In 2025, more than sixty new unified-field proposals emerged in rapid succession.",
+   "body": "In 2025, more than sixty new unified-field proposals emerged in rapid succession. When their terminology is translated into standard scientific language, many converge on the same core constructs I first published on GitHub in 2022. The difference is that, in 2022, AI had not yet entered the picture, and by 2024–2025 I had begun actively sharing detailed articles about my theories in major online groups, expanding their visibility.\n\nAmong these proposals, Raoul Bianchetti’s Viscous Time Theory (VTT) stands out as a “theory of everything” that I have found to be conceptually equivalent to my own work. When expressed in equivalent standard notation, each of VTT’s ostensibly novel constructs matches precisely with elements of my previously published frameworks. Core ideas—such as the time-crystallizing field, critical informational-density thresholds, coherently precipitating structures, and phase-wave triggers—map point-for-point onto concepts first introduced in my Quantum Gradient Time Crystal Dilation (2022), Super Dark Time (January 2025), and Super Information Theory (February 2025). Once the terminology is aligned, the theoretical structures and functional roles become indistinguishable, representing a formal equivalence rather than an interpretive comparison. In each case, a clear one-to-one conceptual mapping emerges. Translating VTT’s vocabulary into standard terms shows that its constructs align directly with the time-density framework I first published, which holds documented priority in the record.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "This article presents my perspective on the relationship between QGTCD (2022), SDT",
+   "body": "This article presents my perspective on the relationship between QGTCD (2022), SDT (January 2025), and SIT (February 2025), and Raoul Bianchetti’s VTT (first public drafts January 2025). The goal is to document timeline-based similarities and invite readers to review primary sources and evaluate the equivalence for themselves. All references cited here are publicly date-stamped on GitHub, The Wayback Machine/Figshare (with links below), and social-media archives.\n\nThis article presents one researcher’s perspective on the relationship between these theories. The aim is not to allege misconduct or assign intent , but rather to document timeline-based similarities and demonstrate that VTT’s core ideas, when translated, mirror those introduced by Blumberg years prior. We invite readers to examine the publicly date-stamped sources and draw their own conclusions. By treating the comparison as a formal equivalence problem, we ask: Can one framework be substituted for the other without any loss of explanatory power? If so, they are effectively the same theory – much like two programs that exhibit equivalent behavior under all conditionsassets.cambridge.org. The following sections map VTT’s concepts to Blumberg’s, highlight parallel terminology, and establish a chronological record of who published what (and when).",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "To support my case, I will next present a timeline showing when my ideas appeared and",
+   "body": "To support my case, I will next present a timeline showing when my ideas appeared and when closely similar, rephrased formulations appeared in VTT.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Milestones",
+   "body": "QGTCD initial draft (GitHub) — initial public write‑up of Quantum Gradient Time Crystal Dilation (file a0253z.md) (26 Jul 2022) QGTCD v1 (GitHub) — “time crystals & gravity”; “time‑density field” (3 Jun 2023) SDT v1 (The Wayback Machine/Figshare (with links below)) — “time thickening creates gravity” (27 Jan 2025) SIT v1 (The Wayback Machine/Figshare (with links below)) — “informational coherence”; “quantum coherence field” (9 Feb 2025) VTT v18 (preprint) — no coherence language (16 Jan 2025) VTT v61 (preprint) — adds “The Quantum Coherence of the Heart”; first “quantum coherence” (16 Feb 2025) VTT v92 (BHICM module) — first “informational coherence” (19 Mar 2025) Readers are encouraged to follow the links at the end of this article and verify these dates independently.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Conceptual Foundations & Terminology Overlaps",
+   "body": "At their heart, both VTT and Blumberg’s time-density theories propose that gravity is not a fundamental force but an emergent effect arising from variations in some deeper medium – whether described as “viscous time” or “time-density information.” Below we outline the major conceptual equivalences and overlapping terminology between the two frameworks:\n\nTime as a Physical Medium (Frame Density vs. Viscosity): Blumberg’s QGTCD and SDT treat time itself as a physical substrate whose local density or “thickness” varies in the presence of mass, giving rise to gravity svgn.io svgn.io . In QGTCD, mass is envisioned as a kind of time crystal that amplifies the local density of time frames, causing other particles to drift toward regions of denser time – an explanation for gravitational attraction svgn.io . VTT builds on a very similar premise, but uses the metaphor of time having viscosity . It conceives of time as a honey-like medium capable of density and tension, such that massive objects create a “viscous flow” or drag in time which yields gravitational effects. Notably, VTT explicitly introduces the idea of “time-crystal viscosity” as a property of this medium in its early formulations (early 2025), directly paralleling QGTCD’s time-crystal–driven gravity concept introduced 18 months earlier svgn.io . In essence, both theories break from the classical view of time as uniform: Blumberg quantizes and densifies time , whereas Bianchetti fluidifies time , but the outcome is conceptually equivalent – gravity emerges from spatial gradients in time’s structure.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "“Time Thickening” and Emergent Gravity: Perhaps the most striking lexical overlap is the",
+   "body": "“Time Thickening” and Emergent Gravity: Perhaps the most striking lexical overlap is the phrase “time thickening” . Blumberg’s Super Dark Time (SDT) paper, published 27 Jan 2025 , coined the idea that “gravity arises when time thickens locally,” meaning that an accumulation of time density around mass creates curvature-like effects. This phrasing was highly novel – no prior scientific literature had used “time thickening” in this context before SDT. Just a few months later, Bianchetti’s VTT adopted the very same phrase . In an April 12, 2025 post, VTT states “if time thickens” to describe the onset of gravity svgn.io . The ontological implication is identical: gravity is a manifestation of thicker (denser or more viscous) time in the vicinity of mass. The use of the exact uncommon term “time thickens” in VTT after it appeared in SDT underscores a direct conceptual equivalence. Both frameworks thereby describe gravity as an emergent phenomenon of local time dilation – or colloquially, thickened time – rather than an innate spacetime curvature alone.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Informational/Quantum Coherence Fields: Blumberg’s Super Information Theory (SIT), first",
+   "body": "Informational/Quantum Coherence Fields: Blumberg’s Super Information Theory (SIT), first released 9 Feb 2025 , further expanded the framework by introducing a conserved field of quantum coherence or “informational coherence.” In SIT, gravity and other forces are unified under a dual-field model: one field (ρ_t) represents local time density and the other represents coherence (the degree of quantum informational order) svgn.io . Crucially, SIT’s abstract and summary explicitly use the term “informational coherence” as a driver of gravitational effects, and discuss a “quantum coherence field” that underpins physical structure svgn.io . Bianchetti’s VTT did not contain this language initially – the first public VTT preprint (v18 on 16 Jan 2025) made no mention of “coherence.” However, shortly after SIT’s publication, VTT’s later updates began to echo this terminology. Version v61 of VTT (released 16 Feb 2025) added a section titled “The Quantum Coherence of the Heart,” marking the first appearance of the term “quantum coherence” in VTT’s narrative. By Version v92 (19 Mar 2025), VTT explicitly introduced the exact phrase “informational coherence,” integrating it into the theory’s description of a “temporal coherence field.” This progression suggests that VTT’s author independently arrived at or was inspired by the same concept of a coherence-based field of gravity, but notably, the timing indicates Blumberg’s SIT used this terminology first svgn.io . Functionally, VTT’s “viscous time field” (later reframed as a temporal coherence field ) maps directly onto the combination of SDT’s time-density field and SIT’s quantum coherence field – all describing a new kind of field that carries information and influences gravitational interactions.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "These deep parallels in content and wording indicate that, conceptually, Viscous Time",
+   "body": "These deep parallels in content and wording indicate that, conceptually, Viscous Time Theory and the Time-Density Theory share the same ontology . For each key idea in VTT, there is an antecedent in Blumberg’s work that uses different words but conveys an equivalent meaning. We can formally translate the terminology of one into the other, resulting in a one-to-one correspondence. The table below highlights a few such correspondences, illustrating how VTT’s phrases align with Blumberg’s earlier terms:",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "Table: Selected terminology from Viscous Time Theory and their counterparts in Blumberg’s",
+   "body": "Table: Selected terminology from Viscous Time Theory and their counterparts in Blumberg’s QGTCD/SDT/SIT framework. Blumberg’s terminology and ideas were published earlier in each case (dates noted). VTT’s language, once translated, maps 1:1 onto the time-density conceptual framework, indicating a shared theoretical structure.\n\nTime‑Crystal Gravity QGTCD (2023) frames gravity as a by‑product of time‑crystal–driven frame density. VTT first mentions an analogous “time‑crystal viscosity” in early 2025—over 18 months later.\n\n“Time Thickening” in SDT vs. the same phrase in VTT. Both SDT (27 Jan 2025) and VTT (12 Apr 2025 post) describe gravity as arising when time thickens . The phrase has no obvious precedent in the literature prior to SDT.",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/001.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "Informational / Quantum Coherence SIT introduces “informational coherence” on 9 Feb 2025;",
+   "body": "Informational / Quantum Coherence SIT introduces “informational coherence” on 9 Feb 2025; VTT adds the same pairing of words only after 16 Feb 2025, expanding it further in March.\n\nThese parallels raise reasonable questions about whether an LLM (large‑language model), prompted with my published text, may have assisted in composing later VTT drafts.\n\nTo understand this first one needs to notice how similar his work \"VTT\" is to my \"Super Dark Time\" paper before February 16th, and then notice how similar his \"VTT\" is to my other paper \"Super Information Theory\" after February 16th. In fact if you dive even deeper his earlier language reflects the earlier names of my theory such as Quantum Gradient Time Crystal Dilation.",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/003.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "From a screenshot of Bianchetti’s documents; note the discussion on time crystals my work",
+   "body": "From a screenshot of Bianchetti’s documents; note the discussion on time crystals my work from years prior, note the date, June 2023 While his work first mentions time crystals in association with gravity in 2025, the subsequent changes in his language after my later publications, in my view, are strong indicators of unacknowledged overlap. As you can see my work mentioned time crystals in association with Gravity on twitter on June 3rd 2023. If you search for this on twitter you can still find it. Actually here is the link https://x.com/worksalt/status/1665170808036024321\n\nThe change in his language after the release of my later publications is the strong indicator, because he later introduces language into his work after February 16th that I introduced in my Super Information Theory paper that he did not use prior to the publication of my second paper.",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/005.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "Example of his “Viscous Time Theory” Ontology appears isomorphic to or is functionally",
+   "body": "Example of his “Viscous Time Theory” Ontology appears isomorphic to or is functionally equivalent in my view to “Dark Time Theory” Exhibit A the phrase: “Time Thickening” he wrote: “If time “thickens” on April 12th 2025.",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/007.png"
+  },
+  {
+   "seq": 16,
+   "headline": "“If time thickens” an example of the same ontology as my work.",
+   "body": "“If time thickens” an example of the same ontology as my work. Notice in my work published on 01-27-2025 “it redefines gravity as arising from time-thickening”\n\nYou will notice with a small amount of research that his work doesn't go back before 2025, and my work you can find online date stamped on github in the summer of 2022 before ChatGPT or Generative AI was a thing. The next two images prove that my Quantum Gradient Time Crystal Dilation theory was at least published on Github 3 years ago in July of 2022. These timestamps document that my work predates the wide availability of current LLMs, supporting my claim of independent development.",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/009.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/011.png"
+  },
+  {
+   "seq": 18,
+   "headline": "The documented changes and chronological sequence, in my opinion, suggest AI‑assisted",
+   "body": "The documented changes and chronological sequence, in my opinion, suggest AI‑assisted reuse of concepts from my earlier publications without explicit attribution.",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/013.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "4 Correspondence & Response",
+   "body": "When I reached out asking Bianchetti (via his AI avatar “Ergo”) to acknowledge prior sources, the reply asserted that VTT’s ontology is “fundamentally different.” My assessment is that key constructs— viscous time field , later renamed temporal coherence field —closely maps onto what I previously described as SDT’s time-density field and SIT’s quantum coherence field.",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/015.png"
+  },
+  {
+   "seq": 21,
+   "headline": "As you can see I have other screenshots that prove my work was published as early as July",
+   "body": "As you can see I have other screenshots that prove my work was published as early as July 2022. When I wrote this letter to him I was just beginning to build the evidence to rebut his false claims. He responded (via an AI agent) disputing my characterization of the overlap, asserting falsely that his Viscous Time Theory has a different ontology to Super Dark Time and Super Information theory.\n\nWhen reformulated into equivalent standard notation, each of Bianchetti’s purportedly novel constructs aligns exactly with my published frameworks. Concepts such as the time-crystallizing field, critical informational density thresholds, coherently precipitating structures, and phase-wave triggers all correspond point-for-point with my earlier Quantum Gradient Time Crystal Dilation (2022), Super Dark Time (Jan 2025), and Super Information Theory (Feb 2025). Once the language is unified, their structures and functional roles are indistinct—this is a formal equivalence, not a derivative reading of texts.",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/017.png"
+  },
+  {
+   "seq": 22,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/019.png"
+  },
+  {
+   "seq": 23,
+   "headline": "Notice “This is Ergo” by Ergo he means ChatGPT This image is a screenshot from his",
+   "body": "Notice “This is Ergo” by Ergo he means ChatGPT This image is a screenshot from his official website where he reveals that Ergo is a synthetic intelligence ie it’s ChatGPT. By claiming to have a different Ontology he means that his description of reality is different from my description of reality, but if we look closely at his words over time I do not find his defense persuasive when set against the dated record. He uses similar phrases & concepts after my work introduces them.\n\nWhen I first saw Viscous Time Theory, in January 2025, it was in the Theoretical Physics group on Facebook, When I first encountered the VTT publications, the close similarity in language and concepts immediately raised concerns in my mind about possible unacknowledged AI-assisted reuse of my previously published ideas.",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/021.jpg"
+  },
+  {
+   "seq": 24,
+   "headline": "I've noticed several authors whose works strongly parallel mine, suggesting possible",
+   "body": "I've noticed several authors whose works strongly parallel mine, suggesting possible AI-assisted paraphrasing. I'm confident future AI-based analysis will help researchers accurately trace conceptual and linguistic similarities to their original sources.\n\nFor authors whose writings, in my view, closely parallel my own, advancing AI tools will make provenance analyses increasingly straightforward., is that as AI gets smarter it will get easier and easier to prove who the real sources were, and it will become harder and harder for copycats to con other people into thinking they are the originators of the ideas they actually copied.\n\nThis story is also personal because I was very literally shocked and traumatized by seeing someone else representing my life's work as their own almost immediately after I began sharing my work in physics related groups online. I was consoled mainly by the fact that online date stamps prove that my work preceded theirs, but I felt some anxiety in the fact that other I perceived substantial, unattributed overlap with my work being publicly promoted as independently developed, under new names. I felt some anxiety when I saw that he's was claiming online that his work was gaining some traction on the scientific community, and that people were testing it without knowing the real source.",
+   "image": ""
+  },
+  {
+   "seq": 25,
+   "headline": "Timeline of Key Publications and Versions",
+   "body": "To appreciate the provenance of these ideas, it is useful to compare the timeline of Blumberg’s publications with the timeline of Bianchetti’s VTT drafts. Figure 1 below visualizes the chronology of major releases from both authors, highlighting when specific concepts and phrases appeared. Blumberg’s milestones are shown above the line (in blue) and Bianchetti’s VTT milestones below the line (in red):\n\nFigure 1: Timeline of key publications and version updates for Blumberg’s theories (above, blue) versus Bianchetti’s VTT (below, red). Blumberg’s work on time-density spans 2022–2025, while Bianchetti’s VTT drafts were released in early 2025. Notably, phrases like “time thickening,” “quantum coherence,” and “informational coherence” appear in Blumberg’s writings before they surface in VTT.",
+   "image": ""
+  },
+  {
+   "seq": 26,
+   "headline": "From this timeline, we observe the following sequence of developments:\n\nJuly 26, 2022 –",
+   "body": "From this timeline, we observe the following sequence of developments:\n\nJuly 26, 2022 – Blumberg’s initial Quantum Gradient Time Crystal Dilation (QGTCD) notes were committed to GitHub, marking the first public record of the idea that gravity could stem from quantized time frame density svgn.io . Over 2022–2023, Blumberg refined this concept; by June 3, 2023 , a QGTCD v1 draft explicitly mentioned “time crystals & gravity” and the notion of a “time‑density field,” indicating the early linkage of periodic time structure to gravitational effects svgn.io .\n\nJanuary 16, 2025 – Raoul Bianchetti published VTT version v18 as a preprint (e.g. on Zenodo) zenodo.org . At this point, VTT described time as a discrete viscous medium and introduced ideas like “information mass” and time viscosity, but it notably did not yet include any reference to quantum or informational coherence in its ontology. This was essentially the first public draft of VTT, appearing just before Blumberg’s major 2025 papers (and roughly 2.5 years after QGTCD’s initial concept had been circulating online).",
+   "image": ""
+  },
+  {
+   "seq": 27,
+   "headline": "January 27, 2025 – Blumberg released Super Dark Time (SDT) v1 on The Wayback",
+   "body": "January 27, 2025 – Blumberg released Super Dark Time (SDT) v1 on The Wayback Machine/Figshare (with links below) svgn.io . This paper formally defined gravity as arising from gradients in a time-density field and used the memorable phrase “time thickening creates gravity” in its abstract and discussion. SDT built directly on the QGTCD foundation and was accompanied by public posts explaining that mass “thickens time” instead of warping spacetime. This idea was now archived with a DOI timestamp (Jan 27, 2025) and accessible to the community.\n\nFebruary 9, 2025 – Blumberg released Super Information Theory (SIT) v1 on The Wayback Machine/Figshare (with links below) svgn.io . This extensive treatise (180+ pages) expanded the framework with a dual-field theory uniting time-density with a quantum coherence/information field . SIT’s summary introduced the term “informational coherence,” describing how coherence of information might generate physical structure and gravity. Both “quantum coherence field” and “informational coherence” appear in the very first version of SIT’s text and metadata, which are date-stamped Feb 9 svgn.io . This marked the first time those phrases were used in the context of a quantum gravity theory.",
+   "image": ""
+  },
+  {
+   "seq": 28,
+   "headline": "February 16, 2025 – Bianchetti updated VTT to version v61 .",
+   "body": "February 16, 2025 – Bianchetti updated VTT to version v61 . In this update, for the first time, VTT incorporated quantum coherence terminology : notably a new module titled “The Quantum Coherence of the Heart.” The content suggests VTT was now exploring the role of coherence (even in biological contexts like the heart) as part of its framework. The phrase “quantum coherence” itself appears in VTT v61’s text (where it had been absent in v18) svgn.io svgn.io . The timing is significant: this addition comes just after SIT’s public introduction of similar language.\n\nMarch 19, 2025 – Bianchetti released VTT version v92 , which included a section on the “Black Hole Informational Coherence Model” (BHICM) . In VTT v92, the exact term “informational coherence” was used for the first time within Bianchetti’s work, reflecting a full adoption of the concept that SIT had highlighted over a month earlier svgn.io . By this stage, VTT’s lexicon had evolved to encompass informational density and coherence in a manner highly reminiscent of SIT’s propositions.",
+   "image": ""
+  },
+  {
+   "seq": 29,
+   "headline": "Throughout this timeline, Blumberg remained the sole author of QGTCD, SDT, and SIT,",
+   "body": "Throughout this timeline, Blumberg remained the sole author of QGTCD, SDT, and SIT, openly sharing drafts on GitHub, SVGN.io, and the Wayback Machine/Figshare with clear timestamps. Bianchetti’s VTT timeline, in contrast, is compressed into the early 2025 window and involves rapid iteration (v18 to v92 within two months) that corresponds closely with the appearance of concepts first seen in Blumberg’s publications. Every major concept that VTT eventually included – time crystallization of gravity, time thickening, informational coherence – had already been documented by Blumberg beforehand svgn.io . The chronological record thus substantiates Blumberg’s priority: for example, the notion that “mass is a time crystal producing gravity via frame density” was articulated in 2023 svgn.io , the term “time thickening” in January 2025, and “informational coherence” in early February 2025, all before those exact or equivalent ideas showed up in VTT.",
+   "image": ""
+  },
+  {
+   "seq": 30,
+   "headline": "To illustrate my case it is important to make it clear to readers that my work going",
+   "body": "To illustrate my case it is important to make it clear to readers that my work going under the name of Super Information Theory is built on a previous theory called Super Dark Time, or Dark Time Theory, and that is built on a previous version of the same theory called Quantum Gradient Time Crystal Dilation.\n\nYou can see that in the early version of Viscous Time Theory there are strong similarities to Dark Time. He claims that there is an ontological difference, but there is not really a difference, the Viscous Time Field, later called a Temporal Coherence Field, appears clearly rephrased from the Time Density Field in Super Dark Time, and the Quantum Coherence Field in Super Information Theory.",
+   "image": ""
+  },
+  {
+   "seq": 31,
+   "headline": "Notice that only after February 16th he begins to use phrases like “informational",
+   "body": "Notice that only after February 16th he begins to use phrases like “informational coherence”, “informational tension” and “informational density and coherence”.",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/023.jpg"
+  },
+  {
+   "seq": 32,
+   "headline": "I am showing not only when my work first appeared, but also when the evolution of certain",
+   "body": "I am showing not only when my work first appeared, but also when the evolution of certain ideas that I developed first appeared.",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/025.jpg"
+  },
+  {
+   "seq": 33,
+   "headline": "The clearest evidence is this: There is no mention of Informational Coherence in Raoul Bianchetti's work until after February 16th 2025. Before that date, his terminology appears closely aligned with Super Dark Time, and after that date, with Super Information Theory, which is where the concept of informational coherence was first applied to quantum gravity.",
+   "body": "Raoul Bianchetti’s Viscous Time Theory shows no explicit reference to “quantum coherence” until Version v61 of the VTT preprint was published on February 16, 2025, which for the first time included a dedicated paper titled “The Quantum Coherence of the Heart” under the VTT umbrella\n\nThe foundational VTT preprint (“Discrete Viscous Time and Critical Information Mass,” Version v18) was published on January 16, 2025, and its description makes no reference to any form of “coherence”\n\nThe first time “Informational Coherence” appears explicitly is in the Black Hole Informational Coherence Model (BHICM), which was released as part of record 15053841 (v 92) on March 19, 2025\n\nWayback Machine/Figshare’s version history for Super Information Theory (SIT) confirms my observation:",
+   "image": ""
+  },
+  {
+   "seq": 34,
+   "headline": "Version 1 was first posted on February 9, 2025, and its summary explicitly uses the",
+   "body": "Version 1 was first posted on February 9, 2025, and its summary explicitly uses the phrase “informational coherence” to describe how coherence shapes gravitational effects. (links below)",
+   "image": ""
+  },
+  {
+   "seq": 35,
+   "headline": "The next update I posted on February 28, 2025 (listed as Version 4) likewise retains and",
+   "body": "The next update I posted on February 28, 2025 (listed as Version 4) likewise retains and elaborates on “informational coherence” in its abstract and version notes.\n\nThis validates that both the very first SIT release and its subsequent February 28 update both mention “informational coherence.” terms that he only began to integrate into VTT after I first published them.",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/027.jpg"
+  },
+  {
+   "seq": 36,
+   "headline": "You can find the first version of “Super Dark Time” an evolution of Quantum Gradient Time",
+   "body": "You can find the first version of “Super Dark Time” an evolution of Quantum Gradient Time Crystal Dilation published on January 27th, 2025 (links below)",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/029.jpg"
+  },
+  {
+   "seq": 37,
+   "headline": "Emotional & Professional Impact",
+   "body": "Discovering near‑verbatim conceptual framing under a different banner was jarring. While timestamps protect the historical record, public misconceptions about authorship can influence peer perception, grant review, and media coverage. Transparent provenance therefore protects both originators and honest downstream researchers. You can download the latest version of Super Dark Time, Super Information Theory, and Micah’s New Law of Thermodynamics here. Make your own comparisons with AI Deep Research, compare the dates, and you can independently evaluate the timestamps and sources to assess my claims.",
+   "image": ""
+  },
+  {
+   "seq": 38,
+   "headline": "Moving the Conversation Forward",
+   "body": "For readers : Examine the primary documents (links below), run your own semantic‑similarity checks, and weigh the evidence.\n\nFor authors using AI : Disclose your workflow and cite inspirations explicitly. Attribution is free—and professionally prudent.\n\nFor platforms & journals : Adopt automated date‑stamped provenance checks before publication to flag potential overlap.",
+   "image": ""
+  },
+  {
+   "seq": 39,
+   "headline": "Primary Source Links",
+   "body": "Micah Blumberg\n\nQGTCD (GitHub, 3 Jun 2023)\n\nSee the Wayback Machine/Figshare links below and the Zenodo links.\n\nRaoul Bianchetti\n\nVTT v18 “Discrete Viscous Time…” (16 Jan 2025)\n\nVTT v61 “The Quantum Coherence of the Heart” (16 Feb 2025)\n\nVTT v92 “Black Hole Informational Coherence Model” (19 Mar 2025)\n\nConclusion and Outlook\n\nThe comparative analysis above shows that, once translated into common terms, Raoul Bianchetti’s Viscous Time Theory corresponds almost point-for-point with Micah Blumberg’s earlier Time-Density theories . Every foundational element of VTT – from treating time as a substantive medium, to the idea of time “thickening” under gravity, to the inclusion of informational coherence – has a clear precedent in Blumberg’s publications. In light of this one-to-one mapping, VTT can be viewed as a reformulation (whether intentional or coincidental) of an existing framework, rather than a wholly independent invention. Blumberg’s work not only has priority in time but also provides the language through which these concepts were first publicly articulated.",
+   "image": ""
+  },
+  {
+   "seq": 40,
+   "headline": "Establishing such equivalences is more than an academic exercise in attribution; it is",
+   "body": "Establishing such equivalences is more than an academic exercise in attribution; it is vital for the integrity of scientific discourse. In an era where large language models and AI tools can easily paraphrase and repackage ideas, maintaining transparent provenance of concepts becomes essential svgn.io svgn.io . The case of VTT and the Time-Density framework serves as a pertinent example. By tracing development timelines and matching conceptual lexicons, we ensure that original contributions are recognized and that parallel research efforts can be properly contextualized. Indeed, as generative AI becomes more prevalent in scholarship, clear citation and lineage of ideas will be critical to prevent confusion between genuine independent discovery and AI-assisted rephrasing of existing work.",
+   "image": ""
+  },
+  {
+   "seq": 41,
+   "headline": "It’s important to emphasize that attribution is not about legalities or ego, but about",
+   "body": "It’s important to emphasize that attribution is not about legalities or ego, but about scholarly clarity . Blumberg’s theories were released under open licenses (e.g. Creative Commons Attribution), explicitly to encourage others to build upon them – provided the source is credited. Had VTT acknowledged the prior work it builds upon (if it was in fact influenced by it), the overlap could have been celebrated as a collaborative convergence rather than noted as an omission. Proper citation would have cost nothing, yet it would have strengthened the credibility of VTT by demonstrating how it connects to established research. This scenario highlights a simple but crucial principle: when in doubt, cite . A brief nod to QGTCD/SDT/SIT as inspiration or groundwork would have aligned VTT with the open-science ethos and dispelled any questions about originality.",
+   "image": ""
+  },
+  {
+   "seq": 42,
+   "headline": "Moving forward, several constructive steps can be taken:\n\nFor readers and researchers:",
+   "body": "Moving forward, several constructive steps can be taken:\n\nFor readers and researchers: Examine primary sources and date-stamped records whenever theories seem to overlap. Independent verification of claims (for example, checking GitHub commit dates or my Wayback Machine/Figshare links or Zenodo) is now easier than ever, and is the best way to form an informed opinion on intellectual precedence.\n\nFor authors (especially those using AI tools): Be transparent about your influences and methods. If large language models or existing papers shaped your thinking, say so and give credit. Generative AI can accelerate innovation, but it should not erase the paper trail of ideas. Explicit attribution of earlier work demonstrates honesty and scholarly rigor, and it does not diminish the value of one’s contributions – rather, it situates them in the continuum of research.",
+   "image": ""
+  },
+  {
+   "seq": 43,
+   "headline": "For publishers and platforms: Consider implementing automated provenance checks.",
+   "body": "For publishers and platforms: Consider implementing automated provenance checks. Journals and preprint servers could flag terminology or ideas that appear in submissions and closely match previously published work, especially if that work is un-cited. Simple chronological cross-referencing (even via AI assistants) could alert editors and authors to relevant prior art, helping to uphold the norms of citation and preventing inadvertent oversights.\n\nIn conclusion, the case of VTT and Blumberg’s Time-Density framework exemplifies a profound conceptual equivalence disguised by superficial differences in wording. By peeling back those differences through careful comparison, we found an underlying identity between the two theories. Such analyses benefit the scientific community by clarifying who introduced specific ideas and when, thereby ensuring that credit is accurately allocated and that the evolution of knowledge is properly documented. In the spirit of collaborative progress, recognizing equivalences and giving due attribution strengthens trust in the scientific process. It allows researchers to build on each other’s insights openly, and it provides the public a clear narrative of how breakthroughs emerge. As we navigate the opportunities and challenges of the AI era, adhering to these principles of transparency and credit will be essential for credible and ethical science.",
+   "image": ""
+  },
+  {
+   "seq": 44,
+   "headline": "References:\n\nMilner, R.",
+   "body": "References:\n\nMilner, R. Communicating and Mobile Systems: The π-Calculus . Cambridge University Press, 1999. (Excerpt on behavioral equivalence) assets.cambridge.org\n\nBlumberg, M. “Deep Comparative Analysis of Information Flux Theory (IFT) by Yoshinori Shimizu to Super Information Theory (SIT).” SVGN.io , Aug 4, 2025. (Records chronological development of QGTCD, SDT, SIT) svgn.io svgn.io\n\nBlumberg, M. Super Dark Time: Gravity Computed from Local Quantum Mechanics . See below. (Introduces “time thickening” as source of gravity.) svgn.io\n\nBlumberg, M. Super Information Theory: The Coherence Conservation Law . See below. (Introduces “informational coherence” and quantum coherence field.) svgn.io\n\nBlumberg, M. “Profound Conceptual Equivalence Between Judge Logan’s UFTC-SF Theories and Blumberg’s Time-Density Frameworks.” SVGN.io , Aug 1, 2025. (Example of independent convergence: echoes of time-density concepts in another’s work.) svgn.io",
+   "image": ""
+  },
+  {
+   "seq": 45,
+   "headline": "Bianchetti, R.",
+   "body": "Bianchetti, R. Discrete Viscous Time and Critical Information Mass. Zenodo preprint, v18, Jan 16, 2025. DOI:10.5281/zenodo.14674323. (First public VTT draft; no coherence terms yet.) zenodo.org\n\nBlumberg, M. “Viscous Time Theory by Raoul Bianchetti and the question of AI-assisted, unattributed reuse.” SVGN.io , Apr 19, 2025 (updated Jul 24, 2025). (Original analysis of VTT vs. Blumberg’s work; timeline of versions and lexical parallels.) svgn.io svgn.io\n\nBianchetti, R. “The Viscous Time Theory: Applications and Foundation.” Zenodo, 2025. DOI:10.5281/zenodo.14687924. (Later VTT developments incorporating informational coherence.)\n\nBlumberg, M. GitHub Repository – Quantum Time Crystals (selfaware.networks, 2022–2023). (Contains QGTCD draft “a0253z.md” from Aug 4, 2022 and revisions with “time crystal gravity” by Jun 2023.) svgn.io",
+   "image": ""
+  },
+  {
+   "seq": 46,
+   "headline": "Blumberg, M.",
+   "body": "Blumberg, M. “Phys.org Should Retract Its ‘Ultimate Computer’ Gravity Story — Here’s the Prior Work It Overlooked.” SVGN.io , Aug 2025. (Provides context on priority of information-based gravity ideas and mentions use of phrases in Blumberg’s work before others.) svgn.io svgn.io\n\nI’ve updated both articles to clarify that they present my analysis and opinions based on disclosed, date-stamped sources, not accusations of intentional wrongdoing. The revisions add an editorial note, emphasize independently verifiable timelines, and consistently mark interpretation as “in my view.” Given that framing—and the availability of primary links for readers to check—the demand to take the articles offline is an overbroad attempt at prior restraint. If any party believes a specific sentence is factually incorrect, I’m open to reviewing targeted evidence and considering a narrow correction; a blanket takedown is neither necessary nor appropriate.",
+   "image": ""
+  },
+  {
+   "seq": 47,
+   "headline": "I added a clear scope/intent disclaimer.",
+   "body": "I added a clear scope/intent disclaimer. I refined wording, kept the underlying evidence unchanged, and stated that I am not alleging intentional wrongdoing. This frames the piece as documentation and analysis, not accusation.\n\nI anchored my claims to verifiable facts and clearly signposted opinion. Throughout, I use phrases like “in my view” and tie my analysis to a timeline and primary sources that readers can check themselves—most visibly in the purpose statement and the milestones table.\n\nI removed inflammatory labels and focused on evidence. The revision centers on date-stamped milestones and side-by-side terminology shifts (for example, “informational coherence” appearing in later VTT versions) rather than on personal characterizations.",
+   "image": ""
+  },
+  {
+   "seq": 48,
+   "headline": "I invited independent verification.",
+   "body": "I invited independent verification. I encourage readers to follow the links/DOIs and “verify these dates independently,” underscoring a good-faith, evidence-first approach.\n\nI clearly attributed third-party critiques. Where I reference outside criticism (e.g., ResearchGate discussions), I present it as what those authors argued, not as my own factual assertion—reducing any implication of malice.\n\nMy work is opinion + analysis on a public-interest topic. I state that my aim is to document timelines and let readers draw their own conclusions—not to assign liability—while grounding my commentary in disclosed facts.\n\nThey seek prior restraint without specifics. Their “remove everything” demand is sweeping and doesn’t identify any particular false statement. I’ve already narrowed tone and emphasized checkable facts; if they believe something is wrong, the appropriate step is to point to the exact line and provide contrary evidence—not demand a blanket takedown.",
+   "image": ""
+  },
+  {
+   "seq": 49,
+   "headline": "Truth/substantial truth and fair comment apply.",
+   "body": "Truth/substantial truth and fair comment apply. I rely on public timestamps, quoted language, version histories, and DOIs—exactly the disclosed factual record that supports fair comment and opinion based on facts.\n\nMy good-faith edits undercut any claim of malice. I promptly refined wording, added an editorial note, and clarified scope and intent—behavior inconsistent with reckless disregard.\n\nI provide a right of reply. I invite readers to review the sources themselves and I link to the response piece, showing I’m engaging the debate rather than trying to silence anyone.\n\nClosing Remarks: My primary goal remains scholarly clarity, proper citation, and transparent academic dialogue. The changes made here reflect a good-faith effort to maintain professional discourse while explicitly preserving my right to speak truthfully about documented evidence and factual timelines. I reaffirm the importance of accurate, verifiable attribution in scientific research. This update is made without prejudice, explicitly reserving all rights and defenses.",
+   "image": ""
+  },
+  {
+   "seq": 50,
+   "headline": "If you found value in this article, please consider supporting our work.",
+   "body": "If you found value in this article, please consider supporting our work. SVGN.io is an independent, reader-powered publication devoted to in-depth analysis of emerging technology and science. Our team pours time, expertise, and heart into reporting stories that matter – because we believe an informed world benefits everyone . We have no big sponsors or paywalls keeping our analysis exclusive; instead, we rely on readers like you to keep these stories coming.\n\nEven a small contribution makes a difference. Think of it like buying our team a coffee once a month – a monthly subscription is just $3.50 (about the price of a drink) – or treating us to lunch for the whole year with our annual plan at only $20 . It may seem small, but it truly helps. By subscribing, you’re not only fueling more deep-dive stories and research, you’re also joining us in championing independent journalism in the tech world. Every subscriber helps keep SVGN.io alive and ad-free, allowing us to remain open and accessible to all.",
+   "image": ""
+  },
+  {
+   "seq": 51,
+   "headline": "If you can, please take a moment to subscribe today.",
+   "body": "If you can, please take a moment to subscribe today. Support independent analysis and help us continue delivering stories like this one. Thank you for reading.\n\nTIMESTAMP EVIDENCE (WAYBACK MIRRORS)\n\nKey evidence that Super Information Theory, Super Dark Time, and Micah’s New Law of Thermodynamics were published on The Wayback Machine/Figshare (with links below) in the period between January & March 2025 and can be found on Orch ID, as well as on the Wayback Machine, the newest versions of these articles will be published on Zenodo, Github, and The Wayback Machine/Zenodo simultaneously.\n\nWay Back Machine\n\nORCH ID https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe Wayback Machine for Super Information Theory https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Information_Theory/ *",
+   "image": ""
+  },
+  {
+   "seq": 52,
+   "headline": "The Wayback Machine for Super Dark Time",
+   "body": "The Wayback Machine for Super Dark Time https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Dark_Time_Gravity_Computed_from_Local_Quantum_Mechanics/ *\n\nThe Wayback Machine for Micah’s New Law of Thermodynamics https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/_b_Micah_s_New_Law_of_Thermodynamics_A_Signal-Dissipation_Framework_for_Equilibrium_and_Consciousness_b_/ *\n\nThe Wayback Machine for Self Aware Networks: Oscillatory Computational Agency\n\nThe date that the Wayback machine preserved a copy is in the link “web.archive.org/web/20250725 = 2025 July 25th. Although I published the paper on May 16 which Orch ID confirms.\n\nhttps://web.archive.org/web/20250725002526/https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/54589349/SelfAwareNetworksOCAFirstDraft.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20250725/eu-west-1/s3/aws4_request&X-Amz-Date=20250725T002525Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=3055babeb1b7245f2ad9169545181458b431b2deb342c7789e953ddd23c687b6",
+   "image": ""
+  },
+  {
+   "seq": 53,
+   "headline": "ORCID (identity reference)",
+   "body": "ORCID (identity reference) https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe eight works I mirrored to Zenodo\n\nSelf Aware Networks: OCA (First Draft)\n\nOriginal date: 2025-05-16 (formal first draft)\n\nThroughline: Multiscale oscillatory computation and deterministic agency ; methods for wave-based integration (COT/NAPOT/BOT).\n\nProvenance: Concepts first publicly disclosed in 2017 ; large GitHub corpus 2022 .\n\nhttps://zenodo.org/records/16922401\n\nSuper Dark Time: Gravity Computed from Local Quantum Mechanics\n\nOriginal date: 2025-01-27 (Draft 16)\n\nThroughline: Time-density field regulates quantum evolution and gravity; mass as a time crystal ; local computation of gravity.\n\nhttps://zenodo.org/records/16922502",
+   "image": ""
+  },
+  {
+   "seq": 54,
+   "headline": "Micah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium,",
+   "body": "Micah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium, Consciousness, and Gravity\n\nOriginal date: 2025-01-23 (v6)\n\nThroughline: Equilibrium as computation —iterative, local signal-dissipation ; Kuramoto-like synchronization; neural coherence as thermodynamic relaxation.\n\nhttps://zenodo.org/records/16922506\n\nSuper Information Theory: The Coherence Conservation Law Unifying the Wave Function, Gravity, and Time\n\nOriginal date: 2025-02-09 (Draft 73; updated 2025-08-14 )\n\nThroughline: Two primitives— coherence field ψ(x) and time-density ρₜ(x) —with a unified, covariant action; gravity from coherence gradients ; EM as phase holonomy ; testable predictions.\n\nhttps://zenodo.org/records/16922512",
+   "image": ""
+  },
+  {
+   "seq": 55,
+   "headline": "Coincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review &",
+   "body": "Coincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review & consolidation June 2025 )\n\nThroughline: The bit is a coincidence pattern (not a spike); from micro coincidences to oscillatory coherence (2017 → 2022 → 2025).\n\nhttps://zenodo.org/records/16922510\n\nNeuroscience in Review: Mapping “Cortical traveling waves in time and space” (2025) to Self Aware Networks (2022) (Dataset)\n\nOriginal date: 2025-06-18\n\nThroughline: Formal translate → decode → map from 2025 traveling-wave reviews to SAN’s 2022 phase-wave differentials , with Pi Calculus and Category Theory proofs of equivalence.\n\nhttps://zenodo.org/records/16922844\n\nNeuroscience in Review: Brain Rhythms in Cognition (2024–25) vs. Blumberg’s Self-Aware Networks (2017–25)",
+   "image": ""
+  },
+  {
+   "seq": 56,
+   "headline": "Original date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges",
+   "body": "Original date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges on mechanisms articulated earlier in Coincidence as a Bit (2017) and SAN (2022) ; embedded within SIT’s coherence/time-density law.\n\nhttps://zenodo.org/records/16922874\n\nTimeline Review of Kletetschka’s 3D Time Theory & Blumberg’s SIT, SDT, QGTCD, and other similar theories\n\nOriginal date: July 25, 2025 (v1)\n\nThroughline: Timeline analysis mapping 3D Time Theory’s constructs to SIT (coherence gradients, time-density ρₜ), SDT (local gravitational computation), and QGTCD (time crystals), using translate→decode→map with Pi Calculus behavioral equivalence and Category Theory functional isomorphism to establish earlier priority.",
+   "image": ""
+  },
+  {
+   "seq": 57,
+   "headline": "https://zenodo.org/records/16922866",
+   "body": "https://zenodo.org/records/16922866",
+   "image": ""
+  },
+  {
+   "seq": 58,
+   "headline": "Additional reading:",
+   "body": "Additional reading:",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/031.jpg"
+  },
+  {
+   "seq": 59,
+   "headline": "Micah’s New Law of Thermodynamics",
+   "body": "Micah Blumberg\n\n·\n\nJan 27",
+   "image": ""
+  },
+  {
+   "seq": 60,
+   "headline": "Introducing Micah’s New Law of Thermodynamics, A Signal-Dissipation Framework for",
+   "body": "Introducing Micah’s New Law of Thermodynamics, A Signal-Dissipation Framework for Equilibrium and Consciousness.\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/033.jpg"
+  },
+  {
+   "seq": 61,
+   "headline": "Introducing Quantum SuperTimePosition",
+   "body": "Micah Blumberg\n\n·\n\nJan 3",
+   "image": ""
+  },
+  {
+   "seq": 62,
+   "headline": "In a series of exploratory conversations, a new interpretation of quantum mechanics has",
+   "body": "In a series of exploratory conversations, a new interpretation of quantum mechanics has emerged—dubbed Quantum SuperTimePosition. This viewpoint suggests that quantum states evolve at a faster “internal clock rate” than we can measure, and that gravitational time dilation can modify this internal clock. According to this idea, quantum probabilities and …\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/035.jpg"
+  },
+  {
+   "seq": 63,
+   "headline": "Wave-Dissipation Universality",
+   "body": "Micah Blumberg\n\n·\n\nJan 3",
+   "image": ""
+  },
+  {
+   "seq": 64,
+   "headline": "Wave Perturbation & Dissipation Across Scales\n\nRead full story",
+   "body": "Wave Perturbation & Dissipation Across Scales\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/037.jpg"
+  },
+  {
+   "seq": 65,
+   "headline": "Why Einstein Was Right When He Said — “God Does Not Play Dice\"",
+   "body": "Micah Blumberg\n\n·\n\nJan 4",
+   "image": ""
+  },
+  {
+   "seq": 66,
+   "headline": "Albert Einstein famously remarked, “God does not play dice,” expressing skepticism toward",
+   "body": "Albert Einstein famously remarked, “God does not play dice,” expressing skepticism toward the idea that fundamental physics is ruled purely by intrinsic randomness.\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/039.jpg"
+  },
+  {
+   "seq": 67,
+   "headline": "A new book out today \"Bridging Molecular Mechanisms and Neural Oscillatory Dynamics\"",
+   "body": "Micah Blumberg\n\n·\n\nOctober 30, 2024\n\nThis book “Bridging Molecular Mechanisms and Neural Oscillatory Dynamics” and the Self Aware Networks Theory of Mind provide a novel unified framework for understanding consciousness addressing attention binding, the hard problem: how we observe what we observe, and qualia, what those observations are made out of .\n\nRead full story",
+   "image": ""
+  },
+  {
+   "seq": 68,
+   "headline": "A New Law of Thermodynamics",
+   "body": "Micah Blumberg\n\n·\n\nDecember 31, 2024",
+   "image": ""
+  },
+  {
+   "seq": 69,
+   "headline": "This letter came about because tonight I was watching Stephen Wolfram speak in a video to",
+   "body": "This letter came about because tonight I was watching Stephen Wolfram speak in a video to Dr. Brian Keating, and he was saying that the 2nd Law of Thermodynamics represents the observed result of an irreducible computation being performed by the molecules of gas. This made me sit up in my seat and realize that not only did I know the computation, being …\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/041.jpg"
+  },
+  {
+   "seq": 70,
+   "headline": "Dark Time Theory: A conversation about the core ideas forming a new frontier in physics.",
+   "body": "Micah Blumberg\n\n·\n\nOctober 22, 2024",
+   "image": ""
+  },
+  {
+   "seq": 71,
+   "headline": "Forward: ChatGPT o1-preview is much smarter and more skeptical than traditional ChatGPT",
+   "body": "Forward: ChatGPT o1-preview is much smarter and more skeptical than traditional ChatGPT 4o. It initially rejected my latest draft article on Dark Time Theory. So I had to reargue the basics from scratch, and I succeeded in persuading the model to my view.\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/043.jpg"
+  },
+  {
+   "seq": 72,
+   "headline": "Quantum Gravity's New Frontier: Time, Density, and Information",
+   "body": "Micah Blumberg\n\n·\n\nOctober 21, 2024",
+   "image": ""
+  },
+  {
+   "seq": 73,
+   "headline": "In the realm of theoretical physics, where the boundaries of human understanding are",
+   "body": "In the realm of theoretical physics, where the boundaries of human understanding are constantly pushed, two names have recently captured the attention of the scientific community: Ivette Fuentes and Netta Engelhardt. These accomplished physicists, while both working at the cutting edge of their field, approach the mysteries of the universe from fascinat…\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/045.jpg"
+  },
+  {
+   "seq": 74,
+   "headline": "Explain it to me like I am six: Quantum Gradient Time Crystal Dilation Theory. (Part 3)",
+   "body": "Micah Blumberg\n\n·\n\nMarch 27, 2024",
+   "image": ""
+  },
+  {
+   "seq": 75,
+   "headline": "I tried to explain my new Unified Field Theory while playing Population One on Meta Quest",
+   "body": "I tried to explain my new Unified Field Theory while playing Population One on Meta Quest 3. They didn’t understand, so they asked me to explain to them like they were six. I decided to use Figmin XR to illustrate the idea.\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/047.jpg"
+  },
+  {
+   "seq": 76,
+   "headline": "Quantum Gradient Time Crystal Dilation breaks the assumption that gravity equals metric curvature alone.",
+   "body": "Micah Blumberg\n\n·\n\nFebruary 15, 2024",
+   "image": ""
+  },
+  {
+   "seq": 77,
+   "headline": "This article is Part II in a series that explores a novel new Unified Field Theory called",
+   "body": "This article is Part II in a series that explores a novel new Unified Field Theory called Quantum Gradient Time Crystal Dilation (QGTCD) and its potential connections to existing frameworks like General Relativity (GR), Quantum Field Theory (QFT), and Modified Newtonian Dynamics (MOND). It presents a fascinating and ambitious attempt to unify aspects of…\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/049.jpg"
+  },
+  {
+   "seq": 78,
+   "headline": "New Unified Field Theory: Quantum Gradient Time Crystal Dilation: explains quantum mass as a time crystal dilating time at quantum scale & making gravity by increasing time frames.",
+   "body": "Micah Blumberg\n\n·\n\nJanuary 28, 2024",
+   "image": ""
+  },
+  {
+   "seq": 79,
+   "headline": "Note the content of this article was originally published on github here is the link:",
+   "body": "Note the content of this article was originally published on github here is the link: https://github.com/v5ma/selfawarenetworks/blob/main/QGTCD.md\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/051.jpg"
+  },
+  {
+   "seq": 80,
+   "headline": "The Brain's Hidden 3D Phase Field: How Neural Oscillations Compose Your Reality",
+   "body": "Micah Blumberg\n\n·\n\nOctober 22, 2024",
+   "image": ""
+  },
+  {
+   "seq": 81,
+   "headline": "This part of the article was composed by Claude AI after reading the content that I will",
+   "body": "This part of the article was composed by Claude AI after reading the content that I will post afterwards, after Claude’s remarks, note Claude’s remarks are based on a note from the Self Aware Networks: Theory Of Mind, a collection of notes & conjectures & research posted to\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/053.jpg"
+  },
+  {
+   "seq": 82,
+   "headline": "\"Brain states as wave life motifs\" Waves of Consciousness: A New Paradigm for Understanding Brain States",
+   "body": "Micah Blumberg\n\n·\n\nOctober 13, 2024",
+   "image": ""
+  },
+  {
+   "seq": 83,
+   "headline": "”Brain states as wave-like motifs”\n\nRead full story",
+   "body": "”Brain states as wave-like motifs”\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/055.jpg"
+  },
+  {
+   "seq": 84,
+   "headline": "New Study Challenges Sensory Cortex Role in Predictive Coding: Implications for Neural Information Processing Models",
+   "body": "Micah Blumberg\n\n·\n\nOctober 5, 2024",
+   "image": ""
+  },
+  {
+   "seq": 85,
+   "headline": "The paper \"Stimulus history, not expectation, drives sensory prediction errors in",
+   "body": "The paper \"Stimulus history, not expectation, drives sensory prediction errors in mammalian cortex\" suggests that the neural prediction error signals in sensory cortices, often attributed to predictive coding models, are more closely driven by stimulus history rather than active top-down expectation. This finding challenges the idea that predictive codi…\n\nRead full story",
+   "image": "/wiki/svgn/articles/media/svgn-161650513/057.jpg"
+  },
+  {
+   "seq": 86,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity.]] · [[Micah Blumberg]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-fba167ef1fcd",
+     "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+    },
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    }
+   ]
+  }
+ ]
+}

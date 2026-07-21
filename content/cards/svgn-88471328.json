@@ -1,0 +1,54 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471328",
+ "title": "Have you seen pictures of the new Acer?",
+ "dek": "Have you seen pictures of the new Acer? It looks nothing like it. The flap, that is triangular and pointing backwards from the headset is a different shape from all known headsets. By SVGN.io on September 3, 2018 . Expor",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-09-03",
+ "articleHref": "/wiki/svgn/articles/2018-09-03-have-you-seen-pictures-of-the-new-acer-vrma-c6df80bbc0d7",
+ "sourceUrl": "https://www.svgn.io/p/have-you-seen-pictures-of-the-new-acer-c6df80bbc0d7",
+ "topTerms": [
+  "seen",
+  "pictures",
+  "acer",
+  "looks",
+  "nothing",
+  "flap",
+  "triangular",
+  "pointing"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-c6df80bbc0d7",
+   "title": "Have you seen pictures of the new Acer?"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Have you seen pictures of the new Acer?",
+   "body": "Have you seen pictures of the new Acer? It looks nothing like it. The flap, that is triangular and pointing backwards from the headset is a different shape from all known headsets. By SVGN.io on September 3, 2018 . Expor",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Have you seen pictures of the new Acer?",
+   "body": "Have you seen pictures of the new Acer? It looks nothing like it. The flap, that is triangular and pointing backwards from the headset is a different shape from all known headsets.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Have you seen pictures of the new Acer?]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-c6df80bbc0d7",
+     "title": "Have you seen pictures of the new Acer?"
+    }
+   ]
+  }
+ ]
+}

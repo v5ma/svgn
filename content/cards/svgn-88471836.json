@@ -1,0 +1,174 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471836",
+ "title": "Osterhout Design Group’s XR Glasses (that do VR & AR) are for professionals, but they also raise…",
+ "dek": "Article includes links to two interviews I did with the CTO of ODG John Haddick.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-05-27",
+ "articleHref": "/wiki/svgn/articles/2018-05-27-osterhout-design-group-s-xr-glasses-that-do-vr-and-ar-are-for-professionals-but-they-a-vrma-e9f932fdd06e",
+ "sourceUrl": "https://www.svgn.io/p/osterhout-design-groups-xr-glasses-that-do-vr-ar-are-for-professionals-but-they-also-raise-e9f932fdd06e",
+ "topTerms": [
+  "headsets",
+  "technology",
+  "high",
+  "products",
+  "oculus",
+  "vive",
+  "medium",
+  "video"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-a673d2063c5",
+   "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+  },
+  {
+   "id": "vrma-5c0c331fcd7",
+   "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+  },
+  {
+   "id": "vrma-6d0cd9b3115",
+   "title": "Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest"
+  },
+  {
+   "id": "vrma-104682d60d94",
+   "title": "VRLA Pre-show Showdown: Vive Focus vs Oculus Go vs the Lenovo Mirage Solo"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Osterhout Design Group’s XR Glasses (that do VR & AR) are for professionals, but they also raise…",
+   "body": "Article includes links to two interviews I did with the CTO of ODG John Haddick.",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article by Micah Blumberg, Journalist, Researcher, Neurohacker at http://VRMA.io\n\nThe ODG",
+   "body": "Article by Micah Blumberg, Journalist, Researcher, Neurohacker at http://VRMA.io\n\nThe ODG R8 and R9 are among the first of a new generation of XR headsets, meaning they can do both Augmented Reality and Virtual Reality. They each come with high resolution screens with high pixel density but with intentionally small fov, that looks beautiful, and importantly (unlike most other VR headsets) these are functional in real world business environments for applications that go far beyond gaming.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "By design ODG R8 & R9 (like the R7) headsets are hackable with built in USB designed to",
+   "body": "By design ODG R8 & R9 (like the R7) headsets are hackable with built in USB designed to allow Corporations, Academia, and Governments to add their own sensors such as eye tracking or bmi (brain machine interfaces) If you are a business owner ODG may offer the headset that is right for what you want to do. Already these headsets have been used successfully for military and medical applications.",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "The R8, and R9 Glasses feature Qualcomm Snapdragon technology, the same kinds of",
+   "body": "The R8, and R9 Glasses feature Qualcomm Snapdragon technology, the same kinds of processors found in the recently released VR products such as the Oculus Go, HTC Vive Focus, and the Lenovo Mirage Solo, but while these products are for games that consumer your whole field of view the ODG was designed with non-gaming applications in mind.",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Qualcomm makes the Snapdragon Processor which is featured in the Oculus Go, the HTC Vive",
+   "body": "Qualcomm makes the Snapdragon Processor which is featured in the Oculus Go, the HTC Vive Focus, the Google Daydream based Lenovo Mirage Solo, and also a little known product called the ODG R8 and it’s big brother the ODG R9 Qualcomm has already built a working 6dof controller for MobileVR headsets, that lets you have hand… Qualcomm intends to bring a 6dof motion controller to mobile VR headsets (products like the HTC Vive Focus, and the Lenovo Mirage Solo)… medium.com\n\nSo by design they gave the R8 and R9 a 40 degree and a 50 degree FOV, but because of the high pixel density that allows up to 4K resolution across both eyes on the R9 and slightly less on the R8 you can get about the same information that you would get in a wider FOV, just shrunk down into a display that allows you to have greater awareness of your surroundings.",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "(Fun Fact: ODG sold key technology to the folks in Redmond (Microsoft) before Hololens",
+   "body": "(Fun Fact: ODG sold key technology to the folks in Redmond (Microsoft) before Hololens came out (although a friend informs me that Hololens display technology came from Nokia Research)\n\nSo unlike the Hololens product, you can see a full VR scene, one that would typically be rendered at 720p video resolution for the R8, and 1080p for the R9 (for each eye) but that really doesn’t describe what you are really getting, which is the ability to look at a high resolution video of a ground truth lightfield image, a cinematic quality rendered holographic spherical video, that gives you a sense of presence that I’ve never had on an Oculus Rift or an HTC Vive, this all in one portable devices kicks the ass of all the 2016 & 2017 AR and/or VR headsets (I haven’t tried every 2018 AR VR product yet), and part of that has to do with the integration of the OTOY pipeline for Capture, Rendering and Streaming.",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "My interview with Jules Urbach the CEO of OTOY at GTC 2018 We talked about some of the",
+   "body": "My interview with Jules Urbach the CEO of OTOY at GTC 2018 We talked about some of the big ideas behind the big news about RTX Real Time Ray Tracing, we talked specifically about AI Lighting, AI… medium.com\n\nGTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY The Neural Lace Talks is a podcast about Science and Technology.  Main website http://vrma.io Contact via micah@vrma.io medium.com\n\nSee my interview with John Haddick (CTO of ODG) at CES right after ODG raised 58 Million.\n\nI was so impressed with the 72K video sphere with cinematic quality graphics that I experienced at CES, with full 6dof, the ability to walk around inside movie quality graphics, that I had to visit ODG’s office in San Francisco with my friend Shannon Norrell from the Khronos Group to show Shannon that it was real, and that it was as good as I said it was. Shannon also runs the Silicon Valley Web VR meetup with some of the folks who started the whole WebVR thing and coined the term XR.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "How the term XR was coined.",
+   "body": "How the term XR was coined. It’s so funny! Hint: It does not mean eXtended Reality. How the term XR was coined. A chat with Nick Whiting who is the Technical Director for XR at Epic Games and he is also part of the Khronos… medium.com\n\nSo Shannon got to try it, and then helped me do a longer more indepth interview with John Haddick (the CTO of ODG), which I am presenting for the first time now.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/013.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/015.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/017.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/019.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/021.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "Mankinds third eye is opening to the potential of all in one mobile VR headsets with 6dof",
+   "body": "Mankinds third eye is opening to the potential of all in one mobile VR headsets with 6dof head tracking and 6dof motion controllers for hand tracking. 2018 so far has just barely given us a taste of how great mobile VR can be, with the release of the HTC Vive Focus, the Lenovo Mirage Solo, and the Oculus Go, (and the promised Oculus Santa Cruz) but the year is not over yet. Neurohackers and business owners looking for an XR headset that has high functional non-gaming applications should consider products from Osterhout Design Group before making a final decision.\n\nODG - Compare Products ODG is a leading wearable technology company that develops and manufactures mobile, self contained and lightweight… www.osterhoutgroup.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/023.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "Thanks for reading.",
+   "body": "Thanks for reading.\n\nRead more of my articles at http://SVGN.io\n\n3D Cross-Hair Convolutional Neural Networks + Holographic Medical Imagining Devices + Volumetric Video Rendering + Brain Machine Interfaces (NerveGear) + Deep Learning Artificial… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471836/025.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…]] · [[The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…]] · [[Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest]] · [[VRLA Pre-show Showdown: Vive Focus vs Oculus Go vs the Lenovo Mirage Solo]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-a673d2063c5",
+     "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+    },
+    {
+     "id": "vrma-5c0c331fcd7",
+     "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+    },
+    {
+     "id": "vrma-6d0cd9b3115",
+     "title": "Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest"
+    },
+    {
+     "id": "vrma-104682d60d94",
+     "title": "VRLA Pre-show Showdown: Vive Focus vs Oculus Go vs the Lenovo Mirage Solo"
+    }
+   ]
+  }
+ ]
+}

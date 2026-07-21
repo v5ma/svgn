@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471227",
+ "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…",
+ "dek": "At Oculus Connect 5 I spoke to Brandon Jones from Google about the WebXR spec and standalone VR devices. WebXR is a term that references…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-10-03",
+ "articleHref": "/wiki/svgn/articles/2018-10-03-brandon-jones-on-webxr-graphics-oculus-quest-location-based-social-networking-pokemon--svgn-88471227",
+ "sourceUrl": "https://www.svgn.io/p/brandon-jones-on-webxr-graphics-oculus-quest-location-based-social-networking-pokemon-go-and-b42b7db216bc",
+ "topTerms": [
+  "webxr",
+  "google",
+  "webvr",
+  "https",
+  "developers",
+  "jones",
+  "microdosevr",
+  "brandon"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-b42b7db216bc",
+   "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+  },
+  {
+   "id": "svgn-20260520-gemini-product-maze",
+   "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+  },
+  {
+   "id": "svgn-20260520-gemini-35-flash-mixed-reviews",
+   "title": "Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch"
+  },
+  {
+   "id": "vrma-bb8ec9c7a28f",
+   "title": "What some developers don’t realize is that ray tracing is a resource like water, you just spray on…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…",
+   "body": "At Oculus Connect 5 I spoke to Brandon Jones from Google about the WebXR spec and standalone VR devices. WebXR is a term that references…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Brandon Jones (Toji) @Tojiro is a Software Engineer at Google on the Chrome team, he is a",
+   "body": "Brandon Jones (Toji) @Tojiro is a Software Engineer at Google on the Chrome team, he is a WebXR spec editor, and he’s been working on WebXR/WebVR basically since it’s inception in 2014 when it was his 20 percent project at Google and Google was just beginning to collaborate with Mozilla on the creation of WebVR. Previous to that Brandon Jones worked on Chrome’s WebGL implementation, with a lifetime of hobby graphics development prior to that.\n\nListen to the call here: https://youtu.be/StOQ8KAhtyE\n\nBackground: I am currently working on an open WebVR project (called Neurohaxor) with a bunch of others that involves Brain Computer Interfaces, Neural Networks, an Oculus Go, and a Raspberry Pi, if you want to find out about that project you can click here https://www.meetup.com/NeuroTechSF/ but perhaps because of that I’ve been following Brandon Jones’s twitter stream and when I saw him at Oculus Connect 5 I jumped at the opportunity to ask him some burning questions that I had about the future of WebXR.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "During the entire time I was talking to Brandon Jones I was thinking about Microdose VR",
+   "body": "During the entire time I was talking to Brandon Jones I was thinking about Microdose VR made by a team called the Vision Agency that I’m a part of, that includes Android Jones, Phong, Scott, Evan Bluetech and others. The reason is that Microdose VR is a software that also incorporates brain computer interface technology to bring your essence into VR.\n\nAlso I recently spoke to Jules Urbach the CEO of Otoy for my Neural Lace Podcast and he has helped me to understand that the world will soon be streaming realtime ray traced graphics over networks to devices like the Oculus Quest and the Mirage Solo, so I am hoping that means that we will be streaming MicrodoseVR over the web someday, with realtime ray tracing, integrating the latest brain computer interface technologies, and other technologies to make the experience even more incredible and immersive.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "So I attached some video from MicrodoseVR to the talk which was just audio, it’s not",
+   "body": "So I attached some video from MicrodoseVR to the talk which was just audio, it’s not running in WebXR in this instance it’s running on a PC, but I truly am looking forward to the future of WebXR when it is capable of supporting the very best computer graphics over networks to standalone devices like Quest and Solo.\n\nWe talked about Cloud Anchors in the call if you don’t know what that’s about read this https://developers.google.com/ar/develop/java/cloud-anchors/overview-android\n\nShare AR Experiences with Cloud Anchors | ARCore | Google Developers A Cloud Anchor resolve request sends visual feature descriptors from the current frame to the server. The server… developers.google.com\n\nYou could get started with WebXR here:",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "immersive-web/webxr Repository for the WebXR Device API Specification.",
+   "body": "immersive-web/webxr Repository for the WebXR Device API Specification. - immersive-web/webxr github.com\n\nBut realistically it might be better to started with WebVR right now and do WebXR later.\n\nA-Frame - Make WebVR A web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive… aframe.io\n\nCheck out MicrodoseVR here: http://microdosevr.com\n\nMicrodose VR Microdose VR combines art, music and dance into a real-time virtual reality gaming experience, defining a new medium… microdosevr.com\n\nI mentioned in the call two apps 8thWall and Supermedium here are some links\n\nhttps://8thwall.com/\n\nhttps://www.supermedium.com/\n\nJules Urbach on RTX & VR, Capture & XR, AI & Rendering, and Self Aware AI. Urbach on how RTX may vastly improve VR and AR, and on how scene capture with AI to enable turning the world into a CG… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Finally here is a link to the news of Google’s new 6dof controllers for the Stand Alone",
+   "body": "Finally here is a link to the news of Google’s new 6dof controllers for the Stand Alone Daydream headset called Mirage Solo https://developers.googleblog.com/2018/09/new-experimental-features-for-daydream.html\n\nNew experimental features for Daydream Since we first launched Daydream, developers have responded by creating virtual reality (VR) experiences that are… developers.googleblog.com",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471227/001.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…]] · [[Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O]] · [[Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch]] · [[What some developers don’t realize is that ray tracing is a resource like water, you just spray on…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-b42b7db216bc",
+     "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+    },
+    {
+     "id": "svgn-20260520-gemini-product-maze",
+     "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+    },
+    {
+     "id": "svgn-20260520-gemini-35-flash-mixed-reviews",
+     "title": "Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch"
+    },
+    {
+     "id": "vrma-bb8ec9c7a28f",
+     "title": "What some developers don’t realize is that ray tracing is a resource like water, you just spray on…"
+    }
+   ]
+  }
+ ]
+}

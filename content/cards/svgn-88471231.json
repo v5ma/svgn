@@ -1,0 +1,102 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471231",
+ "title": "Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest",
+ "dek": "I went hands on with the Oculus Quest at Oculus Connect 5 to see if the graphics in a mobile headset were capable of giving the user Rift…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-09-30",
+ "articleHref": "/wiki/svgn/articles/2018-09-30-hands-on-video-with-oculus-quest-side-by-side-screen-comparison-of-rift-and-quest-vrma-6d0cd9b3115",
+ "sourceUrl": "https://www.svgn.io/p/hands-on-video-with-oculus-quest-side-by-side-screen-comparison-of-rift-quest-6d0cd9b3115",
+ "topTerms": [
+  "oculus",
+  "quest",
+  "rift",
+  "look",
+  "times",
+  "video",
+  "hands",
+  "graphics"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-6d0cd9b3115",
+   "title": "Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest"
+  },
+  {
+   "id": "vrma-b42b7db216bc",
+   "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+  },
+  {
+   "id": "vrma-21d6f56381f1",
+   "title": "While the Oculus Quest rules, the Oculus Rift S sucks and is overpriced at $399."
+  },
+  {
+   "id": "vrma-5c0c331fcd7",
+   "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest",
+   "body": "I went hands on with the Oculus Quest at Oculus Connect 5 to see if the graphics in a mobile headset were capable of giving the user Rift…",
+   "image": "/wiki/svgn/articles/media/svgn-88471231/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "I went hands on with the Oculus Quest at Oculus Connect 5 to see if the graphics in a",
+   "body": "I went hands on with the Oculus Quest at Oculus Connect 5 to see if the graphics in a mobile headset were capable of giving the user Rift quality experiences. As many have correctly noted a mobile GPU such as the Snapdragon 835 just cannot match the performance of a GTX 980 GPU. But with a few tricks games can come close to mimicking the look and feel of Rift titles. No matter what it won’t look the same, but it’s good enough for people to have fun and enjoy the games and software on the Oculus Quest.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471231/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "I got to try the Oculus Quest 5 times (at OC5 and 3 times prior so 8 times total).",
+   "body": "I got to try the Oculus Quest 5 times (at OC5 and 3 times prior so 8 times total). A tennis game, a Dead & Buried game in a 4000 sq ft arena Mixed Reality experience with 6 players (all present and tracked in real time by each person’s Quest headset) I also got to try Superhot which look very much like it does on the Oculus.\n\nHands On Video + Video of Graphics Comparison between Rift & Quest\n\nhttps://www.youtube.com/watch?v=SN9LsAgmwuI\n\nA second video that is only a screen shot comparison https://www.youtube.com/watch?v=Yi14eD6FFao",
+   "image": "/wiki/svgn/articles/media/svgn-88471231/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471231/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471231/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest]] · [[Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…]] · [[While the Oculus Quest rules, the Oculus Rift S sucks and is overpriced at $399.]] · [[The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-6d0cd9b3115",
+     "title": "Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest"
+    },
+    {
+     "id": "vrma-b42b7db216bc",
+     "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+    },
+    {
+     "id": "vrma-21d6f56381f1",
+     "title": "While the Oculus Quest rules, the Oculus Rift S sucks and is overpriced at $399."
+    },
+    {
+     "id": "vrma-5c0c331fcd7",
+     "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470820",
+ "title": "Mudstack: Digital Collaboration for Digital Artists & Game Studios that is as Clear as Mud.",
+ "dek": "At GDC 2022 I interviewed Jordan Stevens about his start up Mudstack to learn about his company.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-03-28",
+ "articleHref": "/wiki/svgn/articles/2022-03-28-mudstack-digital-collaboration-for-digital-artists-and-game-studios-that-is-as-clear-a-vrma-444fc41d629d",
+ "sourceUrl": "https://www.svgn.io/p/mudstack-digital-collaboration-for-digital-artists-game-studios-that-is-as-clear-as-mud-444fc41d629d",
+ "topTerms": [
+  "stevens",
+  "mudstack",
+  "digital",
+  "artists",
+  "game",
+  "teams",
+  "projects",
+  "interviewed"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-444fc41d629d",
+   "title": "Mudstack: Digital Collaboration for Digital Artists & Game Studios that is as Clear as Mud."
+  },
+  {
+   "id": "vrma-82d76e5753db",
+   "title": "Don’t blame climate change on artists or fashion designers who use NFT."
+  },
+  {
+   "id": "vrma-39ff447fef04",
+   "title": "WebAR, Wearable Digital Fashion NFT, DNN Shape Completion, DNN Animations, Gan Synthesis, Sensors…"
+  },
+  {
+   "id": "vrma-eb87eb7a100",
+   "title": "Digital Fashion, Art, NFT, AR, VR, WebXR, 3D Deep Learning, BCI, and the future native digital…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Mudstack: Digital Collaboration for Digital Artists & Game Studios that is as Clear as Mud.",
+   "body": "At GDC 2022 I interviewed Jordan Stevens about his start up Mudstack to learn about his company.",
+   "image": "/wiki/svgn/articles/media/svgn-88470820/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article & Interview by Micah Blumberg\n\nMudstack is built for the needs of digital artists",
+   "body": "Article & Interview by Micah Blumberg\n\nMudstack is built for the needs of digital artists & major AAA game studios, they are ready to help huge teams with digital asset management, collaboration, version control and more.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "I think of it as a github on your companies private network that makes it much easier for",
+   "body": "I think of it as a github on your companies private network that makes it much easier for artists to collaborate together on massive projects, but it’s also useful for smaller projects and indie game development art teams.\n\nThey raise 2.2 million dollars in their seed round (from Atlanta’s Overline Ventures, Hyperplane Venture Capital, and Forum.\n\nWatch my conversation with Jordon Stevens here:",
+   "image": "/wiki/svgn/articles/media/svgn-88470820/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470820/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470820/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470820/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Mudstack: Digital Collaboration for Digital Artists & Game Studios that is as Clear as Mud.]] · [[Don’t blame climate change on artists or fashion designers who use NFT.]] · [[WebAR, Wearable Digital Fashion NFT, DNN Shape Completion, DNN Animations, Gan Synthesis, Sensors…]] · [[Digital Fashion, Art, NFT, AR, VR, WebXR, 3D Deep Learning, BCI, and the future native digital…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-444fc41d629d",
+     "title": "Mudstack: Digital Collaboration for Digital Artists & Game Studios that is as Clear as Mud."
+    },
+    {
+     "id": "vrma-82d76e5753db",
+     "title": "Don’t blame climate change on artists or fashion designers who use NFT."
+    },
+    {
+     "id": "vrma-39ff447fef04",
+     "title": "WebAR, Wearable Digital Fashion NFT, DNN Shape Completion, DNN Animations, Gan Synthesis, Sensors…"
+    },
+    {
+     "id": "vrma-eb87eb7a100",
+     "title": "Digital Fashion, Art, NFT, AR, VR, WebXR, 3D Deep Learning, BCI, and the future native digital…"
+    }
+   ]
+  }
+ ]
+}

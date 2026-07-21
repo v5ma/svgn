@@ -1,0 +1,84 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472438",
+ "title": "What I said about what people expect to happen to Trump is actually true.",
+ "dek": "What I said about what people expect to happen to Trump is actually true. Evidence of that is on social media, on twitter, and in the news. Brietbart mistakenly assumed that Maxine Waters was talking about assassination,",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-24",
+ "articleHref": "/wiki/svgn/articles/2017-10-24-what-i-said-about-what-people-expect-to-happen-to-trump-is-actually-true-vrma-42d8a528a1a4",
+ "sourceUrl": "https://www.svgn.io/p/what-i-said-about-what-people-expect-to-happen-to-trump-is-actually-true-42d8a528a1a4",
+ "topTerms": [
+  "people",
+  "brietbart",
+  "expect",
+  "happen",
+  "trump",
+  "actually",
+  "true",
+  "evidence"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-42d8a528a1a4",
+   "title": "What I said about what people expect to happen to Trump is actually true."
+  },
+  {
+   "id": "vrma-b1163115aebb",
+   "title": "A VPN is not expected to be on the Oculus Quest."
+  },
+  {
+   "id": "vrma-7d59362ea381",
+   "title": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…"
+  },
+  {
+   "id": "vrma-5c0c331fcd7",
+   "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "What I said about what people expect to happen to Trump is actually true.",
+   "body": "What I said about what people expect to happen to Trump is actually true. Evidence of that is on social media, on twitter, and in the news. Brietbart mistakenly assumed that Maxine Waters was talking about assassination,",
+   "image": "/wiki/svgn/articles/media/svgn-88472438/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "What I said about what people expect to happen to Trump is actually true.",
+   "body": "What I said about what people expect to happen to Trump is actually true. Evidence of that is on social media, on twitter, and in the news. Brietbart mistakenly assumed that Maxine Waters was talking about assassination, and while she wasn’t, that assumption shows us that even Brietbart thinks that assasination is on the minds of people everywhere.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472438/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[What I said about what people expect to happen to Trump is actually true.]] · [[A VPN is not expected to be on the Oculus Quest.]] · [[I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…]] · [[The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-42d8a528a1a4",
+     "title": "What I said about what people expect to happen to Trump is actually true."
+    },
+    {
+     "id": "vrma-b1163115aebb",
+     "title": "A VPN is not expected to be on the Oculus Quest."
+    },
+    {
+     "id": "vrma-7d59362ea381",
+     "title": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…"
+    },
+    {
+     "id": "vrma-5c0c331fcd7",
+     "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+    }
+   ]
+  }
+ ]
+}

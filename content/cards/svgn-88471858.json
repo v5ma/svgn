@@ -1,0 +1,102 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471858",
+ "title": "The Valve Lighthouse 2.0 Tracking system is now shipping with the HTC Vive Pro: Price $1399",
+ "dek": "Some folks are surprised today to have received the Lighthouse 2.0 tracking system with their HTC Vive Pro. Sure enough both the US and…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-05-14",
+ "articleHref": "/wiki/svgn/articles/2018-05-14-the-valve-lighthouse-2-0-tracking-system-is-now-shipping-with-the-htc-vive-pro-price-1-vrma-89ddac43b9af",
+ "sourceUrl": "https://www.svgn.io/p/breaking-news-the-valve-lighthouse-2-0-89ddac43b9af",
+ "topTerms": [
+  "tracking",
+  "vive",
+  "https",
+  "enterprise",
+  "micah",
+  "blumberg",
+  "journalist",
+  "researcher"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-89ddac43b9af",
+   "title": "The Valve Lighthouse 2.0 Tracking system is now shipping with the HTC Vive Pro: Price $1399"
+  },
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  },
+  {
+   "id": "vrma-c7785a874e00",
+   "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+  },
+  {
+   "id": "vrma-ec21c98a9154",
+   "title": "6dof Motion Controller tracking for Standalone VR is a hard problem."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "The Valve Lighthouse 2.0 Tracking system is now shipping with the HTC Vive Pro: Price $1399",
+   "body": "Some folks are surprised today to have received the Lighthouse 2.0 tracking system with their HTC Vive Pro. Sure enough both the US and…",
+   "image": "/wiki/svgn/articles/media/svgn-88471858/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "by Micah Blumberg, Journalist, Researcher, Neurohacker, http://vrma.io",
+   "body": "by Micah Blumberg, Journalist, Researcher, Neurohacker, http://vrma.io",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The Lighthouse 2.0 is a big improvement on what was already broadly considered to be the",
+   "body": "The Lighthouse 2.0 is a big improvement on what was already broadly considered to be the best tracking system for Virtual Reality.",
+   "image": "/wiki/svgn/articles/media/svgn-88471858/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "HTC Vive is referring to it as “MODULAR TRACKING”\n\n“Scale your tracking volumes — from",
+   "body": "HTC Vive is referring to it as “MODULAR TRACKING”\n\n“Scale your tracking volumes — from seated to standing to full 10x10 meter (32’x32’)† room-scale tracking. SteamVR 2.0 allows you to add up to 4 base stations for wide-area tracking avoiding occlusion, and ideal for multi-user environments, all at sub-millimeter accuracy.”",
+   "image": "/wiki/svgn/articles/media/vrma-89ddac43b9af/medium-062a2af01c2033a5.png"
+  },
+  {
+   "seq": 5,
+   "headline": "This will basically allow for anyone to create a multiplayer VR Arcade.",
+   "body": "This will basically allow for anyone to create a multiplayer VR Arcade.",
+   "image": "/wiki/svgn/articles/media/vrma-89ddac43b9af/medium-6b37d7be988c29ef.png"
+  },
+  {
+   "seq": 6,
+   "headline": "If you are in the US go to https://enterprise.vive.com/us/\n\nIf you are in the EU go to",
+   "body": "If you are in the US go to https://enterprise.vive.com/us/\n\nIf you are in the EU go to https://enterprise.vive.com/eu/",
+   "image": "/wiki/svgn/articles/media/vrma-89ddac43b9af/medium-f15efc9ebe091a45.png"
+  },
+  {
+   "seq": 7,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[The Valve Lighthouse 2.0 Tracking system is now shipping with the HTC Vive Pro: Price $1399]] · [[Micah Blumberg]] · [[Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…]] · [[6dof Motion Controller tracking for Standalone VR is a hard problem.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-89ddac43b9af",
+     "title": "The Valve Lighthouse 2.0 Tracking system is now shipping with the HTC Vive Pro: Price $1399"
+    },
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    },
+    {
+     "id": "vrma-c7785a874e00",
+     "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+    },
+    {
+     "id": "vrma-ec21c98a9154",
+     "title": "6dof Motion Controller tracking for Standalone VR is a hard problem."
+    }
+   ]
+  }
+ ]
+}

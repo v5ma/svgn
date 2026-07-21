@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471628",
+ "title": "Neural Lace: AR / VR no glasses",
+ "dek": "The Neural Lace Talks is a podcast about Science and Technology. Main website http://vrma.io Contact via micah@vrma.io Neural Lace is…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-04-21",
+ "articleHref": "/wiki/svgn/articles/2017-04-21-neural-lace-ar-vr-no-glasses-vrma-5171e35ffaae",
+ "sourceUrl": "https://www.svgn.io/p/neural-lace-means-vr-ar-no-glasses-5171e35ffaae",
+ "topTerms": [
+  "podcast",
+  "neural",
+  "lace",
+  "science",
+  "people",
+  "reality",
+  "technology",
+  "playlist"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-17c4067a648e",
+   "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+  },
+  {
+   "id": "vrma-855d36d19c80",
+   "title": "The Neural Lace Podcast Playlist Summary"
+  },
+  {
+   "id": "vrma-23bad1d1b952",
+   "title": "The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality"
+  },
+  {
+   "id": "vrma-8acbacf53af9",
+   "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Neural Lace: AR / VR no glasses",
+   "body": "The Neural Lace Talks is a podcast about Science and Technology. Main website http://vrma.io Contact via micah@vrma.io Neural Lace is…",
+   "image": "/wiki/svgn/articles/media/svgn-88471628/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The Neural Lace Talks is a podcast about Science and Technology.",
+   "body": "The Neural Lace Talks is a podcast about Science and Technology.  Main website http://vrma.io Contact via micah@vrma.io Neural Lace is Augmented Reality and Virtual Reality without glasses. The Neural Lace Podcast is about cutting edge science and technology. The Neural Lace Talks is a podcast about Science and Technology. Four Episodes have now been published. Contact via micah@vrma.work\n\nThe youtube playlist for all the episodes: https://www.youtube.com/playlist?list=PLkuAPx_OL_kE35pOKBfEd2TIWWX_tfuvM\n\nThe Neural Lace Talk Podcast Playlist Summary https://medium.com/@micah31/the-neural-lace-podcast-855d36d19c80\n\nThe Neural Lace Podcast Playlist Summary The Neural Lace Talks is a podcast about Science and Technology. I am your host, a journalist who has been a student of… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The Neural Lace Talks Podcast is a smashing international success!",
+   "body": "It is getting rave reviews! People are telling me personally how much they enjoy listening to it! People around the world are downloading it and recommending it to their friends! From the Main Page: My new podcast is being recommended by high level science folks to other high level science folks, people with letters like DR, PHD, MD, before or after their names! My podcast is being listened to by the executives of major tech companies. I am getting great feedback on the new podcast, and it’s getting global attention, people with five star professional backgrounds from all over the world are writing to me for example from countries like India, Germany, and Japan asking for more things they can read about the topic of Neural Lace related to the contents of my podcast. It’s truly a podcast for the Global Silicon Valley community! The frequency at which new people are reaching out to me to talk, and to listen to the podcast feels very special to me, like a count down sequence to lift off. 10, 9, 8, ….",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "In the Neural Lace Podcast: We dare to fundamentally rethink what a bit of information is",
+   "body": "In the Neural Lace Podcast: We dare to fundamentally rethink what a bit of information is both in reality (a particle), and in the brain (a coincidence pattern), and we explore a new way to explain to people what concepts are in both the sense of physics and in the sense of our minds at the same time.",
+   "image": "/wiki/svgn/articles/media/svgn-88471628/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "We talk about how we can be two dimensional in our minds and yet experience a 4",
+   "body": "We talk about how we can be two dimensional in our minds and yet experience a 4 dimensional world consciously. We dare to imagine what it would be like if the human mind was just a special type of hard drive that we could read and write to like any other hard drive. If you are interested in neural lace, deep learning artificial intelligence, physics, quantum physics, web vr, spatial computing, virtual reality, mixed reality, ar, bots, blockchain, crytocurrency, blockchain database, blockchain dna databases, uploading your brain into a computer, downloading your mind into another brain, gaining a fully artificial brain and body that is still you, living for billions of years, changing any part of yourself, giving yourself cognitive upgrades, or downgrades, and changing anything about yourself that you want to change then Neural Lace is the product for you. We dare to re-imagine that “a concept” is to both man and machine just a map of associations between bits, we dare to define what a bit is for both humans and spacetime itself.",
+   "image": "/wiki/svgn/articles/media/svgn-88471628/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY]] · [[The Neural Lace Podcast Playlist Summary]] · [[The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality]] · [[FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-17c4067a648e",
+     "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+    },
+    {
+     "id": "vrma-855d36d19c80",
+     "title": "The Neural Lace Podcast Playlist Summary"
+    },
+    {
+     "id": "vrma-23bad1d1b952",
+     "title": "The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality"
+    },
+    {
+     "id": "vrma-8acbacf53af9",
+     "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+    }
+   ]
+  }
+ ]
+}

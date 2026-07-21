@@ -1,0 +1,192 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472400",
+ "title": "Three events added to the Silicon Valley Global Events Calendar",
+ "dek": "If you are in Redmond, London or Hyderabad on these dates you can check them out",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-01-22",
+ "articleHref": "/wiki/svgn/articles/2018-01-22-three-events-added-to-the-silicon-valley-global-events-calendar-vrma-e57a41fb406b",
+ "sourceUrl": "https://www.svgn.io/p/three-events-added-to-the-silicon-valley-global-events-calendar-e57a41fb406b",
+ "topTerms": [
+  "event",
+  "medium",
+  "micah",
+  "people",
+  "know",
+  "redmond",
+  "london",
+  "connects"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-67f65156bd9f",
+   "title": "XR Connects"
+  },
+  {
+   "id": "vrma-590e3b0a7351",
+   "title": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been…"
+  },
+  {
+   "id": "vrma-42d8a528a1a4",
+   "title": "What I said about what people expect to happen to Trump is actually true."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Three events added to the Silicon Valley Global Events Calendar",
+   "body": "If you are in Redmond, London or Hyderabad on these dates you can check them out",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "via Micah Blumberg, micah@vrma.io\n\nSometimes I get requests to share news of an upcoming",
+   "body": "via Micah Blumberg, micah@vrma.io\n\nSometimes I get requests to share news of an upcoming event, a story, a company or a project that people want others to know about. I am usually happy to do it when I have time, especially if its related to VR, AR, AI, Neuroscience, BCI, CompNeuro. Blockchain, Mathematics, or Leading ideas in Science & Technology. Here are a few events that people let me know about. If you are in Redmond, London or Hyderbad on these dates you can check them out.\n\nOne event in London (UK) next week, 22–23 Jan\n\nXR Connects The VR+AR+MR conference, from the makers of Pocket Gamer Connects. medium.com\n\nAn event in Redmond, Washington   Starts: Feb 12, 2018, 9pm PST Ends: Feb 15, 2018, 4pm PST",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Windows Mixed Reality Hack Build Mixed Reality Experience with Microsoft AI technologies",
+   "body": "Windows Mixed Reality Hack Build Mixed Reality Experience with Microsoft AI technologies medium.com\n\nAn event in Hyderabad, India\n\nJune 22nd -24th, 2018.\n\nWAVE 2018 — World AR VR Expo WAVE 2018 — World AR VR Expo in Hyderabad, India medium.com\n\nHere are a couple more event lists:\n\nMajor VR Conferences and Tradeshows 2018 maintained by The VR Fund 2018 Start Date, End Date, Name, City 1/ 9/ 18, 1/ 12/ 18, CES, Las Vegas, NV, http:// www. ces. tech/ Register-Plan 1/… docs.google.com",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/005.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/007.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/009.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/011.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/013.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/015.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/017.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/019.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/021.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/023.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/025.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/027.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/029.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/031.jpg"
+  },
+  {
+   "seq": 20,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/033.jpg"
+  },
+  {
+   "seq": 21,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472400/035.jpg"
+  },
+  {
+   "seq": 22,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[XR Connects]] · [[People in the core of the VR industry at places like the offices of Unity and Epic Games have been…]] · [[What I said about what people expect to happen to Trump is actually true.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-67f65156bd9f",
+     "title": "XR Connects"
+    },
+    {
+     "id": "vrma-590e3b0a7351",
+     "title": "People in the core of the VR industry at places like the offices of Unity and Epic Games have been…"
+    },
+    {
+     "id": "vrma-42d8a528a1a4",
+     "title": "What I said about what people expect to happen to Trump is actually true."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472234",
+ "title": "HTC Vive Pro Price Revealed!",
+ "dek": "by Micah Blumberg, Journalist at GDC 2018",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-03-19",
+ "articleHref": "/wiki/svgn/articles/2018-03-19-htc-vive-pro-price-revealed-vrma-505ab42e9278",
+ "sourceUrl": "https://www.svgn.io/p/htc-vive-pro-price-revealed-505ab42e9278",
+ "topTerms": [
+  "controllers",
+  "base",
+  "stations",
+  "price",
+  "without",
+  "micah",
+  "blumberg",
+  "journalist"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  },
+  {
+   "id": "vrma-81d3fe53ab30",
+   "title": "Valve Index: Everything revealed: Off-Ear Audio that fits your ears without touching them, the…"
+  },
+  {
+   "id": "vrma-c7785a874e00",
+   "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+  },
+  {
+   "id": "vrma-82136cf3ce22",
+   "title": "Review: MIYUBI on the Oculus Rift — Reviewed without Spoilers"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "HTC Vive Pro Price Revealed!",
+   "body": "by Micah Blumberg, Journalist at GDC 2018",
+   "image": "/wiki/svgn/articles/media/svgn-88472234/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The Price is $799 without controllers and without base stations.",
+   "body": "The Price is $799 without controllers and without base stations.",
+   "image": "/wiki/svgn/articles/media/svgn-88472234/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "If you need to pick up the controllers and base stations you could get the original Vive",
+   "body": "If you need to pick up the controllers and base stations you could get the original Vive with controllers and base stations at a new lower price of $500. $100 dollars cheaper.",
+   "image": "/wiki/svgn/articles/media/svgn-88472234/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472234/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Micah Blumberg]] · [[Valve Index: Everything revealed: Off-Ear Audio that fits your ears without touching them, the…]] · [[Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…]] · [[Review: MIYUBI on the Oculus Rift — Reviewed without Spoilers]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    },
+    {
+     "id": "vrma-81d3fe53ab30",
+     "title": "Valve Index: Everything revealed: Off-Ear Audio that fits your ears without touching them, the…"
+    },
+    {
+     "id": "vrma-c7785a874e00",
+     "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+    },
+    {
+     "id": "vrma-82136cf3ce22",
+     "title": "Review: MIYUBI on the Oculus Rift — Reviewed without Spoilers"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471639",
+ "title": "The entire computing industry seems to be moving away from polygons and towards neural network…",
+ "dek": "Written by Micah Blumberg, who studies the brain and hosts the Neural Lace Podcast at vrma.io and who is a VR journalist at vrma.work",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-08-29",
+ "articleHref": "/wiki/svgn/articles/2017-08-29-the-entire-computing-industry-seems-to-be-moving-away-from-polygons-and-towards-neural-vrma-863c73ccc3c9",
+ "sourceUrl": "https://www.svgn.io/p/the-entire-computing-industry-seems-to-be-moving-away-from-polygons-and-towards-neural-network-863c73ccc3c9",
+ "topTerms": [
+  "arkit",
+  "reality",
+  "neural",
+  "arcore",
+  "hololens",
+  "google",
+  "tango",
+  "apps"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-57040e018fa2",
+   "title": "Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT"
+  },
+  {
+   "id": "svgn-20260520-gemini-product-maze",
+   "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+  },
+  {
+   "id": "svgn-20260520-gemini-35-flash-mixed-reviews",
+   "title": "Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "The entire computing industry seems to be moving away from polygons and towards neural network…",
+   "body": "Written by Micah Blumberg, who studies the brain and hosts the Neural Lace Podcast at vrma.io and who is a VR journalist at vrma.work",
+   "image": "/wiki/svgn/articles/media/svgn-88471639/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Today Google Annouced ARcore, which is seen now as the Android competitor to ARkit, its a",
+   "body": "Today Google Annouced ARcore, which is seen now as the Android competitor to ARkit, its a shame that Google grabbed the ARcore name before Apple did, because the word “core” reminds you of an Apple. ARcore is similar to ARkit in that it features a pointcloud based rendering system for Augmented Reality that can scale to any kind of phone hardware, including tracking positions and recognizing objects in real spaces. ARcore replaces the older 3D Mesh based Tango technology and ends the Tango brand, formerly known as Project Tango. https://www.blog.google/products/google-vr/arcore-augmented-reality-android-scale/\n\nARCore: Augmented reality at Android scale Alongside ARCore, we've been investing in apps and services which will further support developers in creating great AR… www.blog.google",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The computer industry is moving away from polygons and moving towards pointclouds and the",
+   "body": "The computer industry is moving away from polygons and moving towards pointclouds and the reasons are numerous, but one of them is obvious, rendering a photo realistic scene in Maya 3D by Autodesk in polygons costs in the terabytes but rendering the same scene in Maya with pointclouds costs in the megabytes.\n\nMaya | Computer Animation & Modeling Software | Autodesk You have been detected as being from . Where applicable, you can see country-specific product information, offers, and… www.autodesk.com\n\nBut there was a catch before when someone tried to do this in the past, the point clouds would vanish up close, but with neural network based upscaling companies fixed the catch and made it into a viable replacement for polygons.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "You see normally a pointcloud gets very sparse and almost invisible when you get close to",
+   "body": "You see normally a pointcloud gets very sparse and almost invisible when you get close to it, this problem was fixed by applying neural networks to predict what should be there, so then it renders what should be there when you look close up, and it looks like a high resolution image instead. You can see an example of this with the excellent demo of Atom View by Nurulize.\n\nAtom View - Nurulize nurulize.com\n\nPointclouds make a lot more sense for Volumetric Video, than polgyons, because when you tell a computer to create a 3D mesh from your camera data, even if you have a depth map, you are going to lose resolution. You can see that loss of resolution when you look at the 3D meshes by 8i, the characters do not pass as photo real, there is the uncanny valley effect.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "8i 8i - Making Virtual Reality Human.",
+   "body": "8i 8i - Making Virtual Reality Human. Our technology brings virtual experiences to life with the highest fidelity, most… 8i.com\n\nWhen you look at Photogrammetry in VR, such as in the app realities.io you realize that the underlying mesh isn’t high poly enough to render a location to have exactly the same dimensions as the real space. A point cloud works much better for Photogrammetry, and with a laser that costs as low as 30k or as high as 100k you can render the scenes of a forest with photorealism, depth, and structure that just isn’t possible with 3D mesh or polygon surfaces given the memory and processing constraints of modern computer systems.\n\nrealities.io | Go Places Realities lets you explore a growing library of interesting and mesmerizing places from all around the globe in virtual… realities.io",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "I have seen a 72k per second sphere on the ODG R8 glasses that featured photo realistic",
+   "body": "I have seen a 72k per second sphere on the ODG R8 glasses that featured photo realistic moving renderings of a scene with a robot where I had six degrees of freedom, meaning I could move around relative to this super high res movie that was streaming to the glasses over a network.\n\nAlthough because we are talking about rendering megabytes in pointclouds instead of rendering terabytes of polygons Osterhout Design Group was able to show me this can also run natively on their ODG R8 hardware, thanks in part to a snappy Snap Dragon processor that has numerous impressive capabilities that make it capable of doing everything that a Hololens can do for under $1000 dollars.\n\nOsterhout Design Group Copyright © 2017 Osterhout Design Group | Powered by Shopify shop.osterhoutgroup.com",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "In fact the ODG R8 and R9 will be streaming Windows 10 into their Android device.",
+   "body": "In fact the ODG R8 and R9 will be streaming Windows 10 into their Android device. Which means that you can use Citrix on your ODG R8, R9, which means that you can use Windows Universal Apps, which means that your hololens apps will run on the ODG R8 and R9 effectively making ODG a next generation Hololens device. I have two unreleased video conversations with the folks at ODG that confirm these details in part.\n\nHowever the first hololens device was and still is about creating 3D meshes, or polygon based surface maps of the real world. We have recently learned that some of the main parts that went into Hololens have gone out of production, suggesting that the Hololens itself is no longer in production, and that’s fine because Microsoft is a software company, their goal with Microsoft Mixed Reality has been to get as many hardware developers into their 3D Spatial Computing platform, ie Windows 10 holographic, as possible.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Windows Mixed Reality holiday update Microsoft and partners, including Steam, prepare to",
+   "body": "Windows Mixed Reality holiday update Microsoft and partners, including Steam, prepare to democratize virtual reality this holiday. We are on a mission to… blogs.windows.com\n\nSo now we have all these new Microsoft Mixed Reality headsets from Acer, HP, Dell, and probably from all the PC OEMs. They are all already confirmed to run SteamVR, the same apps that run on the HTC Vive, and I’m hopeful these devices will showcase Augmented Reality capabilities as well, especially because of the name, so that we can bring Hololens like apps, or ARkit like apps, to a headset.Speaking of ARkit, so the month before Apple announced ARkit I was at AWE2017 and I saw Occipital showcasing Single Camera Mono Tracking, and I recorded an audio interview with the folks at Occipital. I was going to write a story about how Occipital could be Androids answer to ARKit, because ARkit is also single camera mono tracking, but then Google came out with ARcore and on the same day they announced an end to the Tango brand.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "You see what appears to have happened is that along the way seems to be that Google",
+   "body": "You see what appears to have happened is that along the way seems to be that Google engineers realized that Arkit was beating Tango’s world sense with a single camera, the problem in part was that Tango, like the original Hololens, was attempting to surface map the world with polygons, or 3D meshes, and the more complex your map the hotter your device runs, because for a photorealistic mesh you are talking about processing terabytes on a mobile device, and that’s going to drain the battery and make your hololens catch fire (that’s why all Hololen’s were underclocked to run at 30% of their capability.) (The best place to over clock your Hololens might be in a freezer or in Alaska)\n\nWith ARkit like Tango, they are using the latest Artificial Neural Network tricks to notice details in the real world that Google similarly showing off at Google IO, but instead of trying to put polygons in that world ARkit went with a pointcloud. This reflects Google’s new ARcore solution which is still world sensing with neural networks, but now it’s plotting a computationally cheaper point cloud, and it’s scalabled for the first time to any kind of sensor inputs, whether you attach lasers, lidar, a single camera, your existing phone, or some custom depth kit like the Tango solution. This gives the entire Android Ecosystem a facelift potentially, as developers begin to realize that they can stream, or simply build apps with photo-realistic point clouds, for AR, and VR, that has next generation visual quality, and it runs on a device the size of a phone, or the size of ODG R8 Glasses, and how fortuitous that ODG runs android as well.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "So basically the entire gaming industry is moving to pointclouds to deliver more photo",
+   "body": "So basically the entire gaming industry is moving to pointclouds to deliver more photo realistic rendering at a lower computational price point, thanks to the upscaling of neural networks, as a level of detail device LOD upscaling is the industry term.\n\nFacebook is bringing us 360 Cameras that will do Volumetric Video, creating point clouds that we can move around inside, movies that we can move around inside. I tried it out with Otoy’s team at the Nvidia GPU Summit, or the GPU Conference 2017 where I recorded the Neural Lace Podcast #5\n\nThe Neural Lace Podcast #5 Guest Jules Urbach the CEO of OTOY. This podcast was recorded at the GPU Technology Conference GTI 2017\n\nGTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY The Neural Lace Talks is a podcast about Science and Technology.  Main website http://vrma.io Contact via micah@vrma.io medium.com",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "HypeVR is doing it.",
+   "body": "HypeVR is doing it. I tried it out at Intel’s booth at CES and I have a video interview talking to HypeVR\n\nHypeVR hypevr.com\n\nSony is doing it on the PSVR I tried it out at an event in SF at the Xtech Expo.\n\nSony's 'Joshua Bell VR Experience' on PSVR is Among the Best VR Video You'll Find on Any Headset -… Powered by the PS4, PSVR might not be the most powerful VR platform out there, but the newly released Joshua Bell VR… www.roadtovr.com\n\nwww.xtechexpo.com\n\nLucidcam told me they are doing something (They sell a point and shoot 3D 180 camera that works really well and is super simple and straightforward to use, I am reviewing one) but I can’t say what that is until October (except that it’s super cool and you should get a Lucidcam, they originally built it to be the head of a robot, and that hardware is still in it hint hint.)",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "Lucidcam Virtual Reality 3D The world's first 3D Consumer Camera for Virtual Reality",
+   "body": "Lucidcam Virtual Reality 3D The world's first 3D Consumer Camera for Virtual Reality www.lucidcam.com\n\nI’m also currently reviewing a depth sensor called VicoVR that has some exciting capabilities that I hope to make use of soon.\n\nFull body, positional tracking and gesture recognition for Samsung Gear VR, Cardboard, Android HMD,… VicoVR vicovr.com\n\nAll these companies are doing Volumetric Video on last years hardware, so the opportunity now is turn the existing 360 Video Professional’s community in the pointcloud making volumetric photo realistic VR AR content community, and that’s why I started a facebook group called Volumetric Video VR AR Professionals https://www.facebook.com/groups/volumetric/",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "www.facebook.com\n\nThese point clouds, whether they are made in Maya 3D, Blender, C4D, or",
+   "body": "www.facebook.com\n\nThese point clouds, whether they are made in Maya 3D, Blender, C4D, or made by film makers with depth sensor kits and high resolution cameras, or made with expensive lasers, can be dropped into a game engine, like Unity, or Unreal Engine, and they are light enough to be streamed to a cloud, to Web VR, and to Web AR.\n\nWeb AR is a new discussion. Merely months ago it didn’t really exist, and even right now its still kind of an idea, but with ARkit, and ARcore we are all going to have AR capabilities on our phones, it is simply one more step to wearable all day AR glasses and one step beyond that to an AR Web, where all the worlds websites are available on the walls of the real world, but at the same time, the real web begins, a 3D web, one in which people social network in 3D, incorporating information into the spaces we share together in new ways, essentially making all surfaces and even the air programmable in a sense. A new collective hallucination for the masses may result. In some cases people can opt out of your view of reality for a different one, a world that gives them an advantage, helping them to focus their own mind the way they want to focus it. Web AR is so new that I’m literally going to make the final link to github, to encourage developers to jump on.",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "googlevr/chromium-webar chromium-webar - A proposal to provide Augmented Reality (AR)",
+   "body": "googlevr/chromium-webar chromium-webar - A proposal to provide Augmented Reality (AR) capabilities to the web in the form of a prototype on top… github.com\n\nI spent many hours this weekend in this Apple iOS app called Swift Playgrounds, learning how to code swift with the intent to use this new knowledge to make Xcode apps on ARkit. https://github.com/googlevr/chromium-webar and I’m hoping to turn my front end web developer skills into creating ARcore web content as well, with javascript being usable in game engines like Unity and Unreal Engine, and with Neural Networks via deep learning libraries like Tensor flow it is a good time to brush up on your Web AR skills. WebAR is the future of the internet.",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471639/001.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT]] · [[Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O]] · [[Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-57040e018fa2",
+     "title": "Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT"
+    },
+    {
+     "id": "svgn-20260520-gemini-product-maze",
+     "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+    },
+    {
+     "id": "svgn-20260520-gemini-35-flash-mixed-reviews",
+     "title": "Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    }
+   ]
+  }
+ ]
+}

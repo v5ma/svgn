@@ -1,0 +1,114 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470815",
+ "title": "The Metaverse launches today with Varjo Reality Cloud.",
+ "dek": "Announced in January & launching today, services like Varjo’s Reality Cloud Platform are a plausible next step towards building the real…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-04-28",
+ "articleHref": "/wiki/svgn/articles/2022-04-28-the-metaverse-launches-today-with-varjo-reality-cloud-vrma-8eb9947f544f",
+ "sourceUrl": "https://www.svgn.io/p/the-metaverse-launches-today-with-varjo-reality-cloud-8eb9947f544f",
+ "topTerms": [
+  "varjo",
+  "reality",
+  "cloud",
+  "headset",
+  "mixed",
+  "xr-3",
+  "other",
+  "graphics"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-d610a1b6c908",
+   "title": "We shot through the Varjo Mixed Reality add on that makes their VR headset into an XR headset!"
+  },
+  {
+   "id": "vrma-4aa546469123",
+   "title": "Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2"
+  },
+  {
+   "id": "vrma-6553c09e2b21",
+   "title": "I’m imagining an Oculus Half Dome Mixed Reality headset, new things we might see in software…"
+  },
+  {
+   "id": "vrma-49fdfc28903a",
+   "title": "Possible evidence of a new Microsoft Mixed Reality headset in the wild"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "The Metaverse launches today with Varjo Reality Cloud.",
+   "body": "Announced in January & launching today, services like Varjo’s Reality Cloud Platform are a plausible next step towards building the real…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article by Micah Blumberg, VRMA.io\n\nVarjo Reality Cloud lets you securely stream the most",
+   "body": "Article by Micah Blumberg, VRMA.io\n\nVarjo Reality Cloud lets you securely stream the most complex Mixed Reality & Virtual Reality applications, and 3D high resolution CAD models directly to Varjo’s headsets, like the Varjo XR-3, or to other devices such as phones, tablets, laptops, or other AR VR devices made by other companies.\n\nI filmed my experience with Varjo Reality Cloud using the Varjo XR-3 which you can watch above. There were a lot of cuts because the camera was moving a lot during the filming but the final result is okay. I hope you can pardon the unique video editing I did on this project and are otherwise able to enjoy the news story.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "A fun fact is that Varjo Reality Cloud is powered by Amazon Web Services (AWS).",
+   "body": "A fun fact is that Varjo Reality Cloud is powered by Amazon Web Services (AWS). Amazon has long been a player in the AR VR Metaverse space, and Amazon Web Services allows Varjo customers to have a global reach at the speed professionals require.\n\nCloud Computing Services - Amazon Web Services (AWS) Whether you're looking for compute power, database storage, content delivery, or other functionality, AWS has the… aws.amazon.com\n\nWhat makes Reality Cloud special is Varjo’s proprietary foveated transport algorithm. You get a lossless visual fidelity via a compression rate of 1000:1, and a bandwidth of 35 megabits-per-second via highly secure, enterprise-grade data encryption. With it you can stream human eye retina quality graphics to your Varjo headset or another device (phone, tablet, computer, or other VR AR headset by another brand.)",
+   "image": "/wiki/svgn/articles/media/svgn-88470815/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "So if you are a Varjo customer doing automotive design using Autodesk VRED™ you can",
+   "body": "So if you are a Varjo customer doing automotive design using Autodesk VRED™ you can quickly scale up your productivity, by getting your high end designs into your collaborators hands more quickly.\n\nVRED Software | Get Prices & Buy Official VRED 2023 | Autodesk VRED is 3D visualization software for automotive designers and automotive engineers. Buy a VRED subscription from the… www.autodesk.com\n\nIn addition, in the later part of 2022 support for the leading 3D game engines like Unity & Unreal Engine will be brought into the Varjo Reality Cloud service as well.\n\nAlthough not part of Varjo’s news announcement today I think there is a future role for WebXR here as well. The React Three Fiber demos in particular are visually interesting. We are looking at a near term timeline of much less than a decade before WebXR can do literally everything the big game engines can do. Including GPU optimized graphics, neural rendering, real time ray tracing, prefabs for level of detail rendering, (perhaps someday it will have technology similar to Nanite in UE5 so you can drop in high resolution photogrammetry scans at it will just work) and so on. WebXR API link: https://immersive-web.github.io/webxr/",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "React Three Fiber Documentation npm install three @react-three/fiber Why?",
+   "body": "React Three Fiber Documentation npm install three @react-three/fiber Why? Build your scene declaratively with re-usable, self-contained components that… docs.pmnd.rs\n\nI will also say that the Varjo XR-3 is the clear current winner if you want an Augmented Reality or Mixed Reality headset with Human Eye Resolution Graphics. What the Magic Leap promised us, Varjo delivers. It beats the Microsoft Hololens, Nreal, and the Lenovo Think Reality A3, in terms of it’s field of view, and also in terms of the solidity of the graphics which are not transparent like graphics you usually see in Augmented Reality Glasses. Unlike the other headsets I mentioned it is tethered to your computer, but with Mixed Reality the experience is good enough that the cable doesn’t feel like a problem to me. The headset was also light weight and comfortable to wear for the entire duration of my demo which was less than 15 minutes in total.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "I‘ve heard that the US Military picked the Microsoft Hololens over the Varjo because they",
+   "body": "I‘ve heard that the US Military picked the Microsoft Hololens over the Varjo because they wanted something mobile & all in one, but a soldier needs a laptop & a home base anyways right? If I wanted to look at a 3D battle field in Mixed Reality I would want to look at it with this headset, and not with a cheap $3500 dollar Microsoft Hololens that has a much smaller field of view and transparent graphics (harder to see). This Varjo XR-3 Mixed Reality headset is just a much better tool for getting real work done, and with the Varjo Reality Cloud sending the latest high resolution 3D intelligence information to your troops devices in the field is even easier.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Varjo Reality Cloud with support for Autodesk VRED can be used with up to five concurrent",
+   "body": "Varjo Reality Cloud with support for Autodesk VRED can be used with up to five concurrent users (per company) at $1595 per month. More information at www.Varjo.com/realitycloud .\n\nThe Varjo XR-3 is a headset for the top professionals at the leading companies, and I can share from personal experience that there is literally nothing better that you can purchase, right now, in the Augmented Reality & Mixed Reality market place. https://varjo.com/purchase/",
+   "image": "/wiki/svgn/articles/media/svgn-88470815/003.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "https://varjo.com/purchase/ Thanks for reading!",
+   "body": "https://varjo.com/purchase/ Thanks for reading!\n\nVarjo, with XR-3, has made the first fusion algorithm on top of lidar with video pass through. Varjo’s fusion algorithm is combining volumetric capture (lidar) with video, with Nvidia’s deep learning optical flow… medium.com\n\nVection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2 News at CES 2021: Vection Technologies Ltd’s offering is software that works in real time to adapt your existing CAD… medium.com\n\nWe shot through the Varjo Mixed Reality add on that makes their VR headset into an XR headset! The Varjo has something like 40 times an improvement in effective screen resolution that lets you see high end… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88470815/005.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[We shot through the Varjo Mixed Reality add on that makes their VR headset into an XR headset!]] · [[Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2]] · [[I’m imagining an Oculus Half Dome Mixed Reality headset, new things we might see in software…]] · [[Possible evidence of a new Microsoft Mixed Reality headset in the wild]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-d610a1b6c908",
+     "title": "We shot through the Varjo Mixed Reality add on that makes their VR headset into an XR headset!"
+    },
+    {
+     "id": "vrma-4aa546469123",
+     "title": "Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2"
+    },
+    {
+     "id": "vrma-6553c09e2b21",
+     "title": "I’m imagining an Oculus Half Dome Mixed Reality headset, new things we might see in software…"
+    },
+    {
+     "id": "vrma-49fdfc28903a",
+     "title": "Possible evidence of a new Microsoft Mixed Reality headset in the wild"
+    }
+   ]
+  }
+ ]
+}

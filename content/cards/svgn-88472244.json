@@ -1,0 +1,186 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472244",
+ "title": "House Intelligence releases data on Russian purchased social media ads, Facebook responds +…",
+ "dek": "Today the House Intelligence Panel Released a Huge Batch of Ads that folks in Russia purchased with the intent of disrupting US Elections.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-11-02",
+ "articleHref": "/wiki/svgn/articles/2017-11-02-house-intelligence-releases-data-on-russian-purchased-social-media-ads-facebook-respon-vrma-f4962ab836fa",
+ "sourceUrl": "https://www.svgn.io/p/house-intelligence-releases-data-on-russian-purchased-social-media-ads-facebook-responds-f4962ab836fa",
+ "topTerms": [
+  "people",
+  "community",
+  "facebook",
+  "connect",
+  "oculus",
+  "next",
+  "security",
+  "together"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-d9753d2bab19",
+   "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+  },
+  {
+   "id": "vrma-849ac340e425",
+   "title": "Facebook’s new Social VR applications are a game changer, this is why you will want an Oculus Go!"
+  },
+  {
+   "id": "vrma-cde355034577",
+   "title": "15 New Articles/Posts from Oculus Connect 4"
+  },
+  {
+   "id": "vrma-30bdbb72bffa",
+   "title": "John Carmack interviewed at Oculus Connect 4"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "House Intelligence releases data on Russian purchased social media ads, Facebook responds +…",
+   "body": "Today the House Intelligence Panel Released a Huge Batch of Ads that folks in Russia purchased with the intent of disrupting US Elections.",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The social media ads Russia wanted Americans to see Russian accounts bought thousands of",
+   "body": "The social media ads Russia wanted Americans to see Russian accounts bought thousands of social media ads on hot-button U.S. issues ranging from Black Lives Matter to… www.politico.com\n\nThe Full Text of Mark Zuckerberg’s Facebook Post speaking to Facebook’s response to Russia’s interference in the elections is included in this article. Mark Zuckerberg also mentions Oculus Connect, the Oculus Go, and Santa Cruz Prototype which I tried at OC4.\n\n15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News (more credits at the bottom) medium.com\n\nForward by Micah Blumberg: I remember watching the excellent talk by Yann Lecunn of Facebook called “ RI Seminar: Yann LeCun : The Next Frontier in AI: Unsupervised Learning ” and at the end of the talk when Yann LeCun is taking questions he answers saying that he knows that Facebook is thinking a lot about how to respond to the Russian interference in the election via social media.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "This was in response to a question about whether Artificial Intelligence could help solve",
+   "body": "This was in response to a question about whether Artificial Intelligence could help solve the problem, and unfortunately AI is not yet capable of being a complete solution to election interference by foreigners. This is a hard problem folks. Watch Yann LeCun’s beautiful lecture here: https://www.youtube.com/watch?v=IbjF5VjniVE\n\nEnd of forward. Begin of Mark Zuckerberg’s Facebook post on November 1st.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Mark Zuckerberg\n\n8 hrs · Menlo Park ·\n\nWe just announced our quarterly results and",
+   "body": "Mark Zuckerberg\n\n8 hrs · Menlo Park ·\n\nWe just announced our quarterly results and community update. The most important thing I discussed was the work we’re doing to protect the security and integrity of our service. We’re investing so much in security that it will impact our profitability. I want to be clear what our priority is: protecting our community is more important than maximizing our profits.\n\nHere’s what I said:\n\n— — -",
+   "image": "/wiki/svgn/articles/media/svgn-88472244/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Our community continues to grow, now with nearly 2.1 billion people using Facebook every",
+   "body": "Our community continues to grow, now with nearly 2.1 billion people using Facebook every month, and nearly 1.4 billion people using it daily. Instagram also hit a big milestone this quarter, now with 500 million daily actives. And we saw good results in the business, where total revenue grew 47% year-over-year and we had our first quarter with more than $10 billion in revenue.\n\nBut none of that matters if our services are used in ways that don’t bring people closer together — or if the foundation of our society is undermined by foreign interference.\n\nI’ve expressed how upset I am that the Russians tried to use our tools to sow mistrust. We build these tools to help people connect and bring us closer together. They used them to try to undermine our values. What they did is wrong and we’re not going to stand for it.",
+   "image": "/wiki/svgn/articles/media/svgn-88472244/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Now, for those who have followed Facebook, you know that when we set our minds to",
+   "body": "Now, for those who have followed Facebook, you know that when we set our minds to something, we’re going to do it. It may be harder than we realize upfront, it may take longer, and we won’t be perfect, but we will get it done. We’re bringing the same intensity to these security issues that we’ve brought to any adversary or challenge we’ve faced.\n\nThe first step is doing everything we can to help the US government get a complete picture of what happened. We’ve testified in congress over the past couple of days about the activity we found in last year’s election. We’re working with congress on legislation to make advertising more transparent. I think this would be very good if done well. And even without legislation, we’re already moving on our own to bring advertising on Facebook to an even higher standard of transparency than ads on TV or other media. That’s because in traditional media, there’s no way to see all of the messages an advertiser is showing to different audiences. We’re about to start rolling out a tool that lets you see all ads a page is running, and also an archive of ads political advertisers have run in the past.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "We’re also working with other tech companies to help identify and respond to new threats,",
+   "body": "We’re also working with other tech companies to help identify and respond to new threats, because as we’ve now seen, if there’s a national security threat involving the internet, it will affect many of the major tech companies. And we’ve announced a number of steps to help keep this kind of interference off our platform.\n\nThis is part of a much bigger focus on protecting the security and integrity of our platform and the safety of our community. It goes beyond elections and it means strengthening all of our systems to prevent abuse and harmful content.\n\nWe’re doing a lot here with investments in people and technology. Some of this is focused on finding bad actors and bad behavior. Some is focused on removing false news, hate speech, bullying, and other problematic content that we don’t want in our community. We already have about 10,000 people working on safety and security, and we’re planning to double that to 20,000 in the next year to better enforce our Community Standards and review ads. In many places, we’re doubling or more our engineering efforts focused on security. We’re also building new AI to detect bad content and bad actors — just like we’ve done with terrorist propaganda.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "I’m dead serious about this, and the reason I’m talking about this on our earnings call",
+   "body": "I’m dead serious about this, and the reason I’m talking about this on our earnings call is that I’ve directed our teams to invest so much in security — on top of the other investments we’re making — that it will significantly impact our profitability going forward, and I wanted our investors to hear that directly from me. I believe this will make our society stronger and in doing so will be good for all of us over the long term. But I want to be clear about what our priority is: protecting our community is more important than maximizing our profits.\n\nSo security and the integrity of our service will be a major focus. Beyond this, our focus is building community. I talked about this last quarter when we changed our mission to focus on building community to bring the world closer together, and that’s more important now than ever. And this gets into our roadmap for the next 3, 5 and 10 years.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Over the next three years, the biggest trend in our products will be the growth of video.",
+   "body": "Over the next three years, the biggest trend in our products will be the growth of video. This goes both for sharing, where we’ve seen Stories in Instagram and Status in WhatsApp grow very quickly, each with more than 300 million daily actives, and also for consuming video content. We recently launched the Watch tab, where you can discover shows, follow creators, connect with people watching an episode, and join groups with people with similar interests to build community.\n\nBut as video grows, it’s important to remember that Facebook is about bringing people closer together and enabling meaningful social interactions; it’s not primarily about passively consuming content. Research shows that interacting with friends and family on social media tends to be more meaningful and can be good for our well-being, and that’s time well spent. But when we just passively consume content, that may be less true.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "When done well, video brings us closer together.",
+   "body": "When done well, video brings us closer together. We’ve found that communities formed around video like TV shows or sports create a greater sense of belonging than many other communities. We’ve found that Live videos generate 10x the number of interactions and comments as other videos. But too often right now, watching video is just a passive consumption experience. Time spent is not a goal by itself. We want the time people spend on Facebook to encourage meaningful social interactions.\n\nSo we’re going to focus our products on all the ways to build community around the video people share and watch. That’s something Facebook can uniquely do.\n\nMoving along, over the next five years, I expect us to make some good progress on several newer initiatives.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "In messaging, today already more than 20 million businesses are communicating with",
+   "body": "In messaging, today already more than 20 million businesses are communicating with customers through Messenger. Now we’re starting to test business features that make it easier for people to make the same kinds of connections with businesses through WhatsApp.\n\nWe rolled out Marketplace to Canada and 17 countries across Europe, giving people the ability to discover, buy, and sell things in their local communities. Today more than 550 million people are using Marketplace and Buy-and-Sell groups on Facebook to connect with other people for transactions.\n\nWe’re also seeing good progress with Workplace, helping companies connect their own teams internally through their own versions of Facebook. It’s been less than a year since we launched Workplace, and today more than 30,000 companies are using it. This quarter, we welcomed on Walmart, the largest employer in the US.",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "Over the next 10 years, we’re working on the foundational technologies needed to bring",
+   "body": "Over the next 10 years, we’re working on the foundational technologies needed to bring the world closer together.\n\nI’m proud of the work we’re doing with AI. We’re now using machine learning in most of our integrity work to keep our community safe. When Hurricane Maria hit Puerto Rico, we used AI to look at satellite imagery and identify where people might live and need connectivity and other resources. Progress in AI can unlock a lot of opportunities, so this quarter we opened a new AI research lab in Montreal and we’re building another lab in Paris as well.\n\nThis quarter we held Oculus Connect, and we announced Oculus Go — our first ever all-in-one headset that’s great for feeling like you’re present with someone when you can’t physically be together in person. It’s great for playing games, watching movies, or hanging out with friends. At $199, we think it’s going to help us bring great virtual reality experiences to more people. It ships next year.",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "At Connect, I also showed our new Santa Cruz prototype — which is the first time any",
+   "body": "At Connect, I also showed our new Santa Cruz prototype — which is the first time any company has shown the full experience of positional tracking in a standalone headset and controllers. It’s a major technical achievement, and I’m looking forward to getting this into developers’ hands next year.\n\nIn order to support our community’s growth, we need to keep investing in our infrastructure. This quarter, we broke ground on our new Albany data center, and we announced that we’ll build our 11th major data center in Henrico County, Virginia. As always, all our new data centers are powered by 100% renewable energy.\n\nThese long term investments are important for our community’s future. We can do a lot to help connect people through phones and computers, but so much more will be possible in a world where everyone has internet access, where AI improves all our services, and where we can basically teleport anywhere or be within anyone anytime we want.",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "With all the issues we face, it would be a lot to just invest in addressing those.",
+   "body": "With all the issues we face, it would be a lot to just invest in addressing those. But we know we also have a responsibility to deliver these fundamental technical and scientific advances to fulfill the promise of bringing people closer together, so we’re going to keep making significant investments looking ahead towards the future too.\n\nWe’ve made some real progress this year. Across the board, we have a lot of work to deliver on our mission of bringing the world closer together, but we’re committing to rising to the challenge and doing what we need to for our community. Thanks to all of you for being part of this journey, and I’m looking forward to the road ahead.",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "END of Mark Zuckerberg’s text.",
+   "body": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News (more credits at the bottom) medium.com\n\nJohn Carmack interviewed at Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News medium.com\n\nExclusive Audio Interview from OC4: Oculus Project Santa Cruz by Micah Blumberg, Silicon Valley Global News medium.com\n\nOC4 Oculus Connect 4 Keynote Article by Micah Blumberg for Silicon Valley Global News medium.com",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472244/005.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472244/007.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "San Francisco Virtual Reality 360 novem November 30th, 2017 Microsoft Reactor 6pm-10pm",
+   "body": "San Francisco Virtual Reality 360 novem November 30th, 2017 Microsoft Reactor 6pm-10pm There is a collision course for all domains of science, all manner of… www.eventbrite.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472244/009.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472244/011.png"
+  },
+  {
+   "seq": 20,
+   "headline": "The Neural Lace Journal & Talk Show: A compilation of articles, and links.",
+   "body": "The Neural Lace Journal & Talk Show: A compilation of articles, and links. The Neural Lace Talk Show is a podcast, show, and journal about science, technology, and next generation brain computer… medium.com\n\nThe Virtual Reality Media Alliance When you join VRMA I will list your social media group, blog, event, and or company here with the 29 Groups that I… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472244/013.jpg"
+  },
+  {
+   "seq": 21,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…]] · [[Facebook’s new Social VR applications are a game changer, this is why you will want an Oculus Go!]] · [[15 New Articles/Posts from Oculus Connect 4]] · [[John Carmack interviewed at Oculus Connect 4]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-d9753d2bab19",
+     "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+    },
+    {
+     "id": "vrma-849ac340e425",
+     "title": "Facebook’s new Social VR applications are a game changer, this is why you will want an Oculus Go!"
+    },
+    {
+     "id": "vrma-cde355034577",
+     "title": "15 New Articles/Posts from Oculus Connect 4"
+    },
+    {
+     "id": "vrma-30bdbb72bffa",
+     "title": "John Carmack interviewed at Oculus Connect 4"
+    }
+   ]
+  }
+ ]
+}

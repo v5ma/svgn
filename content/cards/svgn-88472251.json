@@ -1,0 +1,70 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472251",
+ "title": "Update: There was a response from Ben which I have included at the very bottom of the page.",
+ "dek": "Update: There was a response from Ben which I have included at the very bottom of the page. Let me make it extra clear that I never saw Ben as part of the problem, and his work on Road to VR is great work. By SVGN.io on",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-24",
+ "articleHref": "/wiki/svgn/articles/2017-10-24-update-there-was-a-response-from-ben-which-i-have-included-at-the-very-bottom-of-the-p-vrma-babc0b5518ed",
+ "sourceUrl": "https://www.svgn.io/p/update-there-was-a-response-from-ben-which-i-have-included-at-the-very-bottom-of-the-page-babc0b5518ed",
+ "topTerms": [
+  "work",
+  "update",
+  "response",
+  "included",
+  "bottom",
+  "page",
+  "extra",
+  "clear"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-babc0b5518ed",
+   "title": "Update: There was a response from Ben which I have included at the very bottom of the page."
+  },
+  {
+   "id": "vrma-384e626b2443",
+   "title": "CascadeSF is a fantastic event series! (Photos that you can use/share at he bottom)"
+  },
+  {
+   "id": "vrma-4a8f97db5636",
+   "title": "Medium has received significant updates."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Update: There was a response from Ben which I have included at the very bottom of the page.",
+   "body": "Update: There was a response from Ben which I have included at the very bottom of the page. Let me make it extra clear that I never saw Ben as part of the problem, and his work on Road to VR is great work. By SVGN.io on",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Update: There was a response from Ben which I have included at the very bottom of the",
+   "body": "Update: There was a response from Ben which I have included at the very bottom of the page. Let me make it extra clear that I never saw Ben as part of the problem, and his work on Road to VR is great work.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Update: There was a response from Ben which I have included at the very bottom of the page.]] · [[CascadeSF is a fantastic event series! (Photos that you can use/share at he bottom)]] · [[Medium has received significant updates.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-babc0b5518ed",
+     "title": "Update: There was a response from Ben which I have included at the very bottom of the page."
+    },
+    {
+     "id": "vrma-384e626b2443",
+     "title": "CascadeSF is a fantastic event series! (Photos that you can use/share at he bottom)"
+    },
+    {
+     "id": "vrma-4a8f97db5636",
+     "title": "Medium has received significant updates."
+    }
+   ]
+  }
+ ]
+}

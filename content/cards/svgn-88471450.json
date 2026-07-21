@@ -1,0 +1,228 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471450",
+ "title": "Nvidia demo: Engineer drives a real car from inside VR",
+ "dek": "Nvidia combines its Virtual Reality Holodeck application with Self Driving Cars so a human can take over a vehicle remotely in the event of…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-03-28",
+ "articleHref": "/wiki/svgn/articles/2018-03-28-nvidia-demo-engineer-drives-a-real-car-from-inside-vr-vrma-63e6825b01ec",
+ "sourceUrl": "https://www.svgn.io/p/nvidia-demo-engineer-drives-a-real-car-from-inside-vr-63e6825b01ec",
+ "topTerms": [
+  "video",
+  "virtual",
+  "reality",
+  "stage",
+  "phone",
+  "vive",
+  "technology",
+  "nvidia"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-23bad1d1b952",
+   "title": "The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality"
+  },
+  {
+   "id": "vrma-8dab8ea4073c",
+   "title": "Autonomous Vehicle Simulation in Virtual Reality with Optis at GTC 2018: A video interview with…"
+  },
+  {
+   "id": "vrma-eddd3e5de723",
+   "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+  },
+  {
+   "id": "vrma-3c3253b1eb0e",
+   "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Nvidia demo: Engineer drives a real car from inside VR",
+   "body": "Nvidia combines its Virtual Reality Holodeck application with Self Driving Cars so a human can take over a vehicle remotely in the event of…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "by Micah Blumberg, Researcher / Journalist (about)\n\nDuring CEO Jensen Huang’s keynote at",
+   "body": "by Micah Blumberg, Researcher / Journalist (about)\n\nDuring CEO Jensen Huang’s keynote at GTC 2018 (GPU Technology Conference) Nvidia put one of their engineers in virtual reality on the stage to drive an autonomous car in VR that was hooked to a real car that was located outside in the parking lot. From inside VR the engineer on stage drove the real car around a truck and parked it next to other cars in the parking lot with no trouble whatsoever. It’s interesting to note that the car has so many redundancy systems in place it’s Drive AI that having a human driver take over remotely may not ever be necessary.\n\nI have a three videos to share, the first from Nvidia and the second from my seat in the front row that I filmed with Facebook’s Live feature on my phone, and the 3rd video from my DLSR camera which was just pointed at the main screen.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "This video should start at the 2 minute 20 second mark:",
+   "body": "This video should start at the 2 minute 20 second mark:",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Below is the video that I filmed with my phone via Facebook Live, while I was also",
+   "body": "Below is the video that I filmed with my phone via Facebook Live, while I was also filming with the DSLR what was happening was all over the stage so I used to phone to show the driver in conjunction with the screens were seeing that you can see illustrated the in photos above.\n\nHere is the video from my DSLR\n\nPictures of the Self Driving Car from the lobby at GTC 2018",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/005.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/007.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/009.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/011.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/013.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/015.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/017.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/019.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/021.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/023.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/025.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/027.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/029.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/031.jpg"
+  },
+  {
+   "seq": 20,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/033.jpg"
+  },
+  {
+   "seq": 21,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/035.jpg"
+  },
+  {
+   "seq": 22,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/037.jpg"
+  },
+  {
+   "seq": 23,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/039.jpg"
+  },
+  {
+   "seq": 24,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/041.jpg"
+  },
+  {
+   "seq": 25,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/043.jpg"
+  },
+  {
+   "seq": 26,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/045.jpg"
+  },
+  {
+   "seq": 27,
+   "headline": "Recent articles from GTC 2018\n\nPrivacy in the age of Internet of Things, Alexa, Google",
+   "body": "Recent articles from GTC 2018\n\nPrivacy in the age of Internet of Things, Alexa, Google Assistant, with Homomorphic Encryption and AI: At GTC 2018 I interviewed Nigel Cannings with Intelligent Voice\n\nPrivacy in the age of Internet of Things, Alexa, Google Assistant, with Homomorphic Encryption and… At GTC 2018 I interviewed Nigel Cannings with Intelligent Voice medium.com\n\nHTC Vive’s Commercial Business Strategy for Virtual Reality\n\nHTC Vive’s Commercial Business Strategy for Virtual Reality Includes a hint about how easy it is to use the Vive Lighthouse 2.0 technology (just attach a puck to any wall or even… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471450/047.jpg"
+  },
+  {
+   "seq": 28,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality]] · [[Autonomous Vehicle Simulation in Virtual Reality with Optis at GTC 2018: A video interview with…]] · [[HTC Vive’s Commercial Business Strategy for Virtual Reality]] · [[Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-23bad1d1b952",
+     "title": "The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality"
+    },
+    {
+     "id": "vrma-8dab8ea4073c",
+     "title": "Autonomous Vehicle Simulation in Virtual Reality with Optis at GTC 2018: A video interview with…"
+    },
+    {
+     "id": "vrma-eddd3e5de723",
+     "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+    },
+    {
+     "id": "vrma-3c3253b1eb0e",
+     "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+    }
+   ]
+  }
+ ]
+}

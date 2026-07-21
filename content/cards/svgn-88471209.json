@@ -1,0 +1,78 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471209",
+ "title": "XR does not stand for eXtended Reality, that would be ER.",
+ "dek": "The X in XR was formed from a V stacked on top of an A,and it is just a symbol to mean a single development pipeline that does both AR and…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-11-09",
+ "articleHref": "/wiki/svgn/articles/2018-11-09-xr-does-not-stand-for-extended-reality-that-would-be-er-vrma-5dbc418c444",
+ "sourceUrl": "https://www.svgn.io/p/xr-does-not-stand-for-extended-reality-that-would-be-er-5dbc418c444",
+ "topTerms": [
+  "stand",
+  "extended",
+  "reality",
+  "formed",
+  "stacked",
+  "symbol",
+  "mean",
+  "single"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-5dbc418c444",
+   "title": "XR does not stand for eXtended Reality, that would be ER."
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-8eb9947f544f",
+   "title": "The Metaverse launches today with Varjo Reality Cloud."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "XR does not stand for eXtended Reality, that would be ER.",
+   "body": "The X in XR was formed from a V stacked on top of an A,and it is just a symbol to mean a single development pipeline that does both AR and…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "XR does not stand for eXtended Reality, that would be ER.",
+   "body": "XR does not stand for eXtended Reality, that would be ER.\n\nThe X in XR was formed from a V stacked on top of an A,and it is just a symbol to mean a single development pipeline that does both AR and VR. Here is proof of what I am claiming from the people who coined the term XR. I am only requesting that you update your article with the correct information.\n\nhttps://medium.com/silicon-valley-global-news/how-the-term-xr-was-coined-its-so-funny-hint-it-does-not-mean-extended-reality-4e7fff539676",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[XR does not stand for eXtended Reality, that would be ER.]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[The Metaverse launches today with Varjo Reality Cloud.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-5dbc418c444",
+     "title": "XR does not stand for eXtended Reality, that would be ER."
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-8eb9947f544f",
+     "title": "The Metaverse launches today with Varjo Reality Cloud."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    }
+   ]
+  }
+ ]
+}

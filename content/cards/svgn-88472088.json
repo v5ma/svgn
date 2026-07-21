@@ -1,0 +1,102 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472088",
+ "title": "San Francisco Virtual Reality 360 Live",
+ "dek": "The next SF VR 360 Live event will be posted here and information about previous events will be linked below.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-01-21",
+ "articleHref": "/wiki/svgn/articles/2018-01-21-san-francisco-virtual-reality-360-live-vrma-f28a15aacd4f",
+ "sourceUrl": "https://www.svgn.io/p/san-francisco-virtual-reality-360-live-f28a15aacd4f",
+ "topTerms": [
+  "medium",
+  "micah",
+  "blumberg",
+  "vrma",
+  "microsoft",
+  "virtual",
+  "reality",
+  "sfvr"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-1dc6a5851f41",
+   "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+  },
+  {
+   "id": "vrma-3c3253b1eb0e",
+   "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+  },
+  {
+   "id": "vrma-30794b94c54e",
+   "title": "The VRMA Virtual Reality Media Publication the complete list of articles."
+  },
+  {
+   "id": "vrma-4ce638af7452",
+   "title": "The VRMA Virtual Reality Media Publication the complete list of articles."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "San Francisco Virtual Reality 360 Live",
+   "body": "The next SF VR 360 Live event will be posted here and information about previous events will be linked below.",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Recap of SFVR 360 Janus: Video, Photos by Micah Blumberg, Neurohaxor at http://vrma.io",
+   "body": "Recap of SFVR 360 Janus: Video, Photos by Micah Blumberg, Neurohaxor at http://vrma.io medium.com\n\nSF VR 360 Janus will be at Microsoft Reactor on January 18th. Written by Micah Blumberg from The Neural Lace Podcast http://VRMA.io  and the Virtual Reality Media Alliance… medium.com\n\nSFVR Nov 30th at Microsoft in San Francisco: Schedule, Speakers, and Demos. Microsoft, Occipital, TPcast, Decentraland, Map Mapping Aggregated Platform, Virtual Bytes, River Studios, MicrodoseVR… medium.com\n\nAI+Mixed Reality: Interview w/ Tobiah of Microsoft on Artificial Intelligence is converging with… by Micah Blumberg host of the Death Star Robot Talk Show at VRMA.io medium.com\n\nVR+Blockchain: Interview w/ Kieran Farr v Decentraland on the convergence of Virtual Reality w/… by Micah Blumberg host of the Death Star Robot Talk Show at VRMA.io VR & Blockchain: Watch my interview with Kieran… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality by Micah",
+   "body": "The Convergence of Cutting Edge Ideas, Science & Technology into Virtual Reality by Micah Blumberg, host of the Neural Lace Podcast at VRMA.io There is a collision course for all domains of science… medium.com\n\nThank you all so much for coming to last night’s sold out SFVR 360 ôctō! We had an incredible night of demos, interactive discussions, and networking! Here is a list of the wonderful speakers… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472088/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472088/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472088/005.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]] · [[Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō]] · [[The VRMA Virtual Reality Media Publication the complete list of articles.]] · [[The VRMA Virtual Reality Media Publication the complete list of articles.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-1dc6a5851f41",
+     "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+    },
+    {
+     "id": "vrma-3c3253b1eb0e",
+     "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+    },
+    {
+     "id": "vrma-30794b94c54e",
+     "title": "The VRMA Virtual Reality Media Publication the complete list of articles."
+    },
+    {
+     "id": "vrma-4ce638af7452",
+     "title": "The VRMA Virtual Reality Media Publication the complete list of articles."
+    }
+   ]
+  }
+ ]
+}

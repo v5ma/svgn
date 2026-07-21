@@ -1,0 +1,90 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472085",
+ "title": "BladeRunner 2045 VR experience.",
+ "dek": "Film maker Shuang van Reizen and Micah Blumberg were onsite at OC4 to capture it for Silicon Valley Global News",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-14",
+ "articleHref": "/wiki/svgn/articles/2017-10-14-bladerunner-2045-vr-experience-vrma-97ec135c8352",
+ "sourceUrl": "https://www.svgn.io/p/the-blade-runner-2049-car-at-oc4-we-got-to-try-bladerunner-2045-vr-97ec135c8352",
+ "topTerms": [
+  "micah",
+  "blumberg",
+  "silicon",
+  "valley",
+  "global",
+  "bladerunner",
+  "blade",
+  "runner"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-ccd179bcac41",
+   "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+  },
+  {
+   "id": "vrma-e57a41fb406b",
+   "title": "Three events added to the Silicon Valley Global Events Calendar"
+  },
+  {
+   "id": "vrma-f800148de385",
+   "title": "Silicon Valley Global News: Front Page"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "BladeRunner 2045 VR experience.",
+   "body": "Film maker Shuang van Reizen and Micah Blumberg were onsite at OC4 to capture it for Silicon Valley Global News",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "BladeRunner 2045 VR\n\nInterview with the CEO of Magnopus on getting people into the",
+   "body": "BladeRunner 2045 VR\n\nInterview with the CEO of Magnopus on getting people into the BladeRunner universe and some lessons learned.\n\nI (Micah Blumberg) also got to play Blade Runner 2049 and I recorded an interview as well. #oculusconnect #oculus BladeRunner 2045 Memory Lab with Ben Grossmann cofounder of Magnopus #SVGN Silicon Valley Global News http://SVGN.io\n\nHere is a recording from my experience with Blade Runner VR app.\n\nBlade Runner 2049 VR experience at Oculus Connect 4",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472085/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News",
+   "body": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News (more credits at the bottom) medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472085/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io]] · [[Three events added to the Silicon Valley Global Events Calendar]] · [[Silicon Valley Global News: Front Page]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-ccd179bcac41",
+     "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+    },
+    {
+     "id": "vrma-e57a41fb406b",
+     "title": "Three events added to the Silicon Valley Global Events Calendar"
+    },
+    {
+     "id": "vrma-f800148de385",
+     "title": "Silicon Valley Global News: Front Page"
+    }
+   ]
+  }
+ ]
+}

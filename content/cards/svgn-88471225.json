@@ -1,0 +1,114 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471225",
+ "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…",
+ "dek": "This means that you will be able to play the apps you purchased on the Oculus Rift, powered by your desktop GPU, wirelessly with your…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-10-04",
+ "articleHref": "/wiki/svgn/articles/2018-10-04-the-oculus-quest-is-expected-to-stream-desktop-oculus-rift-vr-apps-over-wifi-like-the--vrma-5c0c331fcd7",
+ "sourceUrl": "https://www.svgn.io/p/the-oculus-quest-is-expected-to-stream-desktop-oculus-rift-vr-apps-over-wifi-like-the-vive-focus-5c0c331fcd7",
+ "topTerms": [
+  "oculus",
+  "quest",
+  "vive",
+  "focus",
+  "streaming",
+  "medium",
+  "riftcat",
+  "vridge"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-5c0c331fcd7",
+   "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+  },
+  {
+   "id": "vrma-104682d60d94",
+   "title": "VRLA Pre-show Showdown: Vive Focus vs Oculus Go vs the Lenovo Mirage Solo"
+  },
+  {
+   "id": "vrma-14f4d71df57d",
+   "title": "F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399"
+  },
+  {
+   "id": "vrma-387f0bc78269",
+   "title": "The Oculus Quest is not just a new VR device it’s a cultural event."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…",
+   "body": "This means that you will be able to play the apps you purchased on the Oculus Rift, powered by your desktop GPU, wirelessly with your…",
+   "image": "/wiki/svgn/articles/media/svgn-88471225/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article by Micah Blumberg, Journalist, Analyst Researcher, Neurohacker\n\nYou can for",
+   "body": "Article by Micah Blumberg, Journalist, Analyst Researcher, Neurohacker\n\nYou can for example try SteamVR on your Oculus Go today via Riftcat Vridge http://blog.riftcat.com/2018/08/dev-update-43-vridge-22-is-now-live.html?m=1\n\nDev Update #43 - VRidge 2.2 is now LIVE! We couldn't have made it without your intensive Beta tests! Thank you for helping us bringing this update to everyone.… blog.riftcat.com\n\nIn May 2018 Vive revealed the ability for Vive Focus users to stream Steam VR applications to the Vive Focus. Unfortunately that’s not very useful feature without 6 dof controllers that match the capabilities of the HTC Vive.\n\nThe Vive Focus has the same Snapdragon 835 Processor that’s in the Oculus Quest and the Daydream Standalone Mirage Solo, that means that Quest and Solo are also capable of streaming games over wifi from your desktop.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "In fact John Carmack has said that they have a research project to max out Wifi Streaming.",
+   "body": "In fact John Carmack has said that they have a research project to max out Wifi Streaming.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "You can see a video of what it looks like when users stream a Steam VR app to the Vive",
+   "body": "You can see a video of what it looks like when users stream a Steam VR app to the Vive Focus here https://www.youtube.com/watch?v=wki0hOOaAg0\n\nNow this is a completely different deal when you have two motion controllers that map perfectly to their desktop counter parts. The Oculus Quest controllers do in fact map perfectly to the Oculus Touch controllers on the Oculus Rift. So basically every game should work via streaming to the Oculus Quest. (if they get it working)\n\nThe video above that shows it working on the Vive Focus streaming from the desktop. Vive focus has the same core hardware.\n\nNote: The tweet from Carmack does say “no promises”, and that’s a good point to keep in mind, but considering that their competitors have already accomplished it with essentially the same hardware it seems likely that Oculus will be driven to duplicate the feature on their hardware for competitive reasons",
+   "image": "/wiki/svgn/articles/media/svgn-88471225/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Note: The tweet and the similarity to Vive Focus hardware (Snapdragon 835 Chipset)",
+   "body": "Note: The tweet and the similarity to Vive Focus hardware (Snapdragon 835 Chipset) suggests that it doesn’t need to be more expensive than it is to support this streaming feature.\n\nNote: Erik Hartley writes: “Both iVRy and Riftcat VRidge have indicated they will support the Quest over 5ghz upon launch. VRidge works very well on the Focus. I played through Transference and it played great. https://youtu.be/a6tzLBkJVtQ “\n\nNote: Ian O Neamus writes: “There is an inherent latency problem in that it takes some time (> 0ms) to get the tracking info to the computer, then the computer renders the frame and compresses it, sends it to the HMD, where it is decompressed and displayed. If you run it over USB this all takes less time than running it over Wifi. However, at a minimum you’re 1 frame behind the rendering (11–16ms). You can mitigate this a bit with doing ASW on the headset, but it’s never going to match a HDMI (or wireless HDMI) headset latency-wise. If you can get the entire motion to photon time down to 20ms or less, it’s acceptable. That is a function of resolution, bitrate and comms speed (ie. the higher the resolution and bitrate, the more info there is to send per frame, the higher the comms speed, the less time it takes to send). The Go (and presumably the Quest) doesn’t tether easily (unless you tether using ADB), but its Wifi performance is very good (compared to a Samsung Galaxy for example).”",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471225/003.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon",
+   "body": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and… At Oculus Connect 5 I spoke to Brandon Jones from Google about the WebXR spec and standalone VR devices. WebXR is a… medium.com\n\nOwlchemy Labs launches mobile spectator It’s the ability to peak into a VR experience from your mobile phone, you can track someone in an HTC Vive, this makes… medium.com\n\nOculus Quest does full body tracking and hand tracking in Mixed Reality (AR) you don’t even need… Anna Kozminski a Software Program Manager at Oculus explains how Oculus Quest does Mixed Reality, she also confirms… medium.com\n\nA New Star Wars Trilogy in VR: Disney’s Star Wars: Secrets of the Empire brings their multiplayer… David S. Goyer is the Writer and Executive Producer of Star Wars: Secrets of the Empire. He created an incredible… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471225/005.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest I went",
+   "body": "Hands on Video with Oculus Quest + Side by Side Screen Comparison of Rift & Quest I went hands on with the Oculus Quest at Oculus Connect 5 to see if the graphics in a mobile headset were capable of… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…]] · [[VRLA Pre-show Showdown: Vive Focus vs Oculus Go vs the Lenovo Mirage Solo]] · [[F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399]] · [[The Oculus Quest is not just a new VR device it’s a cultural event.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-5c0c331fcd7",
+     "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+    },
+    {
+     "id": "vrma-104682d60d94",
+     "title": "VRLA Pre-show Showdown: Vive Focus vs Oculus Go vs the Lenovo Mirage Solo"
+    },
+    {
+     "id": "vrma-14f4d71df57d",
+     "title": "F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399"
+    },
+    {
+     "id": "vrma-387f0bc78269",
+     "title": "The Oculus Quest is not just a new VR device it’s a cultural event."
+    }
+   ]
+  }
+ ]
+}

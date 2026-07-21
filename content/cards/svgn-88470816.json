@@ -1,0 +1,174 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470816",
+ "title": "Looking Glass Factory",
+ "dek": "Looking Glass Factory Displays are like Virtual Reality without Glasses — A 3D display you can put in the window of your shop that will…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-04-09",
+ "articleHref": "/wiki/svgn/articles/2022-04-09-looking-glass-factory-vrma-6f31d6f5c2ed",
+ "sourceUrl": "https://www.svgn.io/p/looking-glass-factory-6f31d6f5c2ed",
+ "topTerms": [
+  "displays",
+  "looking",
+  "glass",
+  "display",
+  "applications",
+  "hologram",
+  "interactive",
+  "neural"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-6f31d6f5c2ed",
+   "title": "Looking Glass Factory"
+  },
+  {
+   "id": "vrma-5171e35ffaae",
+   "title": "Neural Lace: AR / VR no glasses"
+  },
+  {
+   "id": "vrma-a673d2063c5",
+   "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+  },
+  {
+   "id": "vrma-8acbacf53af9",
+   "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Looking Glass Factory",
+   "body": "Looking Glass Factory Displays are like Virtual Reality without Glasses — A 3D display you can put in the window of your shop that will…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article & Interview by Micah Blumberg, about Micah: http://vrma.io\n\nThese displays are",
+   "body": "Article & Interview by Micah Blumberg, about Micah: http://vrma.io\n\nThese displays are also known as light field displays because they create a 3D image for each of your eyes, it achieves this with special curved pixels that show you an image that is based on your eyeball’s actual position in space. It doesn’t have to track your eyeball it just works.\n\nIn practice that means if you lean left or right you will see the image from the left or the right. That is why I say it is like VR (Virtual Reality) without glasses. This kind of display really has to be seen in person to fully appreciate how amazing it is.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "It makes sense for shop owners, and customer facing business’s to have these attractive",
+   "body": "It makes sense for shop owners, and customer facing business’s to have these attractive 3D displays because they draw eyeballs, they pull feet into your business, and dollars into your pocket.",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Since these displays do not need to know the position of your head movement they provide",
+   "body": "Since these displays do not need to know the position of your head movement they provide 3D images to literally everyone in the room simultaneously. So this really makes sense for shared experiences with lots of people. It’s a beautiful display for sharing 3D pictures at parties, playing 3D games on game night, 3D video conferencing, and it’s ready for novel new applications that haven’t been invented or considered by the public at large yet.\n\nOne of the applications being worked on that I am looking forward to the most is live real time 3D volumetric video conferencing! This will be one of the more popular reasons to own these types of displays in the future.",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Not only can you turn anything into a 3D hologram, with software like Unity, Unreal",
+   "body": "Not only can you turn anything into a 3D hologram, with software like Unity, Unreal Engine, Blender and more but you can also add interactivity, hand tracking was on display, showing that you can make really impressive interactive demos & presentations.\n\nWith NeRF, Neural Radiance Fields for View Synthesis one can turn ordinary 2D photos into advanced 3D models that you can put on displays like this, and make interactive with software that is compatible with these displays.\n\nNeRF: Neural Radiance Fields We present a method that achieves state-of-the-art results for synthesizing novel views of complex scenes by optimizing… www.matthewtancik.com\n\nNeural Networks are aiding real time 3D capture, but they are also reducing the amount of bandwidth needed for the metaverse. So you can send less data over the internet and on the receiving end neural networks can upscale the resolution or do what is called shape completion to improve the images seen on each side.",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "Looking Glass Factory is one company that is participating in a much larger hologram",
+   "body": "Looking Glass Factory is one company that is participating in a much larger hologram creator community, a developer community that is making applications for displays like this, but crucially also the content for Light Field Displays.\n\nCheck out the 'Little Lion 🦁' hologram on The Looking Glass Factory Hologram Drops! lookingglassfactory.peek.link\n\nOne of my interests in 3D display technology has to do with the visualization of live biometric data in 3D.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "I’m also interested in 3D neurofeedback, and 3D displays for medical imagining to improve",
+   "body": "I’m also interested in 3D neurofeedback, and 3D displays for medical imagining to improve understanding in the classroom or academic setting.",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/011.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/013.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/015.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/017.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "Holoplay Studio is the desktop application for Looking Glass Factor devices that makes it",
+   "body": "Holoplay Studio is the desktop application for Looking Glass Factor devices that makes it easy to import 3D content from applications like Unity, Unreal Engine, Blender and more. Looking Glass Factory promises & delivers “Hassle-free holograms” with HoloPlay Studio software.",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/019.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/021.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/023.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/025.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "The displays are available in different sizes & resolutions.",
+   "body": "The displays are available in different sizes & resolutions. There is a 15.6 inch 4k system, an 8k 32 inch version, and other sizes & resolutions, check their website for additional purchasing details.\n\nLooking Glass Factory. The World’s Leading Holographic Display Company. Looking Glass Portrait is the first system for personal 3D holograms. With it you can seamlessly turn Portrait-mode… lookingglassfactory.com",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/027.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "The 3rd party hand tracking technology I mentioned earlier is from Ultra Leap, and it is",
+   "body": "The 3rd party hand tracking technology I mentioned earlier is from Ultra Leap, and it is useful for creating amazing interactive 3D presentations.\n\nDigital worlds that feel human | Ultraleap Our world-leading hand tracking and haptics powers intuitive, touchless gesture control in AR/VR, interactive kiosks… www.ultraleap.com\n\nThanks for reading! Be sure to read more of my articles at SVGN.io. Subscribe, Share, Follow, Recommend. Thanks!\n\nSilicon Valley Global News\n\nSilicon Valley Global News SVGN.io Silicon Valley Global News: Stories, Research, Advanced Concepts RE: Virtual Reality, AR, WebXR, AI Semantic… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88470816/029.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Looking Glass Factory]] · [[Neural Lace: AR / VR no glasses]] · [[News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…]] · [[FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-6f31d6f5c2ed",
+     "title": "Looking Glass Factory"
+    },
+    {
+     "id": "vrma-5171e35ffaae",
+     "title": "Neural Lace: AR / VR no glasses"
+    },
+    {
+     "id": "vrma-a673d2063c5",
+     "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+    },
+    {
+     "id": "vrma-8acbacf53af9",
+     "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+    }
+   ]
+  }
+ ]
+}

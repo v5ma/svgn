@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471331",
+ "title": "Real Time Ray-tracing (RTX) is coming to Virtual Reality and is expected to revolutionize the VR…",
+ "dek": "To see how look at the Battlefield V demo running on Nvidia real time ray-tracing (RTX) to effectively make shadows and reflections look…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-08-21",
+ "articleHref": "/wiki/svgn/articles/2018-08-21-real-time-ray-tracing-rtx-is-coming-to-virtual-reality-and-is-expected-to-revolutioniz-vrma-564abc09a8b3",
+ "sourceUrl": "https://www.svgn.io/p/real-time-ray-tracing-rtx-is-coming-to-virtual-reality-and-is-expected-to-revolutionize-the-vr-564abc09a8b3",
+ "topTerms": [
+  "nvidia",
+  "graphics",
+  "games",
+  "turing",
+  "series",
+  "going",
+  "time",
+  "tracing"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-564abc09a8b3",
+   "title": "Real Time Ray-tracing (RTX) is coming to Virtual Reality and is expected to revolutionize the VR…"
+  },
+  {
+   "id": "vrma-44e5a4446d5c",
+   "title": "Roe Visual, Vicon, Unreal Engine used to make AR walls for the new Star Wars: Obi-wan Kenobi Series."
+  },
+  {
+   "id": "vrma-4aa546469123",
+   "title": "Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2"
+  },
+  {
+   "id": "vrma-b42b7db216bc",
+   "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Real Time Ray-tracing (RTX) is coming to Virtual Reality and is expected to revolutionize the VR…",
+   "body": "To see how look at the Battlefield V demo running on Nvidia real time ray-tracing (RTX) to effectively make shadows and reflections look…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Written by Micah Blumberg, Journalist, Researcher, Neurohacker\n\nN vidia RTX will increase",
+   "body": "Written by Micah Blumberg, Journalist, Researcher, Neurohacker\n\nN vidia RTX will increase realism, increase immersion, and revolutionize Virtual Reality.\n\nVideo link: https://youtu.be/YgMtRh4iqCM\n\nIt’s just like Jensen Huang the CEO of Nvidia traveled 15 years into the future to bring the graphics of tomorrow here today. Really we have to thank innovations in Deep Learning Artificial Intelligence for making this possible.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Just this past week at Siggraph 2018 we learned how Nvidia’s new technology is going to",
+   "body": "Just this past week at Siggraph 2018 we learned how Nvidia’s new technology is going to revolutionize how graphics in movies are made. For the first time it’s going to be economical for even small movie studios to render entire films and tv shows with Ray Tracing.\n\nIn today’s news we learned that games are also about to be revolutionized by Real Time Ray-tracing with announcements from some of the biggest games companies in the world that their next titles are going to support the Nvidia RTX platform.",
+   "image": "/wiki/svgn/articles/media/svgn-88471331/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Today Nvidia revealed the Nvidia Geforce RTX 2070, 2080, and 2080TI, starting at $499 and",
+   "body": "Today Nvidia revealed the Nvidia Geforce RTX 2070, 2080, and 2080TI, starting at $499 and 6 Giga-rays per second. The Turing GPU combines Ray Tracing with AI to achieve a 15 year leap forward in computer graphics.\n\nCurrent GPUs like the GTX 1080Ti run on the Nvidia Pascal series, The GTX 2070, 2080, and 2080Ti skip the Volta series graphics cards and go right to the new Turing series.\n\nTuring represents a 6x speed up over Volta, leap frogging Pascal. The Turing graphics cards achieve this enormous speedup in graphics horsepower thanks to the combination of AI & Raytracing.\n\nWhen you look at the previews for the new RTX games there are a couple of things you should know, first the way these games look pre-rendered is exactly how they are going to look in the game. There is no longer any need to pre-render or pre-bake graphics anymore when you have a GPU that can do real time ray tracing.",
+   "image": "/wiki/svgn/articles/media/svgn-88471331/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "The Nvidia 10series graphics cards could at maximum render games like Infiltrator at 4k",
+   "body": "The Nvidia 10series graphics cards could at maximum render games like Infiltrator at 4k resolution at 30fps, the new Nvidia 20series can render the same game at 4k resolution at 78fps.\n\nCombine that with the News that Virtual Link will support up to 8K resolution at 60fps and with RTX cards starting at 6 Gigarays per second (RTX 2070) and you are looking at",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Oculus, Valve, and Microsoft all support VirtualLink.",
+   "body": "Oculus, Valve, and Microsoft all support VirtualLink. Virtuallink is a new USB-C connector that combines high bandwidth video needed for VR with a power supply into one cable. VirtualLink supports Real Time Ray tracing at 8k at 60fps and 6Gigarays per second (Geforce 2070)\n\nIt’s now reasonable to expect that Oculus, Valve, and Microsoft may announce new VR headsets this year.\n\nNVIDIA Turing Architecture Propels VR Toward Full Immersion | NVIDIA Blog Over the last few decades, VR experiences have gone from science fiction to research labs to inside homes and offices… blogs.nvidia.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471331/005.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471331/007.gif"
+  },
+  {
+   "seq": 8,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Real Time Ray-tracing (RTX) is coming to Virtual Reality and is expected to revolutionize the VR…]] · [[Roe Visual, Vicon, Unreal Engine used to make AR walls for the new Star Wars: Obi-wan Kenobi Series.]] · [[Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2]] · [[Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-564abc09a8b3",
+     "title": "Real Time Ray-tracing (RTX) is coming to Virtual Reality and is expected to revolutionize the VR…"
+    },
+    {
+     "id": "vrma-44e5a4446d5c",
+     "title": "Roe Visual, Vicon, Unreal Engine used to make AR walls for the new Star Wars: Obi-wan Kenobi Series."
+    },
+    {
+     "id": "vrma-4aa546469123",
+     "title": "Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2"
+    },
+    {
+     "id": "vrma-b42b7db216bc",
+     "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+    }
+   ]
+  }
+ ]
+}

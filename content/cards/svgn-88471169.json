@@ -1,0 +1,282 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471169",
+ "title": "Neural Lace and Deep Learning",
+ "dek": "Meet Polina Anikeeva, Associate Professor of Materials Science and Engineering at Massachusetts Institute of Technology, and an important…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-05-20",
+ "articleHref": "/wiki/svgn/articles/2018-05-20-neural-lace-and-deep-learning-svgn-88471169",
+ "sourceUrl": "https://www.svgn.io/p/neural-lace-and-deep-learning-6ed70db4e3a7",
+ "topTerms": [
+  "brain",
+  "neural",
+  "anikeeva",
+  "lace",
+  "ions",
+  "artificial",
+  "polina",
+  "machine"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-8acbacf53af9",
+   "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+  },
+  {
+   "id": "vrma-6ed70db4e3a7",
+   "title": "Neural Lace and Deep Learning"
+  },
+  {
+   "id": "vrma-c6635d693766",
+   "title": "The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…"
+  },
+  {
+   "id": "vrma-17c4067a648e",
+   "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Neural Lace and Deep Learning",
+   "body": "Meet Polina Anikeeva, Associate Professor of Materials Science and Engineering at Massachusetts Institute of Technology, and an important…",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The Neural Lace Journal is written by Micah Blumberg, who is the host of the Neural Lace",
+   "body": "The Neural Lace Journal is written by Micah Blumberg, who is the host of the Neural Lace Podcast at http://vrma.io",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "In 2018 Polina Anikeeva won the 2018 Vilcek Prize for Creative Promise in Biomedical",
+   "body": "In 2018 Polina Anikeeva won the 2018 Vilcek Prize for Creative Promise in Biomedical Science\n\nAnikeeva explains that the electronics inside your body are very different from semi-conductor materials, they are soft, squishy, (Humans are metal robots but thats another topic) and so she asks herself a great question ‘how do you actually connect the two in a way that is meaningful and organic?’",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Associate Professor Anikeeva’s lab at MIT develops devices that interface with the",
+   "body": "Associate Professor Anikeeva’s lab at MIT develops devices that interface with the nervous system. She spends a lot of time thinking about how to interact with the nervous system without an invasive implant, and she has created multiple brain machine interfaces that you should know about which brings us to her 2015 Tedx Talk.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "“Rethinking the Brain Machine Interface” by Polina Anikeeva.",
+   "body": "“Rethinking the Brain Machine Interface” by Polina Anikeeva. It was Published on youtube on Jul 9th, 2015. Interesting in the video the talk was also called: “Polina Anikeeva “Blurring the Boundaries between the Brain and Machines””\n\nAt the 12:30 minute mark Anikeeva asks “Can we interact with the brain wirelessly and remotely? How can we do that?” Her ability to ask herself great questions and then try to answer these very same questions herself seems to be a trend in all the videos that I watched featuring her.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Annikeeva states that the objective is to try to control the voltages on neurons, and",
+   "body": "Annikeeva states that the objective is to try to control the voltages on neurons, and that those voltages are controlled by concentrations of ions inside and outside of neurons.\n\nI think the obvious question here is well what about the synapse? What about dendritic computation, how are we going to monitor and understand what’s going on at that level? She does not address that particular topic in the videos I selected for this article but she does mention that trying to map what ‘all' the synapses are doing is going to take a lot more time than trying to accomplish the goal of establishing organic communication at the neuronal level with machines.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "Annikeeva says that if we can control the concentrations of ions we can control the brain.",
+   "body": "Annikeeva says that if we can control the concentrations of ions we can control the brain. In the Neural Lace Podcast Episode 4 with Andre Watson\n\nIn the Neural Lace Podcast I shared a hypothesis that occurred to me while reading the work of a different scientist that Neural Circuits operated because of electromagnetism, and that lowest negative charge in the dendrite essentially placed an order for the arrival of the next surge in electrical activity along the neural circuit, and this would happen because of changes in the distribution of positive and negative ions in the dendrite but also in the cell body originating from the dendrite.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/015.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "Annikeeva says that “if we can control the concentrations of ions we can control the",
+   "body": "Annikeeva says that “if we can control the concentrations of ions we can control the brain.” So the moment that Annikeeva said that I was a fan of her work, Annikeeva went on to say that neurons ion channels react the same to heat as they do to Capsaicin, that it’s like hitting the fire alarm.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/017.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "That’s a really excellent insight, but why not try to heat the cells with intensely",
+   "body": "That’s a really excellent insight, but why not try to heat the cells with intensely focused ultrasound, I hope to ask her?\n\nHer lab can synthesize magnetic nano particles, 1/5000 of a hair, dissolved in water, form a fluid that looks like expresso, and then they inject that fluid into the part of the brain to target some but not all of the cells.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/019.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "Before the video is over she shows a video of completely wireless magnetic brain",
+   "body": "Before the video is over she shows a video of completely wireless magnetic brain stimulation.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/021.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "At about 18:07 She asks what can we do, what should we do?",
+   "body": "At about 18:07 She asks what can we do, what should we do?",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/023.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "With NerveGear or Neural Lace we can connect artificial limbs to the nervous system,",
+   "body": "With NerveGear or Neural Lace we can connect artificial limbs to the nervous system, repair spinal cords, create new treatments for parkinsons and depression, and at some point we can plug into VR and AR directly, and or plug into AI Deep Learning directly.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/025.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "Then I watched another talk by Polina Anikeeva called “Why you shouldn’t upload your",
+   "body": "Then I watched another talk by Polina Anikeeva called “Why you shouldn’t upload your brain to a computer.” It’s highly recommended:\n\nAnikeeva offers the question “When can my brain collaborate with a computer” as better than asking ‘when can I upload my brain?’\n\nNow I learn that she has a name for her magnet dust, she calls them Nanotransducers and they are 20 thousand times smaller than individual coffee grinds. 1/20,000 size to a coffee ground. They can be mixed into IV solution and injected into brain cells just like a drug. There they can receive signals from outside electronics and convert those signals into something that triggers the brain to react.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/027.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "Her lab has been trying for years to make devices that can both record from neurons and",
+   "body": "Her lab has been trying for years to make devices that can both record from neurons and transmit their signals to outside electronics.\n\nAt around 9:45 Anikeeva makes the point that Deep Learning Neural Networks are developing much more quickly than hardware interfaces to neurons and she estimates that it will be a missed opportunity to not be able to take advantage of artificial intelligence as a specialist plug-in to your generalist brain. Then she makes the point that this type of connective future, between specialist AI and your generalist brain is likely to happen much sooner than trying to develop a comprehensive understanding of every synapse in your brain.\n\nShe asks how can we get to a time when [her vision of attaching specialist AI to the generalist brain exists]. At 11:45 she explains why AI has developed so quickly compared to Brain Machine Interfaces.",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/029.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "“The lightning fast development of artificial intelligence is powered by ubiquitous",
+   "body": "“The lightning fast development of artificial intelligence is powered by ubiquitous computing, it’s accessible to many and it’s very democratic.\n\n“Development of Neural Lace Hardware on the other hand requires significant infrastructure, training and investment. It always requires a paradigm shift from machine inspired electronics, to biology driven design of new materials and architectures.\n\n“And we cannot simply outsource this task to a handful of academic labs. It will simply take too long, we already took 30 years, if we take another 30 we will be missing an opportunity to gain a collaborator and a partner in artificial intelligence.”",
+   "image": ""
+  },
+  {
+   "seq": 19,
+   "headline": "She then concludes with inspiring words:\n\n“So lets join forces in Academy, Industry, and",
+   "body": "She then concludes with inspiring words:\n\n“So lets join forces in Academy, Industry, and Government to accelerate the development and deployment of a neural interface, such that our generalist human can collaborate with specialist artificial intelligence to do what it does best create, analyze, and decide.”\n\nWhat I’ve said about Associate Professor Anikeeva’s work doesn’t even scratch the surface of the details you can find in her papers, I have not even mentioned her work in Optogenetics for example, for a more technical deep dive into her work with references to some of the papers she has worked on watch this video below.\n\nThanks for reading, I hope that I get to inteview Polina Anikeeva for the Neural Lace Podcast someday!",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/031.jpg"
+  },
+  {
+   "seq": 20,
+   "headline": "3D Cross-Hair Convolutional Neural Networks + Holographic Medical Imagining Devices +",
+   "body": "3D Cross-Hair Convolutional Neural Networks + Holographic Medical Imagining Devices + Volumetric Video Rendering + Brain Machine Interfaces (NerveGear) + Deep Learning Artificial… medium.com\n\nBreaking News: Humans are metal robots literally. Point 1: Your cells are filled with charged liquid metals, ie ions, positively charged sodium ions Na+ and negatively charged potassium K+… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/033.jpg"
+  },
+  {
+   "seq": 22,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/035.jpg"
+  },
+  {
+   "seq": 23,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/037.jpg"
+  },
+  {
+   "seq": 24,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/039.jpg"
+  },
+  {
+   "seq": 25,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/041.jpg"
+  },
+  {
+   "seq": 26,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/043.jpg"
+  },
+  {
+   "seq": 27,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/045.jpg"
+  },
+  {
+   "seq": 28,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/047.jpg"
+  },
+  {
+   "seq": 29,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/049.jpg"
+  },
+  {
+   "seq": 30,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/051.jpg"
+  },
+  {
+   "seq": 31,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/053.jpg"
+  },
+  {
+   "seq": 32,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/055.jpg"
+  },
+  {
+   "seq": 33,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/057.jpg"
+  },
+  {
+   "seq": 34,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/059.jpg"
+  },
+  {
+   "seq": 35,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/061.jpg"
+  },
+  {
+   "seq": 36,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471169/063.jpg"
+  },
+  {
+   "seq": 37,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4]] · [[Neural Lace and Deep Learning]] · [[The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…]] · [[GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-8acbacf53af9",
+     "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+    },
+    {
+     "id": "vrma-6ed70db4e3a7",
+     "title": "Neural Lace and Deep Learning"
+    },
+    {
+     "id": "vrma-c6635d693766",
+     "title": "The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…"
+    },
+    {
+     "id": "vrma-17c4067a648e",
+     "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+    }
+   ]
+  }
+ ]
+}

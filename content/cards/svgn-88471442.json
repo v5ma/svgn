@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471442",
+ "title": "VR AR Judder is Visible Latency",
+ "dek": "When your graphics jiggle, or strobe, blur or judder, in your VR /AR headset, that’s visible latency, and high persistence.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2016-04-09",
+ "articleHref": "/wiki/svgn/articles/2016-04-09-vr-ar-judder-is-visible-latency-vrma-2631aa393ebf",
+ "sourceUrl": "https://www.svgn.io/p/vr-ar-judder-is-visible-latency-2631aa393ebf",
+ "topTerms": [
+  "latency",
+  "virtual",
+  "reality",
+  "facebook",
+  "people",
+  "groups",
+  "judder",
+  "headsets"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-357d34f7b350",
+   "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+  },
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  },
+  {
+   "id": "vrma-1dc6a5851f41",
+   "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "VR AR Judder is Visible Latency",
+   "body": "When your graphics jiggle, or strobe, blur or judder, in your VR /AR headset, that’s visible latency, and high persistence.",
+   "image": "/wiki/svgn/articles/media/svgn-88471442/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "One of the limitations keeping companies from fixing this is the hz your screen runs at.",
+   "body": "One of the limitations keeping companies from fixing this is the hz your screen runs at.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "One of the modern innovations that led to comfortable Virtual Reality was created by",
+   "body": "One of the modern innovations that led to comfortable Virtual Reality was created by Valve and borrowed by the Oculus team before Facebook purchased them. Reference this article for that story:\n\nOculus are \"applying insights\" from Valve's new VR prototype to the Rift Valve aren't your average competitor. As the proliferation of early Steam Machines has shown, they're more concerned… www.pcgamesn.com\n\nThat is the realization that a technique called Low Persistence could be applied to hide the inadequate latency of current screen technology. Today even with 90hz headsets that you can see on the Oculus Rift and the HTC Vive consumer versions you can still see judder, you can see it when the 3D object you are looking at seems to vibrate a tiny amount, or when you move around in VR really fast and start to see the hint of motion blur, and start feel motion sickness, which is when your forehead starts to sweat, your body starts to heat up like you are sick, a headache might form, you might get nausea, the symptoms of motion sickness are many and varied and some people might not have any symptoms that they are able notice right away.",
+   "image": "/wiki/svgn/articles/media/svgn-88471442/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "To go really in depth on this topic read this:\n\nDown the VR rabbit hole: Fixing judder |",
+   "body": "To go really in depth on this topic read this:\n\nDown the VR rabbit hole: Fixing judder | Valve Over the years, I've had the good fortune to meet and work with a lot of remarkable people and do more than my share of… blogs.valvesoftware.com\n\nIn all the current generation VR and AR headsets the graphics jiggle just a tiny amount. That jiggle is visible latency, it is a major contributor to headaches, motion sickness, excessive sweating, and even nausea.\n\nAs a side note, the Playstation VR might have the least amount of judder in the current generation of VR headsets, that includes the Rift and the Vive. This is because it combines a 120 hz headset, with low latency technology, with low persistence screen drivers, but to be honest I am already looking forward to the next generation of VR headsets that have displays featuring 1,700 hz, with zero latency, where the objects appear extremely solid no matter how fast you move around in VR.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Read a story about why Playstation VR is Virtual Realities Trojan Horse.",
+   "body": "Read a story about why Playstation VR is Virtual Realities Trojan Horse.\n\nPlaystation VR Is Virtual Reality's Trojan Horse Nobody gives a shit about VR. Okay, some people are giving a shit. People in the VR industry care, and people covering… gizmodo.com\n\nSo I was really excited to learn about that there is a solution to all of that judder caused by the latency of current hz screens and its coming from Nvidia. It’s a display that runs at 1,700 hz, currently the lowest latency VR headset is the Playstation VR which runs at 120 hz (and 120 frames per second) and that has the least amount of visible jiggle on 3D objects (visible latency) so far but Nvidia is showing the world that we can do much better than this.",
+   "image": "/wiki/svgn/articles/media/svgn-88471442/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "This means that the next generation of VR and AR headsets will be much more comfortable",
+   "body": "This means that the next generation of VR and AR headsets will be much more comfortable to wear, people will like them more, and wear them longer.\n\nI was at GTC 2016 when the news broke and I was going to write an article about this but RoadtoVR beat me to it. It’s a really excellent article by Ben Lang so I hope you check it out.\n\nSee the original story at Road to VR\n\nNVIDIA Demonstrates Experimental \"Zero Latency\" Display Running at 1,700Hz At GTC 2016 this week, NVIDIA's Vice President of Graphics Research demonstrated a novel prototype display running at… www.roadtovr.com\n\nI am a researcher, business analyst, consultant, and I write about neuroscience, deep learning, virtual reality, and related technologies. My website is http://vrma.work",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Virtual Reality Matrix Alpha Virtual Reality, Augmented Reality, Deep Learning AI,",
+   "body": "Virtual Reality Matrix Alpha Virtual Reality, Augmented Reality, Deep Learning AI, Neuroscience, Nerve Gear. vrma.work\n\nI post a lot in these VR & AR groups:\n\nGear VR 10,086 Members https://www.facebook.com/groups/gearvr/\n\nOculus Rift 10,844 Members https://www.facebook.com/groups/oculuscreative/\n\nVirtual Reality 13,364 Members https://www.facebook.com/groups/virtualrealitys/\n\nThe Matrix 60,004 Members https://www.facebook.com/groups/The.Matrix.of.Knowledge/\n\nWomen in VR 1,615 Members https://www.facebook.com/groups/womeninvr/",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size.]] · [[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]] · [[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-357d34f7b350",
+     "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+    },
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    },
+    {
+     "id": "vrma-1dc6a5851f41",
+     "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    }
+   ]
+  }
+ ]
+}

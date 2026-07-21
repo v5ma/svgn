@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en" data-svgn-article-id="svgn-88471427">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Animoji = Avatar + Emoji. An Animoji is Volumetric Video + Neural Networks | SVGN.io</title>
+<meta name="description" content="Article written by Micah Blumberg for VRMA Virtual Reality Media Today at Apple’s Special Event Apple unveiled the integration of some of…">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Animoji = Avatar + Emoji. An Animoji is Volumetric Video + Neural Networks">
+<meta property="og:description" content="Article written by Micah Blumberg for VRMA Virtual Reality Media Today at Apple’s Special Event Apple unveiled the integration of some of…">
+<meta property="og:image" content="/wiki/svgn/articles/media/svgn-88471427/000.jpg">
+<link rel="canonical" href="https://svgn.io/wiki/svgn/articles/2017-09-13-animoji-avatar-emoji-an-animoji-is-volumetric-video-neural-networks-vrma-f3880a46c244.html">
+<link rel="icon" href="/wiki/svgn/assets/brand/svgn-symbol.svg" type="image/svg+xml">
+<style>
+  :root{--ink:#16181d;--muted:#5b6270;--line:#e6e2d8;--paper:#fcfbf8;--accent:#d74631;--brand:#0b0e16}
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;color:var(--ink);background:var(--paper);
+    font-family:"Iowan Old Style","Georgia",Cambria,"Times New Roman",serif;line-height:1.7;-webkit-font-smoothing:antialiased}
+  a{color:var(--accent)}
+  .topbar{position:sticky;top:0;z-index:5;background:rgba(252,251,248,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+  .topbar-inner{width:min(880px,calc(100% - 40px));margin:0 auto;min-height:60px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+  .brand{display:inline-flex;align-items:center;gap:10px;font-weight:800;text-decoration:none;color:var(--ink);
+    font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:15px}
+  .brand img{width:30px;height:30px;border-radius:7px}
+  .nav{display:flex;gap:8px;font-family:system-ui,sans-serif;font-size:14px}
+  .nav a{min-height:36px;display:inline-flex;align-items:center;padding:0 12px;border:1px solid var(--line);border-radius:8px;background:#fff;text-decoration:none;color:var(--ink)}
+  main{width:min(720px,calc(100% - 40px));margin:0 auto;padding:44px 0 96px}
+  .eyebrow{font-family:system-ui,sans-serif;text-transform:uppercase;letter-spacing:.08em;font-weight:800;font-size:.74rem;color:var(--accent)}
+  h1{font-size:clamp(2rem,5.4vw,3.1rem);line-height:1.08;letter-spacing:-.01em;margin:.35em 0 .2em;font-weight:800}
+  .dek{font-size:1.28rem;color:var(--muted);line-height:1.45;margin:.2em 0 1.1em;font-weight:500}
+  .byline{font-family:system-ui,sans-serif;font-size:.92rem;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;align-items:center;
+    padding-bottom:22px;border-bottom:1px solid var(--line);margin-bottom:6px}
+  .tag{border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:.78rem;background:#fff}
+  .cover{margin:26px 0 8px}
+  .cover img{width:100%;height:auto;border-radius:10px;border:1px solid var(--line);display:block}
+  .article-body{font-size:1.16rem}
+  .article-body p{margin:1.25em 0}
+  .article-body h2,.article-body h3{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.25;margin:1.8em 0 .5em;letter-spacing:-.01em}
+  .article-body h2{font-size:1.7rem} .article-body h3{font-size:1.34rem}
+  .article-body img{max-width:100%;height:auto;border-radius:10px;border:1px solid var(--line);margin:1.2em 0;display:block}
+  .article-body figure{margin:1.6em 0} .article-body figcaption{font-family:system-ui,sans-serif;font-size:.86rem;color:var(--muted);text-align:center;margin-top:.5em}
+  .article-body blockquote{margin:1.5em 0;padding:.4em 0 .4em 1.1em;border-left:3px solid var(--accent);color:var(--muted);font-style:italic}
+  .article-body a{text-decoration:underline;text-underline-offset:2px}
+  .article-body ul,.article-body ol{padding-left:1.4em} .article-body li{margin:.5em 0}
+  .article-body pre{overflow-x:auto;background:#f2efe7;padding:14px;border-radius:8px;font-size:.9rem}
+  .yt,.article-body .youtube-inner{position:relative;padding-top:56.25%;margin:1.6em 0;border-radius:10px;overflow:hidden;border:1px solid var(--line)}
+  .yt iframe,.article-body .youtube-inner iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+  .article-body .youtube-wrap{margin:1.6em 0}
+  .article-body .digest-post-embed{border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:1.6em 0;background:#fff;display:block;text-decoration:none;color:inherit}
+  .article-foot{margin-top:52px;padding-top:26px;border-top:1px solid var(--line);font-family:system-ui,sans-serif;font-size:.95rem;color:var(--muted)}
+  .article-foot .cta{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}
+  .article-foot .cta a{min-height:44px;display:inline-flex;align-items:center;padding:0 18px;border-radius:10px;text-decoration:none;font-weight:700}
+  .article-foot .cta .primary{background:var(--brand);color:#fff} .article-foot .cta .ghost{border:1px solid var(--line);background:#fff;color:var(--ink)}
+</style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="/"><img src="/wiki/svgn/assets/brand/svgn-symbol.svg" alt=""><span>SVGN.io</span></a>
+      <nav class="nav"><a href="/">Latest</a><a href="/wiki/svgn/svgn-io-news.html#backlog">Archive</a></nav>
+    </div>
+  </header>
+  <main>
+    <article>
+      <div class="eyebrow">SVGN.io &middot; 2017-09-13</div>
+      <h1>Animoji = Avatar + Emoji. An Animoji is Volumetric Video + Neural Networks</h1>
+      <p class="dek">Article written by Micah Blumberg for VRMA Virtual Reality Media Today at Apple’s Special Event Apple unveiled the integration of some of…</p>
+      <div class="byline"><span class="tag">xr</span><span class="tag">neuroscience</span><span class="tag">media</span><span class="tag">ai</span></div>
+      <figure class="cover"><img src="/wiki/svgn/articles/media/svgn-88471427/000.jpg" alt="Animoji = Avatar + Emoji. An Animoji is Volumetric Video + Neural Networks"></figure>
+      <div class="article-body">
+<p><em>Article written by Micah Blumberg for VRMA Virtual Reality Media</em><br>Today at Apple’s Special Event Apple unveiled the integration of some of the coolest new AR VR Volumetric and Artificial Intelligence technologies built in the next generation iPhone, to boot it comes with TRUE depth sensors. It is an incredibly exciting next step into our collective Augmented Reality and Virtual Reality future! Way to go Apple! You hit it out of the park by integrating all this amazing new technology into your latest products! Besides the new phone they also made many childhood dreams come true by integrating a cell phone into a watch meant for the masses.</p><div class="captioned-image-container"><figure><a class="image-link image2" target="_blank" href="/wiki/svgn/articles/media/svgn-88471427/000.jpg"><div class="image2-inset"><picture><img src="/wiki/svgn/articles/media/svgn-88471427/001.jpg" class="sizing-normal" alt="" sizes="100vw" fetchpriority="high"></picture><div></div></div></a><figcaption class="image-caption">Dick Tracy’s watch phone has arrived to the masses: thanks to Apple’s new&nbsp;iWatch.</figcaption></figure></div><p>A tiny bit of the future that was in a sense our prophecy delivered in comic books and in science fiction books, when we were growing up, when our parents were growing up, that has finally arrived. Apple revealed to the new Apple Watch to the world today. I think Apple Watch points to a future in which people have two gadgets, there watch, and their AR glasses. Why would you need a handheld phone when the world is effectively your screen?</p><div class="captioned-image-container"><figure><a class="image-link image2" target="_blank" href="/wiki/svgn/articles/media/svgn-88471427/002.jpg"><div class="image2-inset"><picture><img src="/wiki/svgn/articles/media/svgn-88471427/003.jpg" class="sizing-normal" alt="" sizes="100vw"></picture><div></div></div></a></figure></div><p>Today we also learned that Ethan Hunt faces a Mission Impossible with Apple’s new Face ID that combines volumetric video with neural networks for security. Spy agencies everywhere are going to have to rethink their disguises now that Geometric Artificial Intelligence applied to Point Cloud Video can spot those disguises. How do we hack Apple Face ID? Can you make a 3D model of your face that can fool your phone? Sorry Tom Cruise (my favorite version of Ethan Hunt)</p><div class="captioned-image-container"><figure><a class="image-link image2" target="_blank" href="/wiki/svgn/articles/media/svgn-88471427/004.jpg"><div class="image2-inset"><picture><img src="/wiki/svgn/articles/media/svgn-88471427/005.jpg" class="sizing-normal" alt="" sizes="100vw"></picture><div></div></div></a></figure></div><div class="captioned-image-container"><figure><a class="image-link image2" target="_blank" href="/wiki/svgn/articles/media/svgn-88471427/006.jpg"><div class="image2-inset"><picture><img src="/wiki/svgn/articles/media/svgn-88471427/007.jpg" class="sizing-normal" alt="" sizes="100vw"></picture><div></div></div></a><figcaption class="image-caption">What are you going to do now Ethan&nbsp;Hunt?</figcaption></figure></div><p>iPhone X has a true depth sensor, it records volumetric video of your face, creates a pointcloud, applies geometric neural networking science to ID you, and it can map your face to tiny avatars called animojis.</p><div class="captioned-image-container"><figure><a class="image-link image2" target="_blank" href="/wiki/svgn/articles/media/svgn-88471427/008.jpg"><div class="image2-inset"><picture><img src="/wiki/svgn/articles/media/svgn-88471427/009.jpg" class="sizing-normal" alt="" sizes="100vw"></picture><div></div></div></a></figure></div><div class="captioned-image-container"><figure><a class="image-link image2" target="_blank" href="/wiki/svgn/articles/media/svgn-88471427/010.jpg"><div class="image2-inset"><picture><img src="/wiki/svgn/articles/media/svgn-88471427/011.jpg" class="sizing-normal" alt="" sizes="100vw" loading="lazy"></picture><div></div></div></a></figure></div><p>Apple Animoji is an Avatar plus an Emoji. It combines true depth sensors, volumetric video, point clouds turned into a 3D mesh, to map your real smile into the Animojis smile.</p><div class="captioned-image-container"><figure><a class="image-link image2" target="_blank" href="/wiki/svgn/articles/media/svgn-88471427/012.jpg"><div class="image2-inset"><picture><img src="/wiki/svgn/articles/media/svgn-88471427/013.jpg" class="sizing-normal" alt="" sizes="100vw" loading="lazy"></picture><div></div></div></a></figure></div><p>Apple has new specialized hardware built for a set of machine learning algorithms. They call it the A11 Bionic neural engine. It uses this hardware to drive neural networks that can recognize objects and faces, this is great for numerous AR Augmented Reality and VR Virtual Reality applications that are overlaid on top of the real world.</p><div class="captioned-image-container"><figure><a class="image-link image2" target="_blank" href="/wiki/svgn/articles/media/svgn-88471427/014.jpg"><div class="image2-inset"><picture><img src="/wiki/svgn/articles/media/svgn-88471427/015.jpg" class="sizing-normal" alt="" sizes="100vw" loading="lazy"></picture><div></div></div></a><figcaption class="image-caption">Apple has specialized hardware, an AI Bionic Neural Engine, to recognize faces and objects, this is great for AR and VR applications!</figcaption></figure></div><p>Apple’s new phone, the iPhone X, has a true depth sensor and hardware designed to run neural network math faster so it can recognize faces, this provides vastly improved device security, animated avatars that recognize your face expressions, and it does this by combining the hottest new technology including volumetric video, to make point clouds, and then 3D meshes, with geometric neural networking software, and all of this is great for AR and VR because that means better object recognition, and it means Animoji’s which is a new concept that combines the concept of an Avatar in VR with an Emoji and face tracking.</p>
+      </div>
+      <footer class="article-foot">
+        <div>Silicon Valley Global News &mdash; independent reporting on AI, XR, brain-computer interfaces, and the science of mind.</div>
+        <div class="cta">
+          <a class="primary" href="/#subscribe">Subscribe free</a>
+          <a class="ghost" href="/">More from SVGN.io</a>
+          <a class="ghost" href="https://www.svgn.io/p/animoji-avatar-emoji-an-animoji-is-volumetric-video-neural-networks-f3880a46c244" rel="noopener">View original on Substack</a>
+        </div>
+      </footer>
+    </article>
+  </main>
+</body>
+</html>

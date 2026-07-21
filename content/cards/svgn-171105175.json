@@ -1,0 +1,427 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-171105175",
+ "title": "Beating Famine With Fast-Regenerating Foods",
+ "dek": "A practical, dignity-first guide for communities under blockade, siege, or disaster",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-08-16",
+ "articleHref": "/wiki/svgn/articles/2025-08-16-beating-famine-with-fast-regenerating-foods-svgn-171105175",
+ "sourceUrl": "https://www.svgn.io/p/beating-famine-with-fast-regenerating",
+ "topTerms": [
+  "water",
+  "food",
+  "mushrooms",
+  "sodis",
+  "insects",
+  "cook",
+  "spirulina",
+  "algae"
+ ],
+ "relatedDecks": [],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Beating Famine With Fast-Regenerating Foods",
+   "body": "A practical, dignity-first guide for communities under blockade, siege, or disaster",
+   "image": "/wiki/svgn/articles/media/svgn-171105175/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Why I wrote this: No one should starve when low-input foods can be grown quickly with",
+   "body": "Why I wrote this: No one should starve when low-input foods can be grown quickly with sunlight, scraps, and simple tools. This guide collects proven methods you can start today—at household, neighborhood, or municipal scale—so people can eat now while bigger aid systems catch up.\n\nWhen supply lines fail, pivot to fast, low-input foods : algae, mushrooms, insects, and microbes. These grow in days using sun, scraps, and simple tools. Pair them with safe water (SODIS/chlorination) and fuel-efficient cooking (rocket/solar). Start at household scale in 72 hours; expand to neighborhood hubs in 1–2 weeks; stand up municipal modules (yeast, spirulina) in 1–3 months via NGOs/utilities. Safety and dignity first : cook everything; avoid wild mushrooms; don’t rear insects for human food on fecal waste; offer culturally acceptable options. This guide is CC BY 4.0 —adapt with local notes and share. It does not replace the obligation to ensure humanitarian access; it helps families eat until access is restored.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "These are proposed options, not mandates.",
+   "body": "These are proposed options, not mandates. Three fast food pathways—greens & fungi, algae, and (where acceptable) insects—so families can choose what fits their culture.\n\nSoundbite: Grow in days, not seasons. Cooked, safe, familiar recipes. Dignity first.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "The core idea (in one page)",
+   "body": "When normal food chains collapse, pivot to fast-regenerating, low-input biomass :\n\nAlgae (spirulina, chlorella) : doubles biomass roughly every day in sunlit brine; can be grown in shallow trays or buckets and strained through cloth. FAO has long treated spirulina as viable for small-scale nutrition programs. FAOHome Open Knowledge FAO+1\n\nSpirulina safety\n\n“Use Arthrospira/‘spirulina’ only in alkaline brine (pH ~9–11); never harvest unknown pond algae. High alkalinity reduces contaminants; WHO warns about toxic microcystins in other cyanobacteria.”\n\nChlorella caution\n\n“Chlorella is not recommended for DIY without sterile lab support. It requires stricter culture control than spirulina; keep it ‘advanced/with lab backing’ or omit for safety.”",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Fungi (edible mushrooms, mycoprotein) : oyster mushrooms thrive on pasteurized",
+   "body": "Fungi (edible mushrooms, mycoprotein) : oyster mushrooms thrive on pasteurized straw/cardboard; pasteurization can be done with hot water or hydrated-lime “cold” soaks (low-tech). edepot.wur.nl Land to Hand\n\nHydrated lime for mushrooms\n\n“Use agricultural calcium hydroxide (hydrated lime, no additives) . Do not substitute quicklime (CaO) or cement lime. Only hydrated lime is safe for pasteurizing substrates.”\n\nInsects (mealworms, black soldier fly larvae) : convert scraps to high-quality protein; widely documented small-scale rearing methods exist. FAOHome assets-global.echo community.org echocommunity.org\n\nDO NOT HARVEST FROM SPRAYED SWARMS. “Only collect locusts and grasshoppers from unsprayed areas. Pesticide residue in sprayed swarms is unsafe.”",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Children & pregnancy guardrail\n\n“Insects are high in purines and chitin—start with very",
+   "body": "Children & pregnancy guardrail\n\n“Insects are high in purines and chitin—start with very small amounts and watch for allergies. For children and pregnant women, use mushrooms and leafy greens first whenever possible.”\n\nMicrobes (single-cell protein, yeast) : community/industrial option; yeasts and bacteria can turn sugars, ethanol, H₂ or CH₄ into dense protein. This is the same family of tech space agencies and companies explore for closed-loop food.\n\nSODIS quick rules\n\n“PET bottles only • water depth ≤10 cm • turbidity ≤~30 NTU (settle/filter first) • ≥6 h full sun or 2 cloudy days • drink from same bottle or a cleaned vessel.” sodis.ch\n\nYeast/SCP: Emphasis “cook to inactivate” and position SCP tanks as NGO/utility-only (pressurized gases = explosion risk).",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Municipal SCP risk\n\n“Municipal-scale Single-Cell Protein systems are not DIY .",
+   "body": "Municipal SCP risk\n\n“Municipal-scale Single-Cell Protein systems are not DIY . Gas detection and trained operators are required; explosion risk is real if mishandled.”\n\nPMC NASA melissafoundation.org\n\nWhy this beats desperation: These systems scale fast, use little land or fresh water, and can run on waste streams and sunlight. They’re already used in development, emergency, and even space-life-support research. FAOHome melissafoundation.org",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Safety first (read before you start)",
+   "body": "Water: Pasteurize or disinfect all water used in growing, rinsing, and cooking. The SODIS method (sun + clear PET bottles) is a proven, zero-consumable option: ≥6 hours full sun or 2 consecutive cloudy days. sodis.ch ccprojects.gsd.spc.int\n\nAllergies: Insects, fungi, and algae can trigger allergies. Start with small servings; keep separate prep tools if possible.\n\nChildren & pregnancy: Prioritize calories + micronutrients . If available, use WHO-endorsed multiple micronutrient powders (MNPs) for kids 6–23 months (and 2–12 years, per guideline). World Health Organization+1\n\nLocal laws & faith practices: Check what’s permitted or culturally acceptable; offer choices.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "72-hour starter plan (household or shelter)",
+   "body": "Goal: Safe water, reliable heat, quick calories + protein.\n\nWater you can trust\n\nSODIS : Fill clear PET bottles, place on a reflective roof/sheet for ≥6 hours full sun (2 days if very cloudy). Drink from the same bottle or a cleaned vessel. sodis.ch ccprojects.gsd.spc.int\n\nSODIS quick rules\n\n“PET bottles only • water depth ≤10 cm • turbidity ≤~30 NTU (settle/filter first) • ≥6 h full sun or 2 cloudy days • drink from same bottle or a cleaned vessel.” sodis.ch\n\nFuel-efficient cooking\n\nBuild a TLUD/rocket-style stove from cans/bricks to boil water and cook with twigs; plans show stable 200–300 °C oven temps when paired with a simple metal box or “low-mass” oven. bioenergylists.org stoves.bioenergylists.org",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "On sunny days, add a panel/pizza-box solar cooker to save fuel; it can also pasteurize",
+   "body": "On sunny days, add a panel/pizza-box solar cooker to save fuel; it can also pasteurize water. solarcookers.org nmsolar.org\n\nImmediate protein & calories\n\nToast flour + oil + legumes for quick calories while grow systems spin up.\n\nIf you already have dry yeast: cook yeast paste (never raw) to add savory protein to porridge or soups (yeast is SCP). PMC",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "7–14 day plan (neighborhood scale): the Big Four",
+   "body": "",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "A) Algae: bucket or tray spirulina",
+   "body": "What you need: shallow container, sun, salty/alkaline water, paddle/stick, cloth filter. How: Fill with brackish water; add simple nutrients; stir daily; harvest green mats through cloth; rinse well ; cook (soups, flatbreads). FAO manuals cover cultivation basics for smallholders. FAOHome Open Knowledge FAO Safety: Keep animals/insects out; discard foul smells; always cook harvested paste. Why spirulina? Extremely fast growth, tolerates high pH/salinity (fewer contaminants), high protein and micronutrients. Open Knowledge FAO\n\nUse only lab/start-culture Arthrospira (a.k.a. Limnospira) in high-pH brine (≈ pH 9–11) ; do not skim unknown pond algae.",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "B) Fungi: oyster mushrooms on pasteurized straw/cardboard",
+   "body": "What you need: clean buckets/bags, chopped straw/cardboard, pasteurization (hot water at ~77–80 °C for ~1–2 h or hydrated-lime cold soak), spawn. How: Pasteurize substrate → drain → mix in spawn → bag/bucket with holes → keep humid and shaded → harvest in ~2–4 weeks. Hydrated-lime cold pasteurization is a low-tech option validated in cultivation guides and studies. edepot.wur.nl Land to Hand Tip: If commercial spawn is unavailable, partner with a local lab/NGO or a community member who can keep a small sterile corner (pressure cooker helps).\n\nNutrition realism: Note that mushrooms/algae/insects are protein- and micronutrient-dense but not calorie-dense; pair with oil, grains, legumes.\n\nMushroom Quick Rules",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "“Mushrooms can provide protein and B-vitamins if cultivated carefully.”\n\nUse known",
+   "body": "“Mushrooms can provide protein and B-vitamins if cultivated carefully.”\n\nUse known starter spawn (oyster, button, shiitake).\n\nDo not forage wild mushrooms unless expertly trained.\n\nPasteurize substrate with boiled water or hydrated lime (Ca(OH)₂ only).\n\nKeep containers shaded, ventilated, and clean .\n\nHarvest young fruiting bodies ; cook before eating.\n\nDiscard any crop with mold, foul odor, or discoloration .",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "C) Insects: black soldier fly larvae (BSFL) or mealworms",
+   "body": "Why BSFL? They eat almost any organic waste , grow fast, and are easy to separate. Render safe by boiling/roasting before eating or feeding. Practical manuals exist for small farms and households. assets-global.echocommunity.org echocommunity.org Food safety: Always cook larvae; for storage, dry them (there are simple drum/roasting methods). Eawag Mealworms: Eat clean dry feeds (bran/flour + veg), need bins and airflow; slower but familiar as food in many regions. Cultural note: If insects are not acceptable, skip to algae/fungi.\n\nBSF feed hygiene\n\n“Feed Black Soldier Fly larvae only clean plant scraps. They can accumulate heavy metals from dirty feed. If uncertain, use BSF as animal feed only and always cook before use.”",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "Insect Quick Rules",
+   "body": "“Insects are dense in protein, but must be harvested and prepared safely.”\n\nCollect only from clean, unsprayed areas.\n\nDO NOT HARVEST FROM SPRAYED SWARMS.\n\nPrefer grasshoppers, locusts, crickets, mealworms .\n\nCook or roast thoroughly before eating.\n\nIntroduce slowly; watch for allergic reactions .\n\nFor children and pregnant women: use greens and mushrooms first .",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "D) Microbes: single-cell protein (community/municipal)",
+   "body": "Household: Yeast grown on sugars/starches (e.g., from broken grain) → cook to inactivate. Municipal: Hydrogen- or methane-oxidizing bacteria can turn H₂/CH₄ + CO₂ + minerals into edible protein; this is being industrialized (e.g., Solar Foods “Solein”) and explored by NASA/ESA for closed-loop life support. Not a DIY project, but NGOs and utilities can retrofit tanks quickly. The Guardian Solar Foods NASA melissafoundation.org",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "Menus & mixing (so people actually want to eat this)",
+   "body": "Green flatbread: wheat/maize flour + small spirulina paste + salt + oil.\n\nMushroom-onion stew: oyster mushrooms + onions + lentils + spices.\n\nCrisped larvae “nuts”: boiled BSFL → pan-roast till crunchy → season.\n\nYeast gravy: cooked yeast paste + stock cubes/spices → pour over rice or bread.\n\nMicronutrient add-ins: If available, use MNPs for kids per WHO guidance. World Health Organization\n\nRule of thumb: Pair protein-dense (algae/insects/yeast/mushrooms) with calorie-dense (grains/oil) and some vitamin/mineral sources (leafy greens or MNPs).",
+   "image": ""
+  },
+  {
+   "seq": 19,
+   "headline": "Build once, feed many: micro-infrastructure",
+   "body": "Water: SODIS benches on roofs; add simple chlorination or ceramic filters where possible. World Health Organization\n\nClear PET only, water depth ≤10 cm, turbidity ≤~30 NTU (pre-settle/filter if cloudy), ≥6 hours full sun or 2 consecutive cloudy days. This prevents “green/opaque bottle” errors.\n\nHeat: A few TLUD/rocket stoves + one low-mass oven can serve a block. bioenergylists.org stoves.bioenergylists.org\n\nGrow hubs:\n\nAlgae trays along sunny walls/rooftops.\n\nMushroom room (dark, humid corner).\n\nInsect shed (sealed, ventilated).\n\nRoles: one team for water, one for fuel/cooking, one for cultivation, one for childcare and distribution.",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "Localization notes (fill in for your area)",
+   "body": "What’s abundant here? (brackish water? straw/cardboard? wheat bran? food scraps?)\n\nWhat’s acceptable to eat? (list 2–3 options that work locally)\n\nWhere to set up? (safe rooftops? courtyards? empty classrooms?)\n\nWho decides distribution? (elders, women’s committees, clinic staff)\n\nHealth partners: name clinics/NGOs to advise on allergies, MNPs, and child feeding.",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "For governments, utilities, and NGOs (48–90 day pivot)",
+   "body": "Emergency algae farms: shallow-pond or liner-tray spirulina modules near wastewater/brine sources; secure food-grade nutrients; contract for daily pasteurization and packaging. FAOHome\n\nContainerized mushroom units: palletized hot-water or lime-pasteurization + spawn supply; target oyster mushrooms (shortest cycle). Land to Hand\n\nBioreactors for SCP: partner with local industry/universities to stand up yeast (on molasses/ethanol) or H₂/CH₄-based systems for protein flour; this is a known pathway with current research and pilots. Analytical Science Journals ScienceDirect\n\nCookstove scale-up: bulk-build TLUD/rocket stoves and distribute pot-sized solar panel cookers to save fuel and reduce smoke. Clean Cooking Alliance solarcookers.org",
+   "image": ""
+  },
+  {
+   "seq": 22,
+   "headline": "FAQs (what people usually ask)",
+   "body": "Is this safe? Yes— if you keep clean water, cook everything thoroughly, and start small to watch for allergies. Use WHO-endorsed micronutrient powders for children when available. World Health Organization\n\nWon’t people reject these foods? Give choices (algae vs mushrooms vs insects), cook them into familiar dishes, and let mothers/cooks lead.\n\nWhat if there’s no fuel? Use solar cookers on sunny days and TLUD/rocket stoves for evenings/bad weather; both are documented, low-cost builds. solarcookers.org bioenergylists.org\n\nIsn’t this “experimental”? No—FAO has extensive guidance on edible insects and spirulina ; mushroom cultivation on straw is widespread; SCP is an active area for space life-support and industry. FAO Home+1 NASA",
+   "image": ""
+  },
+  {
+   "seq": 23,
+   "headline": "Closing: Dignity, not desperation",
+   "body": "This guide exists for one reason: so families can eat tonight and tomorrow , using what’s at hand. If you translate or adapt it, please add your local wisdom—what works, what doesn’t, and where people can get help. That is how we outpace famine.",
+   "image": ""
+  },
+  {
+   "seq": 24,
+   "headline": "Acknowledgments & Further Reading (starter pack)",
+   "body": "Spirulina (small-scale cultivation): FAO reviews and practical manuals. FAOHome Open Knowledge FAO\n\nEdible insects (including small-scale rearing): FAO report + field manuals; BSF rearing/drying guides. FAOHome echocommunity.org Eawag\n\nUse clean plant scraps only ; larvae can bioaccumulate heavy metals —never feed them waste with batteries, dyes, or industrial dust; when in doubt, use BSF for animal feed and always cook .\n\nOyster mushrooms (low-tech pasteurization): studies and guides on hot-water or hydrated-lime methods. edepot.wur.nl Land to Hand\n\nSingle-cell protein (yeast/H₂-bacteria) & space life-support: NASA BioNutrients; ESA MELiSSA; industry pilots (Solein). NASA melissafoundation.org The Guardian",
+   "image": ""
+  },
+  {
+   "seq": 25,
+   "headline": "Water safety: SODIS manuals; WHO emergency water treatment notes.",
+   "body": "Water safety: SODIS manuals; WHO emergency water treatment notes. sodis.ch World Health Organization\n\nClean cooking: TLUD/rocket stove plans and cookstove design handbook. bioenergylists.org Clean Cooking Alliance\n\nAppendix A — Sudan (esp. Darfur)\n\nSnapshot: Conflict and blocked access have driven parts of Darfur (e.g., Zamzam/El Fasher) into confirmed Famine (IPC 5); attacks and looting have further disrupted nutrition services. World Food Programme+1 Al Jazeera\n\nConstraints & openings: Extremely high insecurity and market collapse; scorching sun (good for SODIS water disinfection), scarcity of fuel and clean water, brackish/saline water common in some areas.\n\n72-hour actions (household/community):\n\nWater: If boiling fuel is scarce, use SODIS (clear PET bottles in full sun ≥6 hrs; 2 days if very cloudy). Chlorinate where possible aiming for ~0.5 mg/L free residual after 30 min; maintain 0.2–0.5 mg/L at point of use. sodis.ch PMC Iris",
+   "image": ""
+  },
+  {
+   "seq": 26,
+   "headline": "Fuel: Build simple rocket/TLUD stoves to cut wood use and smoke.",
+   "body": "Fuel: Build simple rocket/TLUD stoves to cut wood use and smoke. stoves.bioenergylists.org Aprovecho\n\nFood pivot:\n\nAlgae (spirulina): Small open tanks work with high sun and saline/brackish water; use as supplement (few spoonfuls/day). FAOHome\n\nOyster mushrooms: Use pasteurized dry grasses/sorghum straw/cardboard; use known spawn only . projects.sare.org\n\nInsects (BSF larvae/crickets): Convert clean plant scraps; cook thoroughly; do not rear on fecal waste for human food. FAOHome\n\n7–14 day scale-up:\n\nNeighborhood BSF bins (covered, vermin-proof) for protein; community mushroom room using lime/hot-water pasteurization depending on fuel. office2.jmbfs.org\n\nPartner with bakeries for yeast byproducts as a protein-rich ingredient (cook/bake before eating).",
+   "image": ""
+  },
+  {
+   "seq": 27,
+   "headline": "Safety & culture: Avoid wild foraged mushrooms; consult local religious leaders re:",
+   "body": "Safety & culture: Avoid wild foraged mushrooms; consult local religious leaders re: insect consumption practices.\n\nCoordination hooks: WFP/FAO “Hunger Hotspots” contacts via local clusters; Nutrition/WASH clusters in North Darfur. World Food Programme\n\nSnapshot: Highest-concern hotspot; ~57% of people projected IPC 3+ in the April–July 2025 lean season, with pockets at IPC 5 risk. ipcinfo.org World Food Programme\n\nConstraints & openings: Flooding & water everywhere but contamination high; biomass abundant; heat and mosquitoes intense.\n\n72-hour actions:\n\nWater: Prefer chlorination (target 0.2–0.5 mg/L FRC at consumption); SODIS works on clear days. Oxfam WASH sodis.ch\n\nFood pivot:\n\nMushrooms: Excellent in humid zones; substrates from crop residues/banana leaves/cardboard. projects.sare.org",
+   "image": ""
+  },
+  {
+   "seq": 28,
+   "headline": "BSF larvae: Thrive in heat; set up above floodline; strict hygiene.",
+   "body": "BSF larvae: Thrive in heat; set up above floodline; strict hygiene. FAOHome\n\n7–14 day scale-up: Raised racks for drying substrates; communal rocket stoves for group cooking/sterilizing. stoves.bioenergylists.org\n\nSafety & culture: Snakebite/standing water risks during nocturnal collection; avoid insect substrates with meat/fecal waste for human food.\n\nCoordination hooks: FAO/WFP field teams; Nutrition Cluster and WASH partners (air-drop areas often gatekept by these actors). World Food Programme\n\nSnapshot: IPC update (Aug 2024–Feb 2025) found ~5.41 M people IPC 3+, including ~6,000 in IPC 5 (Catastrophe) among displaced populations; gang violence restricts movement and access. ipcinfo.org World Food Programme AP News",
+   "image": ""
+  },
+  {
+   "seq": 29,
+   "headline": "Constraints & openings: Dense urban areas; rooftops/courtyards available; sunlight",
+   "body": "Constraints & openings: Dense urban areas; rooftops/courtyards available; sunlight strong; erratic access to fuel and clean water.\n\n72-hour actions:\n\nWater: Household chlorination using fresh bleach (follow drop-per-gallon tables); SODIS on rooftops; safe storage. US EPA sodis.ch\n\nFood pivot (urban-friendly):\n\nAlgae: Rooftop tubs (wind-shielded) for small supplemental spirulina. FAOHome\n\nMushrooms: Use cardboard/coffee grounds/sugarcane bagasse with known spawn. projects.sare.org\n\nBSF larvae: Secure, lidded units to avoid attracting gangs/vermin; cook thoroughly. FAOHome\n\n7–14 day scale-up: Block-level micro-kitchens with rocket stoves; community water chlorination points. Aprovecho\n\nSafety & culture: Prioritize concealment/quiet operations; avoid movements across contested areas.",
+   "image": ""
+  },
+  {
+   "seq": 30,
+   "headline": "Coordination hooks: WFP/partners operating mobile distributions; tap into municipal",
+   "body": "Coordination hooks: WFP/partners operating mobile distributions; tap into municipal protection/health actors for safe site selection. World Food Program USA\n\nSnapshot: Highest-concern hotspot; conflict + prices driving acute food insecurity; ~2,600 people at risk of Catastrophe (CH/IPC 5) without timely aid during lean season. World Food Programme Reuters\n\nConstraints & openings: Sahelian aridity; fuelwood scarce; high sun exposure; security constraints outside towns.\n\n72-hour actions:\n\nWater: SODIS widely applicable; chlorinate when possible. sodis.ch Iris\n\nFood pivot:\n\nAlgae: Works with brackish/alkaline water and full sun (supplemental use). FAOHome\n\nMushrooms: Use millet/sorghum straw; hot-water or lime pasteurization depending on fuel availability; use certified spawn. projects.sare.org office2.jmbfs.org",
+   "image": ""
+  },
+  {
+   "seq": 31,
+   "headline": "Insects: BSF/crickets on plant scraps; ensure thorough cooking.",
+   "body": "Insects: BSF/crickets on plant scraps; ensure thorough cooking. FAOHome\n\n7–14 day scale-up: Shared rocket stoves; shaded drying racks; guarded communal grow sites near water points. stoves.bioenergylists.org\n\nSafety & culture: Travel risk high—site activities close to shelters; seek local guidance on acceptability of insects.\n\nSnapshot: Rapid deterioration in 2025; ~4.95 M in GoY areas IPC 3+ (May–Aug 2025), ≥1.5 M in IPC 4; pockets projected to reach IPC 5 (Catastrophe) by September 2025. ipcinfo.org+1 ReliefWeb\n\nConstraints & openings: Fuel scarcity, saline/brackish water common; coastal sun/high temps; access restrictions (esp. Houthi-held areas).\n\n72-hour actions:\n\nWater: Household chlorination and SODIS; cover storage. US EPA sodis.ch",
+   "image": ""
+  },
+  {
+   "seq": 32,
+   "headline": "Food pivot:\n\nAlgae: High-salinity tolerance is advantageous on coasts; keep as supplement.",
+   "body": "Food pivot:\n\nAlgae: High-salinity tolerance is advantageous on coasts; keep as supplement. FAOHome\n\nMushrooms: Paper/cardboard and crop residues as substrate; prioritize fuel-light pasteurization methods. projects.sare.org\n\nInsects: Possible in warmer interiors; keep rearing clean and enclosed; cook thoroughly. FAOHome\n\n7–14 day scale-up: Neighborhood BSF units; small mushroom rooms; coordinate with any remaining bakery mills for yeast by-products.\n\nSafety & culture: Respect local dietary norms; avoid foraging unknown fungi; defer microbial-tank concepts to industrial/NGO partners (not home-safe).\n\nForaging Quick Rules\n\n“Edible wild plants are life-saving, but only if gathered with care.”\n\nAlways wash in boiled or treated water.",
+   "image": ""
+  },
+  {
+   "seq": 33,
+   "headline": "When in doubt, cook before eating .",
+   "body": "When in doubt, cook before eating .\n\nAvoid plants near roadsides, dumps, or sprayed fields (possible heavy metals or pesticides).\n\nLearn local names from elders to avoid confusion.\n\nTest small amounts first; watch for allergic reactions .\n\nPrioritize familiar foods (khubeeza, molokhia, purslane, za‘atar, mint).\n\nSnapshot: One of the world’s largest food crises; ~22.4 M IPC 3 and ~3.1 M IPC 4 (Jul–Dec 2024), with conflict spikes since. ipcinfo.org Reuters\n\nConstraints & openings: Humid tropics; biomass plentiful; cloud cover can limit SODIS reliability at times.\n\n72-hour actions:\n\nWater: Favor chlorination/boiling when cloudy; SODIS on clear days. Iris sodis.ch\n\nFood pivot:\n\nMushrooms: Strong fit—use banana leaves, sawdust, cassava stems (avoid bitter cassava peels); known spawn only. projects.sare.org",
+   "image": ""
+  },
+  {
+   "seq": 34,
+   "headline": "BSF larvae: Abundant organic scraps—excellent yields; cook thoroughly.",
+   "body": "BSF larvae: Abundant organic scraps—excellent yields; cook thoroughly. FAOHome\n\n7–14 day scale-up: Community mushroom centers; school-kitchen rocket stoves. Aprovecho\n\nSafety & culture: High risk from misidentified wild mushrooms; keep production controlled and labeled.\n\nSnapshot: Post-drought recovery remains fragile; projections up to 4.4 M IPC 3+ in late 2024/into 2025; ~1.6–1.7 M children expected to face acute malnutrition through 2025. ipcinfo.org fsnau.org\n\nConstraints & openings: Arid/coastal zones; saline water common; fuelwood scarcity; displacement.\n\n72-hour actions:\n\nWater: Chlorinate (0.2–0.5 mg/L FRC) and/or SODIS; protect storage from re-contamination. Oxfam WASH sodis.ch\n\nFood pivot:\n\nAlgae: Sun + brackish suitability makes spirulina a viable supplement . FAOHome",
+   "image": ""
+  },
+  {
+   "seq": 35,
+   "headline": "Mushrooms: Where humidity allows; use cereal straw/cardboard with low-tech pasteurization.",
+   "body": "Mushrooms: Where humidity allows; use cereal straw/cardboard with low-tech pasteurization. projects.sare.org\n\nInsects: BSF for quick protein; site units away from living spaces; cook well. FAOHome\n\n7–14 day scale-up: Communal stoves and drying racks; partner with existing relief kitchens to integrate mushroom/BSF sides.\n\nSafety & culture: Observe local norms; avoid foraging fungi in IDP settings.\n\nInsect Quick Rules\n\n“Insects are dense in protein, but must be harvested and prepared safely.”\n\nCollect only from clean, unsprayed areas.\n\nDO NOT HARVEST FROM SPRAYED SWARMS.\n\nPrefer grasshoppers, locusts, crickets, mealworms .\n\nCook or roast thoroughly before eating.\n\nIntroduce slowly; watch for allergic reactions .\n\nFor children and pregnant women: use greens and mushrooms first .",
+   "image": ""
+  },
+  {
+   "seq": 36,
+   "headline": "Snapshot: Chronic crisis with surges during lean season; ~13 M projected in crisis-level",
+   "body": "Snapshot: Chronic crisis with surges during lean season; ~13 M projected in crisis-level hunger across the five countries, amid conflict and funding shortfalls. World Food Program USA World Food Programme\n\nConstraints & openings: Aridity, high sun, fuel scarcity, access limits.\n\n72-hour actions: Prioritize SODIS and rocket/TLUD cookstoves; micro-supplement strategies (spirulina) and low-fuel mushroom cultivation with straw/cardboard and known spawn. sodis.ch stoves.bioenergylists.org FAOHome\n\n7–14 day scale-up: Village-level BSF rearing for school kitchens; guarded community grow points near water sources.\n\nSafety & culture: Security first; select low-visibility sites; check acceptability of insects with local leaders.",
+   "image": ""
+  },
+  {
+   "seq": 37,
+   "headline": "Afghanistan: Market shocks + harsh winters; focus on fuel-efficient stoves , chlorination",
+   "body": "Afghanistan: Market shocks + harsh winters; focus on fuel-efficient stoves , chlorination , and indoor mushroom grow-bags (heated spaces). Use community bakeries for yeast supplements. (Use GRFC 2025 for status overview.) World Food Programme\n\nEthiopia: Mixed contexts (drought/flood/conflict). Leverage mushrooms in highlands (cool rooms), BSF in warmer lowlands; chlorination where SODIS is unreliable. World Food Programme\n\nMadagascar (Kere in the Deep South): Recurrent climate-linked famine; hot/sunny—SODIS + spirulina supplementation + rocket stoves make sense; tightly control any mushroom production due to heat. Wikipedia+1\n\nBurundi/Chad: Chronic undernutrition; tailor as per Sahel notes (Chad) and humid-highland mushroom suitability (Burundi). World Food Programme",
+   "image": ""
+  },
+  {
+   "seq": 38,
+   "headline": "Notes you can paste once for all appendices",
+   "body": "On the “fast biomass” pivot:\n\nAlgae (spirulina): Works in sun-rich, even saline settings; use only as supplement. FAOHome\n\nFungi (oyster mushrooms): Grow on pasteurized straw/cardboard/clean ag waste; use known spawn ; avoid wild foraging. projects.sare.org\n\nInsects (BSF, crickets, mealworms): Convert clean plant scraps efficiently; keep rearing enclosed; cook thoroughly ; don’t rear for human food on fecal sludge. FAOHome\n\nMicrobial protein (H₂/methane-oxidizing bacteria): Industrial/NGO level only (e.g., Solar Foods, Calysta); not a home method, but relevant for contingency planning and large kitchens. PMC Solar Foods calysta.com\n\nWater safety quick rules:\n\nSODIS: full sun ≥6 hrs; 2 days if very cloudy; use clear PET; avoid visibly turbid/chemical water. sodis.ch",
+   "image": ""
+  },
+  {
+   "seq": 39,
+   "headline": "Chlorination: aim for 0.2–0.5 mg/L free residual chlorine at consumption; use fresh,",
+   "body": "Chlorination: aim for 0.2–0.5 mg/L free residual chlorine at consumption; use fresh, unscented bleach; follow local guidance. Iris US EPA\n\nFuel: Simple rocket/TLUD stoves sharply reduce wood use and smoke; prioritize communal builds for clinics/soup kitchens/schools. stoves.bioenergylists.org\n\nTone & ethics (suggested preface to every appendix): “This section offers temporary , science-based ways communities can stretch calories and protect health until aid can reach them. Nothing here replaces the need for open access, protection, and funding. Please adapt with local leaders, cultural norms, and safety in mind.”\n\nGaza’s long-running blockade and recent conflict have created severe hunger. Civilians are even foraging wild greens for food – for example, Reuters reports Gazans picking “khubeeza,” a wild mallow (common Malva species) – for lack of anything else to eat reuters.com . In fact, historical accounts show Palestinians have used wild plants and insects to survive past famines en.wikipedia.org . Below we summarize the key edible species native to Gaza, and the high-yield foods (microalgae, mushrooms, insect larvae, etc.) that could be cultivated locally if starter cultures or seeds could be imported. We also review the legal constraints and practical ways to expand these food sources given current conditions.",
+   "image": ""
+  },
+  {
+   "seq": 40,
+   "headline": "Figure: A Gaza youth receives a meal of khubeeza (wild mallow) – a greens dish that",
+   "body": "Figure: A Gaza youth receives a meal of khubeeza (wild mallow) – a greens dish that starving families have resorted to reuters.com reuters.com .",
+   "image": ""
+  },
+  {
+   "seq": 41,
+   "headline": "Native Edible Insects",
+   "body": "Desert Locusts/Grasshoppers ( Schistocerca spp.) – These are common in Gaza’s environment and can provide a rapid protein boost. Insects like the desert locust are historically eaten in the Middle East en.wikipedia.org . Nutritionally, locusts are ~50% protein by dry weight thisismold.com , with essential amino acids and minerals. To harvest, villagers can shake grass or trees after rains or at dusk, use nets or jars with light, then kill the insects by boiling. Remove wings and digestive tract before cooking. (Caution: avoid insects from areas treated with pesticides.) Locusts can be roasted, fried or boiled – even ground into protein powder. They should be stored dry or processed quickly, as freshness is key.",
+   "image": ""
+  },
+  {
+   "seq": 42,
+   "headline": "Locusts: Add “avoid sprayed swarms”\n\nOther Insects – No other insect is widely eaten in",
+   "body": "Locusts: Add “avoid sprayed swarms”\n\nOther Insects – No other insect is widely eaten in Gaza. (By tradition, only a few kosher locust/grasshopper species are eaten in nearby cultures en.wikipedia.org .) If supplies of edible larvae were imported (see below), black soldier fly larvae could be farmed on kitchen scraps to feed animals (or after processing, humans). Likewise, introduced crickets or mealworms can be bred in bins using grain or waste as feed; these can supplement diets and require little space or water. (No native beetle or caterpillar is commonly eaten in Gaza.)",
+   "image": ""
+  },
+  {
+   "seq": 43,
+   "headline": "Native Edible Wild Plants and Weeds",
+   "body": "Local wild plants can yield vitamins and calories. Common safe species include:\n\nKhobeeza (Common Mallow, Malva sylvestris or M. nicaeensis ) : A mucilaginous herb that sprouts in fields and roadsides. Gazans boil chopped leaves with water, a dash of olive oil, garlic and onions en.wikipedia.org (the same way lentils or tomatoes might be cooked). Malva leaves are not bitter, and are rich in vitamin C and antioxidants. Eating khobeeza has become a survival strategy in Gaza reuters.com . (Leaves can be eaten cooked or even raw if young; older leaves work best in stews.)\n\n“If sprouting, heat or pan-wilt before serving; disinfect seed if possible.\n\nSprout safety\n\n“Sprouts should be lightly cooked (pan-wilt, boil, or steam). Raw sprouts carry E. coli and Salmonella risk.” U.S. Food and Drug Administration",
+   "image": ""
+  },
+  {
+   "seq": 44,
+   "headline": "Melukhiyah (Jew’s Mallow, Corchorus olitorius ) : Known locally as melukhīye , this",
+   "body": "Melukhiyah (Jew’s Mallow, Corchorus olitorius ) : Known locally as melukhīye , this fast-growing weed produces dark, slimy leaves. The leaves are chopped and cooked into soups or stews en.wikipedia.org , similar to okra in texture. Jew’s mallow is nutritious (rich in iron and vitamins) and grows readily in poor soils.\n\nWild Lettuce ( Lactuca serriola ) : Also called “khass berri,” it sprouts in late winter/early spring. Young lettuce leaves are mild and can be eaten raw in salads or cooked en.wikipedia.org . The plant reseeds easily.\n\nWild lettuce caveats: bitter latex; cook older leaves.\n\nGarden Purslane ( Portulaca oleracea ) : A common succulent weed with fleshy leaves. Purslane is eaten fresh as a salad green or lightly cooked en.wikipedia.org . It is very drought-tolerant, reproduces from stem cuttings, and is high in vitamins (A, C) and omega-3 fatty acids. Arabs often make a simple salad of chopped purslane, onion, tomato paste, lemon juice and olive oil en.wikipedia.org .",
+   "image": ""
+  },
+  {
+   "seq": 45,
+   "headline": "Za’atar (Wild Oregano, Origanum syriacum ) : A fragrant herb (known for the spice mix",
+   "body": "Za’atar (Wild Oregano, Origanum syriacum ) : A fragrant herb (known for the spice mix za’atar), found on rocky hillsides. Leaves and stems are dried, crushed, and used as a seasoning on bread or in hummus en.wikipedia.org . Foraging parties traditionally collected za’atar before it was outlawed. This herb provides micronutrients and flavor.\n\nHedge-Nettle ( Prasium majus ) : Grows in open rocky woodlands. Tender young leaves and stems are boiled or sautéed in stews or vegetable dishes. These vitamin-rich leaves (C, E, K) are gathered in summer en.wikipedia.org . (Older stems have a peppery taste.)\n\nWood Sorrel ( Oxalis pes-caprae ) : A sour, clover-like groundcover. Young stems and leaves have a lemony flavor and can be eaten raw en.wikipedia.org . Chew as a snack or add to salads sparingly (too much can upset stomach due to oxalic acid).",
+   "image": ""
+  },
+  {
+   "seq": 46,
+   "headline": "Oxalate caution: For wood sorrel/oxalis, say “use sparingly due to oxalates.”\n\nWild",
+   "body": "Oxalate caution: For wood sorrel/oxalis, say “use sparingly due to oxalates.”\n\nWild Radish ( Raphanus raphanistrum ) : A common mustard-family weed. Young seed pods (long green pods on the plant) are crunchy and eaten raw as “salad pods” en.wikipedia.org . The leaves (when young) are also edible if cooked.\n\nMint ( Mentha longifolia , wild mint) : Grows along wadis and fields. Both fresh and dried mint leaves are used to make tea or flavor foods en.wikipedia.org . This medicinal herb is easy to collect or propagate by runners.\n\nSea Fennel ( Crithmum maritimum ) : (Coastal cliffs) – not common in central Gaza but found on exposed shores. Its fleshy leaves are pickled or used raw, rich in vitamin C en.wikipedia.org .",
+   "image": ""
+  },
+  {
+   "seq": 47,
+   "headline": "Most of these plants can be found in neglected gardens, fields, and even cracks in roads",
+   "body": "Most of these plants can be found in neglected gardens, fields, and even cracks in roads after rain. To prepare them: wash thoroughly; then chop and either cook (boil/steam/sauté) or eat raw (especially tender leaves). Many (mallows, nettles, purslane) are best when young. Seeds or cuttings of these weeds could also be sown in plots or pots, as they grow quickly in poor soil. (Do not confuse these with toxic lookalikes – stick to well-known species above.)",
+   "image": ""
+  },
+  {
+   "seq": 48,
+   "headline": "Imported High-Yield Foods for Local Cultivation",
+   "body": "Several highly nutritious “survival foods” could be introduced if starter cultures or seeds can reach Gaza:\n\nSpirulina (Blue-Green Algae) : A microscopic algae (cyanobacteria) with ~60% protein, vitamins and minerals. Spirulina can be grown in shallow sunlit tanks with very salty water. A Gazan entrepreneur has already begun culturing spirulina, despite the siege english.palinfo.com . He imported live spirulina samples from abroad, adapted them to Gaza’s conditions, and reports that the algae are rich in nutrients english.palinfo.com . Once established, spirulina is harvested by filtering/drying and can be mixed into water, juice or food as a supplement english.palinfo.com . (All materials – test kits, nutrients, culture – are restricted by the blockade, but small starter kits could be prioritized by aid agencies.)",
+   "image": ""
+  },
+  {
+   "seq": 49,
+   "headline": "Algae growth rate\n\n“Spirulina biomass can double roughly daily in optimal light,",
+   "body": "Algae growth rate\n\n“Spirulina biomass can double roughly daily in optimal light, temperature, and nutrient conditions.” FAOHome\n\nOyster and Other Edible Mushrooms : Oyster mushrooms ( Pleurotus spp.) and button mushrooms ( Agaricus bisporus ) can be grown on agricultural waste (straw, sawdust, cardboard). Spawn (“mushroom seed”) could be shipped in kits. Mushrooms fruit quickly (often in 2–4 weeks) in humid shaded conditions. They are rich in protein, fiber and B vitamins. Home-growers would need a dark, moist corner (e.g. cellar, shaded shed) and basic materials (substrate, spawn). Even without formal sources, Gaza farmers could pasteurize straw in barrels and inoculate it if spawn arrives.\n\nBlack Soldier Fly (BSF) Larvae : BSF larvae are an extremely efficient protein source (42% protein) used globally as animal feed or even human food after processing. The eggs or larvae could be imported cheaply. Gazans could then set up simple compost bins or buckets: BSF will lay eggs on rotting waste, and the larvae will grow on kitchen scraps or manure. The resulting larvae can be harvested by drying or roasting – or fed to farm animals to boost local meat and egg production (OCHA notes livestock feed as a priority) ochaopt.org . The leftover frass (waste) is a quality fertilizer.",
+   "image": ""
+  },
+  {
+   "seq": 50,
+   "headline": "Edible Insect Eggs/Larvae : Starter cultures of crickets, mealworms, or other edible",
+   "body": "Edible Insect Eggs/Larvae : Starter cultures of crickets, mealworms, or other edible insects can be brought in. For example, mealworm (Tenebrio molitor) larvae grow on flour or bran and can be eaten whole (often fried). Cricket or grasshopper eggs shipped in material could yield breeding colonies. These insects require very little space and feed (bran, kitchen scraps) and a few weeks to mature into protein-rich food.\n\nMicrogreens and Sprouts : High-nutrient seedlings (sunflower shoots, pea shoots, radish sprouts, wheatgrass, etc.) can be grown indoors or on rooftops in trays with minimal soil or hydroponics. Seed packets (e.g. seeds of kale, cilantro, bok choy) could be imported by NGOs. Microgreens grow in days and provide concentrated vitamins.",
+   "image": ""
+  },
+  {
+   "seq": 51,
+   "headline": "Nutritious Plant Seeds : If allowed, seeds of fast-growing, high-protein plants",
+   "body": "Nutritious Plant Seeds : If allowed, seeds of fast-growing, high-protein plants (chickpeas, lentils, quinoa, amaranth, chia, moringa, etc.) could be sent via aid programs. Some seeds (wheat, barley) are indeed on permitted lists gazathedearweeplace.com . These could revive small plots or community gardens if irrigation is available. (OCHA has already distributed vegetable seed kits for home gardens ochaopt.org .)\n\nGaza wild greens & herbs (with Arabic/local names)\n\n“Many of these edible plants are already known and gathered in Gaza. Using local names improves recognition and cultural fit.”\n\nKhubeeza / Khubayza — خبّيزة ( Malva parviflora , common mallow)\n\nMolokhia — ملوخية ( Corchorus olitorius , jute mallow)",
+   "image": ""
+  },
+  {
+   "seq": 52,
+   "headline": "Baqla — بقلة ( Portulaca oleracea , purslane)\n\nZa‘atar — زعتر ( Origanum syriacum , wild",
+   "body": "Baqla — بقلة ( Portulaca oleracea , purslane)\n\nZa‘atar — زعتر ( Origanum syriacum , wild thyme/oregano)\n\nNa‘na‘ — نعناع ( Mentha sp. , mint)\n\nQasab — قصب ( Cyperus rotundus , nutgrass — tubers edible if boiled)\n\nHindibeh — هندباء ( Cichorium intybus , chicory)\n\nShomar — شُمر ( Foeniculum vulgare , wild fennel)\n\nQurs‘aan — قرصعان ( Scorzonera papposa , desert herb used in salads)\n\nAkkoub — عكّوب ( Gundelia tournefortii , wild thistle, seasonal)",
+   "image": ""
+  },
+  {
+   "seq": 53,
+   "headline": "Import/Export Legal Guidelines",
+   "body": "All inbound plant or insect materials must navigate Gaza’s blockade. Israel and Egypt currently control border crossings, inspecting all goods. Officially, only a narrow “humanitarian minimum” of goods is allowed theguardian.com . In practice, many everyday items (baby formula, clothes, toys) have been banned as “dual use” theguardian.com . For example, CNN and The Guardian report Israel routinely blocked innocuous items during inspections – even dates (because their seeds looked like suspicious objects) theguardian.com . Seeds in particular have been frequently denied on security pretexts.\n\nHowever, international agencies have managed to import agricultural goods under special permits. UN/OCHA and NGOs note that some seeds and farming inputs are being allowed , especially when shipped as part of aid projects ochaopt.org actioncontrelafaim.org . In early 2025, thousands of “vegetable seed kits” were delivered to Gaza by UN and NGOs to support home gardens ochaopt.org . Action Against Hunger also reports distributing seeds, tools and fertilizers to Gaza farmers despite the blockade actioncontrelafaim.org . Independent lists compiled from trader reports indicate items like greenhouse plastic, animal feed, veterinary supplies – and “various kinds of agricultural seeds” – are permitted if coordinated with authorities gazathedearweeplace.com .",
+   "image": ""
+  },
+  {
+   "seq": 54,
+   "headline": "Egypt’s Rafah crossing has been the main conduit for aid from the south.",
+   "body": "Egypt’s Rafah crossing has been the main conduit for aid from the south. Since October 2023, Egypt (often via the Egyptian Red Crescent) has brought in tens of thousands of tons of food and supplies – roughly 80% of Gaza’s international aid by mid-2025 english.ahram.org.eg . While Egypt’s internal regulations are opaque, the sheer volume suggests agricultural inputs could piggyback on humanitarian convoys. In summary: Seeds and biological starter cultures must be channeled through authorized aid operations. Donors can pressure for approval of key items (seed kits, bio-cultures, insect larvae) as vital humanitarian aid. Nonetheless, shipments may be delayed or seized; any plant/insect material is subject to inspection as a potential security risk.",
+   "image": ""
+  },
+  {
+   "seq": 55,
+   "headline": "Scaling and Cultivation Strategies",
+   "body": "To maximize these food sources under Gaza’s conditions, practical measures include:\n\nWidespread Foraging and Education : Teach people to recognize and harvest safe wild foods. Disseminate guides (in Arabic) on edible plants like those listed above. Community workshops (led by NGOs or local volunteers) can reduce fear of wild foods and prevent poisonous mistakes.\n\nHome and Community Gardens : Use every bit of arable ground – yards, rooftops, window boxes – for leafy vegetables and herbs. OCHA’s distribution of seed kits is aimed at exactly this: “home and community gardening” to improve diet diversity ochaopt.org . Even planting purslane, lettuce, malva and mint can add calories and micronutrients. Rainwater harvesting or greywater irrigation (dirty dishwater filtered) can supply these gardens, since fuel for pumps is scarce. Lightweight greenhouses or nylon tunnels (if allowed) would extend the season. Farmers should be trained to test and ameliorate soil (since conflict can contaminate land) actioncontrelafaim.org .",
+   "image": ""
+  },
+  {
+   "seq": 56,
+   "headline": "Mushroom Farms : Encourage small-scale mushroom growing in shaded indoor spaces.",
+   "body": "Mushroom Farms : Encourage small-scale mushroom growing in shaded indoor spaces. For example, use emptied chicken coops or basements: fill them with moist straw or paper inoculated with oyster spawn. A single straw bale or bucket can yield several kilograms of mushrooms in 2–3 weeks. Sharing spawn between households can multiply output.\n\nInsect Composting Units : Build simple bins or barrels for black soldier fly larvae. Kitchen scraps and garden waste go in one end; larvae harvest from the other. This converts garbage into animal feed. Similarly, set up plastic bins for cricket or mealworm colonies (kept in a dark corner of a house). These require minimal input and space. Families can raise their own “insect protein” with local ingenuity.",
+   "image": ""
+  },
+  {
+   "seq": 57,
+   "headline": "Algae Cultivation : Replicate the Spirulina model.",
+   "body": "Algae Cultivation : Replicate the Spirulina model. Even a small tarpaulin-lined pond on a roof or unused land can be used. NGOs could donate complete kits (plastic liner, mixing pumps, a small nutrient pack, and starter algae from an Egyptian or international lab). Sunlight and manual mixing are enough to grow spirulina at ~30°C. Once producing, harvest by cloth filtration and shade-dry the green mass into a powder. The Palestinian project english.palinfo.com shows this is feasible with remote guidance.\n\nRenewable Inputs : Given fuel/fertilizer shortages, rely on solar power (for any needed pumps or lighting) and compost-based nutrition. Use locally-made biofertilizers or animal manure instead of imported chemicals. For example, spirulina itself can seed plant growth.",
+   "image": ""
+  },
+  {
+   "seq": 58,
+   "headline": "Cooperative Projects : Form community cooperatives (e.g.",
+   "body": "Cooperative Projects : Form community cooperatives (e.g. in UN shelters or towns) to share resources. A group of families could jointly run a larger insect farm or mushroom room, multiplying returns. These cooperatives could coordinate with NGOs to receive and distribute imported kits (seed, spawn, starter cultures).\n\nNutrition Programs : Emphasize that these foods (greens, insects, algae, mushrooms) must be integrated into diets. Aid agencies and media can promote recipes using weeds (e.g. malva soup) and mushrooms or algae supplements. Cooking demos or leaflets could help overcome cultural hesitations.\n\nSchool and Camp Gardens : Set up vegetable beds at shelters and schools (where many displaced people live). Children can tend them and eat the produce, as a form of therapy and sustenance. Even lessons on sprouting grains can improve nutrition (vitamin B and C from sprouts).",
+   "image": ""
+  },
+  {
+   "seq": 59,
+   "headline": "In all cases, safety and scalability are paramount.",
+   "body": "In all cases, safety and scalability are paramount. Only fully identified plants should be eaten, and insect feeds must be pesticide-free. NGOs should monitor and certify any introduced cultures (e.g. spirulina strains) to avoid pathogens. Over time, these measures – blending traditional foraging with low-tech farming – could substantially supplement Gaza’s food, helping people survive under siege.\n\nSources: Reuters: “Gazans eat wild herb ‘khubeiza’ as war drags on and famine looms” — https://www.reuters.com/world/middle-east/gazans-eat-wild-herb-khubiza-war-famine-looms-2024-02-28/ ; FAO (spirulina review) — https://www.fao.org/4/i0424e/i0424e00.pdf ; FAO (edible insects report) — https://www.fao.org/4/i3253e/i3253e.pdf ; ECHOcommunity (Black Soldier Fly production manual) — https://assets-global.echocommunity.org/resources/63a53225-6d6d-4859-8099-b293675f5fa9/BSF_Production_Manual_2017.pdf and overview page — https://www.echocommunity.org/en/resources/991f0dce-41b0-41e1-a409-68d59f532769 ; Eawag (BSF processing factsheet) — https://www.eawag.ch/fileadmin/Domain1/Abteilungen/sandec/schwerpunkte/swm/Practical_knowhow_on_BSF/bsf_factsheet_fractioning.pdf ; SODIS method — https://sodis.ch/method/how-sodis-works ; WHO guideline on multiple micronutrient powders (6–23 months & 2–12 years) — https://www.who.int/publications/i/item/9789241549943 ; US EPA emergency disinfection of drinking water — https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water ; Solar Cookers International handbook (panel/box cookers & water pasteurization) — https://www.solarcookers.org/files/7914/5687/8521/How_to_make_use_understand_English_Update.pdf ; BioEnergyLists/Aprovecho Rocket Stove Design Guide — https://stoves.bioenergylists.org/stovesdoc/Still/AprovechoPlans/Rocket%2BStove%2BDesign%2BGuide.pdf ; OCHA oPt Gaza humanitarian response update (seed kits/home gardens) — https://www.ochaopt.org/content/gaza-strip-humanitarian-response-update-2-15-march-2025 ; Action Against Hunger on seeds/tools to restart agriculture in Gaza — https://www.actioncontrelafaim.org/en/press-release/in-gaza-action-against-hunger-increases-aid-to-farmers-to-restart-agriculture/ ; The Guardian on “why innocuous items are not getting through” — https://www.theguardian.com/world/2024/jun/24/aid-to-gaza-blocked-why-innocuous-items-are-not-getting-through ; Gisha (historic list of banned/permitted items) — https://gisha.org/UserFiles/File/Access_Restricted_Addendum_to_Position_Paper_December_2010.pdf ; species identifications via Wikipedia: Malva sylvestris — https://en.wikipedia.org/wiki/Malva_sylvestris ; Corchorus olitorius — https://en.wikipedia.org/wiki/Corchorus_olitorius ; Portulaca oleracea — https://en.wikipedia.org/wiki/Portulaca_oleracea ; Lactuca serriola — https://en.wikipedia.org/wiki/Lactuca_serriola ; Oxalis pes-caprae — https://en.wikipedia.org/wiki/Oxalis_pes-caprae ; Raphanus raphanistrum — https://en.wikipedia.org/wiki/Raphanus_raphanistrum ; Mentha longifolia — https://en.wikipedia.org/wiki/Mentha_longifolia ; Crithmum maritimum — https://en.wikipedia.org/wiki/Crithmum_maritimum .",
+   "image": ""
+  },
+  {
+   "seq": 60,
+   "headline": "A lack of clear, actionable, locally adapted “what to do this week” guidance is a real",
+   "body": "A lack of clear, actionable, locally adapted “what to do this week” guidance is a real gap. Humanitarian agencies know the methods, but civilians under siege rarely have a single, trusted, translated, printable set of steps. Connectivity, paywalls, jargon, and cultural fit all get in the way. So adding a call to share is worth it. Please share this. This guide is CC BY 4.0—copy, translate, print, broadcast, and adapt it for your community. Post the checklists in clinics, schools, shelters, mosques, churches, and community kitchens. Send the PDFs over WhatsApp and Telegram. Read the steps on local radio. Add local safety notes (water quality, acceptable foods, allergy cautions), name nearby helpers, and swap in familiar recipes. If you improve it, publish your version and credit the changes so others can reuse it. Knowledge moves faster than trucks—let’s move it.",
+   "image": ""
+  },
+  {
+   "seq": 61,
+   "headline": "Print one-pagers (SODIS, rocket stove, mushrooms, algae/insects if acceptable).",
+   "body": "Print one-pagers (SODIS, rocket stove, mushrooms, algae/insects if acceptable).\n\nTranslate to local dialect; add halal/kosher and cultural notes.\n\nBroadcast as 60-second radio scripts.\n\nShare offline via Bluetooth/SD cards; online via WhatsApp/Telegram.\n\nKeep the ethics line: “This complements—never replaces—humanitarian access.”",
+   "image": ""
+  },
+  {
+   "seq": 62,
+   "headline": "Survival Safety Toolkit Quick Rules at a Glance “These are the non-negotiables.",
+   "body": "Survival Safety Toolkit Quick Rules at a Glance “These are the non-negotiables. Follow them every time.”",
+   "image": "/wiki/svgn/articles/media/svgn-171105175/001.jpg"
+  },
+  {
+   "seq": 63,
+   "headline": "Water (SODIS)",
+   "body": "PET bottles only\n\nWater depth ≤10 cm\n\nTurbidity ≤~30 NTU (settle/filter first)\n\n≥6 h full sun or 2 cloudy days\n\nDrink from same bottle or a clean vessel",
+   "image": ""
+  },
+  {
+   "seq": 64,
+   "headline": "Foraging",
+   "body": "Always wash in boiled or treated water\n\nCook if unsure\n\nAvoid roadsides, dumps, or sprayed fields\n\nLearn local Arabic names from elders\n\nTest small amounts; watch for reactions\n\nPrioritize familiar greens (khubeeza, molokhia, purslane, za‘atar, mint)",
+   "image": ""
+  },
+  {
+   "seq": 65,
+   "headline": "Insects",
+   "body": "Collect only from clean, unsprayed areas\n\nDO NOT HARVEST FROM SPRAYED SWARMS\n\nFocus on grasshoppers, locusts, crickets, mealworms\n\nAlways cook or roast thoroughly\n\nIntroduce slowly; monitor for allergies\n\nFor kids and pregnant women: use mushrooms/greens first",
+   "image": ""
+  },
+  {
+   "seq": 66,
+   "headline": "Mushrooms",
+   "body": "Use known starter spawn (oyster, button, shiitake)\n\nDo not forage wild mushrooms unless expert\n\nPasteurize substrate (boiled water or Ca(OH)₂ only)\n\nKeep shaded, ventilated, clean\n\nHarvest young; cook before eating\n\nDiscard moldy or foul-smelling crops",
+   "image": ""
+  },
+  {
+   "seq": 67,
+   "headline": "Black Soldier Fly (BSF)",
+   "body": "Feed only clean plant scraps\n\nNever use waste with chemicals or feces\n\nBSF can accumulate heavy metals\n\nWhen uncertain: use larvae only as animal feed\n\nAlways cook before use",
+   "image": ""
+  }
+ ]
+}

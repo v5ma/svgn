@@ -1,0 +1,70 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471149",
+ "title": "On the application I did not see a place to link a new video I made of a presentation of the XR…",
+ "dek": "On the application I did not see a place to link a new video I made of a presentation of the XR magazine I wrote in Aframe, nor was I able to mention that I recorded two volumetric video interviews at Siggraph 2019 last",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2019-08-06",
+ "articleHref": "/wiki/svgn/articles/2019-08-06-on-the-application-i-did-not-see-a-place-to-link-a-new-video-i-made-of-a-presentation--vrma-fec873db222d",
+ "sourceUrl": "https://www.svgn.io/p/on-the-application-i-did-not-see-a-place-to-link-a-new-video-i-made-of-a-presentation-of-the-xr-fec873db222d",
+ "topTerms": [
+  "video",
+  "magazine",
+  "application",
+  "place",
+  "link",
+  "presentation",
+  "wrote",
+  "aframe"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-fec873db222d",
+   "title": "On the application I did not see a place to link a new video I made of a presentation of the XR…"
+  },
+  {
+   "id": "vrma-255e03052921",
+   "title": "My application to become an Oculus Quest developer was denied."
+  },
+  {
+   "id": "vrma-849ac340e425",
+   "title": "Facebook’s new Social VR applications are a game changer, this is why you will want an Oculus Go!"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "On the application I did not see a place to link a new video I made of a presentation of the XR…",
+   "body": "On the application I did not see a place to link a new video I made of a presentation of the XR magazine I wrote in Aframe, nor was I able to mention that I recorded two volumetric video interviews at Siggraph 2019 last",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "On the application I did not see a place to link a new video I made of a presentation of",
+   "body": "On the application I did not see a place to link a new video I made of a presentation of the XR magazine I wrote in Aframe, nor was I able to mention that I recorded two volumetric video interviews at Siggraph 2019 last week that will be available on that XR magazine soon.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[On the application I did not see a place to link a new video I made of a presentation of the XR…]] · [[My application to become an Oculus Quest developer was denied.]] · [[Facebook’s new Social VR applications are a game changer, this is why you will want an Oculus Go!]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-fec873db222d",
+     "title": "On the application I did not see a place to link a new video I made of a presentation of the XR…"
+    },
+    {
+     "id": "vrma-255e03052921",
+     "title": "My application to become an Oculus Quest developer was denied."
+    },
+    {
+     "id": "vrma-849ac340e425",
+     "title": "Facebook’s new Social VR applications are a game changer, this is why you will want an Oculus Go!"
+    }
+   ]
+  }
+ ]
+}

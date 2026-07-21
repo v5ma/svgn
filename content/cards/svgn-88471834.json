@@ -1,0 +1,150 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471834",
+ "title": "Windows Mixed Reality Hack",
+ "dek": "Build Mixed Reality Experience with Microsoft AI technologies",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-01-22",
+ "articleHref": "/wiki/svgn/articles/2018-01-22-windows-mixed-reality-hack-vrma-5ff874da9b1c",
+ "sourceUrl": "https://www.svgn.io/p/windows-mixed-reality-hack-5ff874da9b1c",
+ "topTerms": [
+  "microsoft",
+  "mixed",
+  "reality",
+  "event",
+  "february",
+  "redmond",
+  "town",
+  "evening"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-2fcb84037d77",
+   "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+  },
+  {
+   "id": "vrma-49fdfc28903a",
+   "title": "Possible evidence of a new Microsoft Mixed Reality headset in the wild"
+  },
+  {
+   "id": "vrma-d7d9e1badaaa",
+   "title": "Microsoft Mixed Reality Price Wars"
+  },
+  {
+   "id": "vrma-ef7b4d059884",
+   "title": "AI+Mixed Reality: Interview w/ Tobiah of Microsoft on Artificial Intelligence is converging with…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Windows Mixed Reality Hack",
+   "body": "Build Mixed Reality Experience with Microsoft AI technologies",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Event Dates:\n\nStarts : Feb 12, 2018, 9pm PST Ends : Feb 15, 2018, 4pm PST\n\nEvening",
+   "body": "Event Dates:\n\nStarts : Feb 12, 2018, 9pm PST Ends : Feb 15, 2018, 4pm PST\n\nEvening Social:\n\nTuesday, February 13, 2018 Happy Hour: 5:30–8:00PM\n\nEvent Location:\n\nMicrosoft Campus\n\nBuilding 20\n\n3709 157th Ave NE,\n\nRedmond, WA, 98052\n\nRSVP: MRDEEvents@microsoft.com\n\nHotel Options:\n\nRedmond Inn\n\n425–883–4900\n\nSilver Cloud Inn\n\n425–746–8200\n\nHyatt House Redmond\n\n425–497–9226\n\nMarriott Redmond Town Center\n\n425–498–4000\n\nRed Lion Hotel, Bellevue\n\n425–455–5240\n\nResidence Inn, Bellevue\n\n425–637–8500\n\nThe Westin Seattle\n\n206–728–1000\n\nSheraton Seattle Hotel\n\n206–621–9000\n\nTaxi/Town Car Service:\n\nYellow Cab\n\n425–455–4999\n\nFarWest Taxi\n\n425–454–5055\n\nExecutive Town Car Service\n\n425–455–4949\n\nSeattle Town Car Service\n\n425–919–7773\n\nThank you for your interest in Windows Mixed Reality. We are giving developers the opportunity to work with us on building Mixed Reality experiences that also leverage AI technologies from Microsoft, including Face, Custom Vision, LUIS and Translation.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Space is limited; if you are interested in participating, please contact",
+   "body": "Space is limited; if you are interested in participating, please contact MRDEEvents@microsoft.com .\n\nAs a part of this hackfest you will:\n\nHear from Product Engineering and Microsoft Commercial Software Engineers on Windows Mixed Reality and AI\n\nCode using labs designed for Mixed Reality and AI scenarios\n\nCode side-by-side with Microsoft engineers to realize the possibilities.\n\nAttend an envisioning session with the product and account teams to discuss the opportunity with mixed reality and create a high-level view of objectives and goals for next steps.\n\nTo make most of that week, it is important to be prepared for the event:\n\nAssign 2–3 developers from your team, maximum.\n\nDefine clear scenarios/problems to work on. The more detailed your scenarios, the more likely we will be able to go deeper on them and prototype real code with your teams.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Familiarize yourself with the fundamentals of mixed reality development .",
+   "body": "Familiarize yourself with the fundamentals of mixed reality development .\n\nInstall the development tools on your PC, if you are bringing your own development PC.\n\nA detailed agenda will be shared prior to the event. We recommend arriving the evening of Sunday, February 11, 2018 as we will begin at 9:00AM on Monday, February 12, 2018. We plan to end the day on Thursday, February 15, 2018 by 4pm, so you have an opportunity to catch an evening flight home.\n\nNext Steps:\n\nThe first requirement in participating in the hack is to participate in a scoping call to ensure you get the most out of the week and the event meets your expectations. To set up a scoping call, please email MRDEEvents@microsoft.com .\n\nThank you for your partnership.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "The Windows Mixed Reality Evangelism Team.",
+   "body": "The Windows Mixed Reality Evangelism Team.\n\nWinMR_AI Hack Invite.docx Edit description drive.google.com",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/001.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/003.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/005.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/007.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/009.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/011.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/013.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/015.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471834/017.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…]] · [[Possible evidence of a new Microsoft Mixed Reality headset in the wild]] · [[Microsoft Mixed Reality Price Wars]] · [[AI+Mixed Reality: Interview w/ Tobiah of Microsoft on Artificial Intelligence is converging with…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-2fcb84037d77",
+     "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+    },
+    {
+     "id": "vrma-49fdfc28903a",
+     "title": "Possible evidence of a new Microsoft Mixed Reality headset in the wild"
+    },
+    {
+     "id": "vrma-d7d9e1badaaa",
+     "title": "Microsoft Mixed Reality Price Wars"
+    },
+    {
+     "id": "vrma-ef7b4d059884",
+     "title": "AI+Mixed Reality: Interview w/ Tobiah of Microsoft on Artificial Intelligence is converging with…"
+    }
+   ]
+  }
+ ]
+}

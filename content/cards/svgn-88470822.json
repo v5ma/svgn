@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470822",
+ "title": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…",
+ "dek": "Created by the folks who made Job Simulator & Vacation Simulator, Owlchemy Labs. I think it’s going to be a big hit in the VR world. I…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-03-29",
+ "articleHref": "/wiki/svgn/articles/2022-03-29-cosmonios-high-is-a-comical-classroom-setting-created-for-an-open-ended-character-driv-vrma-f548ef208efd",
+ "sourceUrl": "https://www.svgn.io/p/cosmonios-high-is-a-comical-classroom-setting-created-for-an-open-ended-character-driven-virtual-f548ef208efd",
+ "topTerms": [
+  "high",
+  "character",
+  "each",
+  "water",
+  "great",
+  "power",
+  "powers",
+  "another"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-f548ef208efd",
+   "title": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…",
+   "body": "Created by the folks who made Job Simulator & Vacation Simulator, Owlchemy Labs. I think it’s going to be a big hit in the VR world. I…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article & Video by Micah Blumberg, about Micah http://vrma.io\n\nWatch the story I created",
+   "body": "Article & Video by Micah Blumberg, about Micah http://vrma.io\n\nWatch the story I created here:",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "You can select a power for each hand.",
+   "body": "You can select a power for each hand.\n\nExamples would be water power or ice power, once you select it you will shoot water or ice from your hand.",
+   "image": "/wiki/svgn/articles/media/svgn-88470822/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "The implementation of powers, 8 total powers, each individual helps you solve puzzles.",
+   "body": "The implementation of powers, 8 total powers, each individual helps you solve puzzles. The powers can interact with one another. If you fire the ice & water together for example you will shoot ice cubes.\n\nIn my demo I used water to put out fires on the walls.",
+   "image": "/wiki/svgn/articles/media/svgn-88470822/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Cosmosius High features the largest map ever created by Owlchemy",
+   "body": "Cosmosius High features the largest map ever created by Owlchemy",
+   "image": "/wiki/svgn/articles/media/svgn-88470822/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "It comes with a big interactive world where you can basically interact with everything,",
+   "body": "It comes with a big interactive world where you can basically interact with everything, characters, items, things, walls.\n\nThis time the team focused on increasing the depth of interaction for each character, and each character has deeper personality for players to discover.",
+   "image": "/wiki/svgn/articles/media/svgn-88470822/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "It was really cool to see a character grab something out of the air that I tossed, but",
+   "body": "It was really cool to see a character grab something out of the air that I tossed, but without interrupting what they were doing at the time. They can all do that.\n\nThe characters will also wave back if you wave at them.",
+   "image": "/wiki/svgn/articles/media/svgn-88470822/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "The order that you want to do the game assignments in is entirely up to you.",
+   "body": "The order that you want to do the game assignments in is entirely up to you.\n\nCosmonious High Welcome to Cosmonious High, an alien high school that's definitely completely free of malfunctions! cosmonioushigh.com\n\nFinally each character has a high school theme. So one character will be great at sports, another will be great at cheer leading, another great at chemistry, take your pick of fun high school character types.",
+   "image": "/wiki/svgn/articles/media/svgn-88470822/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Our Games - Owlchemy Labs First you JOB, then you VACATION.",
+   "body": "Our Games - Owlchemy Labs First you JOB, then you VACATION. Experience RECREATION, optimal RELAXATION, and classic human pasttimes like SUNBURN… owlchemylabs.com\n\nIt was a great GDC Game Developer Conference 2022. See you next year.",
+   "image": "/wiki/svgn/articles/media/svgn-88470822/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470822/015.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470822/017.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-f548ef208efd",
+     "title": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…"
+    }
+   ]
+  }
+ ]
+}

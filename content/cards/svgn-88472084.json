@@ -1,0 +1,120 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472084",
+ "title": "Read the Google blog for November 1st announcing Poly",
+ "dek": "‪Google launches Poly: thousands of free objects and scenes.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-11-02",
+ "articleHref": "/wiki/svgn/articles/2017-11-02-read-the-google-blog-for-november-1st-announcing-poly-vrma-9b36a7da85fa",
+ "sourceUrl": "https://www.svgn.io/p/read-the-google-blog-for-november-1st-announcing-poly-9b36a7da85fa",
+ "topTerms": [
+  "poly",
+  "google",
+  "objects",
+  "blog",
+  "scenes",
+  "tilt",
+  "brush",
+  "blocks"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-9b36a7da85fa",
+   "title": "Read the Google blog for November 1st announcing Poly"
+  },
+  {
+   "id": "svgn-20260520-gemini-product-maze",
+   "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+  },
+  {
+   "id": "svgn-20260520-gemini-35-flash-mixed-reviews",
+   "title": "Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch"
+  },
+  {
+   "id": "vrma-4d707b813af1",
+   "title": "You've tracked for example 1 NFT at a time through many different blocks, with across multiple…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Read the Google blog for November 1st announcing Poly",
+   "body": "‪Google launches Poly: thousands of free objects and scenes.",
+   "image": "/wiki/svgn/articles/media/svgn-88472084/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Read the Google blog for November 1st announcing Poly\n\nPoly: Browse, discover and",
+   "body": "Read the Google blog for November 1st announcing Poly\n\nPoly: Browse, discover and download 3D objects and scenes If you're building for virtual and augmented reality, you need 3D objects for your apps. With Tilt Brush and Blocks, we… www.blog.google",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Clay Bavor on Twitter says: “Tilt Brush, Blocks, Poly.",
+   "body": "Clay Bavor on Twitter says: “Tilt Brush, Blocks, Poly. There’s a trend here. Our goal is to make 3D creation easy, and for everyone.”",
+   "image": "/wiki/svgn/articles/media/svgn-88472084/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "End of Post.",
+   "body": "End of Post.",
+   "image": "/wiki/svgn/articles/media/svgn-88472084/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472084/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472084/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472084/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472084/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472084/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Read the Google blog for November 1st announcing Poly]] · [[Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O]] · [[Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch]] · [[You've tracked for example 1 NFT at a time through many different blocks, with across multiple…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-9b36a7da85fa",
+     "title": "Read the Google blog for November 1st announcing Poly"
+    },
+    {
+     "id": "svgn-20260520-gemini-product-maze",
+     "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+    },
+    {
+     "id": "svgn-20260520-gemini-35-flash-mixed-reviews",
+     "title": "Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch"
+    },
+    {
+     "id": "vrma-4d707b813af1",
+     "title": "You've tracked for example 1 NFT at a time through many different blocks, with across multiple…"
+    }
+   ]
+  }
+ ]
+}

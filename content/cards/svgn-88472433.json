@@ -1,0 +1,78 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472433",
+ "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages.",
+ "dek": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages. Are you going to make a Facebook group to match that Facebook Page? The big difference is that with pages, the page owner’",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-11-01",
+ "articleHref": "/wiki/svgn/articles/2017-11-01-technically-it-s-a-list-of-facebook-groups-so-far-i-haven-t-started-on-a-list-of-faceb-vrma-dc6e07210187",
+ "sourceUrl": "https://www.svgn.io/p/technically-its-a-list-of-facebook-groups-so-far-i-haven-t-started-on-a-list-of-facebook-pages-dc6e07210187",
+ "topTerms": [
+  "facebook",
+  "list",
+  "groups",
+  "pages",
+  "group",
+  "page",
+  "dominate",
+  "technically"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-dc6e07210187",
+   "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+  },
+  {
+   "id": "vrma-c67ca275dfc8",
+   "title": "A list of Women in VR, AR, or Tech groups on Facebook"
+  },
+  {
+   "id": "vrma-1dc6a5851f41",
+   "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+  },
+  {
+   "id": "vrma-357d34f7b350",
+   "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages.",
+   "body": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages. Are you going to make a Facebook group to match that Facebook Page? The big difference is that with pages, the page owner’",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of",
+   "body": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages. Are you going to make a Facebook group to match that Facebook Page? The big difference is that with pages, the page owner’s posts dominate, but with groups it’s a free for all and any group member can potentially dominate the conversation with a popular post.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages.]] · [[A list of Women in VR, AR, or Tech groups on Facebook]] · [[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]] · [[30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-dc6e07210187",
+     "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+    },
+    {
+     "id": "vrma-c67ca275dfc8",
+     "title": "A list of Women in VR, AR, or Tech groups on Facebook"
+    },
+    {
+     "id": "vrma-1dc6a5851f41",
+     "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+    },
+    {
+     "id": "vrma-357d34f7b350",
+     "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+    }
+   ]
+  }
+ ]
+}

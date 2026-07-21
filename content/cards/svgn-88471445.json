@@ -1,0 +1,144 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471445",
+ "title": "Every demo for SFVR 360 ôctō on October 20th",
+ "dek": "One Reality",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-09",
+ "articleHref": "/wiki/svgn/articles/2017-10-09-every-demo-for-sfvr-360-ct-on-october-20th-vrma-ebfc3142a7ae",
+ "sourceUrl": "https://www.svgn.io/p/demos-so-far-for-sfvr-360-octo-ebfc3142a7ae",
+ "topTerms": [
+  "content",
+  "reality",
+  "computer",
+  "https",
+  "headset",
+  "virtual",
+  "ivry",
+  "development"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-24288a777259",
+   "title": "Virtual reality for pain relief and Stentrode: A brain computer interface that can be implanted in…"
+  },
+  {
+   "id": "vrma-c6635d693766",
+   "title": "The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…"
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Every demo for SFVR 360 ôctō on October 20th",
+   "body": "One Reality",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/000.png",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Every Speaker at SFVR 360 ôctō on October 20th Speakers medium.com",
+   "body": "Every Speaker at SFVR 360 ôctō on October 20th Speakers medium.com",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "One Reality is a virtual reality (VR) development service and platform for designing",
+   "body": "One Reality is a virtual reality (VR) development service and platform for designing Smart Sustainable Communities and Cities under the Paris Accord, based on Sweden’s decades of experience in sustainable infrastructure development. Incorporated in Sweden, we are expanding to Silicon Valley and globally to support cities, utilities, and construction companies that aim to revitalize themselves through leading-edge technologies and deliberative citizen engagement. We specialize in creating easy-to-use, engaging user experiences (UX) so people can visualize, walk/fly through, interact, design and monitor construction and social activities, ranging from entire cities to specific neighborhoods and building exteriors and interiors. We use the Unreal VR Engine, which offers photorealism for high-end PC and projection systems as well as small-file formats for smartphones and tablets. Unreal has open APIs so it can integrate data apps for AI, IoT, sensors, smart grids, and other data analytics into VR/AR environments. In the Nordics, we have built VR models of city downtowns, waterfronts, harbors, transit hubs, residential areas, apartments, public places, office complexes and entire new communities for Copenhagen Malmo Port (CMP), Lund, Stockholm and Visby.",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/001.png"
+  },
+  {
+   "seq": 4,
+   "headline": "One Reality is looking for:\n\nSeries A for their upcoming corporation to go global.",
+   "body": "One Reality is looking for:\n\nSeries A for their upcoming corporation to go global.\n\nMore information on One Reality can be found here:\n\nwww.onereality.se\n\nhttps://www.facebook.com/groups/263449064157532/ ,\n\nhttps://www.facebook.com/One-Reality-308422592845476/",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Axum Graphics\n\nAxum Graphics is developing Auteurist, a 3D content creation tool that is",
+   "body": "Axum Graphics\n\nAxum Graphics is developing Auteurist, a 3D content creation tool that is democratizing VR filmmaking, and computer animation. Auteurist runs 100% in the browser, on any device, including mobile devices.\n\nAuteurist has a user interface anyone can pick up and use to make an animated movie, even if they’ve never used a 3D content creation tool before. It produces photo-realistic 360-degree stereoscopic movies with the click of a button.\n\nThis is a completely new approach to creating computer animation. It opens up the VR industry to a whole new class of users, diversifying the industry itself, and the stories being told.\n\nAxum Graphics is taking applications for the Auteurist alpha program. Apply at www.axum.graphics to become part of the future of filmmaking.",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Pimax VR\n\nPimax was founded in mid-2014 by a team of VR geeks and engineers with decades",
+   "body": "Pimax VR\n\nPimax was founded in mid-2014 by a team of VR geeks and engineers with decades of experience in wearable tech/smart devices, including many years in VR/AR field. We created the world’s first 4K VR headset that was recognized as the best VR product in CES Asia 2016, and our 8K VR headset was unveiled at CES 2017. Pimax has offices in San Jose, California and is headquartered in Shanghai, China. For more information, please visit www.pimaxvr.com .\n\nPimax has a Kickstarter campaign that you can jump in on now! Get involved by their end date on 11/3! Check them out here:\n\nhttps://www.kickstarter.com/projects/pimax8kvr/pimax-the-worlds-first-8k-vr-headset/",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/005.png"
+  },
+  {
+   "seq": 7,
+   "headline": "Moment Labs\n\nMoments is a VR storyboarding tool for content creators & designers.",
+   "body": "Moment Labs\n\nMoments is a VR storyboarding tool for content creators & designers. They are currently raising a seed round funding. For more information, check them out at:\n\nwww.mntlabs.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/007.png"
+  },
+  {
+   "seq": 8,
+   "headline": "XR Development Studios\n\nThey are an end-to-end development team and work with corporate",
+   "body": "XR Development Studios\n\nThey are an end-to-end development team and work with corporate clients to deliver simulations, aptitude assessments, and training exercises through Virtual Reality and Augmented Reality applications. Traditionally, companies often have an extensive training staff and written materials. They augment or replace this with immersive simulations, which are more effective at training the user on new tasks, and at assessing the aptitude and mentality of the user.\n\nThey are looking partners, team members, and corporate clients. For more information, check them out at:\n\nwww.xr20studios.com\n\nwww.charlievannorman.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/009.png"
+  },
+  {
+   "seq": 9,
+   "headline": "Virtual Bytes\n\nVirtual Bytes is an education, research and art collective founded by Matt",
+   "body": "Virtual Bytes\n\nVirtual Bytes is an education, research and art collective founded by Matt and Sarah. We aim to showcase how combining VR tech and neuroscience knowledge can influence our lives. We wish to help creators in this new medium by bringing you 2 VR demos a month that hack the mind-body connection. We will be using all sorts of platforms like the HTC Vive, Oculus or web VR, but even if you don’t have the hardware you should be able to learn a thing or two from our videos. For those of you that want to make their own stuff we will be providing source files and some written in depth tutorials.\n\nThey are looking for supporters on patreon, you can support them by heading to:\n\nhttps://www.patreon.com/virtualbytes",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/011.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "iVRy\n\nCurrent virtual reality solutions are divided into two basic types: Either the",
+   "body": "iVRy\n\nCurrent virtual reality solutions are divided into two basic types: Either the content is generated and displayed on a standalone headset (usually a smartphone), or a personal computer is used to generate the content which is then displayed on a dedicated headset. Computer generated VR content is of much higher quality as the computer has much greater processing power, compared to that of a smartphone.\n\niVRy is a smartphone app that bridges these two methods of generating content, allowing a smartphone based VR headset to display content generated by a personal computer. This allows the rich VR content available on a personal computer to be experienced without the need for a dedicated VR headset. It also allows independent content developers to test their content without the need to invest in additional equipment. It is not intended to replace dedicated VR headsets, but rather to supplement them, bring personal computer based VR content to a larger audience.",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/013.png"
+  },
+  {
+   "seq": 11,
+   "headline": "You can learn more about iVRy at:\n\nhttps://twitter.com/iVRy_VR\n\nhttps://fb.me/iVRy.VR",
+   "body": "You can learn more about iVRy at:\n\nhttps://twitter.com/iVRy_VR\n\nhttps://fb.me/iVRy.VR",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "Immodestea\n\nQuality Chinese and Herbal Teas served by Immodestea!",
+   "body": "Immodestea\n\nQuality Chinese and Herbal Teas served by Immodestea!\n\nWe share with you the most educational tea subscriptions in existence, packed with higher quality tea than any other monthly subscription. Every tea we personally select and source from their home lands through close friendships we fostered during our multi-year travels in Asia.\n\nWhat we give you is simply a leaf from a tree. All Natural, Single Origin, Loose Leaf Teas. On the rare occasion our leaves have added flavor, it is done with fresh, natural herbs of the same standards.\n\nImmodestea’s offers three monthly subscriptions: the Tea Drinker Club, Tea Taster Club, and Tea Master Club, all of which can be found here:\n\nhttps://immodestea.com/collections/tea-1",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/015.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471445/017.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Virtual reality for pain relief and Stentrode: A brain computer interface that can be implanted in…]] · [[The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-24288a777259",
+     "title": "Virtual reality for pain relief and Stentrode: A brain computer interface that can be implanted in…"
+    },
+    {
+     "id": "vrma-c6635d693766",
+     "title": "The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…"
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    }
+   ]
+  }
+ ]
+}

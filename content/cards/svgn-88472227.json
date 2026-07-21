@@ -1,0 +1,132 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472227",
+ "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity.",
+ "dek": "We discussed Mixed Reality Performance Art, how the popularity of Dance Dance Revolution ties into Beat Saber, and Prototyping Designs with…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-03-26",
+ "articleHref": "/wiki/svgn/articles/2018-03-26-vr-gdc-2018-chat-w-gravity-sketch-vr-liv-and-unity-vrma-fba167ef1fcd",
+ "sourceUrl": "https://www.svgn.io/p/vr-gdc-2018-chat-w-gravity-sketch-vr-liv-and-unity-fba167ef1fcd",
+ "topTerms": [
+  "neurotechsf",
+  "reality",
+  "mixed",
+  "gravity",
+  "sketch",
+  "spoke",
+  "industry",
+  "unity"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-fba167ef1fcd",
+   "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+  },
+  {
+   "id": "vrma-2fcb84037d77",
+   "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+  },
+  {
+   "id": "vrma-5ecdac6a7b3a",
+   "title": "Come experience the Unreal Garden mixed reality art exhibit presented by Onedome."
+  },
+  {
+   "id": "vrma-822bbe1f599",
+   "title": "Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity.",
+   "body": "We discussed Mixed Reality Performance Art, how the popularity of Dance Dance Revolution ties into Beat Saber, and Prototyping Designs with…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "via Micah Blumberg, Organizer of NeurotechSF https://www.meetup.com/NeuroTechSF/\n\nAt the",
+   "body": "via Micah Blumberg, Organizer of NeurotechSF https://www.meetup.com/NeuroTechSF/\n\nAt the Game Developer Conference in 2018 Micah Blumberg and Kevin Kunze hosted a round table conversation about Mixed Reality with Daniel Thomas the CTO at Gravity Sketch (Based in London) besides being the Chief Technical Officer of Gravity Sketch, Daniel wrote the code for Gravity Sketch VR.\n\nWe also spoke to Cix Liv who is the CEO of LIV a company that builds software that powers mixed reality and that among other things makes the well known (in the VR industry) Liv Cube and his company made the original the Beat Saber video that went viral and is estimated to have been viewed over 150 million times. We also spoke to Swan (SwanVRart aka Shuang van Reizen) who is also part of the team at Liv. Swan was the performer that starred in that video that went viral.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472227/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472227/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472227/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "It’s probably fair to say that the people at Liv are helping to grow the popularity of",
+   "body": "It’s probably fair to say that the people at Liv are helping to grow the popularity of the VR industry in a big way with the Mixed Reality Performance Art they are creating. In the podcast we also spoke to Gemma Busoni who works at Unity and her friend Michael who is working on a stealth project in the VR industry.",
+   "image": "/wiki/svgn/articles/media/svgn-88472227/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Podcast link: https://youtu.be/LgBZiBeq0Bw",
+   "body": "Reference links below.\n\nGravity Sketch - Bringing Virtual Reality Into Your Design Workflow Immersive 3D Design Explore and communicate your ideas directly in 3D though AR and VR. Powerful & Professional A tool… www.gravitysketch.com\n\nWelcome... to LIV! Put yourself into the VR games that you love and broadcast that experience to the world. liv.tv\n\nkevinkunze Edit description www.kevinkunze.com\n\nNeuroTechSF What we'll do NeurotechSF Every other Friday at Noisebridge from 7pm to 9pm Join NeurotechSF at Noisebridge every other… www.meetup.com\n\nUnity Unity is the ultimate game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across… unity3d.com\n\nInterview with the Beat Saber Girl We spoke to the Mixed Reality performer whose video went viral and has been estimated to have been viewed over 100… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Silicon Valley Global News SVGN.io Silicon Valley Global News is about the Global",
+   "body": "Silicon Valley Global News SVGN.io Silicon Valley Global News is about the Global Technology Industry. medium.com",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472227/009.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472227/011.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472227/013.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity.]] · [[At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…]] · [[Come experience the Unreal Garden mixed reality art exhibit presented by Onedome.]] · [[Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-fba167ef1fcd",
+     "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+    },
+    {
+     "id": "vrma-2fcb84037d77",
+     "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+    },
+    {
+     "id": "vrma-5ecdac6a7b3a",
+     "title": "Come experience the Unreal Garden mixed reality art exhibit presented by Onedome."
+    },
+    {
+     "id": "vrma-822bbe1f599",
+     "title": "Oculus Quest does full body tracking and hand tracking in Mixed Reality (XR) for $399"
+    }
+   ]
+  }
+ ]
+}

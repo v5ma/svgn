@@ -1,0 +1,84 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471224",
+ "title": "Owlchemy Labs launches mobile spectator",
+ "dek": "It’s the ability to peak into a VR experience from your mobile phone, you can track someone in an HTC Vive, this makes use of ARkit",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-10-03",
+ "articleHref": "/wiki/svgn/articles/2018-10-03-owlchemy-labs-launches-mobile-spectator-vrma-30a90a11f6c4",
+ "sourceUrl": "https://www.svgn.io/p/owlchemy-labs-launches-mobile-spectator-30a90a11f6c4",
+ "topTerms": [
+  "oculus",
+  "experience",
+  "users",
+  "mobile",
+  "phone",
+  "spectator",
+  "connect",
+  "able"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-30a90a11f6c4",
+   "title": "Owlchemy Labs launches mobile spectator"
+  },
+  {
+   "id": "vrma-cde355034577",
+   "title": "15 New Articles/Posts from Oculus Connect 4"
+  },
+  {
+   "id": "vrma-30bdbb72bffa",
+   "title": "John Carmack interviewed at Oculus Connect 4"
+  },
+  {
+   "id": "vrma-9e166a56e950",
+   "title": "Windlands 2 Preview at Oculus Connect 4"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Owlchemy Labs launches mobile spectator",
+   "body": "It’s the ability to peak into a VR experience from your mobile phone, you can track someone in an HTC Vive, this makes use of ARkit",
+   "image": "/wiki/svgn/articles/media/svgn-88471224/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Owlchemy Lab Report: Mobile Spectator - AR Spectator Camera Experiment As the saying",
+   "body": "Owlchemy Lab Report: Mobile Spectator - AR Spectator Camera Experiment As the saying goes- science never sleeps! Today, we're excited to share an R&D project fresh from the Labs. After… owlchemylabs.com\n\nAt Oculus Connect 5 John Carmack mentioned that users of the Oculus Go will be able to see what Go users are seeing from their phone.\n\nIt was also revealed at Connect 5 that Oculus Insight runs on an iPad and allows people to see into the VR experience of Oculus Quest users.\n\nThe general trend here appears to be that phones and tablets in general will be able to see into VR experiences, improving the experience for those outside the VR headset who would like to have a better idea of what is going on inside the headset.",
+   "image": "/wiki/svgn/articles/media/svgn-88471224/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471224/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Owlchemy Labs launches mobile spectator]] · [[15 New Articles/Posts from Oculus Connect 4]] · [[John Carmack interviewed at Oculus Connect 4]] · [[Windlands 2 Preview at Oculus Connect 4]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-30a90a11f6c4",
+     "title": "Owlchemy Labs launches mobile spectator"
+    },
+    {
+     "id": "vrma-cde355034577",
+     "title": "15 New Articles/Posts from Oculus Connect 4"
+    },
+    {
+     "id": "vrma-30bdbb72bffa",
+     "title": "John Carmack interviewed at Oculus Connect 4"
+    },
+    {
+     "id": "vrma-9e166a56e950",
+     "title": "Windlands 2 Preview at Oculus Connect 4"
+    }
+   ]
+  }
+ ]
+}

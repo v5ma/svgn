@@ -1,0 +1,102 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471338",
+ "title": "Watch this Amazing Magic Leap review!",
+ "dek": "Magic Leap is getting a lot of mixed reviews. People who were comparing early screen shots to the hyped marketing from the company had some…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-08-15",
+ "articleHref": "/wiki/svgn/articles/2018-08-15-watch-this-amazing-magic-leap-review-vrma-bb525f669c83",
+ "sourceUrl": "https://www.svgn.io/p/watch-this-amazing-magic-leap-review-bb525f669c83",
+ "topTerms": [
+  "swanvr",
+  "instagram",
+  "friends",
+  "swanvrart",
+  "photos",
+  "videos",
+  "check",
+  "video"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-3c3253b1eb0e",
+   "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+  },
+  {
+   "id": "vrma-b580f835457",
+   "title": "Recap of SF VR 360 Janus: Video, Photos"
+  },
+  {
+   "id": "vrma-675282c51d03",
+   "title": "Interview with SwanVR about Beat Saber"
+  },
+  {
+   "id": "vrma-384e626b2443",
+   "title": "CascadeSF is a fantastic event series! (Photos that you can use/share at he bottom)"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Watch this Amazing Magic Leap review!",
+   "body": "Magic Leap is getting a lot of mixed reviews. People who were comparing early screen shots to the hyped marketing from the company had some…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Check out this video by SwanVR\n\nSwan writes “My 2 worlds:\n\n#VR friends: “Oh, you’ve tried",
+   "body": "Check out this video by SwanVR\n\nSwan writes “My 2 worlds:\n\n#VR friends: “Oh, you’ve tried #MagicLeapOne , how was the FOV?!”\n\n#Burningman friends: “Are those new goggles, did you make them?”\n\n🤣 “In all seriousness, I am quite impressed with how intuitive and interactive the demos were. It’s a new canvas for virtual creators!”\n\nSwanVR (@swanvrart) * Instagram photos and videos 2,220 Followers, 386 Following, 914 Posts - See Instagram photos and videos from SwanVR (@swanvrart) www.instagram.com",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471338/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471338/003.png"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471338/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471338/007.gif"
+  },
+  {
+   "seq": 7,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō]] · [[Recap of SF VR 360 Janus: Video, Photos]] · [[Interview with SwanVR about Beat Saber]] · [[CascadeSF is a fantastic event series! (Photos that you can use/share at he bottom)]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-3c3253b1eb0e",
+     "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+    },
+    {
+     "id": "vrma-b580f835457",
+     "title": "Recap of SF VR 360 Janus: Video, Photos"
+    },
+    {
+     "id": "vrma-675282c51d03",
+     "title": "Interview with SwanVR about Beat Saber"
+    },
+    {
+     "id": "vrma-384e626b2443",
+     "title": "CascadeSF is a fantastic event series! (Photos that you can use/share at he bottom)"
+    }
+   ]
+  }
+ ]
+}

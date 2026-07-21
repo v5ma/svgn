@@ -1,0 +1,158 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470833",
+ "title": "Moss Book II Developer Interview (with a tidbit about Playstation VR 2)",
+ "dek": "Listen to the audio recording or read the transcript or skim the highlights with photos from a mindmap that SVGN.io News created. I…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-03-25",
+ "articleHref": "/wiki/svgn/articles/2022-03-25-moss-book-ii-developer-interview-with-a-tidbit-about-playstation-vr-2-vrma-cb1579029a04",
+ "sourceUrl": "https://www.svgn.io/p/moss-book-ii-developer-interview-with-a-tidbit-about-playstation-vr-2-cb1579029a04",
+ "topTerms": [
+  "moss",
+  "book",
+  "quill",
+  "players",
+  "image",
+  "mouse",
+  "sword",
+  "fighting"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-33f8d938bbc6",
+   "title": "Moss Book II, Meta Quest 2, and using WebXR for collaboration, science & 3D art."
+  },
+  {
+   "id": "vrma-cb1579029a04",
+   "title": "Moss Book II Developer Interview (with a tidbit about Playstation VR 2)"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Moss Book II Developer Interview (with a tidbit about Playstation VR 2)",
+   "body": "Listen to the audio recording or read the transcript or skim the highlights with photos from a mindmap that SVGN.io News created. I…",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/000.png",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/001.png"
+  },
+  {
+   "seq": 3,
+   "headline": "Image for Moss Book II: Mouse with sword fighting armored crabs.",
+   "body": "Image for Moss Book II: Mouse with sword fighting armored crabs. Quill The Interviewer was Journalist, Programmer, Brain Hacker Micah Blumberg http://vrma.io\n\nMoss_Book_II:_Interview_Audio_+_Transcript Recorded & Transcribed with Pixel 5 at GDC 2022. Published with recorder.google.com",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/003.png"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/007.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/009.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/011.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/013.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/015.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/017.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/019.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/021.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/023.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "Title Logo for Moss Book II “Exactly two weeks from today on March 31, players will",
+   "body": "Title Logo for Moss Book II “Exactly two weeks from today on March 31, players will reunite with Quill in Moss: Book II on PlayStation VR. Moss: Book II builds on all the things players loved in the platinum-selling Moss . Interact with new allies, old friends, and stunningly imagined environments. The stakes are higher than ever, and the player alone will guide Quill to save her world, end the merciless rule of the Arcane, and rise to legend.”",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/025.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/027.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/029.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/031.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "Thank you to Zebra Partners and developer Polyarc.",
+   "body": "Thank you to Zebra Partners and developer Polyarc.",
+   "image": "/wiki/svgn/articles/media/svgn-88470833/033.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Moss Book II, Meta Quest 2, and using WebXR for collaboration, science & 3D art.]] · [[Moss Book II Developer Interview (with a tidbit about Playstation VR 2)]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-33f8d938bbc6",
+     "title": "Moss Book II, Meta Quest 2, and using WebXR for collaboration, science & 3D art."
+    },
+    {
+     "id": "vrma-cb1579029a04",
+     "title": "Moss Book II Developer Interview (with a tidbit about Playstation VR 2)"
+    }
+   ]
+  }
+ ]
+}

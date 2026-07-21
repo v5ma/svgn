@@ -1,0 +1,126 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470812",
+ "title": "New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO…",
+ "dek": "My 2nd impression of Tilt Five’s Holographic Gaming System completely changed my mind for the better. I concluded that this is the best…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-06-03",
+ "articleHref": "/wiki/svgn/articles/2022-06-03-new-impressions-of-the-tilt-five-holographic-gaming-system-my-interview-with-jeri-ells-vrma-172414c43c7",
+ "sourceUrl": "https://www.svgn.io/p/new-impressions-of-the-tilt-five-holographic-gaming-system-my-interview-with-jeri-ellsworth-ceo-172414c43c7",
+ "topTerms": [
+  "controller",
+  "system",
+  "tilt",
+  "display",
+  "gaming",
+  "five",
+  "holographic",
+  "light"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-172414c43c7",
+   "title": "New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO…"
+  },
+  {
+   "id": "vrma-89ddac43b9af",
+   "title": "The Valve Lighthouse 2.0 Tracking system is now shipping with the HTC Vive Pro: Price $1399"
+  },
+  {
+   "id": "vrma-8916d80e0339",
+   "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+  },
+  {
+   "id": "vrma-a673d2063c5",
+   "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO…",
+   "body": "My 2nd impression of Tilt Five’s Holographic Gaming System completely changed my mind for the better. I concluded that this is the best…",
+   "image": "/wiki/svgn/articles/media/svgn-88470812/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Story by Micah Blumberg, bio at http://vrma.io",
+   "body": "Story by Micah Blumberg, bio at http://vrma.io",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "New impressions of the Tilt Five Holographic Gaming System The Medical Imaging demo I",
+   "body": "New impressions of the Tilt Five Holographic Gaming System The Medical Imaging demo I tried at the Augmented World Expo in particular took it to the next level, at that point I realized it wasn’t just a gaming system, it is the best value proposition in Light Field Display technology for Students, Gamers, Researchers, pretty much for anyone!",
+   "image": "/wiki/svgn/articles/media/svgn-88470812/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Watch my interview with the Jeri Ellsworth the CEO & Co-Founder of Tilt Five right here:",
+   "body": "What you get is a huge & potentially extendable light field display with an excellent multi-user system that includes an excellent free range of motion 6dof controller. In addition to games the system can be used for medical research, or for any kind of research that involves exploring 3D models. I found out that some folks in a University are building their own massive spherical display with this reflective material that you get with the Tilt Five Holographic Game System. So University researchers can do real immersive 3D Augmented Reality research with a Light Field Display that won’t break the bank, and might not be affordable to University students with other technologies.\n\nMicah Blumberg on LinkedIn: My 2nd impression of Tilt Five's Holographic Gaming System changed My 2nd impression of Tilt Five's Holographic Gaming System changed my mind for the better. This time I came away… www.linkedin.com",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "A 50 inch Light Field Display from another company for example that does not require",
+   "body": "A 50 inch Light Field Display from another company for example that does not require glasses might cost $50,000 dollars. You get this giant display for $359 and it can be extended almost endlessly with additional reflective board pieces that are made with inexpensive material. That is another big point that I missed the first time around.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "The excellent Magic Leap 2 product is priced for Enterprise use, and it’s great for",
+   "body": "The excellent Magic Leap 2 product is priced for Enterprise use, and it’s great for Enterprise. Tilt Five is another great option that should be more popular with Students because of the price, but also because it’s a gaming system. What I concluded in an earlier article about the controller being 3dof was actually a mistake that I made based on a really short demo I had at the Game Developer Convention in March 2022 where I did not understand how to control the game controller correctly. In that first experience I was not able to precisely control the game because I didn’t understand that there was a button to enable more precise movement of the lego-like platforms. So I had thought the controller was IMU based like the Nintendo Wii controller, but actually it’s closer to the Valve Index or HTC Vive controller with a full & accurate range of motion.",
+   "image": "/wiki/svgn/articles/media/svgn-88470812/003.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Contrary to what I wrote in a previous article the controller actually is a real 6dof",
+   "body": "Contrary to what I wrote in a previous article the controller actually is a real 6dof controller, which means the controller’s position is accurately tracked in space. Awesome 3D graphics do actually pop-out as long as they are in between yourself & the reflector screen (the board that comes with it) you can pull the 3D graphics right up to your face, or you can lean in or out to see what you are looking at more closely.",
+   "image": "/wiki/svgn/articles/media/svgn-88470812/005.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470812/007.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "It is a much better value proposition for consumers than I realized the first go around.",
+   "body": "It is a much better value proposition for consumers than I realized the first go around. At AWE2022 I tried out the new larger gameboard with a folding partition you can angle upwards. When I experienced the controller’s 6dof capabilities, I was able to use the controller to examine the insides of a 3D medical imaging scan of a head, skull, and brain, with accurate & precise positioning to slice through the 3D model so I could see the angle I wanted. Tilt Five won an Auggie Aware at Augmented World Expo while I was there! Congratulations! Well deserved! One final thought is that this might be really great to roll out to folks in the Military on a large scale, there is certainly potential, and cost savings vs using something like HoloLens. It’s also small, compact, and lightweight.",
+   "image": "/wiki/svgn/articles/media/svgn-88470812/009.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "Thanks for reading.",
+   "body": "Thanks for reading. I hope you liked this article. Feel free to subscribe to my channels and or follow me on social media. http://vrma.io",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO…]] · [[The Valve Lighthouse 2.0 Tracking system is now shipping with the HTC Vive Pro: Price $1399]] · [[Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…]] · [[News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-172414c43c7",
+     "title": "New impressions of the Tilt Five Holographic Gaming System + My Interview with Jeri Ellsworth, CEO…"
+    },
+    {
+     "id": "vrma-89ddac43b9af",
+     "title": "The Valve Lighthouse 2.0 Tracking system is now shipping with the HTC Vive Pro: Price $1399"
+    },
+    {
+     "id": "vrma-8916d80e0339",
+     "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+    },
+    {
+     "id": "vrma-a673d2063c5",
+     "title": "News volumetric video technology on display at Siggraph 2019, cinematic quality digital avatars…"
+    }
+   ]
+  }
+ ]
+}

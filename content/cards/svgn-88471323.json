@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471323",
+ "title": "Notes from Friday, September 14, 2018, micah@vrma.io wrote:",
+ "dek": "Meetup: Neurotech SF VR: WebXR, EEG, Tensor Flow, Oculus Rift",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-09-01",
+ "articleHref": "/wiki/svgn/articles/2018-09-01-notes-from-friday-september-14-2018-micah-vrma-io-wrote-vrma-7a80cfd3901b",
+ "sourceUrl": "https://www.svgn.io/p/list-of-links-from-neurotech-sf-vr-on-8-31-2018-7a80cfd3901b",
+ "topTerms": [
+  "https",
+  "data",
+  "join",
+  "facebook",
+  "time",
+  "group",
+  "event",
+  "object"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-c7785a874e00",
+   "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+  },
+  {
+   "id": "vrma-f4962ab836fa",
+   "title": "House Intelligence releases data on Russian purchased social media ads, Facebook responds +…"
+  },
+  {
+   "id": "vrma-dc6e07210187",
+   "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+  },
+  {
+   "id": "vrma-c67ca275dfc8",
+   "title": "A list of Women in VR, AR, or Tech groups on Facebook"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Notes from Friday, September 14, 2018, micah@vrma.io wrote:",
+   "body": "Meetup: Neurotech SF VR: WebXR, EEG, Tensor Flow, Oculus Rift",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "We created a deep learning plan called Pipeline.",
+   "body": "We created a deep learning plan called Pipeline.\n\nPipeline:\n\n// create an event every time the raycast bounces off an object indicating head position,\n\n// time log that event so we can correlate it with eeg data\n\n// Time log every object in line of sight (object, angle, …)\n\nWe managed to create an event each time the ray casting is pointed at an object.\n\nNext up that data needs to be time locked to the eeg data so we can export both sets of data to tensor flow\n\nSo we can train tensor flow on both sets of data\n\nThen tensor flow will try to predict what we are looking at based on only eeg data.\n\nNext up: Export all raw data in JSON at the end of web session to create training databases.\n\nTrain the data in tensorflow-gpu",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Export the inference files to tensorflow.js for live inference in the browser\n\nExplore",
+   "body": "Export the inference files to tensorflow.js for live inference in the browser\n\nExplore also using tensorflow light and tensorflow raspberry pi\n\n// R (Aria) setup a mapping from our local host to the noisebridge.net web page so folks can view the website at home from http://pegasus.noisebridge.net/webvr_temp/\n\nMust ask R (via slack) to turn it on, if it’s off, because R has only granted us permission to have it up temporary (upon request for a specified time-interval)\n\nOther notes:\n\nWe also tried to figure out why the websocket isn’t multi-threading by default, some of our research suggested that the we need to change a variable to true to enable the websocket to serve the EEG data to each instance of the client for each person who accesses our webvr page. We experimented with some different variations of websocket technology but we didn’t figure it out and ended up reverting to the original server script.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "List of links from Neurotech SF VR on 8/31/2018",
+   "body": "Our Github where you can download a copy of the code we built together as a community. It’s open source:\n\nMicah1/neurotech Contribute to Micah1/neurotech development by creating an account on GitHub. github.com\n\nPlasma Brain Dynamics Paper\n\nNeural Lace Podcast S2 E1\n\nWeb VR code examples\n\nhttps://aframe.io/examples/showcase/helloworld/ https://glitch.com/edit/#!/sparkling-talk?path=index.html:15:66\n\nHello, WebVR! * A-Frame Hello, WebVR! * A-Framesparkling-talk.glitch.me\n\nOne path to integrating multiple sensor streams, time locking them, and presenting them to tensor flow.\n\nhttps://intheon.io/projects\n\nhttps://www.youtube.com/watch?v=g3XPUdW9Ryg\n\nhttps://www.youtube.com/watch?v=nMj6aQe6CLY\n\nother links you should check out are as follows",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Main RSVP page for the event: https://www.meetup.com/NeuroTechSF/\n\nJoin our Discord group",
+   "body": "Main RSVP page for the event: https://www.meetup.com/NeuroTechSF/\n\nJoin our Discord group http://www.neurohaxor.com\n\nJoin the Global Neurotech Slack http://neurotechx.herokuapp.com   Make sure to join the SF channel: #_san-francisco\n\nJoin this Facebook Group: Self Aware Networks: Computational Biology: Neural Lace https://www.selfawarenetworks.com\n\nJoin this Facebook Group: Neurophysics+ https://www.facebook.com/groups/IFLNeuro/\n\nJoin this Facebook Group: NeurotechSF https://www.facebook.com/groups/neurosf/\n\nJoin this Facebook Group: Neurohaxor https://www.facebook.com/groups/neurohaxor/\n\nMy business card is at http://vrma.work",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…]] · [[House Intelligence releases data on Russian purchased social media ads, Facebook responds +…]] · [[Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages.]] · [[A list of Women in VR, AR, or Tech groups on Facebook]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-c7785a874e00",
+     "title": "Facebook unprofessionally retaliates against Group Admins and Journalists who write unfavorable…"
+    },
+    {
+     "id": "vrma-f4962ab836fa",
+     "title": "House Intelligence releases data on Russian purchased social media ads, Facebook responds +…"
+    },
+    {
+     "id": "vrma-dc6e07210187",
+     "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+    },
+    {
+     "id": "vrma-c67ca275dfc8",
+     "title": "A list of Women in VR, AR, or Tech groups on Facebook"
+    }
+   ]
+  }
+ ]
+}

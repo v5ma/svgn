@@ -1,0 +1,210 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471644",
+ "title": "Neurotech SF VR Hacknight: Brainduino+WebXR+OculusGo #4",
+ "dek": "Will be held Friday, August 3rd 2018, At Noisebridge in San Francisco From 5pm to 9pm, feel free to arrive /depart anytime during that time…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-07-30",
+ "articleHref": "/wiki/svgn/articles/2018-07-30-neurotech-sf-vr-hacknight-brainduino-webxr-oculusgo-4-vrma-e3e8ac4e9805",
+ "sourceUrl": "https://www.svgn.io/p/neurotech-sf-vr-hacknight-brainduino-webxr-oculusgo-4-e3e8ac4e9805",
+ "topTerms": [
+  "webxr",
+  "data",
+  "oculus",
+  "brainduino",
+  "meetups",
+  "progress",
+  "virtual",
+  "reality"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-e3e8ac4e9805",
+   "title": "Neurotech SF VR Hacknight: Brainduino+WebXR+OculusGo #4"
+  },
+  {
+   "id": "vrma-cf405a2b6cd2",
+   "title": "Annoucing the Neurotech SF VR Hack #3: Brainduino WebXR Oculus Go."
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Neurotech SF VR Hacknight: Brainduino+WebXR+OculusGo #4",
+   "body": "Will be held Friday, August 3rd 2018, At Noisebridge in San Francisco From 5pm to 9pm, feel free to arrive /depart anytime during that time…",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "You can optionally bring your own brain computer interfaces (BCI), vr headsets (like",
+   "body": "You can optionally bring your own brain computer interfaces (BCI), vr headsets (like Oculus Go or Mirage Solo or Vive Focus) and your own laptop to develop your own WebXR application, and you can test your webXR application with our Brainduino and our Oculus Go if you like.\n\nThe global objective: NeurotechX is a global organization of Neurohackers with 17 chapters worldwide.\n\nThis document is regarding the San Francisco branch of Neurotech and a second meetup called San Francisco Virtual Reality that was founded by Matt Sonic. As an organizer of both meetups, and as an organizer of Noisebridge meetups I have been combining these meetups at Noisebridge because BCI devices are on track to converge with AR VR devices.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The local objective of the NeurotechSF & San Francisco Virtual Reality meetups is",
+   "body": "The local objective of the NeurotechSF & San Francisco Virtual Reality meetups is currently to merge Brain Computer Interfaces with XR (XR is a single API that does both Augmented Reality + Virtual Reality) and AR VR headset and combine these with Machine Learning (Deep Learning Artificial Intelligence) and possibly also create 3D point clouds of data from medical imaging and 3D point clouds of data around a participant, and do correlations between BCI data and environment data, that can include virtual environment data. We also want to create next generation biofeedback data visualizations and next generation user interfaces that predict users intention and emotion at the interface of AR and VR with the biofeedback and machine learning.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "The objective of this specific new series (this document is about the 4th in the new",
+   "body": "The objective of this specific new series (this document is about the 4th in the new series that started Summer 2018) is to combine the brainduino with the oculus go via webXR.\n\nThe goals for this specific hacknight on Friday are:\n\nBroadcast our html page, with the webvr & the brainduino EEG live stream to the open web so we can access it from inside the Oculus Go.\n\n2. Migrate from aframe WebVR to the new WebXR protocol\n\n3. Build or integrate FFT into the pipeline either on the Python side or on the WebXR side. So we can get the component waves, Alpha, Beta, Theta, Delta, and Gamma from the brainduino and display them in VR, or at least create visualizations from the component waveforms.\n\n4. If we have time we will explore how to send data into Tensor Flow (Deep Learning) via Keras and how to receive the output back into WebXR.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Previous Progress: We made significant progress at that last meetup, we were able to",
+   "body": "Previous Progress: We made significant progress at that last meetup, we were able to cause voltages from the skin to move objects in WebVR. Watch the video that explains the recent progress we made in our Sunday July 29th meetup.\n\nProgress! On the NeurotechSF + SF VR Hacknight #3 we made major progress towards the goal of integrating EEG with WebXR, and VR via an Oculus Go. As you can see in the video the actual voltages from the sensors are causing the shapes in our aframe application to run! This took a lot of work and time over many meetups to figure out! Thank you to everyone who has contributed. I feel like this was a significant milestone!\n\nhttps://www.facebook.com/worksalt/videos/2332211350138832/",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Annoucing the Neurotech SF VR Hack #3: Brainduino WebXR Oculus Go.",
+   "body": "Annoucing the Neurotech SF VR Hack #3: Brainduino WebXR Oculus Go. It’s free but it’s not a party or a presentation. You come to hack, to work on technology, to do something new, if hacking sounds like fun… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/001.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/003.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/005.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/007.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/009.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/011.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/013.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/015.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/017.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/019.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/021.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/023.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/025.jpg"
+  },
+  {
+   "seq": 20,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/027.jpg"
+  },
+  {
+   "seq": 21,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/029.jpg"
+  },
+  {
+   "seq": 22,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/031.jpg"
+  },
+  {
+   "seq": 23,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/033.jpg"
+  },
+  {
+   "seq": 24,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471644/035.jpg"
+  },
+  {
+   "seq": 25,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Neurotech SF VR Hacknight: Brainduino+WebXR+OculusGo #4]] · [[Annoucing the Neurotech SF VR Hack #3: Brainduino WebXR Oculus Go.]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-e3e8ac4e9805",
+     "title": "Neurotech SF VR Hacknight: Brainduino+WebXR+OculusGo #4"
+    },
+    {
+     "id": "vrma-cf405a2b6cd2",
+     "title": "Annoucing the Neurotech SF VR Hack #3: Brainduino WebXR Oculus Go."
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    }
+   ]
+  }
+ ]
+}

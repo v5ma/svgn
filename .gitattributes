@@ -1,0 +1,11 @@
+# Exact public corpus artifacts are content-addressed; Git must preserve bytes.
+content/articles/*.html -text whitespace=-blank-at-eol
+content/cards/*.json -text
+content/stories/*.md -text
+content/manifest.json -text
+
+# Source and workflow files use deterministic LF endings across platforms.
+*.mjs text eol=lf
+*.yml text eol=lf
+package.json text eol=lf
+README.md text eol=lf

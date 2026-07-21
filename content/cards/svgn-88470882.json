@@ -1,0 +1,82 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470882",
+ "title": "NFT Success Stories/ NBA Top Shot $230 million in transactions.",
+ "dek": "Top Shots are officially licensed by the NBA. NBA Top Shots what is it? It’s a little weird to explain if you haven’t heard of this…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2021-03-02",
+ "articleHref": "/wiki/svgn/articles/2021-03-02-nft-success-stories-nba-top-shot-230-million-in-transactions-vrma-5cd7c3df87e3",
+ "sourceUrl": "https://www.svgn.io/p/nft-success-stories-nba-top-shot-230-million-in-transactions-5cd7c3df87e3",
+ "topTerms": [
+  "moment",
+  "shot",
+  "cards",
+  "blockchain",
+  "each",
+  "sports",
+  "card",
+  "video"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-94b31d96e250",
+   "title": "Horizon Blockchain Games, Web3Auth, Transperfect, Plank Builders at GDC 2022"
+  },
+  {
+   "id": "vrma-13d0403c017a",
+   "title": "VR+Blockchain: Interview w/ Kieran Farr v Decentraland on the convergence of Virtual Reality w/…"
+  },
+  {
+   "id": "vrma-cc6c75348000",
+   "title": "Echo Arena Esports VR Battle"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "NFT Success Stories/ NBA Top Shot $230 million in transactions.",
+   "body": "Top Shots are officially licensed by the NBA. NBA Top Shots what is it? It’s a little weird to explain if you haven’t heard of this…",
+   "image": "/wiki/svgn/articles/media/svgn-88470882/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "NBA Top Shot twitter slogan says: “Witness history.",
+   "body": "NBA Top Shot twitter slogan says: “Witness history. Own the plays. Officially licensed by @nba & @thenbpa. Bringing Basketball to ⛓. Built on @flow_blockchain.” NBA Top Shot (twitter) @nba_topshot Top Shots are officially licensed by the NBA. NBA Top Shots what is it? It’s a little weird to explain if you haven’t heard of this before, its like trading cards that you can buy, but each card has a video, and each trading card has a unique serial number, that serial number is it’s nft that is stored on the blockchain, and these cards are released in limited sets so if you buy one you own that moment.\n\nA moment could be a when a player makes 3 point shot, or dunks the ball. Each moment (on video) is a virtual sports card that has a unique NFT number that is stored on the blockchain.",
+   "image": "/wiki/svgn/articles/media/svgn-88470882/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "Imagine great moments in the history of sports, captured by sports cards, and it comes",
+   "body": "Imagine great moments in the history of sports, captured by sports cards, and it comes with a video of that great moment in sports. That’s what you get to own. Whoever buys that card, owns that moment, in that set of cards, according to the NBA.\n\nNBA Top Shot sells moments captured on video like playing cards. You get to own a minted moment of history from an official NBA set.\n\nThe prices vary like other collectable cards, depending on who the player is, how rare the moment is, and how many are distributed by Top Shot who can decide to sell 25 limited edition copies of that moment, or 500 copies, each copy with its own unique serial number NFT stored on the blockchain to validate ownership. Moments can be purchased in packs like sports cards, or purchased from other users. Prices per moments can vary widely for example they could range from $10 to $300,000 on any given day.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "NBA top Shot accepts credit cards and cryptocurrencies including ethereum, bitcoin and",
+   "body": "NBA top Shot accepts credit cards and cryptocurrencies including ethereum, bitcoin and bitcoin cash.\n\nAfter the purchase, the Top Shot is stored in your digital wallet.\n\nA LeBron James Moment sold for $208,000\n\nAnother LeBron James Moment sold for 47.5k\n\nAn Anthony Davis Moment sold for $55,000\n\nNBA Top Shot was developed by Dapper Labs, the company behind CryptoKitties\n\nCryptoKitties | Collect and breed digital cats! Collect and trade CryptoKitties in one of the world's first blockchain games. Breed your rarest cats to create the… www.cryptokitties.co\n\nNBA Top Shot makes money on pack sales and transaction fees. Dapper Labs, Topshot creator, gets a 5% transaction fee on sales. The NBA players union gets a cut of each sale.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Horizon Blockchain Games, Web3Auth, Transperfect, Plank Builders at GDC 2022]] · [[VR+Blockchain: Interview w/ Kieran Farr v Decentraland on the convergence of Virtual Reality w/…]] · [[Echo Arena Esports VR Battle]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-94b31d96e250",
+     "title": "Horizon Blockchain Games, Web3Auth, Transperfect, Plank Builders at GDC 2022"
+    },
+    {
+     "id": "vrma-13d0403c017a",
+     "title": "VR+Blockchain: Interview w/ Kieran Farr v Decentraland on the convergence of Virtual Reality w/…"
+    },
+    {
+     "id": "vrma-cc6c75348000",
+     "title": "Echo Arena Esports VR Battle"
+    }
+   ]
+  }
+ ]
+}

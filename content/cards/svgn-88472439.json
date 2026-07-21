@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472439",
+ "title": "Windlands 2 Preview at Oculus Connect 4",
+ "dek": "by Micah Blumberg, Silicon Valley Global News Gameplay preview:",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-14",
+ "articleHref": "/wiki/svgn/articles/2017-10-14-windlands-2-preview-at-oculus-connect-4-vrma-9e166a56e950",
+ "sourceUrl": "https://www.svgn.io/p/windlands-2-preview-at-oculus-connect-4-9e166a56e950",
+ "topTerms": [
+  "micah",
+  "blumberg",
+  "silicon",
+  "valley",
+  "global",
+  "gameplay",
+  "preview",
+  "interview"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-ccd179bcac41",
+   "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+  },
+  {
+   "id": "vrma-e57a41fb406b",
+   "title": "Three events added to the Silicon Valley Global Events Calendar"
+  },
+  {
+   "id": "vrma-f800148de385",
+   "title": "Silicon Valley Global News: Front Page"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Windlands 2 Preview at Oculus Connect 4",
+   "body": "by Micah Blumberg, Silicon Valley Global News Gameplay preview:",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Interview with developer of Windlands 2 Pascal Auberson",
+   "body": "Interview with developer of Windlands 2 Pascal Auberson",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472439/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472439/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News",
+   "body": "15 New Articles/Posts from Oculus Connect 4 by Micah Blumberg, Silicon Valley Global News (more credits at the bottom) medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472439/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io]] · [[Three events added to the Silicon Valley Global Events Calendar]] · [[Silicon Valley Global News: Front Page]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-ccd179bcac41",
+     "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+    },
+    {
+     "id": "vrma-e57a41fb406b",
+     "title": "Three events added to the Silicon Valley Global Events Calendar"
+    },
+    {
+     "id": "vrma-f800148de385",
+     "title": "Silicon Valley Global News: Front Page"
+    }
+   ]
+  }
+ ]
+}

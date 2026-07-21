@@ -1,0 +1,52 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471646",
+ "title": "I think this is it http://psychiclab.net/IBVA/kit1.html",
+ "dek": "I think this is it http://psychiclab.net/IBVA/kit1.html By SVGN.io on July 26, 2018 . Exported from Medium on May 22, 2026.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-07-26",
+ "articleHref": "/wiki/svgn/articles/2018-07-26-i-think-this-is-it-http-psychiclab-net-ibva-kit1-html-vrma-249c91b36e61",
+ "sourceUrl": "https://www.svgn.io/p/i-think-this-is-it-http-psychiclab-net-ibva-kit1-html-249c91b36e61",
+ "topTerms": [
+  "think",
+  "http",
+  "psychiclab",
+  "ibva",
+  "kit1",
+  "html"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-249c91b36e61",
+   "title": "I think this is it http://psychiclab.net/IBVA/kit1.html"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "I think this is it http://psychiclab.net/IBVA/kit1.html",
+   "body": "I think this is it http://psychiclab.net/IBVA/kit1.html By SVGN.io on July 26, 2018 . Exported from Medium on May 22, 2026.",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "I think this is it http://psychiclab.net/IBVA/kit1.html",
+   "body": "I think this is it http://psychiclab.net/IBVA/kit1.html",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I think this is it http://psychiclab.net/IBVA/kit1.html]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-249c91b36e61",
+     "title": "I think this is it http://psychiclab.net/IBVA/kit1.html"
+    }
+   ]
+  }
+ ]
+}

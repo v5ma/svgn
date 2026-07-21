@@ -1,0 +1,126 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471626",
+ "title": "The Neural Lace Podcast Playlist Summary",
+ "dek": "The Neural Lace Talks is a podcast about Science and Technology. Main website http://vrma.io Contact via micah@vrma.io",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-04-14",
+ "articleHref": "/wiki/svgn/articles/2017-04-14-the-neural-lace-podcast-playlist-summary-vrma-855d36d19c80",
+ "sourceUrl": "https://www.svgn.io/p/the-neural-lace-podcast-855d36d19c80",
+ "topTerms": [
+  "neural",
+  "lace",
+  "youtube",
+  "playlist",
+  "podcast",
+  "https",
+  "find",
+  "episodes"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-91d843540d47",
+   "title": "The Neural Lace Podcast: Four Episodes have now been published."
+  },
+  {
+   "id": "vrma-855d36d19c80",
+   "title": "The Neural Lace Podcast Playlist Summary"
+  },
+  {
+   "id": "vrma-8acbacf53af9",
+   "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+  },
+  {
+   "id": "vrma-17c4067a648e",
+   "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "The Neural Lace Podcast Playlist Summary",
+   "body": "The Neural Lace Talks is a podcast about Science and Technology. Main website http://vrma.io Contact via micah@vrma.io",
+   "image": "/wiki/svgn/articles/media/svgn-88471626/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The Neural Lace Talks is a podcast about Science and Technology.",
+   "body": "The Neural Lace Talks is a podcast about Science and Technology.  Main website http://vrma.io Contact via micah@vrma.io\n\nFind the youtube playlist for all the episodes here: https://www.youtube.com/playlist?list=PLkuAPx_OL_kE35pOKBfEd2TIWWX_tfuvM",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The Neural Lace Podcast Episode #4 Guest Andre Watson",
+   "body": "Have you ever wondered how Neural lace might work? I have some amazing guests talking about it on my podcast, give it a listen if you have time today.\n\nIn the 4th episode of the Neural Lace Podcast, I talk to Andre Watson, the CEO of Ligandal, a genetic nano-medicine company developing personalized gene therapies. goo.gl/cgCNwX Watson and I take a deeper dive into the synapse physiology and molecular biological basis of consciousness.\n\nHow much do we really need to understand and observe to effectively create neural lace? Andre presents his argument for the biological basis of consciousness.\n\nRead about the 4th Episode with Guest Andre Watson here: https://medium.com/@micah31/neural-lace-talks-may-4th-2017-with-guest-andre-watson-fb8ee853b6de Find the youtube playlist for all the episodes here: https://www.youtube.com/playlist?list=PLkuAPx_OL_kE35pOKBfEd2TIWWX_tfuvM",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471626/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "The Neural Lace Podcast #3 Guest: Eric Matzner Read about this episode here",
+   "body": "The Neural Lace Podcast #3 Guest: Eric Matzner Read about this episode here https://medium.com/@micah31/the-neural-lace-podcast-episode-3-realizing-neural-lace-98bb3701d7d9 Find the youtube playlist for all the episodes here: https://www.youtube.com/playlist?list=PLkuAPx_OL_kE35pOKBfEd2TIWWX_tfuvM\n\nNeural Lace is in part about hacking into the Brain’s Virtual Reality System, but beside that what are the other practical uses for Neural Lace? I also recap the two steps we need to take to achieve Neural Lace.",
+   "image": "/wiki/svgn/articles/media/svgn-88471626/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471626/005.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "The Neural Lace Podcast #2 Guest: Blaze Sanders Blaze talks practical, medical, business,",
+   "body": "The Neural Lace Podcast #2 Guest: Blaze Sanders Blaze talks practical, medical, business, and robotics use cases for Neural Lace. Blaze is the CTO of SpaceVR, previous R&D engineer for the Meta 2 Augmented Reality (AR) glasses, and ex-Nasa Civil Servant who worked in Robotics.\n\nFind the youtube playlist for all the episodes here: https://www.youtube.com/playlist?list=PLkuAPx_OL_kE35pOKBfEd2TIWWX_tfuvM",
+   "image": "/wiki/svgn/articles/media/svgn-88471626/007.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471626/009.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "The Neural Lace Podcast: Neo Mind Cycle",
+   "body": "The Neural Lace Podcast: Neo Mind Cycle",
+   "image": "/wiki/svgn/articles/media/svgn-88471626/011.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471626/013.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[The Neural Lace Podcast: Four Episodes have now been published.]] · [[The Neural Lace Podcast Playlist Summary]] · [[FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4]] · [[GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-91d843540d47",
+     "title": "The Neural Lace Podcast: Four Episodes have now been published."
+    },
+    {
+     "id": "vrma-855d36d19c80",
+     "title": "The Neural Lace Podcast Playlist Summary"
+    },
+    {
+     "id": "vrma-8acbacf53af9",
+     "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+    },
+    {
+     "id": "vrma-17c4067a648e",
+     "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+    }
+   ]
+  }
+ ]
+}

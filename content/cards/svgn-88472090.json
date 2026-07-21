@@ -1,0 +1,66 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472090",
+ "title": "Apple leak: The rumored iPhone XX Pro (mockup provided by SVGN.io)",
+ "dek": "by Micah Blumberg, April 1st 2018",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-04-01",
+ "articleHref": "/wiki/svgn/articles/2018-04-01-apple-leak-the-rumored-iphone-xx-pro-mockup-provided-by-svgn-io-vrma-13bef890c53e",
+ "sourceUrl": "https://www.svgn.io/p/apple-leak-the-rumored-iphone-xx-pro-mockup-provided-by-svgn-io-13bef890c53e",
+ "topTerms": [
+  "depth",
+  "april",
+  "each",
+  "side",
+  "phone",
+  "meant",
+  "micah",
+  "blumberg"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Apple leak: The rumored iPhone XX Pro (mockup provided by SVGN.io)",
+   "body": "by Micah Blumberg, April 1st 2018",
+   "image": "/wiki/svgn/articles/media/svgn-88472090/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Iphone XX Pro has two fullsize screens on each side of the phone + two sets of depth",
+   "body": "Iphone XX Pro has two fullsize screens on each side of the phone + two sets of depth cameras on each side so it can do depth tracking of two people in a conversation and capture a depth map of an entire room, creating a hologram of your meeting that you can broadcast live.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The Phone is meant to sit on a mini-monopod during holographic captures of conversations",
+   "body": "The Phone is meant to sit on a mini-monopod during holographic captures of conversations and it will be considered as a device that is meant for Pro users since the MSRP is expected to be $2100 for the base model which has only 500 GB.",
+   "image": "/wiki/svgn/articles/media/svgn-88472090/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Happy April fools day!",
+   "body": "Happy April fools day!",
+   "image": "/wiki/svgn/articles/media/svgn-88472090/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Micah Blumberg]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    }
+   ]
+  }
+ ]
+}

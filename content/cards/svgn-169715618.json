@@ -1,0 +1,464 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-169715618",
+ "title": "When Gravity Dissolves Into Time: Two Physicists' Converging Quest",
+ "dek": "Mapping Ginestra Bianconi’s “Gravity from Entropy” to Quantum Gradient Time Crystal Dilation, Super Dark Time, and Super Information Theory by Micah Blumberg",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-07-31",
+ "articleHref": "/wiki/svgn/articles/2025-07-31-when-gravity-dissolves-into-time-two-physicists-converging-quest-svgn-169715618",
+ "sourceUrl": "https://www.svgn.io/p/conceptual-equivalence-between-bianconis",
+ "topTerms": [
+  "gravity",
+  "time",
+  "quantum",
+  "entropy",
+  "information",
+  "bianconi",
+  "blumberg",
+  "theory"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-fba167ef1fcd",
+   "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+  },
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "When Gravity Dissolves Into Time: Two Physicists' Converging Quest",
+   "body": "Mapping Ginestra Bianconi’s “Gravity from Entropy” to Quantum Gradient Time Crystal Dilation, Super Dark Time, and Super Information Theory by Micah Blumberg",
+   "image": "/wiki/svgn/articles/media/svgn-169715618/000.png",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "From Notes to Revolution",
+   "body": "The story begins in June 2022 when Micah Blumberg published notes containing an equation that would challenge a century of gravitational theory: g = ∇ρ_time. These notes contained the seed of revolution—the idea that mass acts as a time crystal, creating gradients in temporal density that manifest as gravity. To most physicists, it would have seemed nonsensical—gravity equals the gradient of time density? Time doesn't have density. It flows uniformly, marking the beat of the universe's cosmic clock. Or does it?\n\nThe notes emphasized something else crucial: phase-wave differentials as fundamental information units linking processes across all scales. This wasn't just a theory of gravity but a universal principle of information processing, from quantum fields to cosmic structures.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Over the next three years, these initial insights would bloom into a suite of",
+   "body": "Over the next three years, these initial insights would bloom into a suite of interconnected theories, each retaining the core insight while extending its reach. When similar ideas appeared two years later from other researchers, it only confirmed what Blumberg had already established—that gravity emerges from information gradients, not fundamental forces.\n\nThree years later, physicist Ginestra Bianconi at Queen Mary University of London published a paper deriving gravity from quantum information theory. Her central move is to define a gravitational action as the quantum relative entropy between the spacetime metric and a matter-induced metric; varying this action yields modified Einstein equations. Though expressed in the language of quantum relative entropy, her conclusion echoed Blumberg's earlier insight—gravity isn't fundamental. It's what happens when something deeper tries to find balance.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Over 2024–25 he expanded these ideas into a suite of theories – Quantum Gradient Time",
+   "body": "Over 2024–25 he expanded these ideas into a suite of theories – Quantum Gradient Time Crystal Dilation (QGTCD), Super Dark Time (SDT), Quantum SuperTimePosition, Micah’s New Law of Thermodynamics, Super Information Theory (SIT) each retaining the core insight that time-density and information flows generate gravity.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "The Independent Researcher's Vision",
+   "body": "Blumberg published his groundbreaking work through modern scientific channels—GitHub, Figshare, and online forums. His earliest public notes from June 2022 contain a radical proposition: mass acts as a \"time crystal\" that locally increases the density of time frames. But crucially, these notes also introduced phase-wave differentials as the fundamental information units linking processes across scales—a mechanistic detail that would prove essential.\n\nThink of time not as a smooth river but as composed of discrete ticks—quantum moments. Near massive objects, Blumberg proposed, these ticks crowd together more densely. \"Imagine space divided into a grid,\" Blumberg would later explain. \"Around a massive object like Earth, each grid square contains more 'time frames'—more discrete moments of time—than squares farther away.\"",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "This isn't the time dilation of Einstein's relativity, where clocks run slower.",
+   "body": "This isn't the time dilation of Einstein's relativity, where clocks run slower. It's something more fundamental: the local scalar time-density ρ_t increases near mass , enriching temporal information content. Blumberg was proposing a time-density scalar field in ordinary 3+1 spacetime with spatial variation—an idea unprecedented in mainstream physics. Indeed, neither Einstein nor other emergent gravity pioneers ever formulated gravity explicitly as a gradient of a time-density field.\n\nThe implications were immediate and profound. If particles move randomly through space, they'll naturally drift toward regions with more time frames—simply because there are more temporal \"slots\" to occupy in that direction. This statistical bias manifests as gravitational attraction. But unlike abstract formulations, Blumberg provided the mechanism: local wave interactions and phase collisions dissipate differences and compute gravitational attraction.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Bianconi’s “Gravity from Entropy” – Gravity as Quantum Relative Entropy: An Information-Based Theory like Blumberg’s.",
+   "body": "",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "The Core Innovation",
+   "body": "Ginestra Bianconi proposed a radical reimagining of gravity: instead of viewing spacetime as a classical geometric backdrop, she treats it as a quantum information system that can be directly compared to matter through mathematical measures of information content.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "The Information-Theoretic Foundation",
+   "body": "The theory centers on quantum relative entropy between two metric operators; the field equations come from extremizing this entropic action, rather than a literal ongoing evaluation by the universe. Bianconi suggests the universe continuously evaluates the informational gap between two key elements: spacetime's actual geometric structure and the geometric configuration that matter would naturally create. Gravity then emerges as the universe's mechanism for reducing this informational mismatch.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "Mathematical Framework and Predictions",
+   "body": "In her formulation (first published on arXiv in August 2024 and developed through early 2025), Bianconi’s framework supplements General Relativity with an entropic action. This yields modified Einstein equations that reduce to the ordinary Einstein equations in a low-coupling, small-curvature regime.\n\nA notable outcome is an emergent small positive cosmological constant that depends only on the G-field; quantitative matching to the observed value is not established in the paper.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "The G-Field and Dark Matter Connection",
+   "body": "Bianconi's theory introduces what she calls the G-field, which functions as a mathematical constraint enforcer (technically, a Lagrange multiplier) maintaining the entropy balance. The paper introduces a G-field as a set of Lagrange multipliers; the author notes that clarifying any connection to dark matter is a direction for future work, not a result.",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "Conceptual Framework",
+   "body": "The theory fundamentally reframes gravity as an informational alignment process. Rather than mass directly warping spacetime geometry, the universe operates more like a quantum computer, continuously calculating and minimizing the information difference between what spacetime geometry actually is and what the distribution of matter would prefer it to be.\n\nIn low-energy, weak-field conditions, this information-minimization process reproduces Einstein's classical gravity. However, under extreme conditions or at cosmic scales, the entropic foundation reveals new physics—potentially explaining both dark energy and dark matter as information-theoretic phenomena rather than exotic substances.",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "Connections to Related Work",
+   "body": "This approach shares conceptual ground with Micah Blumberg's independent theories, including Quantum Gradient Time Crystal Dilation and Super Information Theory. Both researchers propose that gravity emerges from deeper informational or thermodynamic principles rather than being a fundamental force. Their work collectively suggests that what we experience as gravitational effects might actually be manifestations of the universe's underlying information-processing dynamics.",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "Broader Implications",
+   "body": "By treating gravity as an entropy-minimization process, Bianconi's theory offers a potential pathway to unify quantum mechanics with general relativity. It suggests that gravitational phenomena emerge naturally from the universe's drive toward informational equilibrium between matter and spacetime geometry—transforming our understanding of gravity from a fundamental force into a computational byproduct of cosmic information processing.",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "Conceptual Overlap with Blumberg’s theories.",
+   "body": "Information-Based Gravity : Both theories reconceptualize gravity as emerging from information disparities rather than mass-energy curvature. Bianconi frames gravitational action through quantum relative entropy between spacetime and matter-induced metrics, where gravity represents the system's entropy minimization drive. QGTCD characterizes gravity as a gradient in local time density, with objects naturally flowing toward time-rich regions. The claim in her work is variational: the action is a quantum relative-entropy functional whose Euler–Lagrange equations give modified gravity, versus the g ∝ ∇ρ_time force-law statement in Blumberg’s model.\n\nQuantum-Gravitational Synthesis : Rather than treating quantum mechanics and gravity as fundamentally separate domains, both approaches derive gravity from quantum informational processes. Bianconi elevates the spacetime metric to a quantum operator, employing quantum relative entropy to generate modified Einstein field equations that naturally incorporate quantum information. QGTCD constructs gravity through discrete temporal quanta and phase-wave dynamics, proposing that apparent quantum randomness emerges from deterministic but undersampled cycles within the SuperTimePosition framework. Both theories dissolve the traditional quantum-classical boundary by rendering gravity as a statistical manifestation of deeper quantum or informational substrates.",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "Entropic Flow Dynamics : The thermodynamic foundation appears central to both frameworks,",
+   "body": "Entropic Flow Dynamics : The thermodynamic foundation appears central to both frameworks, though expressed differently. Bianconi connects universal entropy maximization directly to gravitational phenomena, while QGTCD's thermodynamic law links entropy production to phase-wave dissipation, with gravity serving as this dissipation's physical expression. Whether through explicit quantum relative entropy calculations or time-density-mediated phase interactions, both models present gravity as fundamentally entropic in nature.\n\nDark Sector Reinterpretation : Instead of invoking exotic matter or energy, both theories explain dark phenomena through their respective information fields. Bianconi's G-field Lagrange multiplier generates both a small positive cosmological constant and potential dark matter effects. QGTCD attributes galactic dark matter signatures to enhanced time density concentrations and cosmic acceleration to diminishing time density in expanding voids. This represents a paradigm shift from particle-based explanations toward field-theoretic descriptions rooted in information or temporal dynamics.",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "Note: After the PRD paper (published March 3, 2025), Bianconi posted a follow-up",
+   "body": "Note: After the PRD paper (published March 3, 2025), Bianconi posted a follow-up calculation showing that the quantum relative entropy associated with the Schwarzschild metric obeys an area law in the large-radius limit, while noting that Schwarzschild is only an approximate solution in her framework. That supports consistency but is not a full black-hole solution of the modified equations.",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "The Crucial Distinction: Coherence vs. Decoherence",
+   "body": "Here lies a divergence between the two frameworks. Bianconi uses quantum relative entropy between metric operators as an information-theoretic divergence.\n\nBlumberg's Super Information Theory (SIT), by contrast, introduces a Coherence Conservation Law: coherence is neither created nor destroyed but only redistributed throughout the system. In SIT, entropy is not a measure of decoherence, but a new functional that quantifies the redistribution and dissipation of global coherence through local phase interactions (see SIT42 Abstract, §§23–27). Systems evolve by dissipating phase differences and time-density gradients, increasing overall coherence at macroscopic scales.\n\nGravity from coherence (a new kind of entropy): Super Information Theory (SIT) proposes a Coherence Conservation Law, asserting that coherence is not created or destroyed but redistributed figshare.com. SIT introduces two fields: the dimensionless coherence ratio R_coh(x) and the time-density scalar ρ_t(x) . Local variations and couplings of these fields generate gravity and electromagnetism via coherence holonomy (e.g., ∂iθ = (e/ħ) Ai , Bi = εijk ∂j∂k θ ) and govern kinetic phenomena . The time-density field acts as a source for gravitational curvature and entropy production figshare.com. Entropy here is redefined: instead of measuring decoherence, it tracks the redistribution of coherence via the monotonic decay of a global coherence functional —systems evolve by dissipating phase differences and time-density gradients. Micah’s New Law of Thermodynamics frames entropy growth as the dissipation of phase-wave differences figshare.com. In this sense, SIT is a gravity-from-coherence theory; it is still a “gravity from entropy” model, but the relevant entropy is a coherence-based measure rather than decoherence.",
+   "image": ""
+  },
+  {
+   "seq": 19,
+   "headline": "This isn't merely semantic.",
+   "body": "This isn't merely semantic. It represents fundamentally different views of how the universe processes information. Bianconi sees the universe as losing information through decoherence; Blumberg sees it as reorganizing information through coherence redistribution. This distinction aligns with Blumberg's wave-dissipation universality, where all physical systems—from neurophysics to astrophysics—dissipate phase differences toward coherent states.\n\nGinestra Bianconi’s 2024/25 paper derives gravity from quantum relative entropy, which quantifies the mismatch between spacetime and matter metrics arxiv.org. Relative entropy measures an information-theoretic divergence between states; in this context it is used between metric operators and is not identified with decoherence. The entropic action leads to modified Einstein equations and introduces a G-field that yields a small cosmological constant qmul.ac.uk. This formulation treats gravity as the system’s drive to minimize decoherence, whereas Micah’s SIT uses coherence conservation and time-density to explain gravity and unifies this with thermodynamics and quantum measurement.",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "No extra time dimensions required: Micah’s Quantum Gradient Time Crystal Dilation (QGTCD)",
+   "body": "No extra time dimensions required: Micah’s Quantum Gradient Time Crystal Dilation (QGTCD) and related papers treat gravity as arising from variations in the density of time frames within standard 3D+1 spacetime, not from additional time axes. When QGTCD articles speak of ‘additional time frames’ means a higher density of micro-intervals of time , i.e., densification within ordinary 3+1 spacetime. In the “Explain it to me like I am six” article, Micah illustrates how gravity results from more time frames in one quadrant of space; particles are biased toward regions with extra time, as if there were more space there svgn.io. The New Unified Field Theory article emphasizes that mass creates additional time frames (sometimes described as time dimensions) which change the odds of particle motion svgn.io but these are simply densifications of time within ordinary spacetime. Thus, QGTCD remains a 3D+1 theory.",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "Parallel Mathematical Universes",
+   "body": "Both frameworks contain complete mathematical machinery, though expressed in different dialects. Blumberg's framework defines two primitive fields—the time-density ρ_t(x) and the coherence ratio R_coh(x)—both operationally and mathematically. From these, SIT constructs a diffeomorphism-invariant action augmenting Einstein-Hilbert with kinetic terms, potentials V(ρ_t), U(R_coh), and coupling functions f_1, f_2 for matter and electromagnetic fields.\n\nVarying this action yields modified Einstein equations plus wave equations for the scalar fields—proper second-order covariant field equations. The theory satisfies standard energy conditions (NEC/WEC for canonical choices, bounded SEC), ensures causal propagation within light cones, and admits a power-counting renormalizable scalar sector treated as an effective field theory once gravity is included.",
+   "image": ""
+  },
+  {
+   "seq": 22,
+   "headline": "Bianconi's formulation operates in the language of density matrices and von Neumann",
+   "body": "Bianconi's formulation operates in the language of density matrices and von Neumann entropy. She treats the spacetime metric as a quantum operator and defines gravitational action as the quantum relative entropy between this metric and the matter-induced metric. Her variational principle yields modified Einstein equations with the G-field emerging naturally from the entropy constraint.\n\nBoth frameworks thus contain complete mathematical machinery—field equations, action principles, consistency conditions, and testable predictions. They were simply published through different channels: Blumberg via open-access repositories like Figshare and GitHub, Bianconi through traditional academic journals. Both are equally valid forms of scientific publication—as history shows, from Darwin's books to Perelman's arXiv posts, groundbreaking science has never depended on peer-reviewed journals for legitimacy.",
+   "image": ""
+  },
+  {
+   "seq": 23,
+   "headline": "The Mechanistic Advantage",
+   "body": "A critical strength of Blumberg's framework is its provision of concrete mechanisms. While Bianconi's entropic action is elegant, it remains abstract—it doesn't explain how entropy differences are physically dissipated. Blumberg's New Law of Thermodynamics fills this gap, stating that when any system approaches equilibrium, it does so via stepwise signal/phase dissipation.\n\nIn practical terms: mass induces phase differences in the surrounding time-field. The system's drive to dissipate these differences—to increase entropy by smoothing out the perturbation—produces gravitational attraction. Objects fall toward mass because that motion dissipates the phase differential, bringing the system toward equilibrium.",
+   "image": ""
+  },
+  {
+   "seq": 24,
+   "headline": "This mechanistic narrative extends throughout Blumberg's work.",
+   "body": "This mechanistic narrative extends throughout Blumberg's work. Super Dark Time describes gravity as emerging from countless local \"mini-computations\" in the time field. Every region of space with mass experiences slight phase lags in oscillating quantum fields, and these mismatches get reconciled through what we observe as gravitational interaction. In Blumberg’s memorable phrase, ‘ gravity is computed by local signal/phase-dissipation dynamics governed by the SIT two-field action.",
+   "image": ""
+  },
+  {
+   "seq": 25,
+   "headline": "Beyond Einstein's Apple",
+   "body": "Both frameworks venture into territory Einstein never imagined, but Blumberg's goes further. His Super Dark Time theory extends QGTCD to cosmological scales: regions around galaxies have higher time density, explaining the extra gravitational pull usually attributed to dark matter. Cosmic voids experience decreasing time density, driving accelerated expansion without dark energy. This dynamic explanation contrasts with Bianconi's more static cosmological constant.\n\nEven more ambitiously, Blumberg's Quantum SuperTimePosition reinterprets quantum superposition itself. Perhaps quantum systems evolve with internal \"super-clocks\" ticking faster than we can measure. What appears as quantum randomness might be deterministic oscillations in hyper-fast time. Gravity, by dilating time, would then directly influence quantum probabilities—wedding the quantum and gravitational realms in a way Bianconi's framework doesn't attempt.",
+   "image": ""
+  },
+  {
+   "seq": 26,
+   "headline": "Quantum SuperTimePosition: In exploring the quantum side of his theory, Blumberg",
+   "body": "Quantum SuperTimePosition: In exploring the quantum side of his theory, Blumberg introduced the notion of “SuperTimePosition,” which provides a new interpretation of quantum mechanics that meshes with his gravity concept. The idea here is that quantum systems might evolve with an internal “super-clock” that ticks much faster than what normal time measurement allows svgn.io.\n\nThus, what appears to us as a static superposition or random collapse might actually be deterministic oscillations occurring in a hyper-fast time scale. Gravity (through time dilation) can slow these internal clocks, linking quantum probabilities to gravitational context svgn.io.\n\nIn essence, quantum superposition is reframed as involving a higher density of micro-intervals of time (not extra time dimensions) : particles appear in multiple states because they cycle through states faster than we can directly resolve. This concept of SuperTimePosition directly complements Super Dark Time – it suggests that the quantum randomness feeding into entropy and information is actually due to our limited view of time. Once again, an informational/time depth underlies phenomena: quantum uncertainty and gravitational time dilation are two sides of the same coin.",
+   "image": ""
+  },
+  {
+   "seq": 27,
+   "headline": "While Bianconi’s work does not explicitly discuss quantum measurement or determinism, the",
+   "body": "While Bianconi’s work does not explicitly discuss quantum measurement or determinism, the spirit is similar: both she and Blumberg seek a deeper layer where quantum behavior and gravity unify. Bianconi’s metric-as-quantum-operator approach implies spacetime itself carries quantum informational structure qmul.ac.uk, and Blumberg’s SuperTimePosition gives a narrative to how quantum states might intrinsically carry a hidden time-structure that gravity interacts with. Both approaches eliminate the strict divide between quantum processes and gravitational time flow.",
+   "image": ""
+  },
+  {
+   "seq": 28,
+   "headline": "Micah’s New Law of Thermodynamics:",
+   "body": "A key conceptual bridge in Blumberg’s framework is his proposed new law of thermodynamics. This law states that when any system approaches equilibrium, it does so via stepwise signal/phase dissipation – in other words, entropy increase is actually a computational process of differences evening out via wave-like interactions svgn.io svgn.io. In a gas, this means molecules exchange energy until uniform temperature is reached; in a network of oscillating neurons (as Blumberg analogizes), it means electrical pulses synchronize by reducing phase differences svgn.io svgn.io. Blumberg applies this universal principle to gravity and time: mass induces phase differences in the surrounding time-field (think of mass as injecting a perturbation in the “time waves”), and the system’s drive to dissipate these differences (i.e. to increase entropy by smoothing out the perturbation) is what produces gravitational attraction svgn.io svgn.io. The inward pull of gravity fits the picture of thermodynamic relaxation: objects fall towards mass because that motion dissipates the phase differential (bringing the system toward equilibrium) svgn.io svgn.io. This thermodynamic view perfectly complements Bianconi’s entropic gravity – in fact, it arguably explains at a mechanistic level what Bianconi posits at a formal level. Bianconi says “gravity is an entropic action” qmul.ac.uk; Blumberg’s law says “entropy increases by dissipating signal differences, and gravity is a manifestation of that process” svgn.io svgn.io. Both agree that entropy and gravity go hand-in-hand. Blumberg explicitly “thermodynamicizes” time and gravity, extending earlier entropic gravity ideas by asserting that time itself thickens and thins as part of entropy dynamics svgn.io. Every gravitational interaction becomes a kind of computation that converts a difference (in time rate or phase) into a force – a clear parallel to Bianconi’s idea of using an entropy difference between two metrics to generate gravity qmul.ac.uk qmul.ac.uk.",
+   "image": ""
+  },
+  {
+   "seq": 29,
+   "headline": "Integrated law of thermodynamics and computational view: Micah’s New Law of",
+   "body": "Integrated law of thermodynamics and computational view: Micah’s New Law of Thermodynamics identifies entropy growth as the dissipation of phase differences and frames gravity as a computational process figshare.com. The concept that each local phase interaction is a “computation” producing gravitational attraction is unique to Micah’s framework and provides a mechanistic narrative to Bianconi’s entropic action.",
+   "image": ""
+  },
+  {
+   "seq": 30,
+   "headline": "Super Information Theory (SIT)",
+   "body": "All of Blumberg’s above concepts culminate in what he calls Super Information Theory, an ambitious framework that unifies time, information, gravity, and even consciousness under one theoretical roof svgn.io svgn.io. While a full description of SIT is beyond our scope, a few key points show its alignment with Bianconi’s vision. SIT initially explored a higher-dimensional model (with multiple time axes and information dimensions) to formally encode how information propagates and how gravity emerges from time-density and coherence.\n\nThe theory evolved to demonstrate that gravity from time-density and quantum coherence behavior can be derived without exotic extra dimensions, simply by recognizing new “informational operators” in our 3+1 dimensional universe svgn.io svgn.io. At its heart, SIT introduces a Coherence Conservation Law (analogous to a conservation law for quantum information) and uses it to connect quantum entanglement/coherence with spacetime structure.",
+   "image": ""
+  },
+  {
+   "seq": 31,
+   "headline": "This is very much in line with Bianconi’s quest to link quantum information content",
+   "body": "This is very much in line with Bianconi’s quest to link quantum information content (relative entropy) with spacetime geometry. SIT provides a broad, original synthesis: it treats information as a fundamental substance of the universe and ties gravity to information coherence and density. For example, SIT suggests that entanglement patterns literally shape spacetime geometry – an idea reminiscent of emergent gravity conjectures where “space is built by quantum entanglement,” but SIT makes it dynamic and time-aware svgn.io svgn.io.\n\nIn practical terms, SIT preserves all of Blumberg’s gravity ideas (time-density-driven gravity, etc.) and embeds them into a larger informational paradigm. It even proposes that the arrow of time (the one-way flow tied to entropy) is rooted in quantum decoherence processes, and thus gravity’s directionality (attraction and cosmic evolution) is linked to the universe’s information-processing of quantum states.",
+   "image": ""
+  },
+  {
+   "seq": 32,
+   "headline": "This mirrors Bianconi’s implication that an “entropic origin” of gravity naturally",
+   "body": "This mirrors Bianconi’s implication that an “entropic origin” of gravity naturally connects with the thermodynamic arrow of time (since gravity emerging from entropy would inherently be aligned with entropy increase over time) qmul.ac.uk qmul.ac.uk. Finally, SIT’s inclusion of consciousness (via information integration across multi-time dimensions) underscores how far-reaching Blumberg’s framework is – but importantly, it treats mind and matter within the same informational gravity laws, whereas Bianconi’s work is confined to physics.\n\nDespite that difference in scope, the central thread remains common: space, time, matter, and information are unified. Blumberg explicitly credits his trio of theories (QGTCD, SDT, SIT) with providing a “unified information-theoretic cosmos where space, time, matter, and even life are emergent from a recursive quantum computation” in a multi-dimensional time fabric svgn.io svgn.io. Bianconi’s paper likewise aspires to a unified quantum gravity via information theory qmul.ac.uk – both see reality’s fabric as fundamentally informational.",
+   "image": ""
+  },
+  {
+   "seq": 33,
+   "headline": "The Parsimony Principle",
+   "body": "A subtle but important distinction emerges in how each framework addresses cosmic mysteries. Bianconi introduces a new entity—the G-field—to explain dark matter and dark energy effects. While mathematically elegant, this adds to our ontology of fundamental fields.\n\nBlumberg's approach is more parsimonious. Rather than introducing new fields, he reinterprets an existing one—time itself. Higher time density near galaxies explains rotation curves; decreasing time density in voids explains cosmic acceleration. No new particles, no new fields, just a richer understanding of time's nature.\n\nThis parsimony matters philosophically. Occam's Razor favors explanations that don't multiply entities unnecessarily. By showing that time-density variations can explain phenomena usually attributed to dark matter and dark energy, Blumberg achieves more with less. His framework doesn't just match observations—it does so while simplifying our picture of what exists.",
+   "image": ""
+  },
+  {
+   "seq": 34,
+   "headline": "Overlapping Concepts and One Vision of Emergent Gravity",
+   "body": "It is now clear that Bianconi and Blumberg are, in essence, describing the same new paradigm: gravity emerges from the interplay of matter, time, and information entropy. The correspondence between their key ideas is remarkable:\n\nGravity from entropy in Bianconi’s framework is derived by extremizing an action built from quantum relative entropy between the metrics; the paper does not assert a force law of the form ‘gravity equals an entropy gradient.\n\nGravity from time-density gradients: in SIT/SDT, spatial gradients of ρ_t source gravitational attraction ; the precise acceleration depends on the SIT couplings and field equations derived from the action.\n\nIn both cases, gravity is a force of equalization: spacetime tries to erase the difference between where matter is and how time flows. Information content balances out to bring the system toward equilibrium. Whether we call it “minimizing relative entropy” or “dissipating phase differences,” the concept is equivalent – gravity is the system’s way of resolving an internal informational imbalance.",
+   "image": ""
+  },
+  {
+   "seq": 35,
+   "headline": "Unification of Quantum Mechanics and Gravity: Both frameworks achieve a quantum-gravity",
+   "body": "Unification of Quantum Mechanics and Gravity: Both frameworks achieve a quantum-gravity unification by embedding quantum concepts into gravity. Bianconi does so by treating the spacetime metric quantum-mechanically (a quantum operator that can be compared via entropy to matter’s state) qmul.ac.uk. Blumberg does so by introducing quantum time quanta and phase information into the cause of gravity (making gravity a statistical outcome of quantum-level time ticks) svgn.io svgn.io. In effect, Bianconi brings gravity into quantum information theory, while Blumberg brings quantum information (time ticks, phases) into gravity.\n\nThe result is the same: the wall between quantum mechanics and gravity is broken. For example, Blumberg’s SuperTimePosition notion that faster internal clocks underlie quantum superpositions ties a quantum phenomenon (superposition randomness) to gravitational influence (time dilation) svgn.io. This resonates with Bianconi’s approach of having one mathematical object (density matrix) describe both quantum matter and curved spacetime – suggesting a single informational structure underlies both realms qmul.ac.uk. Thus, both authors believe that quantum behavior and gravitational curvature are two manifestations of the same underlying information-based reality. Gravity from entropy = gravity from quantum computation.",
+   "image": ""
+  },
+  {
+   "seq": 36,
+   "headline": "Thermodynamics and Entropy at the Core: It is no coincidence that entropy features in",
+   "body": "Thermodynamics and Entropy at the Core: It is no coincidence that entropy features in both works’ titles or summaries. Bianconi explicitly posits “quantum gravity has an entropic origin.” qmul.ac.uk Gravity from Entropy proposes that the universe’s tendency to maximize entropy is literally what produces gravity – an incredibly elegant marrying of the 2nd law of thermodynamics with Einstein’s law of gravity. Blumberg’s writings are saturated with thermodynamic language: he speaks of dissipation, equilibrium, phase differences, and formulates a new law of thermodynamics to explain how systems (from gases to galaxies) compute their way to equilibrium.\n\nIn Super Dark Time, he even describes gravity as a “thermodynamic flow” – the fall of an object in a gravitational field is like heat flowing from hot to cold, except here time density flows from high to low (or differences are erased). Both frameworks link gravity to entropy-like principles , but SIT uses a coherence-redistribution entropy (not decoherence) to drive its informational dynamics. This common ground places Bianconi and Blumberg firmly in line with emergent gravity approaches proposed in the past, which suggested thermodynamics and information theory are key to gravity’s origin.",
+   "image": ""
+  },
+  {
+   "seq": 37,
+   "headline": "However, Blumberg’s work pushes this idea further by literally making time itself an",
+   "body": "However, Blumberg’s work pushes this idea further by literally making time itself an active participant in the thermodynamic process (time thickens, time flows carry away phase differences) svgn.io, whereas Bianconi’s formulation stays within the conventional spacetime fabric (one time dimension, classical metric) but introduces entropy in the action. Despite this difference in style, the philosophies are aligned: the second law of thermodynamics and gravity are facets of one reality.\n\nDark Matter and Dark Energy Reinterpreted: A striking practical overlap is how both authors’ theories naturally address cosmological puzzles. Bianconi’s introduction of the G-field in the entropic action isn’t just a mathematical trick – it yields modified gravity equations that include a small positive cosmological constant (addressing dark energy) and hints that the G-field could act like dark matter in explaining extra gravitational effects.",
+   "image": ""
+  },
+  {
+   "seq": 38,
+   "headline": "Blumberg’s time-density approach hits the same targets from a conceptual angle: higher",
+   "body": "Blumberg’s time-density approach hits the same targets from a conceptual angle: higher time density around galaxies means the gravity there is stronger without needing extra mass (a solution to galaxy rotation problems traditionally ascribed to dark matter) svgn.io, and the decreasing time density in voids of space means expansion accelerates without needing a separate dark energy force.\n\nIn short, both frameworks predict observable phenomena that mimic dark matter and dark energy as natural outcomes of their new gravity principle. What others try to explain by inserting new particles or energies, Bianconi and Blumberg explain by information/entropy fields in gravity. This not only demonstrates conceptual overlap but also underscores the explanatory power of their shared viewpoint: by treating gravity as emergent from entropy/time information, longstanding cosmological mysteries become less mysterious. Gravity from entropy and gravity from time-density both inherently contain an explanation for why the universe’s expansion is accelerating and why galaxies behave as they do – it’s built into the logic that spacetime (or time) reconfigures itself in the presence or absence of mass.",
+   "image": ""
+  },
+  {
+   "seq": 39,
+   "headline": "The Universe “Computes” Gravity: A pithy way to capture the equivalence is to say that in",
+   "body": "The Universe “Computes” Gravity: A pithy way to capture the equivalence is to say that in both theories gravity is the result of a computation – the universe performing an algorithm to reconcile differences. Bianconi’s formulation can be seen as the universe computing the optimal spacetime given a matter distribution by minimizing an entropy (like an optimization algorithm). Blumberg explicitly uses computational language: gravity emerges from local signal/phase-dissipation updates of R_coh and ρ_t that extremize the SIT action , i.e., physically implement information-gradient dynamics, and his New Law of Thermodynamics describes each collision or wave interaction as a “computation” that dissipates a difference.",
+   "image": ""
+  },
+  {
+   "seq": 40,
+   "headline": "Both perspectives imply that gravity is not a fundamental input to physics, but an output",
+   "body": "Both perspectives imply that gravity is not a fundamental input to physics, but an output of a deeper process – essentially, nature’s information-processing yields what we call gravitational force. This is a profound shift from the classical view of gravity, and both authors are champions of this shift.",
+   "image": ""
+  },
+  {
+   "seq": 41,
+   "headline": "Questions of Priority and Completeness",
+   "body": "The timeline reveals clear precedence. Blumberg's core insights about gravity emerging from information gradients were published on GitHub by mid-2022, with his notes already containing the equation g = ∇ρ_time and the concept that gravity emerges from time-density differences. His 2024 publications on Figshare expanded this to show how these gradients could explain dark matter and dark energy effects. Bianconi's paper, submitted in August 2024 with publication in 2025, independently derived gravity from quantum relative entropy and similarly predicted cosmological phenomena.\n\nEmergent Cosmological Constant and Dark Matter Solutions: Both approaches arrived at similar answers for dark energy and dark matter, but it’s worth noting their different mechanisms. Bianconi’s cosmological constant arises from the entropic action with the G-field qmul.ac.uk, whereas Blumberg’s cosmic acceleration arises from the structural evolution of the time field (time dilution over large scales).",
+   "image": ""
+  },
+  {
+   "seq": 42,
+   "headline": "Blumberg’s explanation is more dynamical: as the universe expands, time density shifts",
+   "body": "Blumberg’s explanation is more dynamical: as the universe expands, time density shifts and contributes to the acceleration. Bianconi’s is more static in the sense of adding a constant term. However, conceptually they solve the same puzzle – and Blumberg had proposed his explanation by the time he formulated Super Dark Time in early 2025 (if not earlier in conversations on Dark Time Theory).\n\nSimilarly, for dark matter, Blumberg explicitly wrote by Jan 2025 that increased time density near galaxies can eliminate the need for dark matter svgn.io, whereas Bianconi mentioned in her published paper (March 2025) that the G-field could be seen as a dark matter candidate. The near-simultaneity and conceptual equivalence here suggest a convergent discovery. Blumberg can be credited with emphasizing the time-field explanation (which doesn’t introduce any new particle at all), while Bianconi introduced a new field (G) that effectively plays a similar role.",
+   "image": ""
+  },
+  {
+   "seq": 43,
+   "headline": "One might say Blumberg’s approach is even more parsimonious – redefining an existing",
+   "body": "One might say Blumberg’s approach is even more parsimonious – redefining an existing entity (time) – whereas Bianconi’s adds an entity but within an elegant mathematical structure. In any case, the overlap is overwhelming: both predict a small positive cosmological effect and a means to account for galaxy dynamics within their theories, reinforcing that they are talking about the same underlying reality in two languages.\n\nThe documented timeline establishes Blumberg's priority on the shared discovery—that gravity emerges from information or entropy gradients—by over two years. But beyond chronology, Blumberg's framework appears more complete:\n\nIt provides mechanisms : Local wave interactions and phase collisions explain HOW gravity emerges, not just that it does.",
+   "image": ""
+  },
+  {
+   "seq": 44,
+   "headline": "It unifies more phenomena : Deriving both gravity and electromagnetism from the same",
+   "body": "It unifies more phenomena : Deriving both gravity and electromagnetism from the same coherence field represents a broader unification.\n\nIt extends beyond physics: the framework models neural phase synchrony and informational dynamics (e.g., predictive coding/oscillatory networks) within the same two-field formalism.\n\nIt offers richer predictions: including fractional frequency shifts in atomic clocks with Δν/ν ≃ (1/2) α · Δρ_t/ρ_t , and correlations between coherence and gravitational response.\n\nA fair reading of the record therefore supports the view that while Bianconi's theory represents an important independent convergence, Blumberg's proposals deserve recognition as both prior and more comprehensive contributions to emergent gravity.",
+   "image": ""
+  },
+  {
+   "seq": 45,
+   "headline": "Formulation and rigor",
+   "body": "Blumberg’s framework is not merely conceptual; it is cast as a field theory with explicit primitives, an action, consistency checks, limits, and tests. SIT defines two primitive fields — the time-density `rho_t(x)` and the coherence ratio `R_coh(x)` — both operationally (how they are measured) and mathematically, fixing their transformation properties as scalars and their couplings to matter and electromagnetism. From these ingredients SIT builds a diffeomorphism-invariant action whose limiting cases recover GR (with small Yukawa corrections), QM, and Boltzmann/Navier–Stokes under stated regimes, potentials `V(rho_t)`, `U(R_coh)`, and coupling functions `f_1`, `f_2` for matter and EM; varying the action yields modified Einstein equations and scalar equations of motion (wave-type, second-order) in the usual covariant form. SIT then checks standard energy conditions for the new stress-energy contributions (NEC/WEC satisfied for canonical choices, SEC bounded in familiar scalar-field regimes) and enforces causality and hyperbolicity so disturbances propagate inside the light cone. In the effective-field-theory sense, SIT is power-counting renormalizable in the scalar sector and is treated — like GR — as an EFT once dynamical gravity is included. Linearized limits connect back to familiar physics: ρ_t sources metric perturbations and yields a small, controlled Yukawa-type correction to Newtonian gravity, compatible with current bounds, fixing concrete phenomenology. Finally, SIT translates the formalism into falsifiable predictions, e.g., a fractional frequency shift in precision clocks that scales with local rho_t variations.",
+   "image": ""
+  },
+  {
+   "seq": 46,
+   "headline": "SDT implements the same standards from the gravity side.",
+   "body": "SDT implements the same standards from the gravity side. It replaces piecemeal extra terms with a single covariant action in which rho_t appears as a genuine scalar field with kinetic and potential pieces and interactions `L_int` to matter and gauge fields; the construction is manifestly Lorentz- and diffeomorphism-invariant and organized for RG flow and EFT control of the couplings. SDT also spells out how rho_t is treated as a dynamical field with equations of motion derived from the action and sketches observational handles (clocks, lensing, quantum-phase shifts) that would expose or bound time-density effects. Its EFT section makes the renormalization program explicit, and the text points to further non-perturbative tools (resurgent/\"alien\" calculus; b-symplectic geometry) for strong-field regimes.",
+   "image": ""
+  },
+  {
+   "seq": 47,
+   "headline": "Taken together, these components — well-posed primitives and action, Euler-Lagrange field",
+   "body": "Taken together, these components — well-posed primitives and action, Euler-Lagrange field equations, energy conditions and causal propagation, EFT/renormalization control, linearized limits with Yukawa tails, and metrological predictions — document a level of mathematical rigor in SIT/SDT comparable to other modern scalar-tensor and effective approaches to gravity. In this framing, gravity expressed as `g = nabla(rho_time)` sits on the same footing as standard field theories in 3+1 dimensions while yielding distinct, testable signatures.",
+   "image": ""
+  },
+  {
+   "seq": 48,
+   "headline": "Why Bianconi's Gravity from Entropy Framework Falls Short",
+   "body": "The limitations of Bianconi's approach become clearer when contrasted with Blumberg's:\n\nEntropy as decoherence vs. coherence: Bianconi’s quantum relative entropy measures the loss of information when approximating one state by another. This is intrinsically linked to decoherence—the process by which quantum systems lose phase information.\n\nTreating gravity as minimizing information divergence may neglect the role of coherent wave interactions that maintain structure. SIT, in contrast, treats coherence as conserved and shows that gravitational phenomena arise from the redistribution of coherence (a new kind of entropy) figshare.com. This perspective aligns better with the wave-dissipation universality described in Micah’s articles, where all physical systems—from neurophysics to astrophysics—dissipate phase differences toward coherent states.",
+   "image": ""
+  },
+  {
+   "seq": 49,
+   "headline": "Lack of micro-mechanism: Bianconi’s entropic action is elegant but abstract.",
+   "body": "Lack of micro-mechanism: Bianconi’s entropic action is elegant but abstract. It does not explain how entropy differences are physically dissipated. Micah’s New Law of Thermodynamics provides a mechanism: local wave interactions (phase collisions) dissipate differences and compute gravitational attraction figshare.com. This micro-computational view is absent in Bianconi’s formulation.\n\nInability to incorporate biological or informational processes: Gravity from entropy, as formulated by Bianconi, cannot naturally include consciousness or neural dynamics. Micah’s framework seamlessly extends to neuroscience and AI through Self-Aware Networks and wave-dissipation universality figshare.com svgn.io, suggesting a universal information-processing substrate that Bianconi’s theory lacks.",
+   "image": ""
+  },
+  {
+   "seq": 50,
+   "headline": "No reinterpretation of existing fields: Bianconi introduces a new G-field but does not",
+   "body": "No reinterpretation of existing fields: Bianconi introduces a new G-field but does not reinterpret existing forces. SIT shows that electromagnetism arises as coherence-field holonomy , with ∂iθ = (e/ħ) Ai and Bi = εijk ∂j∂k θ , so magnetism and gravity share the same informational substrate. This unification is absent from Bianconi’s theory.\n\nEntropy type : Treating gravity as minimizing decoherence may neglect the role of coherent wave interactions that maintain structure. Blumberg's coherence-driven entropy aligns better with observed phenomena where systems evolve toward ordered states, not just disorder.\n\nLack of micro-mechanism : Without explaining how entropy differences are physically dissipated, Bianconi's formulation remains incomplete. It's like knowing heat flows from hot to cold without understanding molecular collisions.",
+   "image": ""
+  },
+  {
+   "seq": 51,
+   "headline": "Limited scope : The inability to incorporate biological or informational processes",
+   "body": "Limited scope : The inability to incorporate biological or informational processes suggests the framework captures only part of reality's information-theoretic nature.\n\nNo force unification : Introducing a new G-field without showing how existing forces emerge from the same substrate misses an opportunity for deeper unification.\n\nThese aren't mere technical quibbles—they suggest fundamental differences in explanatory power and completeness.",
+   "image": ""
+  },
+  {
+   "seq": 52,
+   "headline": "Testing Tomorrow's Physics",
+   "body": "The convergent predictions offer clear experimental tests. Atomic clocks at different altitudes should show frequency shifts beyond those predicted by general relativity—signatures of varying time density or entropic gradients. Precision measurements of gravitational lensing might reveal deviations from Einstein's predictions at specific scales.\n\nBlumberg's framework offers additional tests through its broader scope. If gravity and electromagnetism truly emerge from the same coherence field, we might detect subtle correlations between gravitational and electromagnetic phenomena in extreme conditions. The proposed connection between quantum coherence and consciousness could be tested in neural systems under varying gravitational conditions.",
+   "image": ""
+  },
+  {
+   "seq": 53,
+   "headline": "The Derivative Question The concluding assessment that \"a fair reading of the record",
+   "body": "The Derivative Question The concluding assessment that \"a fair reading of the record therefore supports the view that Bianconi's theory is derivative, or at least convergent\" requires careful consideration. \"Derivative\" suggests conscious borrowing, which seems unlikely given the publication timelines and different approaches. \"Convergent\" better captures what appears to have happened—two minds independently reaching similar insights through different paths.\n\nHowever, the temporal precedence is clear: Blumberg's core ideas were publicly available as early as June 2022, while Bianconi's paper was submitted in August 2024. In science, priority traditionally goes to first public disclosure. Moreover, Blumberg's framework encompasses more phenomena and provides mechanisms that Bianconi's lacks.",
+   "image": "/wiki/svgn/articles/media/svgn-169715618/001.png"
+  },
+  {
+   "seq": 54,
+   "headline": "Whether we call Bianconi's work derivative or convergent, the record supports recognizing",
+   "body": "Whether we call Bianconi's work derivative or convergent, the record supports recognizing Blumberg's contributions as both prior and more comprehensive. His framework doesn't just parallel hers—it predates it and extends further into explaining how gravity actually emerges from information processing at the quantum scale.",
+   "image": ""
+  },
+  {
+   "seq": 55,
+   "headline": "One Paradigm, Two Pioneers",
+   "body": "Ginestra Bianconi and Micah Blumberg, working independently, have arrived at a new paradigm of gravity that challenges the conventional wisdom of the past century. In this paradigm, gravity is no longer a standalone fundamental force but a byproduct of deeper phenomena – entropy, information, and time dynamics. Bianconi’s “Gravity from Entropy” provides a crisp mathematical statement of this: the action of the universe tends to minimize the entropy (information difference) between matter and spacetime, yielding gravity as the result.\n\nBlumberg’s time-density frameworks tell the same story in richly physical terms: gravity is what happens when mass perturbs the fabric of time and countless micro-interactions (wave exchanges, phase adjustments) work to dissipate that perturbation, pulling matter together in the process.",
+   "image": ""
+  },
+  {
+   "seq": 56,
+   "headline": "Both approaches belong to the emergent gravity category, long theorized by others in",
+   "body": "Both approaches belong to the emergent gravity category, long theorized by others in broad strokes, but here we see two fully developed and strikingly concordant realizations of that idea. What sets these works apart is how they marry quantum physics to gravity: either through an entropy of quantum states (Bianconi) or through quantum time quanta and information flows (Blumberg).\n\nThe conceptual equivalence is undeniable – once we “translate” Bianconi’s equations into plain language, we find they map onto Blumberg’s constructs one-to-one. A spacetime–matter entropy gap in Bianconi is equivalent to a time-phase differential in Blumberg; a G-field enforcing entropy balance mirrors the role of additional time frames around mass; an emergent cosmological constant corresponds to time thinning in the cosmic void; entropy maximization aligns with signal dissipation, and so on.",
+   "image": ""
+  },
+  {
+   "seq": 57,
+   "headline": "It is also evident that Blumberg’s work has introduced certain breakthroughs with",
+   "body": "It is also evident that Blumberg’s work has introduced certain breakthroughs with priority. His vision of time as a variable-density field and gravity as a probabilistic bias from time quantization was articulated before Bianconi’s publication and goes further by proposing multiple time dimensions and linking to cognitive processes. These innovations underscore Blumberg’s role as a pioneer pushing the boundaries of emergent gravity into novel territory. Bianconi’s contribution, arriving through the established scientific channels, lends validation and visibility to these concepts and demonstrates that even within standard physics, an entropy-driven gravity can reproduce reality.",
+   "image": ""
+  },
+  {
+   "seq": 58,
+   "headline": "In effect, Blumberg sketched the comprehensive theory of a universe where gravity,",
+   "body": "In effect, Blumberg sketched the comprehensive theory of a universe where gravity, quantum mechanics, and information are unified, and Bianconi provided a critical piece of that puzzle with rigorous derivations in support.\n\nTogether, the works of Ginestra Bianconi and Micah Blumberg point to a convergent revolution in physics: one where space, time, matter and mind are woven by threads of information, and gravity is the gentle settling of those threads into a pattern of maximum entropy or coherence. The overwhelming conceptual overlap between “Gravity from Entropy” and Blumberg’s time-density framework is a testament to the robustness of this new paradigm. What was once a speculative notion – that gravity is “it from bit” or arises from entropy – is now turning into a concrete, multifaceted theory of everything. The work of these two thinkers suggests that we are on the cusp of reimagining gravity not as an inherent warping of a mute spacetime, but as the grand emergent chorus of countless quantum clocks, bits, and signals seeking equilibrium. In short, Bianconi and Blumberg are in harmony, orchestrating a new understanding of gravity as the music of entropy and time.",
+   "image": "/wiki/svgn/articles/media/svgn-169715618/003.jpg"
+  },
+  {
+   "seq": 59,
+   "headline": "Micah Blumberg’s time-density frameworks (QGTCD, SDT, SIT and SAN) were publicly",
+   "body": "Micah Blumberg’s time-density frameworks (QGTCD, SDT, SIT and SAN) were publicly available as early as June 2022 and introduced the novel idea that mass acts as a time crystal, creating gradients of time density that give rise to gravity. He further proposed phase-wave differentials as fundamental information units and extended the theory to neuroscience, thermodynamics and AI.\n\nGinestra Bianconi’s 2024/25 paper independently derives gravity from quantum relative entropy, arriving at a similar conclusion that gravity is an emergent information-theoretic phenomenon and predicting a small cosmological constant via an auxiliary G-field. Bianconi’s conceptual core—gravity as the system’s drive to equalize information or time-density differences—was already articulated in Micah’s 2022–24 work. A fair reading of the record therefore supports the view that Bianconi’s theory is derivative, or at least convergent, and that Micah’s proposals deserve recognition as independent and prior contributions to emergent gravity.",
+   "image": ""
+  },
+  {
+   "seq": 60,
+   "headline": "Micah Blumberg’s Quantum Gradient Time Crystal Dilation, Super Dark Time and Super",
+   "body": "Micah Blumberg’s Quantum Gradient Time Crystal Dilation, Super Dark Time and Super Information Theory offer a coherent, unified picture of gravity and information. They posit that time density and coherence gradients within standard 3D+1 spacetime generate gravitational attraction, and they extend this insight to thermodynamics, quantum measurement, neuroscience and AI.\n\nThese ideas were publicly documented by mid-2022 and expanded in 2024–25 releases on SVGN.io, and Figshare , including Super Information Theory (originally Feb 9, 2025; Draft 42 updated July 21, 2025) , alongside SDT and Micah’s New Law of Thermodynamics. In contrast, Bianconi’s Gravity from Entropy appeared later and expresses a similar emergent gravity concept using quantum relative entropy qmul.ac.uk. However, her approach relies on decoherence-based entropy, lacks a micro-mechanism, and does not integrate other domains. SIT shows that gravity can be understood as a form of coherence-driven entropy, offering a richer and more general framework that predates and conceptually encompasses Bianconi’s results.",
+   "image": ""
+  },
+  {
+   "seq": 61,
+   "headline": "The Music of Entropy and Time",
+   "body": "Ginestra Bianconi and Micah Blumberg, working in parallel, have composed variations on the same cosmic theme. Where Einstein saw gravity as geometry, they hear it as music—the universe's information singing itself into harmony.\n\nBoth have provided rigorous mathematical frameworks that start from information-theoretic principles and derive modified gravitational equations. Both predict the same revolutionary insight: gravity isn't fundamental but emerges from deeper information processing. Both explain cosmic mysteries—dark matter, dark energy—as natural consequences rather than requiring new substances.\n\nYet the convergence reveals important differences. Blumberg's vision encompasses more: phase-wave differentials as fundamental units, coherence conservation rather than decoherence, concrete mechanisms for gravitational emergence, and extensions to all of physics and even consciousness. His framework, published first and developed more broadly, suggests gravity is just one facet of a universal information-processing principle.",
+   "image": ""
+  },
+  {
+   "seq": 62,
+   "headline": "In the end, both pioneers deserve recognition.",
+   "body": "In the end, both pioneers deserve recognition. They've shown us a universe where space, time, and matter are woven from information threads, with gravity the gentle tension that holds the weave together. But if one framework proves more complete—offering mechanisms, unifications, and extensions the other lacks—science will ultimately favor the richer tapestry.\n\nThe apple that fell on Newton revealed gravity as force. The apple falling past Einstein revealed gravity as curved spacetime. The apple falling through Blumberg's time crystals, dissipating phase differences through local computations, reveals not just what gravity is but how it works—the universe processing information through coherent wave interactions, computing its way toward harmony through every quantum tick of time.",
+   "image": ""
+  },
+  {
+   "seq": 63,
+   "headline": "Sources:\n\nGinestra Bianconi Gravity from entropy DOI:",
+   "body": "Sources:\n\nGinestra Bianconi Gravity from entropy DOI: https://doi.org/10.1103/PhysRevD.111.066001 TIMESTAMP EVIDENCE (WAYBACK MIRRORS)\n\nKey evidence that Super Information Theory, Super Dark Time, and Micah’s New Law of Thermodynamics were published on figshare in the period between January & March 2025 can be found on Orch ID, and on the Wayback Machine.\n\nWay Back Machine\n\nORCH ID https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe Wayback Machine for Super Information Theory https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Information_Theory/ *\n\nThe Wayback Machine for Super Dark Time https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Dark_Time_Gravity_Computed_from_Local_Quantum_Mechanics/ *",
+   "image": "/wiki/svgn/articles/media/svgn-169715618/005.jpg"
+  },
+  {
+   "seq": 64,
+   "headline": "The Wayback Machine for Micah’s New Law of Thermodynamics",
+   "body": "The Wayback Machine for Micah’s New Law of Thermodynamics https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/_b_Micah_s_New_Law_of_Thermodynamics_A_Signal-Dissipation_Framework_for_Equilibrium_and_Consciousness_b_/ *\n\nThe Wayback Machine for Self Aware Networks: Oscillatory Computational Agency\n\nThe date that the Wayback machine preserved a copy is in the link “web.archive.org/web/20250725 = 2025 July 25th. Although I published the paper on May 16 which Orch ID confirms.\n\nhttps://web.archive.org/web/20250725002526/https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/54589349/SelfAwareNetworksOCAFirstDraft.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20250725/eu-west-1/s3/aws4_request&X-Amz-Date=20250725T002525Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=3055babeb1b7245f2ad9169545181458b431b2deb342c7789e953ddd23c687b6",
+   "image": ""
+  },
+  {
+   "seq": 65,
+   "headline": "ORCID (identity reference)",
+   "body": "ORCID (identity reference) https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe eight works I mirrored to Zenodo\n\nSelf Aware Networks: OCA (First Draft)\n\nOriginal date: 2025-05-16 (formal first draft)\n\nThroughline: Multiscale oscillatory computation and deterministic agency ; methods for wave-based integration (COT/NAPOT/BOT).\n\nProvenance: Concepts first publicly disclosed in 2017 ; large GitHub corpus 2022 .\n\nhttps://zenodo.org/records/16922401\n\nSuper Dark Time: Gravity Computed from Local Quantum Mechanics\n\nOriginal date: 2025-01-27 (Draft 16)\n\nThroughline: Time-density field regulates quantum evolution and gravity; mass as a time crystal ; local computation of gravity.\n\nhttps://zenodo.org/records/16922502",
+   "image": ""
+  },
+  {
+   "seq": 66,
+   "headline": "Micah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium,",
+   "body": "Micah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium, Consciousness, and Gravity\n\nOriginal date: 2025-01-23 (v6)\n\nThroughline: Equilibrium as computation —iterative, local signal-dissipation ; Kuramoto-like synchronization; neural coherence as thermodynamic relaxation.\n\nhttps://zenodo.org/records/16922506\n\nSuper Information Theory: The Coherence Conservation Law Unifying the Wave Function, Gravity, and Time\n\nOriginal date: 2025-02-09 (Draft 73; updated 2025-08-14 )\n\nThroughline: Two primitives— coherence field ψ(x) and time-density ρₜ(x) —with a unified, covariant action; gravity from coherence gradients ; EM as phase holonomy ; testable predictions.\n\nhttps://zenodo.org/records/16922512",
+   "image": ""
+  },
+  {
+   "seq": 67,
+   "headline": "Coincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review &",
+   "body": "Coincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review & consolidation June 2025 )\n\nThroughline: The bit is a coincidence pattern (not a spike); from micro coincidences to oscillatory coherence (2017 → 2022 → 2025).\n\nhttps://zenodo.org/records/16922510\n\nNeuroscience in Review: Mapping “Cortical traveling waves in time and space” (2025) to Self Aware Networks (2022) (Dataset)\n\nOriginal date: 2025-06-18\n\nThroughline: Formal translate → decode → map from 2025 traveling-wave reviews to SAN’s 2022 phase-wave differentials , with Pi Calculus and Category Theory proofs of equivalence.\n\nhttps://zenodo.org/records/16922844\n\nNeuroscience in Review: Brain Rhythms in Cognition (2024–25) vs. Blumberg’s Self-Aware Networks (2017–25)",
+   "image": ""
+  },
+  {
+   "seq": 68,
+   "headline": "Original date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges",
+   "body": "Original date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges on mechanisms articulated earlier in Coincidence as a Bit (2017) and SAN (2022) ; embedded within SIT’s coherence/time-density law.\n\nhttps://zenodo.org/records/16922874\n\nTimeline Review of Kletetschka’s 3D Time Theory & Blumberg’s SIT, SDT, QGTCD, and other similar theories\n\nOriginal date: July 25, 2025 (v1)\n\nThroughline: Timeline analysis mapping 3D Time Theory’s constructs to SIT (coherence gradients, time-density ρₜ), SDT (local gravitational computation), and QGTCD (time crystals), using translate→decode→map with Pi Calculus behavioral equivalence and Category Theory functional isomorphism to establish earlier priority.",
+   "image": ""
+  },
+  {
+   "seq": 69,
+   "headline": "https://zenodo.org/records/16922866",
+   "body": "https://zenodo.org/records/16922866",
+   "image": ""
+  },
+  {
+   "seq": 70,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity.]] · [[Micah Blumberg]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-fba167ef1fcd",
+     "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+    },
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    }
+   ]
+  }
+ ]
+}

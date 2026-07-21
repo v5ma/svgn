@@ -1,0 +1,76 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-148598519",
+ "title": "Analog biological backpropagation: A new conjecture \"Self Aware Networks\" explains how derivatives & loss functions are represented in the brain.",
+ "dek": "Also discussed is a comparison between analog computing and digital in the context of computational biology. In this video I am reading a recent discussion of my notes with Self Aware Networks.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2024-09-07",
+ "articleHref": "/wiki/svgn/articles/2024-09-07-analog-biological-backpropagation-a-new-conjecture-self-aware-networks-explains-how-de-svgn-148598519",
+ "sourceUrl": "https://www.svgn.io/p/analog-biological-backpropagation",
+ "topTerms": [
+  "video",
+  "brain",
+  "ever",
+  "wanted",
+  "know",
+  "gradient",
+  "descent",
+  "work"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-27243b5c048e",
+   "title": "Here is everything you need to know about the Varjo VR headset, including how its uniquely…"
+  },
+  {
+   "id": "vrma-f3880a46c244",
+   "title": "Animoji = Avatar + Emoji. An Animoji is Volumetric Video + Neural Networks"
+  },
+  {
+   "id": "vrma-8b34d4ad1771",
+   "title": "I saw the future of social networks in VR, and it makes me impatient with VR as a I know it."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Analog biological backpropagation: A new conjecture \"Self Aware Networks\" explains how derivatives & loss functions are represented in the brain.",
+   "body": "Also discussed is a comparison between analog computing and digital in the context of computational biology. In this video I am reading a recent discussion of my notes with Self Aware Networks.",
+   "image": "/wiki/svgn/articles/media/svgn-148598519/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Have you ever wanted to know how Gradient Descent could work in the real human brain?",
+   "body": "Have you ever wanted to know how Gradient Descent could work in the real human brain? Here is a new conjecture that establishes a new argument about back propagation, derivatives, and loss functions in the brain with the purpose of connecting to ideas in Deep Neural Networks.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Watch the video here:\n\nRead along with the video above via the text here:",
+   "body": "Watch the video here:\n\nRead along with the video above via the text here: https://github.com/v5ma/selfawarenetworks/blob/main/02san.md\n\nIf you just want the link to the video inside the video here it is:",
+   "image": "/wiki/svgn/articles/media/svgn-148598519/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Here is everything you need to know about the Varjo VR headset, including how its uniquely…]] · [[Animoji = Avatar + Emoji. An Animoji is Volumetric Video + Neural Networks]] · [[I saw the future of social networks in VR, and it makes me impatient with VR as a I know it.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-27243b5c048e",
+     "title": "Here is everything you need to know about the Varjo VR headset, including how its uniquely…"
+    },
+    {
+     "id": "vrma-f3880a46c244",
+     "title": "Animoji = Avatar + Emoji. An Animoji is Volumetric Video + Neural Networks"
+    },
+    {
+     "id": "vrma-8b34d4ad1771",
+     "title": "I saw the future of social networks in VR, and it makes me impatient with VR as a I know it."
+    }
+   ]
+  }
+ ]
+}

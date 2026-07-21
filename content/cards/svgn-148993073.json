@@ -1,0 +1,114 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-148993073",
+ "title": "Disney and Meta Join Forces to Create Virtual Disneyland Social Network",
+ "dek": "Magic Kingdom Goes Digital: Experience Disney's New 3D Social Platform in the Metaverse",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2024-09-17",
+ "articleHref": "/wiki/svgn/articles/2024-09-17-disney-and-meta-join-forces-to-create-virtual-disneyland-social-network-svgn-148993073",
+ "sourceUrl": "https://www.svgn.io/p/disney-and-meta-join-forces-to-create",
+ "topTerms": [
+  "virtual",
+  "social",
+  "disney",
+  "meta",
+  "disneyland",
+  "media",
+  "users",
+  "network"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  },
+  {
+   "id": "vrma-b42b7db216bc",
+   "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+  },
+  {
+   "id": "vrma-8b34d4ad1771",
+   "title": "I saw the future of social networks in VR, and it makes me impatient with VR as a I know it."
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Disney and Meta Join Forces to Create Virtual Disneyland Social Network",
+   "body": "Magic Kingdom Goes Digital: Experience Disney's New 3D Social Platform in the Metaverse",
+   "image": "/wiki/svgn/articles/media/svgn-148993073/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "In a groundbreaking move that promises to revolutionize social media and virtual reality,",
+   "body": "In a groundbreaking move that promises to revolutionize social media and virtual reality, Disney and Meta have announced a partnership to bring Disney's newly acquired 3D social network (formerly known as X, and before that, Twitter) to the Meta Quest as a WebXR Metaverse experience set in a virtual Disneyland.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "This collaboration marks a significant milestone in the evolution of social media,",
+   "body": "This collaboration marks a significant milestone in the evolution of social media, virtual reality, and theme park experiences. Users will soon be able to interact with friends, share content, and explore a richly detailed virtual rendition of the iconic Disneyland park, all within the immersive environment of the Meta Quest.\n\nBob Iger, CEO of Disney, expressed his excitement about the project: \"By combining Disney's storytelling magic with Meta's cutting-edge VR technology, we're creating something truly revolutionary. This isn't just a new way to use social media; it's a whole new world of Disney magic that you can step into from anywhere.\"",
+   "image": "/wiki/svgn/articles/media/svgn-148993073/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Mark Zuckerberg, CEO of Meta, added, \"This partnership with Disney represents the future",
+   "body": "Mark Zuckerberg, CEO of Meta, added, \"This partnership with Disney represents the future of social interaction in the Metaverse. We're not just building a platform; we're creating a destination where people can connect, share, and experience the magic of Disney in ways never before possible.\"\n\nKey features of the virtual Disneyland social network include:\n\nCustomizable Disney-themed avatars, allowing users to embody their favorite characters or create unique personas.\n\nVirtual recreations of classic Disneyland attractions, where users can ride and interact together.\n\nSocial hubs themed after different lands within the park, facilitating group chats and content sharing.\n\nLive events and performances featuring Disney characters and celebrities.",
+   "image": "/wiki/svgn/articles/media/svgn-148993073/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Integration with Disney's streaming services, allowing users to watch content together in",
+   "body": "Integration with Disney's streaming services, allowing users to watch content together in virtual themed environments.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "The platform will leverage WebXR technology, ensuring broad accessibility across",
+   "body": "The platform will leverage WebXR technology, ensuring broad accessibility across different devices while providing a seamless, high-quality VR experience on the Meta Quest.\n\nIndustry analysts are hailing this move as a potential game-changer. Tech analyst Sarah Johnson notes, \"This partnership could redefine what we expect from social media platforms. It's not just about posting updates anymore; it's about shared experiences in a virtual world.\"",
+   "image": "/wiki/svgn/articles/media/svgn-148993073/005.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Privacy advocates, however, have raised concerns about data collection and user",
+   "body": "Privacy advocates, however, have raised concerns about data collection and user protection in this new virtual environment. Both Disney and Meta have pledged to implement robust privacy measures and parental controls to ensure a safe and secure experience for all users.\n\nThe virtual Disneyland social network is set to launch in beta later this year, with a full rollout planned for early 2025. As the project develops, both companies promise regular updates and community feedback sessions to shape the future of this digital magic kingdom.\n\nAs the lines between social media, virtual reality, and entertainment continue to blur, one thing is clear: the happiest place on Earth is no longer bound by physical limitations. Soon, it will be just a headset away.",
+   "image": "/wiki/svgn/articles/media/svgn-148993073/007.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "Disney and Meta DID NOT REALLY join forces to create virtual Disneyland social network.",
+   "body": "Disney and Meta DID NOT REALLY join forces to create virtual Disneyland social network. This is not a real news story. This was an AI generated thought experiment. The story was written by Claude AI based on a series of prompts that were authored by Micah Blumberg. The artwork is from Midjourney and was created with prompts that Claude AI wrote to create images that matched this news story. See also:",
+   "image": "/wiki/svgn/articles/media/svgn-148993073/009.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]] · [[Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…]] · [[I saw the future of social networks in VR, and it makes me impatient with VR as a I know it.]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    },
+    {
+     "id": "vrma-b42b7db216bc",
+     "title": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and…"
+    },
+    {
+     "id": "vrma-8b34d4ad1771",
+     "title": "I saw the future of social networks in VR, and it makes me impatient with VR as a I know it."
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    }
+   ]
+  }
+ ]
+}

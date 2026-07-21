@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470828",
+ "title": "Is the Walking Dead on the Road to the Metaverse?",
+ "dek": "At GDC the Game Developer Conference, I spoke to the Chief Operating Officer at Genvid Technologies to try to understand some of the tools…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-03-29",
+ "articleHref": "/wiki/svgn/articles/2022-03-29-is-the-walking-dead-on-the-road-to-the-metaverse-vrma-5c13f5cc3a10",
+ "sourceUrl": "https://www.svgn.io/p/is-the-walking-dead-on-the-road-to-the-metaverse-5c13f5cc3a10",
+ "topTerms": [
+  "genvid",
+  "entertainment",
+  "games",
+  "mile",
+  "micah",
+  "game",
+  "live",
+  "reality"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-4e7fff539676",
+   "title": "Nick Whiting from Epic Games explains the origin of XR (XR = Virtual Reality + Augmented Reality)."
+  },
+  {
+   "id": "vrma-c9f185cf1426",
+   "title": "Games & Virtual Reality 2018"
+  },
+  {
+   "id": "vrma-f28a15aacd4f",
+   "title": "San Francisco Virtual Reality 360 Live"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Is the Walking Dead on the Road to the Metaverse?",
+   "body": "At GDC the Game Developer Conference, I spoke to the Chief Operating Officer at Genvid Technologies to try to understand some of the tools…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article by Micah Blumberg, about Micah http://vrma.io\n\nGenvid makes games, and they",
+   "body": "Article by Micah Blumberg, about Micah http://vrma.io\n\nGenvid makes games, and they assist game developers in creating massive multiplayer live online games. Games that people could interact with from any device such as a tablet, phone, console, virtual reality headset or augmented reality smart glasses.\n\nWatch the interview I did with Christopher Cataldi, COO of Genvid Technologies here:",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Genvid Entertainment and Skybound Entertainment announcing a new game for “The Walking",
+   "body": "Genvid Entertainment and Skybound Entertainment announcing a new game for “The Walking Dead: Last Mile” a Facebook Gaming Exclusive title for Summer 2022.\n\nGenvid Entertainment and Skybound Entertainment Announce The Walking Dead™: Last Mile - A Facebook… The Next Massively Interactive Live Event (MILE) Will Enable Fans to Directly Experience and Impact a Persistent TWD… www.genvidtech.com",
+   "image": "/wiki/svgn/articles/media/svgn-88470828/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470828/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470828/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470828/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470828/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Nick Whiting from Epic Games explains the origin of XR (XR = Virtual Reality + Augmented Reality).]] · [[Games & Virtual Reality 2018]] · [[San Francisco Virtual Reality 360 Live]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-4e7fff539676",
+     "title": "Nick Whiting from Epic Games explains the origin of XR (XR = Virtual Reality + Augmented Reality)."
+    },
+    {
+     "id": "vrma-c9f185cf1426",
+     "title": "Games & Virtual Reality 2018"
+    },
+    {
+     "id": "vrma-f28a15aacd4f",
+     "title": "San Francisco Virtual Reality 360 Live"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471212",
+ "title": "Samsung reveals an experimental AR headset that isn’t a Samsung product.",
+ "dek": "Based on the Gear VR SDK its just a tool for Samsung developers to begin creating wearable Augmented Reality apps presumably for some other…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-11-08",
+ "articleHref": "/wiki/svgn/articles/2018-11-08-samsung-reveals-an-experimental-ar-headset-that-isn-t-a-samsung-product-vrma-d7b75ec8f52e",
+ "sourceUrl": "https://www.svgn.io/p/samsung-reveals-an-experimental-ar-headset-that-isnt-a-samsung-product-d7b75ec8f52e",
+ "topTerms": [
+  "samsung",
+  "tracking",
+  "controllers",
+  "headset",
+  "motion",
+  "gear",
+  "controller",
+  "oculus"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-ec21c98a9154",
+   "title": "6dof Motion Controller tracking for Standalone VR is a hard problem."
+  },
+  {
+   "id": "vrma-da5a236fd239",
+   "title": "Valve Index shows up right on time to crush the weak excuse of a VR headset called Oculus Rift S."
+  },
+  {
+   "id": "vrma-d7b75ec8f52e",
+   "title": "Samsung reveals an experimental AR headset that isn’t a Samsung product."
+  },
+  {
+   "id": "vrma-4b4d42e35558",
+   "title": "Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Samsung reveals an experimental AR headset that isn’t a Samsung product.",
+   "body": "Based on the Gear VR SDK its just a tool for Samsung developers to begin creating wearable Augmented Reality apps presumably for some other…",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article by Micah Blumberg\n\nThe first thing to know about the Samsung AR Headset shown at",
+   "body": "Article by Micah Blumberg\n\nThe first thing to know about the Samsung AR Headset shown at SDC is that this isn’t a Samsung product. The headset was essentially “hacked” together by Samsung Research with parts that can be ordered online, I think they said from Alibaba. The point of its existance is to help developers to begin to create a software ecosystem of Augmented Reality apps that are designed to be the “wearable” kind of AR applications, so that if Samsung ever starts selling an official AR headset there will be plenty of apps ready for it.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The version shown at SDC 2018 uses a 3dof controller or alternately another Samsung phone",
+   "body": "The version shown at SDC 2018 uses a 3dof controller or alternately another Samsung phone can be used for tracking. I asked about 6dof controllers and they said that there is no limitation preventing them from adding 6dof controllers that could be tracked by the camera, but they have nothing to show at the moment.",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/015.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/017.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/019.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "I learned that the SXR sdk (Samsung XR (AR & VR) Software Development Kit) will only use",
+   "body": "I learned that the SXR sdk (Samsung XR (AR & VR) Software Development Kit) will only use ARcore for plane tracking if the AR app is through the phone itself and not through the wearable headset. The reason is that the wearable uses an external camera and ARcore does not provide any support for external cameras. So Samsung Research reached out to their computer vision department to “hack together” something to make the wearable AR headset have position tracking. Unfortunately this hacked together “tracking” does not yet work as well as ARcore, and its currently only using marker based tracking. Samsung Research is looking at Vuforia and other solutions to improve the tracking and to add features like plane detection.",
+   "image": "/wiki/svgn/articles/media/svgn-88471212/021.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "I tried two demos, one involved a3D menu that I controlled with a Gear VR controller.",
+   "body": "I tried two demos, one involved a3D menu that I controlled with a Gear VR controller. The 3D menu looked really cool. It reminded me a lot of the 3D Augmented Reality email mockup by Weta Workshop for Magic Leap. Except it was an actually working prototype besides looking really good. I navigated this menu with a 3dof controller. I opened and rotated a 3D model of a car, it looked really good, I could not see the boundaries of the FOV but basically it’s the width of the Samsung phone reflected in the wearable headset (about 110 fov). The other demo was a paint program, I used the phone as a controller, I was able to paint on a 2D plane, and the program seemed to be glitching very badly.\n\nThe Samsung SDK seems to be at a very early stage, I don’t know exactly how long it takes a corporation to develop an Augmented Reality sdk, including a 3D software interface & hardware, but I think they have a long way to go. It seems like they might be starting from scratch when it comes to trying to do things like world scale tracking with artificial intelligence, and 6dof or motion controller tracking. I suspect that it could be a six months to even a year before developers are creating the kinds of experiences that you can try now on a Magic Leap headset.",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "Interesting the SXR SDK is based on the Samsung Gear VR SDK.",
+   "body": "Interesting the SXR SDK is based on the Samsung Gear VR SDK. Samsung is folding the Gear VR SDK into the SXR SDK, such that eventually the Gear VR sdk will cease to exist as a separate SDK, it will no longer receive updates, but Samsung will continue to support it.\n\nI confirmed that the current SXR SDK for phones is pretty much a combination of ARcore and the renamed Gear VR SDK. I learned that ARcore in contrast to ARkit doesn’t provide any support to developers for creating graphics. I believe that is why the Gear VR SDK forms the basis of the SXR SDK.\n\nWith this knowledge one is forced to imagine a Samsung Gear XR device that is capable of running Gear VR apps but also augmented reality apps.\n\nThe screen is better, wider & bigger than the Magic Leap and the Hololens, and it didn’t give me any noticable eye strain. The fact that the screen is better really makes me wish that they were much further along with strong world tracking (position tracking) and 6dof motion controllers. I’m excited to see what they show next year.",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "From the looks of it they are no where close to being able to do what the Oculus Quest is",
+   "body": "From the looks of it they are no where close to being able to do what the Oculus Quest is doing, neither in hardware nor in software.\n\nFrom what I have seen and heard no other company is coming close to matching the capabilities of the Oculus Quest. Google has announced motion controllers but they haven’t been demonstrated to the press yet. However the Google Daydream Standalone headset is selling for $399 without motion controllers at most places. So you have to imagine that motion controller may cost $100 or $200 in addition to what you paid for the headset. HTC is working with 3rd party companies like Finch VR to sell 3rd party made motion controllers for the Vive Focus, the expected price is $199 although Finch has said they would like to get the price down to $99.",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "The public has no reason to expect that the HTC Vive Focus controllers or the Mirage Solo",
+   "body": "The public has no reason to expect that the HTC Vive Focus controllers or the Mirage Solo motion controllers will be on par with the Oculus Quest motion controllers in terms of tracking accuracy, speed, and smoothness. Until independent journalists get to try the controllers for the Vive Focus and the Mirage Solo the only game in town anyone should be thinking about is the Oculus Quest.\n\nI have also tried the Nolo VR 6dof controllers & 6dof head postion tracking system and in my humble opinion the Nolo controllers are terrible, the tracking capabilities of the Nolo controllers come nowhere close to the Oculus Quest controller tracking performance. Do not buy the Nolo VR motion controllers.\n\nIt is surprising now to consider the possibility that there really be no other products on par with the Oculus Quest when it launches in the Spring of 2019 for $399. At least not for $399.",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[6dof Motion Controller tracking for Standalone VR is a hard problem.]] · [[Valve Index shows up right on time to crush the weak excuse of a VR headset called Oculus Rift S.]] · [[Samsung reveals an experimental AR headset that isn’t a Samsung product.]] · [[Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-ec21c98a9154",
+     "title": "6dof Motion Controller tracking for Standalone VR is a hard problem."
+    },
+    {
+     "id": "vrma-da5a236fd239",
+     "title": "Valve Index shows up right on time to crush the weak excuse of a VR headset called Oculus Rift S."
+    },
+    {
+     "id": "vrma-d7b75ec8f52e",
+     "title": "Samsung reveals an experimental AR headset that isn’t a Samsung product."
+    },
+    {
+     "id": "vrma-4b4d42e35558",
+     "title": "Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com"
+    }
+   ]
+  }
+ ]
+}

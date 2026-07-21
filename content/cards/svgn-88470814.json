@@ -1,0 +1,132 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470814",
+ "title": "Micah Blumberg",
+ "dek": "I develop next generation computing technologies based on the study of neuroscience. I’m an author, patent creator, institute founder…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-01-08",
+ "articleHref": "/wiki/svgn/articles/2018-01-08-micah-blumberg-svgn-88470814",
+ "sourceUrl": "https://www.svgn.io/p/longer-auto-bio-for-micah-blumberg-3b510d26b803",
+ "topTerms": [
+  "code",
+  "webxr",
+  "brain",
+  "aframe",
+  "neuroscience",
+  "writing",
+  "computer",
+  "https"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-c6635d693766",
+   "title": "The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…"
+  },
+  {
+   "id": "vrma-57040e018fa2",
+   "title": "Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT"
+  },
+  {
+   "id": "vrma-24288a777259",
+   "title": "Virtual reality for pain relief and Stentrode: A brain computer interface that can be implanted in…"
+  },
+  {
+   "id": "vrma-e3e8ac4e9805",
+   "title": "Neurotech SF VR Hacknight: Brainduino+WebXR+OculusGo #4"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Micah Blumberg",
+   "body": "I develop next generation computing technologies based on the study of neuroscience. I’m an author, patent creator, institute founder…",
+   "image": "/wiki/svgn/articles/media/svgn-88470814/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "I develop next generation computing technologies based on the study of neuroscience.",
+   "body": "I develop next generation computing technologies based on the study of neuroscience. I’m an author, patent creator, institute founder, programmer, neuro-physicist, theoretical physicist, NFT creator. I am Creole & Jewish, Neurodivergent, Autistic, I use He/Him pronouns.\n\nI’m a matrix hacker (math, code, physics, webxr, neural networks). A neurohacker (writing code for brain machine interfaces, I design new brain computer interface technologies, and I write about the quantum physics of neurophysics, quantum gravity, and I recently began to design propulsion systems and aerospace vehicles. I’m a book author (in progress), a patent creator (in progress), a science institute founder (in progress), a software architect.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "I am writing a book about the quantum physics of neurophysics, how human phenomenal",
+   "body": "I am writing a book about the quantum physics of neurophysics, how human phenomenal consciousness works, how to hack the human mind with technology, the book includes a new extension of Quantum Gravity.\n\nI am this year (2021) starting a new science institute.\n\nI work on climate change, global economic issues, I help to resolve international conflicts, I’m a consultant for governments and corporations on advanced technologies, I support artists and cancer research.\n\nI’ve been writing code with javascript since 2010, I create VR and AR applications with WebXR, Aframe, Threejs, and other related code libraries since 2017. I have been a community organizer who has in the past hosted coding meetups, talks about neuroscience, the metaverse, vr ar tech, and artificial intelligence tech.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "I design code & micro-processors for novel new self aware neural networks.",
+   "body": "I design code & micro-processors for novel new self aware neural networks.\n\nAlways seek wisdom, continually improve, learn from mistakes & successes, goodwill towards others is the best path to long term success, fight to do right!\n\n— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — -\n\nIn addition I have been writing code with javascript since around 2010. I co-created software for neuroimaging (EEG in VR). I created software applications with Virtual Reality, Augmented Reality, Deep Learning, BCI (Experience with EEG, FNIRS, EIT & more.) applications with WebXR, Aframe, Threejs, Mediapipe / Tensorflow (js) and other code libraries since 2017. I’m a researcher of deep neural networks, computational neuroscience, computational biology, neuroscience, human & artificial cognition, and brain computer interfaces. My ultimate mission in life to create full dive nerve gear (next gen BCI), and self aware networks (sentient artificial brains also referred to as AGI). I am also a community organizer who hosts coding meetups, talks on neuroscience and talks on tech topics.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Here is a link to a page with featured articles\n\nFeatured Articles, Podcasts, Bio Micah",
+   "body": "Here is a link to a page with featured articles\n\nFeatured Articles, Podcasts, Bio Micah Blumberg, programmer, journalist https://www.linkedin.com/in/worksalt medium.com\n\nEmail: micah@vrma.io\n\nOtherways to connect\n\nWays to connect Email : micah@vrma.io vrma.medium.com\n\nIn 2010 I was coding with Javascript, HTML, CSS, PHP inside Adobe Dreamweaver to build websites for my clients, I was writing simple animations using action script with Adobe Flash.\n\nIn 2012–2014 I opened a neurofeedback business in San Francisco that also did research to develop new brain computer interface experiences with light & sound patterns driven by EEG brainwaves.\n\nIn 2015 I pivoted to become a full time journalist intent on learning how to build a magazine in VR (with WebVR technology) and on how to develop VR applications that could be used to visualize sensor data.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "In 2017 I started the “Neural Lace Podcast” series on youtube, the discussions explore",
+   "body": "In 2017 I started the “Neural Lace Podcast” series on youtube, the discussions explore how future brain computer interfaces might work, touch on topics related to neuroscience, computational biology, deep learning, and more.\n\nThe Neural Lace Podcast\n\nhttps://www.youtube.com/playlist?list=PLkuAPx_OL_kE35pOKBfEd2TIWWX_tfuvM\n\nFor 2 years from Jan 2018 until December 2019 I was the organizer of NeurotechSF in San Francisco, part of NeuroTechX.\n\nIn 2018 for NeurotechSF: I organized coding meetups with the San Francisco hacker community at Noisebridge to bring EEG into WebXR In 2019 for NeurotechSF: I hosted a series of neuroscience talks at the Red Victorian Hotel.\n\nIn 2018 as the organizer of NeurotechSF I led a weekly code night community project at Noisebridge, a maker space in San Francisco, to bring EEG (brainwaves) signals into Virtual Reality (WebXR) In the beginning we had an openbci eeg device and an HTC Vive, and we tried to create 3D printed parts to attach the open bci sensors to the Vive. Our 3D printing efforts were not successful so we ended up using a brainduino eeg device with an Oculus Go, to start we served the eeg data to desktop running a debian distro of linux, we used Python to create a server (and later replaced that with a Go server), we imported our EEG signals into the webpage with a websocket, and we used the Fast Fourier Transform to divided the signal in frequency ranges such as Delta, Theta, Gamma, Alpha, and Beta, so that with our two sensors we had 10 incoming signals to visualize, and then we used a combination of Aframe & Threejs scripting software to change the height and color of objects representing the incoming data effectively creating a 3D time series in virtual reality. User’s could walk around inside this representation of their brain activity with the Lenovo Mirage Solo VR headset and they could click the visualization to rotate it in space.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "This video is one of the first results: WebVR EEG Scatterplot work we are doing at",
+   "body": "This video is one of the first results: WebVR EEG Scatterplot work we are doing at NeurotechSF meetups https://twitter.com/worksalt/status/1055343502005923840?s=20\n\nI improved the code on the aframe side after that significantly and this was a later result https://photos.google.com/share/AF1QipP_l79r-yc8ghELZykQDL1eI7Xw82uumsFM7QNsqAAJNiEzZTXWhvnleticudX6jQ?key=aUpyWE81U3YxSC1SdXRKS0dtdFJUdklaelQ4MXJ3\n\nNew video by Micah Blumberg Edit description photos.google.com\n\nUpdates to Neurohaxor EEG WebVR: added VR console to show user new buttons to teleport, turn right or left, or laser click items, turned the boxes into plain buffer geometry which makes the app runs a lot smoother. Watch the new video here:",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "In 2019 I created a 3D Carousel to cycle through items (2D pictures and 3D objects) by",
+   "body": "In 2019 I created a 3D Carousel to cycle through items (2D pictures and 3D objects) by clicking next / previous I also built an interface with buttons for a video player inside WebXR. This involves some really advanced javascript.\n\nIn 2019 I began to create some advanced ui/ux in aframe, in this video you can see 3D models and 2D pictures moving on a 3D carousel that I wrote that movies items between visible and invisible points when the user clicks next or previous, the entities change scale, rotation, and position with every click. It works in both AR and VR.\n\nThis code demonstration shows Tilt Brush inside WebXR with Aframe working on an iPad. It runs in Oculus Go, Oculus Quest, Lenovo Mirage Solo, Windows Mixed Reality with all the VR controllers working, iphone, ipad, and android with touch screen UI, and in AR mode on iphone ipad and android, and if I had other devices to test I would get it working on those as well eventually.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "I continued to host meetups in 2019 but they were more about presentations from people",
+   "body": "I continued to host meetups in 2019 but they were more about presentations from people creating novel brain computer interfaces, and then in 2020 I decided to shift my focus and attention back to writing WebXR code full time, with the goal of improving my programming skill so that I can eventually use that knowledge to build next generation brain computer interfaces with devices such as functional near infrared spectroscopy.\n\nIn 2020 I led a project to bring gravity gloves (originally featured in the world famous videogame called Half Life Alyx) into WebXR, which means you can point at objects that you want and click them and they fly towards you so you can catch them. I also implemented game physics so the objects could be thrown. I also helped develop virtual (3D) post it notes and persistent objects that had their properties stored on a server and available to anyone who visited the webpage.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "https://www.facebook.com/worksalt/videos/3673215699371717/\n\nIn 2020 I hosted the newer",
+   "body": "https://www.facebook.com/worksalt/videos/3673215699371717/\n\nIn 2020 I hosted the newer Aframe WebXR Online Hacknight for 32 weeks, sometimes twice a week, we built the Aframe Gravity Gloves Component, inspired by the Half Life Alyx Gravity Gloves, and we built other cool things. https://github.com/n5ro/n5ro.github.io/tree/master/gravitygloves",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470814/001.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…]] · [[Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT]] · [[Virtual reality for pain relief and Stentrode: A brain computer interface that can be implanted in…]] · [[Neurotech SF VR Hacknight: Brainduino+WebXR+OculusGo #4]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-c6635d693766",
+     "title": "The NerveGear Show: Neuroscience, Artificial Intelligence, Virtual Reality, Brain computer…"
+    },
+    {
+     "id": "vrma-57040e018fa2",
+     "title": "Augmented Reality + Brain Computer Interfaces: Hololens 2, FNIRS, EIT"
+    },
+    {
+     "id": "vrma-24288a777259",
+     "title": "Virtual reality for pain relief and Stentrode: A brain computer interface that can be implanted in…"
+    },
+    {
+     "id": "vrma-e3e8ac4e9805",
+     "title": "Neurotech SF VR Hacknight: Brainduino+WebXR+OculusGo #4"
+    }
+   ]
+  }
+ ]
+}

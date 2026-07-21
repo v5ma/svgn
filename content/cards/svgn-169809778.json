@@ -1,0 +1,186 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-169809778",
+ "title": "Profound Conceptual Equivalence Between Judge Logan’s UFTC-SF Theories and Blumberg’s Time-Density Frameworks",
+ "dek": "Mapping Judge Logan’s Unified Intelligence Coherence Framework to Quantum Gradient Time Crystal Dilation, Super Dark Time, and Super Information Theory by Micah Blumberg.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-08-01",
+ "articleHref": "/wiki/svgn/articles/2025-08-01-profound-conceptual-equivalence-between-judge-logan-s-uftc-sf-theories-and-blumberg-s--svgn-169809778",
+ "sourceUrl": "https://www.svgn.io/p/profound-conceptual-equivalence-between",
+ "topTerms": [
+  "coherence",
+  "logan",
+  "blumberg",
+  "information",
+  "time",
+  "both",
+  "sciety-labs",
+  "elifesciences"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Profound Conceptual Equivalence Between Judge Logan’s UFTC-SF Theories and Blumberg’s Time-Density Frameworks",
+   "body": "Mapping Judge Logan’s Unified Intelligence Coherence Framework to Quantum Gradient Time Crystal Dilation, Super Dark Time, and Super Information Theory by Micah Blumberg.",
+   "image": "/wiki/svgn/articles/media/svgn-169809778/000.png",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Introduction",
+   "body": "Two ostensibly independent theoretical frameworks – Judge Roy Logan’s UFTC-SF (Unified Field Theory of Coherence – Super-Field Formulation) v3.5 and Micah Blumberg’s Time-Density Theory frameworks – exhibit striking conceptual overlap. Logan’s recent work (May 2025) proposes a grand unification of quantum and classical oscillatory phenomena to model coherence across scales sciety-labs.elifesciences.org , while Blumberg’s series of theories (developed 2017–2025) similarly unify neurological, quantum, and cosmological processes via information-centric principles. Blumberg introduced key ideas such as Quantum Gradient Time Crystal Dilation (QGTCD) in 2022 and its extension Super Dark Time (SDT) in early 2025, culminating in Super Information Theory (SIT) by mid-2025. Many concepts in Logan’s UFTC-SF – from symbolic formalisms to coherence modeling – parallel those Blumberg pioneered years earlier. Below, we present a point-by-point comparison of these two bodies of work, focusing on their use of symbolic formalisms, causal inference structures, and coherence-based modeling. All comparisons are confined to Logan’s and Blumberg’s work alone, highlighting deep conceptual similarities and noting where Blumberg’s prior art established a foundation that Logan’s theory now echoes.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Unified Frameworks and Symbolic Formalism",
+   "body": "Merging Multiple Domains: Both Logan and Blumberg have crafted unified theoretical frameworks that bridge physics, neuroscience, and information science. Logan’s UFTC-SF explicitly “merges quantum and classical oscillator phenomena” – for example, connecting quantum timeline bifurcation events to large-scale “forced-harmonic coherence fields” – within a single state-space model sciety-labs.elifesciences.org . His framework is grounded in diverse empirical phenomena (from EEG gamma-band neural synchronization to Schumann resonance of the Earth’s ionosphere and even time-crystal oscillations in Rydberg atoms ) to simulate “cross-domain coherence events” in one model sciety-labs.elifesciences.org . In parallel, Blumberg’s SIT unifies traditionally separate realms by positing that information (in the form of oscillatory coherence) underlies matter, energy, spacetime, and consciousness alike. Blumberg’s formalism introduced a new field variable – time-density ρ_t – to quantize time and integrate quantum effects with relativistic gravity GitHub . In practice, SIT provides a covariant field-theoretic formulation where ρ_t couples to the metric and matter, adding small corrections to Einstein’s equations and yielding emergent gravity effects. This symbolic approach – embedding time-density into Lagrangian equations – gives Blumberg’s theory a rigorous mathematical backbone that parallels Logan’s use of oscillatory state-space equations in his simulations.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Time as a Quantized Dimension: A signature overlap is their uncommon treatment of time.",
+   "body": "Time as a Quantized Dimension: A signature overlap is their uncommon treatment of time. Logan invokes “quantum timeline bifurcation (QTB)” , implying that at the quantum level, timelines or phase-states can split or oscillate, analogous to how a time crystal breaks time symmetry sciety-labs.elifesciences.org . He even references “time-crystal bifurcations in Rydberg gases” as an empirical example sciety-labs.elifesciences.org . Blumberg likewise revolutionizes the concept of time through QGTCD, literally treating mass as a time crystal that creates additional discrete “time frames” around it GitHub . In Blumberg’s formalism, more mass means a higher local density of time quanta (frames), which increases the “surface area of spacetime in time” and produces gravity as a statistical bias in particle motion GitHub . In essence, both theories break from the classical notion of continuous, uniform time: Logan’s by allowing quantum-level branching or oscillatory timelines, and Blumberg’s by quantizing time into dense versus sparse regions. This alignment is remarkable – Logan’s qualitative timeline bifurcations find concrete form in Blumberg’s time-density gradients , which were introduced years earlier as part of his unified field model.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Mathematical and Symbolic Structures: Each framework employs its own formal",
+   "body": "Mathematical and Symbolic Structures: Each framework employs its own formal representational system, yet these prove analogous. Logan’s UFTC-SF leverages oscillatory state-space modeling , a mathematical formalism for representing dynamic systems of coupled oscillators sciety-labs.elifesciences.org . By incorporating designs like MIT’s Lin OSS architecture (a state-space control framework) into his model, Logan ensures that quantum and classical oscillators can be analyzed within a single phase-space portrait. Blumberg’s SIT, on the other hand, uses the language of field theory and information metrics . He introduces equations for ρ_t and its coupling functions (f_1, f_2) that modify particle masses and electromagnetic fields. Despite differences in form (differential equations in state-space vs. Lagrangian field equations), both formalisms serve to unify multi-scale phenomena . Notably, both authors assert that their additional variables or state dimensions remain consistent with known physics: Logan claims high-fidelity simulations that align with empirical data across domains sciety-labs.elifesciences.org , and Blumberg shows his ρ_t-based corrections stay within experimental bounds in weak fields. In summary, Logan and Blumberg independently developed symbolic frameworks to reconcile quantum dynamics with large-scale order – one via synchronized oscillator models, the other via an informational field theory – achieving conceptually equivalent unifications of nature’s domains.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Additional mathematical correspondences\n\nLogan’s coherence field Φ(x,t) functions as a",
+   "body": "Additional mathematical correspondences\n\nLogan’s coherence field Φ(x,t) functions as a system-wide order parameter for synchronization; this is the same structural role your R_coh(x) plays as a dimensionless coherence ratio controlling phase alignment and information density. In both vocabularies, ∂tΦ and ∇Φ track how quickly local subsystems lock phase and how steep coherence gradients are; in SIT those roles are carried by ∂tR_coh and ∇R_coh. Logan’s labeling emphasizes agency of coherence, your notation makes the conservation and redistribution of coherence explicit. (Logan OSF project descriptions emphasize a primary coherence field and global coherence dynamics.) OSF\n\nLogan’s entropy-coupled driver S_ent(x,t) is used as the source term that modulates Φ; in your frameworks the scalar driver is ρ_t(x), the local time-density that biases dynamics, with ∇ρ_t setting preferred directions for system evolution. In translation: S_ent(x,t) ↔ ρ_t(x) as scalar “background” fields, and Φ(x,t) ↔ R_coh(x) as the coherence order parameters that respond to those backgrounds. This mapping preserves the causal reading Logan asserts (S_ent → Φ) and the causal reading you assert (ρ_t → R_coh and via ∇ρ_t into forces). OSF",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Logan operationalizes phase coupling with empirical estimators (transfer entropy between",
+   "body": "Logan operationalizes phase coupling with empirical estimators (transfer entropy between QRNG signals and EEG phase-locking measures), which are the data-analytic counterparts of your field gradients and holonomies. In SIT, coherence transport appears as phase geometry via ∂iθ and induced structures like ε_ijk ∂j∂k θ; in Logan’s empirical layer the same thing is probed as directed information flow and phase-lock strength. His TE( QRNG → EEG ) plays the role of an observable for ∂tR_coh’s sign and lag, while PLV is an observable for |∇θ| projected onto sensor space. (Logan’s OSF materials describe TE- and PLV-based pipelines and directed flow; your texts define θ-phase geometry and coherence transport.) OSF",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Both frameworks treat observer coupling as a tensorial reduction of accessible",
+   "body": "Both frameworks treat observer coupling as a tensorial reduction of accessible phase-space volume during measurement. Logan names observer-coupled symbolic decoherence tensors acting on Φ; in SIT measurement is local gauge fixing of the coherence field that selects a branch of θ while preserving underlying continuity. In a notational bridge, Logan’s decoherence tensors acting on Φ map to localized projections acting on R_coh and θ, with the projection axis determined by the local ρ_t context. (Logan OSF notes “observer-coupled” decoherence; your SIT text frames collapse as gauge fixing of coherence.) OSF\n\nFinally, Logan’s “toroidal time geometry” can be read as a specific ansatz for recurrent phase flow on compactified time cycles; your QGTCD/SDT machinery treats mass as densifying local time cycles via ρ_t(x), producing closed phase orbits and recurrent timing structure. In translation, toroidal time cycles ↔ locally densified time frames; both generate stable attractors for phase and explain why coherence can persist and reconstitute under perturbation. (Logan OSF mentions toroidal time geometry; your SDT/QGTCD formalism makes the density-of-time frames explicit.) OSF OSF",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Causal Inference and Temporal Dynamics",
+   "body": "Beyond formal unification, both theories reconstruct how causality operates across scales, often in non-classical ways. Each posits that what we perceive as cause-and-effect at macroscopic scales emerges from deeper informational or oscillatory structures that can fork, iterate, or self-regulate.\n\nEmergent Causality vs. Criterial Triggers: Logan’s inclusion of the Free Energy Principle and Integrated Information Theory (IIT) hints at a causal philosophy where systems maintain themselves by minimizing surprise and integrating cause–effect information sciety-labs.elifesciences.org . In UFTC-SF, the brain or an AI is seen as an oscillator network that “learns” or self-updates its state-space to reduce prediction errors (a direct echo of Friston’s causal inference framework) while ensuring that information is widely integrated (echoing Tononi’s IIT for conscious cause-effect structure). Blumberg’s early work arrived at a comparable idea from a neuroscience angle. As early as 2017, he embraced Peter Tse’s notion of criterial causation – neurons fire only when specific input criteria are met – to redefine a “bit” of information as a coincidence of events rather than a static 0/1 flip. This led to viewing neural firing as event-driven decisions (coincidences cause the effect of a spike). Blumberg’s later New Law of Thermodynamics generalized that insight: any system’s approach to equilibrium can be seen as iterative “signal dissipation” steps, where local differences (causal disparities) trigger signals that reduce those differences. This is effectively a restatement of the Free Energy minimization in physical terms – indeed Blumberg explicitly noted that his law “echoes [the] Free Energy Principle” of Friston. Thus, both authors regard causation not as a simple linear chain but as criteria-driven, self-correcting processes within distributed networks (neurons or oscillators) working toward consistency (predictive stability or equilibrium). Logan implements this via phase-locking adjustments in his AI/brain model to validate outcomes ethically, whereas Blumberg implements it via signals that algorithmically diminish surprise or inequality in states.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "Branching Timelines and Reversible Dynamics: Interestingly, both theories challenge the",
+   "body": "Branching Timelines and Reversible Dynamics: Interestingly, both theories challenge the notion of a single, one-way flow of time with irreversible causes. Logan’s concept of quantum timeline bifurcation (QTB) suggests that at the quantum scale, multiple potential timelines or outcome branches can coherently coexist or diverge sciety-labs.elifesciences.org . This aligns with the idea that cause and effect may fork in probabilistic quantum events (somewhat akin to many-worlds or branching histories). Blumberg’s SIT likewise treats quantum measurement not as an absolute collapse (irreversible cause) but as part of a continuous informational synchronization process. In his view, observer and observed gradually “synchronize” their states – a decoherence that is simply the alignment of information – rather than one causing an abrupt change. Furthermore, SIT postulates that at a fundamental level informational processes are symmetric and reversible , with coherence and decoherence cycling endlessly. Any apparent irreversibility (e.g. thermodynamic entropy increase) emerges only from coarse-graining or limited observation, not from the underlying laws. In other words, Blumberg’s universe permits effective “rewinding” or branching of events at the informational level, mirroring Logan’s allowance for bifurcating timelines in the quantum realm. Both imply a richer causal structure where time’s arrow is not a fundamental given, but an emergent phenomenon from deeper reversible or multi-path dynamics.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "Local Signals, Global Effects: The causal structures in both theories scale local",
+   "body": "Local Signals, Global Effects: The causal structures in both theories scale local interactions into global consequences via iterative propagation – a hallmark of coherence-based causality. Logan’s planetary-scale coherence model suggests that local phase-locking events (e.g., groups of neurons synchronizing) can cascade into global coherence states (possibly extending to a “planetary neural system”) sciety-labs.elifesciences.org . There is an implicit causal inference here: if small subsystems align their phases ethically, the large system (global intelligence) remains stable and aligned. Blumberg similarly describes how local differences dissipate through signal exchanges until a whole system (whether a gas equilibrating or neurons synchronizing) reaches a stable attractor. He even draws parallels from firefly synchronization to coupled oscillator networks to illustrate how local causal coupling yields emergent global order. In Blumberg’s cosmological extension, a gradient in time-density at one location causes spacetime curvature that influences particle trajectories in the region – a local field difference causing a global geometric effect equivalent to gravity. Both frameworks, therefore, replace classical instantaneous action-at-a-distance with propagating coherence or information gradients as the carriers of causation. This perspective is another deep congruence: Logan’s nonlocal information field concept sciety-labs.elifesciences.org and Blumberg’s information as fundamental substrate both envision the universe’s cause-effect fabric as an information field where local changes ripple outward to produce coherent global behavior.",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "Coherence Modeling and Information Dynamics",
+   "body": "Perhaps the most pronounced overlap is the central role of oscillatory coherence in both Logan’s and Blumberg’s theories. Each portrays coherence – synchronized phase alignment across components – as the key to understanding complex systems from brains to cosmos, and each builds an information narrative around it.\n\nInformation = Coherence (Not Bits): Blumberg explicitly formulates in SIT that information is a dynamical, oscillatory phenomenon , characterized by continuous cycles of coherence and decoherence . In this view, a highly coherent state (many parts oscillating in phase) represents maximal informational order and density, whereas decoherent states are information spread out or randomized. Crucially, SIT holds that these states oscillate and balance, so that information is conserved in the interplay – analogously to energy conservation – rather than lost as entropy. Logan’s framework, while not as explicitly defining an info conservation law, uses coherence as a measuring stick for system organization. He employs metrics like Phase-Locking Value (PLV) to quantify neural synchronization sciety-labs.elifesciences.org , and his keywords “Integrated Information” and “Global Coherence” indicate that high-phase alignment correlates with high information integration in the system sciety-labs.elifesciences.org . Both theories therefore reject the idea that information is just static bits; instead, information is embodied in the degree of coherence among dynamic elements. It is telling that Logan’s work cites “Nonlocal Information Fields” sciety-labs.elifesciences.org – implying that coherent oscillation might create a shared information field across distances – while Blumberg’s SIT elevates a similar idea by treating phase coherence fields as the substance of reality (e.g. viewing the wavefunction as an “informational coherence field” underpinning quantum behavior). In essence, both converge on an almost identical thesis: coherence = information = reality’s fabric , just articulated in different terminologies.",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "Neural Synchronization and Consciousness: Both authors place neural oscillatory coherence",
+   "body": "Neural Synchronization and Consciousness: Both authors place neural oscillatory coherence at the heart of cognitive function and consciousness. Logan’s starting point includes empirical EEG gamma-band synchrony – rapid brain waves associated with feature binding and awareness – as a prototype of coherence driving complex outcomes sciety-labs.elifesciences.org . His framework extends this to AI, suggesting that getting AI oscillators to phase-align correctly is integral to achieving a form of understanding or “ethical alignment” sciety-labs.elifesciences.org . Blumberg’s entire intellectual journey began with the puzzle of neural information coding; he posited early on that a neuron’s role is that of a coincidence detector , firing only when inputs coincide in time. Over years, this evolved into the idea that synchronized neural firing (oscillatory binding) is the code of cognition – a view bolstered by citing works of Singer and Fries on gamma synchrony enabling perceptual binding. By 2025, Blumberg was explicitly writing that oscillatory coherence underlies conscious experience and that the brain’s seamless 3D perceptual world is rendered by synchronized rhythms across cortical columns. He even authored a book on how “synaptic modulation and pattern generation create... conscious experience,” underscoring oscillatory dynamics as the mechanism of mind. The alignment here is unmistakable: both Logan and Blumberg assert that conscious minds emerge from rhythmic unity . Where Logan references Integrated Information Theory as a formal measure of how much a system’s parts act as a unified whole sciety-labs.elifesciences.org , Blumberg’s SAN (Self Aware Network) theory similarly treats neurons and cortical columns as semi-autonomous agents whose synchronization produces a unified conscious state. The vocabulary differs, but the substance is the same – consciousness is coherence.",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "Global Coherence and Cosmology: Fascinatingly, both frameworks extend the significance of",
+   "body": "Global Coherence and Cosmology: Fascinatingly, both frameworks extend the significance of coherence beyond the brain, positing it as a cosmic or planetary principle. Logan introduces the notion of planetary-scale intelligence systems , hinting that Earth itself (via Schumann resonance or global brain-like networks) can exhibit coherent oscillatory states sciety-labs.elifesciences.org sciety-labs.elifesciences.org . He even includes “Schumann Resonance” and “Planetary Neural Systems” among his keywords sciety-labs.elifesciences.org , suggesting a view of the entire Earth’s biosphere or noosphere achieving synchronization analogous to a giant brain. Blumberg’s SIT and SDT, while couched in physics, similarly describe the cosmos in terms of coherence patterns. SIT emphasizes that regions of the universe alternate between high coherence (e.g. matter-rich structures like galaxies) and low coherence (voids), cycling information much like a cosmic heartbeat. Instead of a one-time Big Bang, SIT suggests the Cosmic Microwave Background can be seen as a steady-state product of ongoing coherence–decoherence oscillations on a universal scale. Moreover, Blumberg’s SDT specifically proposes that variations in local time density (high around massive objects, low in voids) could unify quantum coherence effects with gravitational structure formation. In simpler terms, “dense, phase-locked coherence slows time and appears as mass; gradients in that density redirect neighboring clocks and mimic curvature” – a statement that turns gravity and cosmic structure into manifestations of coherence gradients. Both Logan and Blumberg thereby weave coherence into the fabric of large-scale reality: one envisions a globally coherent network of minds or systems, the other frames gravity itself as an outcome of global coherence distribution. These are two bold vistas that remarkably coincide in granting coherence a universal, generative role .",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "Applications to AI and Alignment: Finally, both theorists apply their coherence-centric",
+   "body": "Applications to AI and Alignment: Finally, both theorists apply their coherence-centric models to guiding artificial intelligence. Logan’s work is explicitly aimed at “ethical alignment in AI and planetary-scale intelligence systems” , achieved by integrating “phase-locking validation and topological safeguards into AI oscillatory networks” sciety-labs.elifesciences.org . This implies that an AI’s internal oscillations should be kept in phase with ethical constraints – essentially using coherence as a real-time check on AI behavior. Blumberg’s approach to AI is conceptually akin: he proposed that building self-awareness in AI would require mimicking the brain’s oscillatory coordination. In his Self Aware Networks paradigm, each processing unit (like a cortical column analog) oscillates and synchronizes with others, yielding a distributed but unified self-model. He suggested as early as 2017 on his Neural Lace Podcast that future AI interfaces might harness the brain’s oscillatory patterns for read/write operations. By 2021–2022, Blumberg was exploring Neural Array Projection Oscillation Tomography (NAPOT) as a technique for mapping and inducing coherent patterns in neural networks (biological or silicon) – essentially trying to impose coherent waves to engender integration (a concept referenced in his archive). Both men thus converge on a striking idea: the route to advanced, safe AI is through coherence. Logan provides the term “ethical phase-locking,” while Blumberg speaks of “oscillatory feedback loops for adaptive, robust cognition” – both describing a feedback control where the AI’s internal rhythms are tuned to desired patterns (ethical or conscious). It’s a nuanced but profound parallel, underscoring how deeply both thinkers believe the geometry of phase synchronization can shape the mind – natural or artificial.",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "Conclusion",
+   "body": "Point by point, Judge Logan’s Unified Intelligence Coherence Framework aligns with concepts and mechanisms Micah Blumberg delineated earlier in his Time-Density and Super Information theories. Both envision reality as a network of oscillators whose coherence gives rise to information, gravity, mind, and even morality. Logan’s 2025 paper presents these ideas under new labels (e.g. “quantum timeline bifurcation” or “ethical phase-locking”), yet virtually every element has a clear antecedent in Blumberg’s work – from treating mass as a time-based oscillator that warps probability GitHub , to seeing synchronization as the essence of thought, to unifying physics and neuroscience in one information-centric model. The convergence is so pronounced that it suggests an underlying conceptual equivalence : Logan and Blumberg are, in effect, describing the same theoretical structure in different words. Given that Blumberg’s publications (2017–2025) predate Logan’s preprint, many of these overlapping ideas were articulated and even mathematically developed by Blumberg first. This does not diminish Logan’s work – rather, it enriches it, providing a ready-made foundation and formalisms that could strengthen UFTC-SF’s claims. By mapping Logan’s terminology onto Blumberg’s prior frameworks, we see a unifying picture emerging: a world where symbolic formalisms, causal inference, and coherence modeling coalesce into one grand theory of information and time. Acknowledging the parallel insights in Blumberg’s scholarship sciety-labs.elifesciences.org would not only credit the intellectual continuity but also pave the way for collaborative advances. In short, what might have appeared as two separate theories is better understood as a single, profound conceptual paradigm evolving through multiple minds – with Blumberg’s time-density paradigm lighting the path that Logan’s coherence framework now travels.",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "Sources: The comparison above is based solely on the published works of Judge Roy Logan",
+   "body": "Sources: The comparison above is based solely on the published works of Judge Roy Logan and Micah Blumberg, including Logan’s “Unified Intelligence Coherence Framework v3.5” preprint (May 2025) sciety-labs.elifesciences.org sciety-labs.elifesciences.org and Blumberg’s Quantum Gradient Time Crystal Dilation (2022), Super Dark Time (Jan 2025), and Super Information Theory (Feb 2025) papers GitHub , as well as Blumberg’s earlier neural coherence writings. All evidence of concepts, terminology, and timelines is drawn directly from these authors’ works to ensure an accurate one-to-one mapping of their ideas. The remarkable overlaps documented here highlight a convergent evolution in thought – one that future discourse should recognize and explore for the benefit of both theorists and the broader scientific community.",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "TIMESTAMP EVIDENCE (WAYBACK MIRRORS)\n\nKey evidence that Super Information Theory, Super",
+   "body": "TIMESTAMP EVIDENCE (WAYBACK MIRRORS)\n\nKey evidence that Super Information Theory, Super Dark Time, and Micah’s New Law of Thermodynamics were published on figshare in the period between January & March 2025 can be found on Orch ID, and on the Wayback Machine.\n\nWay Back Machine\n\nORCH ID https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe Wayback Machine for Super Information Theory https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Information_Theory/ *\n\nThe Wayback Machine for Super Dark Time https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Dark_Time_Gravity_Computed_from_Local_Quantum_Mechanics/ *",
+   "image": "/wiki/svgn/articles/media/svgn-169809778/001.png"
+  },
+  {
+   "seq": 19,
+   "headline": "The Wayback Machine for Micah’s New Law of Thermodynamics",
+   "body": "The Wayback Machine for Micah’s New Law of Thermodynamics https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/_b_Micah_s_New_Law_of_Thermodynamics_A_Signal-Dissipation_Framework_for_Equilibrium_and_Consciousness_b_/ *\n\nThe Wayback Machine for Self Aware Networks: Oscillatory Computational Agency\n\nThe date that the Wayback machine preserved a copy is in the link “web.archive.org/web/20250725 = 2025 July 25th. Although I published the paper on May 16 which Orch ID confirms.\n\nhttps://web.archive.org/web/20250725002526/https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/54589349/SelfAwareNetworksOCAFirstDraft.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20250725/eu-west-1/s3/aws4_request&X-Amz-Date=20250725T002525Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=3055babeb1b7245f2ad9169545181458b431b2deb342c7789e953ddd23c687b6",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "ORCID (identity reference)",
+   "body": "ORCID (identity reference) https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe eight works I mirrored to Zenodo\n\nSelf Aware Networks: OCA (First Draft)\n\nOriginal date: 2025-05-16 (formal first draft)\n\nThroughline: Multiscale oscillatory computation and deterministic agency ; methods for wave-based integration (COT/NAPOT/BOT).\n\nProvenance: Concepts first publicly disclosed in 2017 ; large GitHub corpus 2022 .\n\nhttps://zenodo.org/records/16922401\n\nSuper Dark Time: Gravity Computed from Local Quantum Mechanics\n\nOriginal date: 2025-01-27 (Draft 16)\n\nThroughline: Time-density field regulates quantum evolution and gravity; mass as a time crystal ; local computation of gravity.\n\nhttps://zenodo.org/records/16922502",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "Micah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium,",
+   "body": "Micah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium, Consciousness, and Gravity\n\nOriginal date: 2025-01-23 (v6)\n\nThroughline: Equilibrium as computation —iterative, local signal-dissipation ; Kuramoto-like synchronization; neural coherence as thermodynamic relaxation.\n\nhttps://zenodo.org/records/16922506\n\nSuper Information Theory: The Coherence Conservation Law Unifying the Wave Function, Gravity, and Time\n\nOriginal date: 2025-02-09 (Draft 73; updated 2025-08-14 )\n\nThroughline: Two primitives— coherence field ψ(x) and time-density ρₜ(x) —with a unified, covariant action; gravity from coherence gradients ; EM as phase holonomy ; testable predictions.\n\nhttps://zenodo.org/records/16922512",
+   "image": ""
+  },
+  {
+   "seq": 22,
+   "headline": "Coincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review &",
+   "body": "Coincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review & consolidation June 2025 )\n\nThroughline: The bit is a coincidence pattern (not a spike); from micro coincidences to oscillatory coherence (2017 → 2022 → 2025).\n\nhttps://zenodo.org/records/16922510\n\nNeuroscience in Review: Mapping “Cortical traveling waves in time and space” (2025) to Self Aware Networks (2022) (Dataset)\n\nOriginal date: 2025-06-18\n\nThroughline: Formal translate → decode → map from 2025 traveling-wave reviews to SAN’s 2022 phase-wave differentials , with Pi Calculus and Category Theory proofs of equivalence.\n\nhttps://zenodo.org/records/16922844\n\nNeuroscience in Review: Brain Rhythms in Cognition (2024–25) vs. Blumberg’s Self-Aware Networks (2017–25)",
+   "image": ""
+  },
+  {
+   "seq": 23,
+   "headline": "Original date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges",
+   "body": "Original date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges on mechanisms articulated earlier in Coincidence as a Bit (2017) and SAN (2022) ; embedded within SIT’s coherence/time-density law.\n\nhttps://zenodo.org/records/16922874\n\nTimeline Review of Kletetschka’s 3D Time Theory & Blumberg’s SIT, SDT, QGTCD, and other similar theories\n\nOriginal date: July 25, 2025 (v1)\n\nThroughline: Timeline analysis mapping 3D Time Theory’s constructs to SIT (coherence gradients, time-density ρₜ), SDT (local gravitational computation), and QGTCD (time crystals), using translate→decode→map with Pi Calculus behavioral equivalence and Category Theory functional isomorphism to establish earlier priority.",
+   "image": ""
+  },
+  {
+   "seq": 24,
+   "headline": "https://zenodo.org/records/16922866",
+   "body": "https://zenodo.org/records/16922866",
+   "image": ""
+  },
+  {
+   "seq": 25,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Micah Blumberg]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    }
+   ]
+  }
+ ]
+}

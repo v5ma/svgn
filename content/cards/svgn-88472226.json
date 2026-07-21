@@ -1,0 +1,138 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472226",
+ "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality",
+ "dek": "Includes a hint about how easy it is to use the Vive Lighthouse 2.0 technology (just attach a puck to any wall or even the side of a…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-03-28",
+ "articleHref": "/wiki/svgn/articles/2018-03-28-htc-vive-s-commercial-business-strategy-for-virtual-reality-vrma-eddd3e5de723",
+ "sourceUrl": "https://www.svgn.io/p/htc-vives-commercial-business-strategy-for-virtual-reality-eddd3e5de723",
+ "topTerms": [
+  "vive",
+  "interviewed",
+  "things",
+  "nvidia",
+  "frank",
+  "strategy",
+  "video",
+  "talking"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-eddd3e5de723",
+   "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+  },
+  {
+   "id": "vrma-4aa546469123",
+   "title": "Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2"
+  },
+  {
+   "id": "vrma-6553c09e2b21",
+   "title": "I’m imagining an Oculus Half Dome Mixed Reality headset, new things we might see in software…"
+  },
+  {
+   "id": "vrma-f1cca7ce04a6",
+   "title": "I asked Jensen Huang the CEO of Nvidia if Automous Vehicles need to have self-aware networks."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "HTC Vive’s Commercial Business Strategy for Virtual Reality",
+   "body": "Includes a hint about how easy it is to use the Vive Lighthouse 2.0 technology (just attach a puck to any wall or even the side of a…",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "by Micah Blumberg: About\n\nAt GTC 2018 I interviewed Frank Black from HTC Vive on the",
+   "body": "by Micah Blumberg: About\n\nAt GTC 2018 I interviewed Frank Black from HTC Vive on the commercial business strategy for HTC Vive. a video link is included. (Note this was filmed and broadcast live) This article also contains video of the Silicon Valley Global News team getting to try the HTC Vive Pro.\n\nWe talked about, among other things, UPS at their strategy to train people in VR with the HTC Vive Pro, and I’m pretty sure that when Frank is talking about attaching little pucks to anything for tracking that he is talking about the Vive Lighthouse 2.0 technology.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/015.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/017.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Recent articles from GTC 2018\n\nPrivacy in the age of Internet of Things, Alexa, Google",
+   "body": "Recent articles from GTC 2018\n\nPrivacy in the age of Internet of Things, Alexa, Google Assistant, with Homomorphic Encryption and AI: At GTC 2018 I interviewed Nigel Cannings with Intelligent Voice\n\nPrivacy in the age of Internet of Things, Alexa, Google Assistant, with Homomorphic Encryption and… At GTC 2018 I interviewed Nigel Cannings with Intelligent Voice medium.com\n\nNvidia demo: Engineer drives a real car from inside VR\n\nNvidia demo: Engineer drives a real car from inside VR Nvidia combines its Virtual Reality Holodeck application with Self Driving Cars so a human can take over a vehicle… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472226/019.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[HTC Vive’s Commercial Business Strategy for Virtual Reality]] · [[Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2]] · [[I’m imagining an Oculus Half Dome Mixed Reality headset, new things we might see in software…]] · [[I asked Jensen Huang the CEO of Nvidia if Automous Vehicles need to have self-aware networks.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-eddd3e5de723",
+     "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+    },
+    {
+     "id": "vrma-4aa546469123",
+     "title": "Vection brings 3D CAD model software into Augmented Reality with Varjo XR-3 & Nvidia’s Cloud XR 2"
+    },
+    {
+     "id": "vrma-6553c09e2b21",
+     "title": "I’m imagining an Oculus Half Dome Mixed Reality headset, new things we might see in software…"
+    },
+    {
+     "id": "vrma-f1cca7ce04a6",
+     "title": "I asked Jensen Huang the CEO of Nvidia if Automous Vehicles need to have self-aware networks."
+    }
+   ]
+  }
+ ]
+}

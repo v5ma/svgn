@@ -1,0 +1,84 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471640",
+ "title": "How Trump may be buying propoganda to fit into your facebook news feed.",
+ "dek": "by Micah Blumberg",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-12-06",
+ "articleHref": "/wiki/svgn/articles/2017-12-06-how-trump-may-be-buying-propoganda-to-fit-into-your-facebook-news-feed-vrma-2b2aa6df4644",
+ "sourceUrl": "https://www.svgn.io/p/how-trump-may-be-buying-propoganda-to-fit-into-your-facebook-news-feed-2b2aa6df4644",
+ "topTerms": [
+  "facebook",
+  "trump",
+  "newsfeeds",
+  "government",
+  "fake",
+  "donald",
+  "trending",
+  "google"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-d9753d2bab19",
+   "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+  },
+  {
+   "id": "vrma-40ac7116b20a",
+   "title": "Leaked: Portal for $499: Facebook taking on Google, Amazon, and Apple with a new device for the…"
+  },
+  {
+   "id": "vrma-2b2aa6df4644",
+   "title": "How Trump may be buying propoganda to fit into your facebook news feed."
+  },
+  {
+   "id": "vrma-b08b17e56ddb",
+   "title": "Was the magical Law of Attraction in Donald Trump’s election playbook? Apparently it was:"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "How Trump may be buying propoganda to fit into your facebook news feed.",
+   "body": "by Micah Blumberg",
+   "image": "/wiki/svgn/articles/media/svgn-88471640/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Fake News on Facebook, Trump’s invented notions showing up in our newsfeeds.",
+   "body": "Fake News on Facebook, Trump’s invented notions showing up in our newsfeeds.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "I think this is evidence that the government has strong armed Facebook into piping Donald",
+   "body": "I think this is evidence that the government has strong armed Facebook into piping Donald Trumps messages straight into our newsfeeds and calling it a trending story. This was story was not even on Google News, because it was fake news, paid for by Russia, and or Trump.\n\nThis was not a real trending story. I didn’t see it on Google News\n\nNo other reputable news outlet seemed to be reporting on this story.\n\nThe New York Post and NeoUnrealist could be mouth pieces for Russian State Media and Donald Trump.\n\nWhat may have happened is that Trump and his paid allies may have conspired to create some sort of massive legal action that would have been disabling to massive software companies like Facebook. So in order for Facebook to not lose an extreme amount of money the nice folks at Facebook may have been forced to make a secret deal with government lawyers, a secret deal that allows Conservatives to buy space for Government Propoganda, ie Trump’s words, pushed into all of our newsfeeds.",
+   "image": "/wiki/svgn/articles/media/svgn-88471640/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…]] · [[Leaked: Portal for $499: Facebook taking on Google, Amazon, and Apple with a new device for the…]] · [[How Trump may be buying propoganda to fit into your facebook news feed.]] · [[Was the magical Law of Attraction in Donald Trump’s election playbook? Apparently it was:]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-d9753d2bab19",
+     "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+    },
+    {
+     "id": "vrma-40ac7116b20a",
+     "title": "Leaked: Portal for $499: Facebook taking on Google, Amazon, and Apple with a new device for the…"
+    },
+    {
+     "id": "vrma-2b2aa6df4644",
+     "title": "How Trump may be buying propoganda to fit into your facebook news feed."
+    },
+    {
+     "id": "vrma-b08b17e56ddb",
+     "title": "Was the magical Law of Attraction in Donald Trump’s election playbook? Apparently it was:"
+    }
+   ]
+  }
+ ]
+}

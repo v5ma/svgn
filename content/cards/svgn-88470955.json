@@ -1,0 +1,132 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470955",
+ "title": "A VPN is not expected to be on the Oculus Quest.",
+ "dek": "The Oculus Quest, Facebook’s flagship product, is not expected to have a VPN or to care about your security at all. This may be deliberate…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2019-04-09",
+ "articleHref": "/wiki/svgn/articles/2019-04-09-a-vpn-is-not-expected-to-be-on-the-oculus-quest-vrma-b1163115aebb",
+ "sourceUrl": "https://www.svgn.io/p/a-vpn-is-not-expected-to-be-on-the-oculus-quest-b1163115aebb",
+ "topTerms": [
+  "facebook",
+  "users",
+  "security",
+  "virtual",
+  "user",
+  "oculus",
+  "only",
+  "researchers"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  },
+  {
+   "id": "vrma-d9753d2bab19",
+   "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+  },
+  {
+   "id": "vrma-849ac340e425",
+   "title": "Facebook’s new Social VR applications are a game changer, this is why you will want an Oculus Go!"
+  },
+  {
+   "id": "vrma-1dc6a5851f41",
+   "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "A VPN is not expected to be on the Oculus Quest.",
+   "body": "The Oculus Quest, Facebook’s flagship product, is not expected to have a VPN or to care about your security at all. This may be deliberate…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "A VPN is not expected to be on the Oculus Quest because there is no VPN on the Oculus Go",
+   "body": "A VPN is not expected to be on the Oculus Quest because there is no VPN on the Oculus Go and Facebook’s attitude towards your security in general across the entire company can objectively only be described as malicious. This is not an opinion as you will see by reading the various news sources in this article. This is a fact and this is true across all Facebook products. Similar standalone products by the Lenovo Mirage Solo and Vive Focus plus by comparison do offer VPN or virtual private network.\n\nWithout a VPN it is much easier for rogue elements to spy on your traffic, and execute man in the middle as well as man in the room attacks. Especially with the WPA krack attack\n\nWPA2 KRACK Attack: The WiFi Hack and What it Means TL;DR: A new security vulnerability has been found in WPA2 (the protocol that secures almost every modern WiFi… auth0.com",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "“Facebook has admitted it misled the public when it claimed that only 5 per cent of the",
+   "body": "“Facebook has admitted it misled the public when it claimed that only 5 per cent of the users of its banned tracking app were teenagers.\n\n“The real figure, the Silicon Valley wunderkind has since confirmed to US Senator Mark Warner (D-VA), was nearly four times higher: 18 per cent.\n\n“That wasn’t the only knowingly false response that Facebook made when it emerged that the antisocial network had secretly bypassed the Apple App Store’s privacy rules, and used its enterprise developer certificate to create a VPN-based data-slurping iOS application that paid adults and teenagers to monitor their online activities. The enterprise cert should only be used to sign and release internal apps, not ones for the general public, which should go through Apple’s App Store checks and approval process.”",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Correction: Last month, we called Zuckerberg a moron.",
+   "body": "Correction: Last month, we called Zuckerberg a moron. We apologize. In fact, he and Facebook are a… Analysis In just the latest in a seemingly endless stream of half-truths, Facebook has admitted it misled the public… www.theregister.co.uk\n\nIn all likelyhood it is Facebook’s intent to track the behavior of teens and children on their Oculus Quest product, only without Apple to stop them this time.\n\nOn top of that Facebook lied about spying on teens. They lied about it. This proves that we can’t take Facebook at their word.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Facebook admits 18% of Research spyware users were teens, not <5%",
+   "body": "Facebook admits 18% of Research spyware users were teens, not <5% Facebook has changed its story after initially trying to downplay how it targeted teens with its Research program that… techcrunch.com\n\nOn February 19th it was revealed that security researchers had managed to execute a man in the room hack against the popular Virtual Reality app called BigScreen. While this app and it’s underlying vulnerability in Unity has been patched, this should not be considered the end of security problems with Virtual Reality and Augmented Reality but only the beginning.\n\n“Bigscreen, which describes itself as a “virtual living room,” enables users to watch movies, collaborate on projects together and more.\n\n“Without users’ knowledge and consent — and without tricking users into downloading software or granting access to the computer — University of New Haven researchers were able to:",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "“Turn on user microphones and listen to private conversations Join any VR room including",
+   "body": "“Turn on user microphones and listen to private conversations Join any VR room including private rooms Create a replicating worm that infects users as soon as they enter a room with other VR users View user computer screens in real time Send messages on a user’s behalf Download and run programs — including malware — onto user computers Join users in VR while remaining invisible. This novel attack was termed as a Man-In-The-Room (MITR) attack Phish users into downloading fake VR drivers\n\n“University of New Haven Researchers Discover Critical Vulnerabilities in Popular Virtual Reality Application”\n\nUniversity of New Haven Researchers Discover Critical Vulnerabilities in Popular Virtual Reality… The Charger Blog Maxime Theokritoff '19 M.S. writes that the University of New Haven's annual International Festival is… www.newhaven.edu",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "The evidence that the fear of being hacked in Virtual Reality on devices like the Oculus",
+   "body": "The evidence that the fear of being hacked in Virtual Reality on devices like the Oculus Go, Oculus Quest, and Oculus Rift S isn’t over can be illustrated by examining the concerns on the Immersive-Web specification for WebXR\n\nUnder considerations and concerns the Design Doc for WebXR says this\n\n“Concerns & Considerations Potential Threats Spoofing: Similar to the concerns about fullscreen, an immersive application could imitate browser or OS/platform UI in an attempt to obtain information or privileged access from the user. Spam: Obnoxious immersive ads could be displayed without the user having made any decision or having the opportunity to evaluate the page. Malicious actions: Users could be “rickrolled” or otherwise presented with intentionally disorienting or nauseating content. Well-intentioned but undesirable content: Even content from good actors may not be desirable for all users or audiences.”",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "The Design Doc for WebXR excerpt Potential Threats immersive-web/webxr Repository for the",
+   "body": "The Design Doc for WebXR excerpt Potential Threats immersive-web/webxr Repository for the WebXR Device API Specification. - immersive-web/webxr github.com\n\nLast week 540 million Facebook records were found unprotected in the cloud by security researchers at UpGuard\n\nThird-Party Apps Exposed Over 540 Million Facebook Records Researchers at the cybersecurity firm UpGuard have discovered two troves of unprotected Facebook user data sitting on… www.wired.com\n\nFacebook was also caught exhibiting “beyond sketchy” behavior in asking for some new users email passwords\n\n'Beyond Sketchy': Facebook Demands Users' Email Passwords Just two weeks after admitting it stored hundreds of millions of its users' own passwords insecurely, Facebook is… www.thedailybeast.com",
+   "image": "/wiki/svgn/articles/media/svgn-88470955/001.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Until recently Facebook allowed 74 cybercrime groups with 385,000 members to sell credit",
+   "body": "Until recently Facebook allowed 74 cybercrime groups with 385,000 members to sell credit cards, passwords, and hacking services.\n\nDozens Of Cybercrime Groups Found On Facebook | PYMNTS.com Dozens of cybercriminal groups have found a home on Facebook, using the platform's online marketplace to sell illegal… www.pymnts.com\n\nFacebook is also under global suspicion for the slow response to removing a terrorist video content and only banishing terrorist content after that terrorist video was live streamed to it’s network. The fact that terrorists may have infiltrated Facebook to protect white nationalist terrorists is all the more reason why we should be concerned about Facebook’s lack of concern for our security with its products.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking…",
+   "body": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking… Facebook’s executives, managers and employee’s, the beloved company behind the Oculus Rift, are now under global… medium.com\n\n“Mark Zuckerberg Thinks You’ve Napped Through the Last Decade”\n\nMark Zuckerberg Thinks You've Napped Through the Last Decade YAWN The Facebook chief rolled out his pivot to privacy-as if his company hasn't been caught lying about protecting… www.thedailybeast.com\n\nFacebook is being criticized by security researchers for worsening user security by merging Facebook, Whatsapp, and Instagram\n\nPrivacy / Security Threat : Facebook Merger with WhatsApp & Instagram Facebook is a business and businesses thrive on sales, Facebook is free so they sell our data. It is not something we… blog.drhack.net",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "The bottomline is that Facebook’s new Virtual Reality products may expose you to having",
+   "body": "The bottomline is that Facebook’s new Virtual Reality products may expose you to having your identity stolen, your privacy stolen, your security stolen, and based on all available facts Facebook does not seem to care, it seems to be on purpose.",
+   "image": "/wiki/svgn/articles/media/svgn-88470955/003.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]] · [[Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…]] · [[Facebook’s new Social VR applications are a game changer, this is why you will want an Oculus Go!]] · [[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    },
+    {
+     "id": "vrma-d9753d2bab19",
+     "title": "Facebook is basically Donald Trump: Meaning that as soon as you sign into Facebook on your Oculus…"
+    },
+    {
+     "id": "vrma-849ac340e425",
+     "title": "Facebook’s new Social VR applications are a game changer, this is why you will want an Oculus Go!"
+    },
+    {
+     "id": "vrma-1dc6a5851f41",
+     "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+    }
+   ]
+  }
+ ]
+}

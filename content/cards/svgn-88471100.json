@@ -1,0 +1,114 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471100",
+ "title": "While the Oculus Quest rules, the Oculus Rift S sucks and is overpriced at $399.",
+ "dek": "Beat Saber on Oculus Quest could be the perfect exercise machine. It’s also the best version of Beat Saber yet, primarily because there…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2019-03-23",
+ "articleHref": "/wiki/svgn/articles/2019-03-23-while-the-oculus-quest-rules-the-oculus-rift-s-sucks-and-is-overpriced-at-399-vrma-21d6f56381f1",
+ "sourceUrl": "https://www.svgn.io/p/while-the-oculus-quest-rules-the-oculus-rift-s-sucks-and-is-overpriced-at-399-21d6f56381f1",
+ "topTerms": [
+  "rift",
+  "oculus",
+  "quest",
+  "beat",
+  "reverb",
+  "saber",
+  "headset",
+  "price"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-da5a236fd239",
+   "title": "Valve Index shows up right on time to crush the weak excuse of a VR headset called Oculus Rift S."
+  },
+  {
+   "id": "vrma-21d6f56381f1",
+   "title": "While the Oculus Quest rules, the Oculus Rift S sucks and is overpriced at $399."
+  },
+  {
+   "id": "vrma-24dca97197b0",
+   "title": "Oculus’s Nate Mitchell has hinted that big price cuts will be coming to the Oculus Quest and the…"
+  },
+  {
+   "id": "vrma-5c0c331fcd7",
+   "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "While the Oculus Quest rules, the Oculus Rift S sucks and is overpriced at $399.",
+   "body": "Beat Saber on Oculus Quest could be the perfect exercise machine. It’s also the best version of Beat Saber yet, primarily because there…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "“You’re a dancing superhero, your dance moves are epic, and you’re working-out at the",
+   "body": "“You’re a dancing superhero, your dance moves are epic, and you’re working-out at the same time — jackpot!” Beat Games Head of Marketing Michaela Dvorak.\n\nAt GDC 2019 I played four rounds of Beat Saber on the Oculus Quest and I have to say that Quest with Beat Saber feels like the perfect exercise machine. Note that the faceplates they had in the demos with reporters are special sweat resistant faceplates and not the more comfortable cloth faceplates that will ship with devices. If you want to use your Quest for exercise you may look into getting a high quality face plate replacement that is easy to wipe down after each sweaty sessions.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Beat Saber had no noticeable downsides in hand tracking on Quest when compared to the HTC",
+   "body": "Beat Saber had no noticeable downsides in hand tracking on Quest when compared to the HTC Vive, it plays Beat Saber perfectly. John Carmack the CTO of Oculus made the news recently because he calibrated the Oculus Quest with Beat Saber given that it is one of the most physically demanding VR apps on any platform. Beat Saber also required Valve to update their hand tracking software for the Vive.",
+   "image": "/wiki/svgn/articles/media/svgn-88471100/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Beat Saber has already sold over 1 million copies and now its coming to the Oculus Quest.",
+   "body": "Beat Saber has already sold over 1 million copies and now its coming to the Oculus Quest.\n\nOnce you have played the Oculus Quest you will want to forget about desktop VR unless you are getting into Desktop VR for the higher resolution headsets like the HP Reverb Mixed Reality headset which has a 4K screen resolution.\n\nForget about the Oculus Rift S, you don’t want to spend your money on a Rift S. At GDC Oculus showed off the Quest next to the new Oculus Rift S which is a wired PC based VR headset for developers who want to use the legacy Rift titles.\n\nOculus’s Nate Mitchell has hinted that big price cuts will be coming to the Oculus Quest and the… My intuition is that by the end of the summer of 2019 the permanent price of the Rift S will drop to $299, and that by… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471100/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "At $399 the Oculus Rift S is massively over-priced and it’s a seriously unfortunate",
+   "body": "At $399 the Oculus Rift S is massively over-priced and it’s a seriously unfortunate downgrade across the board compared to the original Rift. It has a slower 80hz screen compared to the original Rift which had 90hz. It features audio built into the straps instead of on ear headphones which were much nicer, and it has a smaller IPD range which is now automatic.\n\nI can't use Rift S, and neither can you. This guy has eyeballs that allow him to love his Rift S. His friends wish they had that luxury. Rift S is very cool! It… palmerluckey.com\n\nThe LCD panel on Rift S has less rich blacks compared to the original Rift. It also features a PSVR style halo strap which is a downgrade from the original Rift. At the moment the only good reason I see for players to get a Rift might be to play Stormland. If the price of the Rift S was $299 instead of $399 then it would be a good deal for consumers. Wait for the price to drop.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Other new Quest apps that I am excited about include Journey of the Gods which looks a",
+   "body": "Other new Quest apps that I am excited about include Journey of the Gods which looks a bit like Zelda to me.\n\nDead & Buried 2,\n\nVader Immortal,\n\nSuper Medium,\n\nShadow Point\n\nWith the Rift S Facebook’s push to make it Oculus’s mission to get 1 billion users into VR has replaced Oculus’s original mission to make the best VR headset possible. Instead of building the best VR headset possible, and instead of creating the best VR experience possible, the folks at Oculus have been focused on making the best compromises in the design of the product possible in order to lower the cost of entry into the existing Oculus content library.\n\nWhat’s the next downgrade compromise for Oculus Rift cardboard? Maybe the next Oculus Rift will be the Oculus Rift C. An Oculus Rift that uses cardboard materials in the construction of it’s headset instead of plastic in order to save money.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "There are much better options for Desktop VR on the market now like the HP Reverb, the",
+   "body": "There are much better options for Desktop VR on the market now like the HP Reverb, the Pimax 8K, the Pimax 5k plus, and we are all waiting for Valve’s new VR headset to be released with the Valve knuckles controller.\n\nThe HP Reverb is everything the Oculus Rift S should have been and more. The Reverb has a 2k by 2k per eye screen which means its a 4k screen, numerous people who tried the demo at GDC, including myself remarked that text is now readable and clear in the HP Reverb.\n\nThere is nothing about the $599 price that will keep the HP Reverb from becoming a mass market product. After all phones are mass market items and they sell for much more than the HP Reverb.\n\nNote: I went hands on with the Oculus Quest, Oculus Rift S, and the HP Reverb at GDC 2019 several times each for this article.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Bottomline: Get a Quest, forget the S.",
+   "body": "Bottomline: Get a Quest, forget the S.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Valve Index shows up right on time to crush the weak excuse of a VR headset called Oculus Rift S.]] · [[While the Oculus Quest rules, the Oculus Rift S sucks and is overpriced at $399.]] · [[Oculus’s Nate Mitchell has hinted that big price cuts will be coming to the Oculus Quest and the…]] · [[The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-da5a236fd239",
+     "title": "Valve Index shows up right on time to crush the weak excuse of a VR headset called Oculus Rift S."
+    },
+    {
+     "id": "vrma-21d6f56381f1",
+     "title": "While the Oculus Quest rules, the Oculus Rift S sucks and is overpriced at $399."
+    },
+    {
+     "id": "vrma-24dca97197b0",
+     "title": "Oculus’s Nate Mitchell has hinted that big price cuts will be coming to the Oculus Quest and the…"
+    },
+    {
+     "id": "vrma-5c0c331fcd7",
+     "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471633",
+ "title": "Ads break immersion, in stories, in comics, in movies, and in VR",
+ "dek": "I saw a product placement in some Superhero-man movie, it was a soda commercial. The comics did that also but this time it really took me…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2016-05-22",
+ "articleHref": "/wiki/svgn/articles/2016-05-22-ads-break-immersion-in-stories-in-comics-in-movies-and-in-vr-vrma-10520ed0dee8",
+ "sourceUrl": "https://www.svgn.io/p/ads-break-immersion-in-stories-in-comics-in-movies-and-in-vr-10520ed0dee8",
+ "topTerms": [
+  "people",
+  "product",
+  "paid",
+  "immersion",
+  "some",
+  "soda",
+  "apps",
+  "annoying"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-5e20801b5bea",
+   "title": "Awesome people to follow on Social Media: Irena Cronin"
+  },
+  {
+   "id": "vrma-f5d3a061337",
+   "title": "People to follow: Robert Scoble tried 120 ARkit apps and he made a great list."
+  },
+  {
+   "id": "svgn-20260520-gemini-product-maze",
+   "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+  },
+  {
+   "id": "vrma-50e415e24801",
+   "title": "Coronavirus Economic Impact & Pandemic Production Act"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Ads break immersion, in stories, in comics, in movies, and in VR",
+   "body": "I saw a product placement in some Superhero-man movie, it was a soda commercial. The comics did that also but this time it really took me…",
+   "image": "/wiki/svgn/articles/media/svgn-88471633/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "I saw a product placement in some Superhero-man movie, it was a soda commercial.",
+   "body": "I saw a product placement in some Superhero-man movie, it was a soda commercial. The comics did that also but this time it really took me out of the story. The whole movie came to a grinding halt for me. I had paid to see the movie so I should not have had to have a product placement take me out of the plot line. Product placements can take a person out of the story, they can ruin immersion.",
+   "image": "/wiki/svgn/articles/media/svgn-88471633/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "If someone puts advertising in a paid VR app that app is probably going to lose its",
+   "body": "If someone puts advertising in a paid VR app that app is probably going to lose its popularity. People are going to start looking for apps that feature less annoyances. Ads can ruin immersion in VR, because instead of thinking about being in another place I remember I am wearing a VR headset, and that some company is trying to brainwash me.\n\nLets say that the ads manage to not be annoying. Lets say that the ads are so cleverly written that they managed to persuade people who see them that they are being given something of value, and lets say that the ads are so clever that they don’t take us out of VR, but instead they add to our sense of immersion in the artificial environment. The next question is, how can these super clever ads make enough money for a business to thrive?",
+   "image": "/wiki/svgn/articles/media/svgn-88471633/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "How can ads pay for the cost of making VR experiences in the short term?",
+   "body": "How can ads pay for the cost of making VR experiences in the short term? You have to consider that the total number of people using VR each day is small. How many people have headsets? how many people are using them? how many people have even downloaded the game that features these ads?\n\nMaybe we can make the argument that 2016 is like year one of consumer VR. Consumer Gear VR came out a couple months prior to 2016, then we got the Oculus Rift, HTC Vive, and later the PS VR consumer products. This summer we are supposed to get a consumer version of Project Tango.\n\nIn 2026 there will be hundreds of millions, maybe a billion people using VR for at least a few hours each day.\n\nMaybe there will be a lot of cool ‘free to play’ VR apps that are ad supported and that will be an option. I might play if it’s free even if its ad supported.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Maybe there will be paid apps still without advertising and without product placements,",
+   "body": "Maybe there will be paid apps still without advertising and without product placements, which I am sure some people like me will like to pay for.",
+   "image": "/wiki/svgn/articles/media/svgn-88471633/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "There will probably be big name apps, like Superhero-man VR, that feature annoying",
+   "body": "There will probably be big name apps, like Superhero-man VR, that feature annoying advertisements, billboards with product placements, mini-games where you have to shooting webbing from your hands at a soda can for a major soda corporation, and on top of that you will have to pay to play, meaning either buy, or subscribe to the game, in addition to that it will also include ‘in VR app purchases’. It might give people such a bad taste in their mouth that Superhero-man will need to reboot itself over and over again to try to survive the audiences it is losing by annoying people who essentially paid to see ads, ads that took them out of their immersion in the story so they did not enjoy the story as much and thought twice about going to see that again.",
+   "image": "/wiki/svgn/articles/media/svgn-88471633/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Those things will lose ground to products that are build with a greater respect for the",
+   "body": "Those things will lose ground to products that are build with a greater respect for the audiences who want good content.\n\nPerhaps advertising in VR could be a good long term investment strategy. Provided the ads themselves seem like they are providing some sort of value, instead of being an annoying advertisement for a diabetes inducing product like soda.\n\nPerhaps we can make an argument that entertainment piracy is higher because people feel they have been disrespected by ad supported content, that they paid for, that breaks their immersion in a story.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Awesome people to follow on Social Media: Irena Cronin]] · [[People to follow: Robert Scoble tried 120 ARkit apps and he made a great list.]] · [[Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O]] · [[Coronavirus Economic Impact & Pandemic Production Act]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-5e20801b5bea",
+     "title": "Awesome people to follow on Social Media: Irena Cronin"
+    },
+    {
+     "id": "vrma-f5d3a061337",
+     "title": "People to follow: Robert Scoble tried 120 ARkit apps and he made a great list."
+    },
+    {
+     "id": "svgn-20260520-gemini-product-maze",
+     "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+    },
+    {
+     "id": "vrma-50e415e24801",
+     "title": "Coronavirus Economic Impact & Pandemic Production Act"
+    }
+   ]
+  }
+ ]
+}

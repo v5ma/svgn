@@ -1,0 +1,78 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471208",
+ "title": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…",
+ "dek": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website https://finch-vr.com/ Finch is one of the several 3rd party companies developing controllers for the Vive Focus under the",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-11-12",
+ "articleHref": "/wiki/svgn/articles/2018-11-12-i-got-the-199-price-from-finch-technologies-they-actually-have-pre-sale-pricing-on-the-vrma-7d59362ea381",
+ "sourceUrl": "https://www.svgn.io/p/i-got-the-199-price-from-finch-vr-which-is-one-of-the-3rd-party-companies-developing-controllers-7d59362ea381",
+ "topTerms": [
+  "companies",
+  "nolo",
+  "finch",
+  "party",
+  "controllers",
+  "vive",
+  "focus",
+  "price"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-7d59362ea381",
+   "title": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…"
+  },
+  {
+   "id": "vrma-70539c5a77a8",
+   "title": "‪Chelsea Manning & Edward Snowden in part show us the real reasons why employees at tech companies…"
+  },
+  {
+   "id": "vrma-dfaaccf19434",
+   "title": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking…"
+  },
+  {
+   "id": "vrma-5c0c331fcd7",
+   "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…",
+   "body": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website https://finch-vr.com/ Finch is one of the several 3rd party companies developing controllers for the Vive Focus under the",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on",
+   "body": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website https://finch-vr.com/ Finch is one of the several 3rd party companies developing controllers for the Vive Focus under the Vive Wave platform program. I never suggested that Nolo was one of the companies but HTC said they asked Nolo to be one of the companies that make 3rd party controllers for the Focus and Nolo declined.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…]] · [[‪Chelsea Manning & Edward Snowden in part show us the real reasons why employees at tech companies…]] · [[Terrorists may have infiltrated social media companies like Facebook and youtube, taking…]] · [[The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-7d59362ea381",
+     "title": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…"
+    },
+    {
+     "id": "vrma-70539c5a77a8",
+     "title": "‪Chelsea Manning & Edward Snowden in part show us the real reasons why employees at tech companies…"
+    },
+    {
+     "id": "vrma-dfaaccf19434",
+     "title": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking…"
+    },
+    {
+     "id": "vrma-5c0c331fcd7",
+     "title": "The Oculus Quest is expected to stream desktop Oculus Rift VR apps over wifi like the Vive Focus…"
+    }
+   ]
+  }
+ ]
+}

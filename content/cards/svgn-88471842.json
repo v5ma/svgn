@@ -1,0 +1,144 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471842",
+ "title": "Everyone in attendance at f8 gets an Oculus GO",
+ "dek": "According to this sign someone took a snapshot of at the event.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-05-01",
+ "articleHref": "/wiki/svgn/articles/2018-05-01-everyone-in-attendance-at-f8-gets-an-oculus-go-vrma-c8a36349a0b1",
+ "sourceUrl": "https://www.svgn.io/p/everyone-in-attendance-at-f8-gets-an-oculus-go-c8a36349a0b1",
+ "topTerms": [
+  "micah",
+  "oculus",
+  "blumberg",
+  "medium",
+  "everyone",
+  "free",
+  "watch",
+  "read"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-c8a36349a0b1",
+   "title": "Everyone in attendance at f8 gets an Oculus GO"
+  },
+  {
+   "id": "vrma-3b510d26b803",
+   "title": "Micah Blumberg"
+  },
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-14f4d71df57d",
+   "title": "F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Everyone in attendance at f8 gets an Oculus GO",
+   "body": "According to this sign someone took a snapshot of at the event.",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Read my story about the Oculus Go #2nd GDC Goal Achieved: Oculus Go hands on!",
+   "body": "Read my story about the Oculus Go #2nd GDC Goal Achieved: Oculus Go hands on! Micah Blumberg writes for Silicon Valley Global News and is reporting from GDC 2018 medium.com\n\nThe VR Community on Facebook vividly remembers Unity’s Vision Summit in 2016 when everyone in attendance got a VR headset for free. We also remember when Oprah gave everyone a free car.",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "I’m on my way to F8 right now and I will be in the audience for the keynote, but you can",
+   "body": "I’m on my way to F8 right now and I will be in the audience for the keynote, but you can watch it live at the exact same time as me if you want. Here is the link: http://www.f8.com/watch.html\n\nJoin us at F8 2018 Facebook's annual developer conference showcases our latest technology and gives you a glimpse into what's next for… www.f8.com\n\n#f8",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/007.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/009.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/011.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/013.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/015.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/017.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/019.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/021.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "About The Neural Lace Podcast and more Author Micah Blumberg, Journalist, Researcher,",
+   "body": "About The Neural Lace Podcast and more Author Micah Blumberg, Journalist, Researcher, NeuroHacker, micah@vrma.io medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471842/023.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Everyone in attendance at f8 gets an Oculus GO]] · [[Micah Blumberg]] · [[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-c8a36349a0b1",
+     "title": "Everyone in attendance at f8 gets an Oculus GO"
+    },
+    {
+     "id": "vrma-3b510d26b803",
+     "title": "Micah Blumberg"
+    },
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-14f4d71df57d",
+     "title": "F8 News: Oculus Quest pre-orders open today. Shipping May 21st. $399"
+    }
+   ]
+  }
+ ]
+}

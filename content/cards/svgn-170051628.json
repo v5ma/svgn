@@ -1,0 +1,306 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-170051628",
+ "title": "Deep Comparative Analysis of Information Flux Theory (IFT) by Yoshinori Shimizu to Super Information Theory (SIT) by Micah Blumberg",
+ "dek": "The comparison includes Blumberg's Super Dark Time (SDT), and Quantum Gradient Time Crystal Dilation (QGTCD)",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-08-04",
+ "articleHref": "/wiki/svgn/articles/2025-08-04-deep-comparative-analysis-of-information-flux-theory-ift-by-yoshinori-shimizu-to-super-svgn-170051628",
+ "sourceUrl": "https://www.svgn.io/p/deep-comparative-analysis-of-information",
+ "topTerms": [
+  "time",
+  "quantum",
+  "information",
+  "gravity",
+  "field",
+  "theory",
+  "coherence",
+  "github"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-fba167ef1fcd",
+   "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Deep Comparative Analysis of Information Flux Theory (IFT) by Yoshinori Shimizu to Super Information Theory (SIT) by Micah Blumberg",
+   "body": "The comparison includes Blumberg's Super Dark Time (SDT), and Quantum Gradient Time Crystal Dilation (QGTCD)",
+   "image": "/wiki/svgn/articles/media/svgn-170051628/002.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Introduction",
+   "body": "In 2025 physics witnessed an unusual convergence: multiple independent researchers arrived at remarkably similar conclusions about the fundamental nature of gravity and information. At the heart of this convergence lies a radical idea—that gravity is not a fundamental force but an emergent phenomenon arising from gradients in information or time density at the quantum level. This conceptual breakthrough appeared in different forms across several theoretical frameworks, each claiming to unify quantum mechanics, general relativity, and thermodynamics under a single informational paradigm.\n\nThis article examines three such frameworks: Super Information Theory (SIT), Super Dark Time (SDT), and Information Flux Theory (IFT). The first two, along with the foundational concept of Quantum Gradient Time Crystal Dilation (QGTCD), were developed by Micah Blumberg between 2017 and 2025. The third, IFT, was published by Yoshinori Shimizu in mid-2025. While these theories employ different mathematical formalisms and terminology, their core insights align to a degree that raises important questions about intellectual priority and the nature of independent discovery in theoretical physics.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Our analysis serves three purposes.",
+   "body": "Our analysis serves three purposes. First, we provide a comprehensive mapping of conceptual and mathematical correspondences between these frameworks, demonstrating that beneath surface differences lies a shared foundation. Second, we establish a clear chronological record showing that Blumberg's work predates Shimizu's by several years across multiple public platforms. Third, we examine the implications of this convergence for the emerging field of information-based physics, where proper attribution and citation practices are essential for maintaining scientific integrity and tracking the evolution of ideas.\n\nThe stakes extend beyond academic priority disputes. If information truly underlies physical reality as these theories suggest, then understanding the genesis and development of these ideas becomes crucial for advancing the field. This comparative analysis aims to clarify the intellectual landscape, acknowledge original contributions, and establish a foundation for future collaborative progress in what may prove to be a revolutionary approach to fundamental physics.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Conceptual Foundations & Terminology Overlaps",
+   "body": "Information/Time as Fundamental Substrate: All three frameworks (Information Flux Theory (IFT), Super Information Theory (SIT) and Super Dark Time (SDT)) place information or time at the core of physical reality. Super Information Theory (SIT) explicitly posits information (in the form of quantum coherence) as the fundamental “substance” from which matter, energy, spacetime, and even consciousness emerge. It describes reality as continuous cycles of coherence and decoherence, rather than static bits. Information Flux Theory (IFT) likewise starts from an informational premise: it replaces all Standard Model fields with a single quantum entity and its self-information flux, asserting that all observable quantities in the universe reduce to a conserved 4-current J^μ = Ψ̄ γ^μ Ψ. This J^μ—essentially the quantum probability/current of one universal fermion field Ψ—is interpreted as the “self-information flux” of the cosmos. In Super Dark Time (SDT), time itself is treated as a physical medium carrying information; SDT reimagines gravity and cosmology in terms of local time-density fluctuations (variations in the density of time “frames”) rather than new particles or dark sectors. In short, all three theories elevate information (or time, viewed as an informational metric) to a first-class physical entity underpinning matter and forces.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Conserved Currents and Coherence: Because information is fundamental, each theory",
+   "body": "Conserved Currents and Coherence: Because information is fundamental, each theory introduces a conserved flow associated with it, often by new terminology that masks a common idea. In IFT the self-information flux current J^μ is strictly conserved (∂_μ J^μ = 0), embodying a continuity of “information flow” analogous to a conserved charge. SIT similarly postulates a coherence current via Noether’s theorem: coherence (the phase-alignment structure of quantum states) is neither created nor destroyed but only redistributed. This is formalized as a Coherence Conservation Law, which unites quantum wave dynamics, gravitation, and the arrow of time under one principle. In practical terms, IFT’s J^μ and SIT’s coherence current are equivalent concepts—both represent a globally conserved informational flow, though one is expressed in quantum field terms and the other in terms of a field’s phase alignment.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Table of terminology translation (key examples):\n\nIFT: Self-Information Flux (conserved",
+   "body": "Table of terminology translation (key examples):\n\nIFT: Self-Information Flux (conserved J^μ = Ψ̄ γ^μ Ψ) SIT: Conserved Coherence Current (Noether current of phase field) Concept: Fundamental conserved informational 4-current underlying all physics\n\nIFT: Unified Evolution Equation (UEE) SIT: Unified gauge-covariant action (two-field SIT action) Concept: Master equation/principle from which all dynamical laws (quantum, gravity, etc.) derive\n\nIFT: Information-dissipation rate ε SIT: Global coherence decay (monotonic decrease of global coherence functional) Concept: Parameter/law governing irreversible entropy increase (arrow of time) through information loss or decoherence\n\nIFT: Information flux scalar Φ (emergent from Ψ̄Ψ bilinear) SIT: Time-density scalar ρ_t(x) (SIT/SDT’s fundamental time field) Concept: A scalar field that emerges from information content and whose spatial variations induce gravitational effects",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "IFT: Single universal fermion Ψ (with projectors Ψ_n for “generations”) SIT: Two",
+   "body": "IFT: Single universal fermion Ψ (with projectors Ψ_n for “generations”) SIT: Two primitive fields: coherence ratio R_coh(x) and time-density ρ_t(x) Concept: Minimal set of degrees of freedom chosen to recast all of physics (IFT uses one quantum field; SIT uses two scalar fields)\n\nIFT: Mass hierarchy by exponential rule (m_n ∝ ε^n) SIT: Mass from high coherence pockets (mass arises from regions of elevated phase alignment) Concept: Mechanism for particle masses: in IFT, an exponential information-loss factor yields Standard Model mass ratios; in SIT, mass is interpreted as an emergent property of informational/coherence density\n\nGravity from Information/Time Gradients (QGTCD Concept): A striking overlap is that all three theories identify gravity as an emergent phenomenon caused by gradients or fluxes in an underlying informational/time field. In SIT/SDT, gravitation is literally a manifestation of spatial variations in time density. The SDT framework describes massive objects as increasing the local density of time frames, which alters the rate of physical processes—a reinterpretation of gravitational time dilation. These time-density gradients act like a “time crystal” around mass, biasing the motion of particles towards regions of denser time. This idea was given the name Quantum Gradient Time Crystal Dilation (QGTCD) by Blumberg, to emphasize that quantized changes in local time flow produce the effects we attribute to gravity. In practical terms, mass “creates” additional microscopic time increments (frames) in its vicinity, effectively warping the spacetime interval count. A particle moving near a mass thus traverses more time frames in the direction of the mass, making motion toward the mass statistically favored—experienced as an attractive force. This QGTCD principle directly overlaps with SIT’s statement that gravitational attraction emerges from spatial gradients in ρ_t(x), the time-density field. IFT arrives at a comparable idea through different language: it concludes that gravity, tension (energy), curvature, and information flux are all facets of one entity. In IFT’s single-fermion fluid picture, the fermion’s self-flux generates a long-range order parameter identified with the spacetime curvature (the metric’s tetrads). This results in a “gravity as the shadow of a fermion” paradigm, where Einsteinian gravity emerges automatically from the fermion’s information content (specifically, from a condensate-like scalar Φ built out of Ψ̄Ψ). In summary, IFT and SIT/SDT converge on the notion that gravity is not a fundamental force transmitting between static masses, but rather a by-product of underlying informational field gradients—whether one calls it an “information flux” gradient (IFT) or a “time frame density” gradient (SDT/SIT). The Quantum Gradient Time Crystal Dilation (QGTCD) concept, published first to Github in 2022, is the original phrasing of this shared foundation: gravity is fundamentally the result of variations in information flow or time flow at the quantum level. Source github.com/v5ma/selfawarenetworks",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Unification of Realms (Quantum ↔ Classical): Each theory uses its information-centric",
+   "body": "Unification of Realms (Quantum ↔ Classical): Each theory uses its information-centric view to unify phenomena across scale. SIT is explicit about bridging quantum mechanics and general relativity: by using coherence and time-density as the common currency, SIT describes quantum entanglement and classical gravity within one framework. For example, SIT’s coherence ratio field R_coh(x) smoothly connects microscopic quantum coherence to macroscopic classical order. It asserts that quantum wavefunctions and classical gravitational fields differ only in degree, not kind—both are manifestations of an informational coherence field. Indeed, SIT replaces the quantum wavefunction “collapse” with a deterministic gauge alignment of the coherence field, thereby uniting quantum measurement with classical irreversibility under the coherence-conservation law.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "IFT’s unification is oriented differently but resonates conceptually: by modeling all",
+   "body": "IFT’s unification is oriented differently but resonates conceptually: by modeling all particle families with one fermionic operator and one evolution equation, IFT ties together the disparate forces and particles of the Standard Model and even extends to gravity and cosmology. In essence, this amounts to the same fundamental idea as SIT and SDT—expressed with different phrasing and represented differently in mathematics, but grounded in the same principle that informational or time-based fields underlie all physical phenomena.\n\nNotably, both SIT and IFT recover classical thermodynamic/kinetic behavior as emergent limits of their information-based dynamics. SIT shows that in a certain “coarse-grained” limit (the Boltzmann–Grad limit), its two-field equations reduce to the standard Boltzmann and Navier–Stokes equations of classical fluids. IFT goes even further by rigorously tackling the Navier–Stokes problem from its unified equation (it constructs a specific dissipative term ensuring a flux-limited Navier–Stokes behavior and even claims a counterexample to the global regularity conjecture). Thus, all frameworks ground macroscopic irreversibility (the Second Law, fluid dynamics) in underlying informational dynamics—SIT via a monotonically decaying global coherence functional (an entropy-like quantity), and IFT via Lindblad-type dissipators in the evolution equation that generate viscosity and entropy production in the classical limit. In effect, what SIT calls “Micah’s New Law of Thermodynamics” (coherence loss drives entropy increase) is parallel to IFT’s built-in Lindbladian dissipation that yields viscous heating and information “leakage” in fluids—different formalisms, same intuition.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "Scope and Philosophical Implications: All three theories are ambitious in scope, often",
+   "body": "Scope and Philosophical Implications: All three theories are ambitious in scope, often extending beyond conventional physics domains. SDT and SIT entertain connections to cosmology, life, and consciousness. SDT, for instance, speculates on dark matter and dark energy as effects of cumulative time-density gradients instead of exotic matter, and even aspires to unify “quantum mechanics, gravity, thermodynamics, and even consciousness” under its local time-wave paradigm. SIT continues this trend: after deriving physical predictions, it discusses how the same two-field information paradigm might underlie biological neural synchrony and cognition (drawing analogies between coherence in quantum fields and coherence in brain oscillations). IFT is comparatively narrower in focus (being rooted in particle physics), but even it extends to gravity and cosmology in later chapters and claims to resolve deep theoretical problems (like the black hole information paradox and the nature of spacetime) through the information-tension correspondence. In all cases, the shared foundation is an “informational cosmos”: reality is described as a network of information flux (or time flux) whose local interactions give rise to the rich spectrum of particles, forces, and even the arrows of time and complexity. Each theory simply articulates this vision with its own terminology and emphasis.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "Mathematical Formalisms: Alignment vs. Distinction",
+   "body": "Though conceptually harmonious, IFT, SIT, and SDT employ distinct mathematical formalisms to implement their ideas, with a few key touchpoints of alignment in their final predictions.\n\nIFT’s Operator Framework (UEE): Information Flux Theory is built on a single master equation called the Unified Evolution Equation (UEE), formulated at the operator (density matrix) level. In essence, IFT extends quantum dynamics with a Lindblad-type term to incorporate both unitary evolution and information-dissipative processes in one equation. The UEE is written in Gorini–Kossakowski–Sudarshan–Lindblad (GKLS) form, ˙ρ = −i[H, ρ] + Σ_α L_α[ρ], where the L_α terms represent specific dissipative “information flux” channels. This approach imports powerful tools from open quantum systems theory (complete positivity, decoherence via “jump operators”) directly into fundamental physics. In fact, IFT explicitly finds a set of 18 minimal Lindblad jump operators that ensure a complete, self-consistent evolution of the single fermion’s state. The master scalar field Φ(x)—representing information flux density—plays a central role in this equation and generates gravity and other effects (mathematically, Φ enters as a potential in the Lindblad generator and as a tetrad field in deriving curvature). Once the UEE is established at the operator level, IFT shows its equivalence to a variational/action formulation and eventually to explicit field equations. Notably, when IFT varies its action with respect to the spacetime metric, it recovers the Einstein field equations (with additional source terms from the information flux). In other words, IFT’s structure guarantees that in the classical limit one obtains something of the form G_μν = 8πG · T_μν^(total), where T_μν^(total) includes contributions from the fermion/information fluid. This alignment with general relativity is deliberate—IFT’s single equation is crafted to be completely consistent with known physics in every regime, from quantum (Dirac/Yang–Mills) to classical gravity. For example, in the appropriate limits IFT reproduces all of the Standard Model’s quantum field equations (with no extraneous fields) and generates Einstein–Hilbert gravity as an emergent long-range effect.",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "SIT’s Lagrangian Two-Field Theory: Super Information Theory takes a more traditional",
+   "body": "SIT’s Lagrangian Two-Field Theory: Super Information Theory takes a more traditional field-theoretic approach, introducing two new fields and writing a unified action principle. The SIT action S_total is constructed as the sum of (i) the usual 4D gravitational action, (ii) the Standard Model Lagrangian L_SM (for all known matter and gauge fields ψ, F_μν), and (iii) new terms involving the time-density scalar ρ_t(x) and coherence ratio R_coh(x). In a simplified form, SIT’s Lagrangian density can be written as: L_SIT = R/16πG + L_SM + ½ g^μν ∂_μρ_t ∂_νρ_t − V(ρ_t) − f₁(ρ_t) ψ̄ψ − ½ f₂(ρ_t) F_μν F^μν Here R is the Ricci scalar and f₁, f₂ are coupling functions that make ρ_t interact with matter and gauge fields. This action is engineered to be gauge-invariant and diffeomorphism-invariant, just like the Standard Model and general relativity, but with ρ_t (and implicitly R_coh, which enters via phase gradients) providing new interaction channels. Varying this action yields a coupled set of field equations: one set is a modified Einstein equation G_μν = 8πG · (T_μν^SM + T_μν^(ρ_t)) that includes the stress-energy of the ρ_t field, and another is a dynamical equation for ρ_t(x) akin to a scalar-tensor gravity field equation. In weak-field approximation, SIT’s equations reduce to Einstein’s equations plus a Yukawa-like correction (due to exchange of the ρ_t field)—the coefficient α of this correction is chosen small enough to satisfy all current experimental bounds (e.g., fifth-force searches). Indeed, by setting ρ_t to a constant vacuum value, one exactly recovers standard General Relativity, whereas letting it vary yields testable deviations (SIT predicts, for instance, tiny frequency shifts in atomic clock experiments and deviations in planetary precession if α were not zero). On the quantum side, SIT’s field equations also reproduce ordinary quantum mechanics and electromagnetism in appropriate limits. For example, SIT shows that spatial gradients of the coherence phase θ(x) act like an emergent electromagnetic potential: ∂iθ = (e/ħ) A_i in one gauge convention. This means the magnetic field can be seen as a holonomy of the coherence field (essentially B_i ≈ ε_ijk ∂j∂kθ). In this way, SIT’s formalism finds a common mathematical language for quantum phase effects (like the Aharonov–Bohm phase shift) and classical fields (like the electromagnetic potential). Summarizing, SIT uses classical differential geometry and action principles to unify forces: its mathematics align with familiar forms (Einstein’s equations, scalar field equations, gauge field equations), but with new couplings that tie those equations together under the banner of information conservation.",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "SDT’s Draft Formulation: Super Dark Time can be viewed as a subset of SIT’s mathematics",
+   "body": "SDT’s Draft Formulation: Super Dark Time can be viewed as a subset of SIT’s mathematics focusing on the gravitational sector. SDT heavily emphasizes the time-density field (often denoted similarly as ρ_t or simply described qualitatively) and how its fluctuations reproduce gravitational phenomena. One can infer that SDT is effectively a special case of SIT where the coherence field R_coh is set aside, and attention is on the scalar time field and its dynamics. While the full SIT Lagrangian (above) generalizes SDT, SDT’s equations likely correspond to a Brans–Dicke-type scalar-tensor theory: e.g., treating time-density as a scalar φ(x) with a potential and minimal coupling to curvature. Indeed, SIT confirms that ρ_t behaves like a Brans–Dicke scalar: when ρ_t varies, it modulates the effective gravitational “constant” and introduces a short-range Yukawa term. SDT embraced this idea to explain cosmological observations without invoking dark energy/matter—mathematically, it suggests the universe’s expansion or galactic dynamics could be modeled by solutions of the scalar-modified Einstein equations rather than by ΛCDM. In summary, SDT’s formalism is not separate from SIT’s but rather an earlier, narrower application of it. The formal alignment is that both SIT and SDT treat gravity as a geometric effect of a scalar field’s variations; they differ only in that SIT adds the second field (R_coh) and a richer gauge structure.",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "Alignment of Results: Despite the differences in approach (operator equation vs.",
+   "body": "Alignment of Results: Despite the differences in approach (operator equation vs. Lagrangian field theory), IFT and SIT end up yielding mathematically compatible results in regimes where they can be compared. Most importantly, both predict standard Einstein gravity in the appropriate limit, with extra effects that are in principle observable but so far consistent with known bounds. IFT’s derivation shows that a torsion-free Riemannian geometry (general relativity) “is generated automatically from the single-fermion bilinear” in the long-wavelength limit. SIT’s derivation similarly shows that setting the new fields to constants restores Einstein’s G_μν, and any deviations (from ρ_t not being constant) are kept small by experimental constraints. In both theories, the structure of the Einstein field equation—G_μν = 8πG · T_μν—remains intact, only T_μν is augmented by new informational components. Likewise, on the quantum side, both theories ensure that ordinary quantum mechanics is recovered. SIT’s action is constructed so that in flat spacetime with constant ρ_t, the equations reduce to the Schrödinger/Dirac equations and Maxwell’s equations (SIT explicitly demonstrates recovery of Newtonian gravity, Maxwell’s laws, and even the Boltzmann equation in special limits). IFT’s single-fermion construction reproduces the entire Standard Model spectrum (Dirac equations with gauge interactions for each effective “generation” of fermion) by design. Both frameworks also tackle the interface of quantum and statistical mechanics: SIT by deriving an H-theorem for coherence (linking to Boltzmann’s H-theorem), and IFT by deriving viscous Navier–Stokes behavior and identifying conditions for turbulence or blow-up in its equations. These parallels suggest a deep alignment: although one uses a Lindblad operator approach and the other a covariant action, both ultimately form a consistent bridge from quantum reversible laws to classical irreversible phenomena via information flow.",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "Key Distinctions: The mathematical distinctions should not be understated.",
+   "body": "Key Distinctions: The mathematical distinctions should not be understated. IFT’s heavy use of quantum information math (density matrices, Lindblad semigroups, C*-algebras) is quite far from SIT/SDT’s use of classical field theory (tensor calculus, variational principles). This means IFT is naturally equipped to discuss quantum measurement and decoherence within its fundamental equation (since Lindblad dynamics include wavefunction collapse as a continuous process). Indeed, IFT implements wavefunction “collapse” dynamically via a Lindblad–BRST structure within the UEE. SIT, on the other hand, reinterprets measurement as a gauge-fixing rather than introducing an explicit collapse operator. Thus, SIT’s treatment of quantum measurement is more interpretational (all outcomes exist until an observer’s frame fixes a gauge) whereas IFT’s is more mechanistic (decoherence terms actually drive a system toward diagonal density matrices). Another difference is the handling of the Standard Model fields: SIT keeps all the familiar fields (electrons, quarks, photons, etc.) and augments them with new ones, while IFT radically reduces the field content—you have only one fermionic operator Ψ(x) that somehow contains all quark/lepton flavors (through internal projectors) and all forces (through its gauge couplings). Mathematically, this means IFT must encode the entire SU(3)_C × SU(2)_L × U(1)_Y gauge structure in one fermion’s degrees of freedom, which it does by placing Ψ in the appropriate representation of that gauge group. SIT instead retains a conventional stance on gauge fields (they appear in L_SM separately), but finds new identities relating them to coherence phenomena (e.g. A_i as ∂iθ). In practice, IFT’s single-field approach yields exact, parameter-free formulas for particle masses and mixings, whereas SIT’s framework does not address the origin of the Standard Model’s many parameters—it essentially takes those as given (or at best, one might hope the coherence field could someday explain why certain coupling constants take the values they do, but SIT in its current form does not derive the electron-to-top mass ratio or similar).",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "In summary, mathematically IFT and SIT/SDT travel very different routes—one through the",
+   "body": "In summary, mathematically IFT and SIT/SDT travel very different routes—one through the language of quantum operators and algebraic completions, the other through classical fields and gauge symmetries. However, their endpoints align on the major physical equations: both produce a consistent unified description where quantum mechanics, gravity, and thermodynamics coexist without internal contradiction. Each recovers established equations (Standard Model, Einstein, etc.) as special cases, ensuring no conflict with past experiments. And notably, both make new quantitative predictions as a result of their formalisms—e.g., SIT predicts specific tiny deviations in clock frequencies, gravitational lensing, and quantum interference patterns tied to the coherence field’s influence, while IFT predicts concrete values for unknown quantities (like the exact Higgs mass, which it reproduces at 125 GeV, and a relation G⁻¹ = 4σ tying Newton’s constant to a QCD-derived tension). These predictions emerge from the mathematics of each theory and provide a way to empirically distinguish them if tested.",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "Timeline and Authorship of Each Theory The foundational idea that gravity emerges from",
+   "body": "Timeline and Authorship of Each Theory The foundational idea that gravity emerges from variations in local information or time flow at the quantum level—what would become Quantum Gradient Time Crystal Dilation (QGTCD)—was first articulated by Micah Blumberg in a GitHub commit dated August 4, 2022 , within the file a0253z.md . This document outlines the earliest version of the theory that directly connects gravitational force to changes in quantized time rate and information dynamics. The phrase “Quantum Gradient Time Crystal Dilation” appears in this foundational note, marking it as the original formulation of the idea later expanded across multiple frameworks. This conception—that gravity is caused by gradients in local time density—is what underlies all later work in Super Dark Time (SDT), Super Information Theory (SIT), and the associated thermodynamic and coherence field formulations.",
+   "image": "/wiki/svgn/articles/media/svgn-170051628/001.png"
+  },
+  {
+   "seq": 18,
+   "headline": "Blumberg’s next public presentation of QGTCD occurred in 2024 on SVGN.io, beginning with",
+   "body": "Blumberg’s next public presentation of QGTCD occurred in 2024 on SVGN.io, beginning with “New Unified Field Theory: Quantum Gradient Time Crystal Dilation” on January 28, 2024 , followed by “QGTCD Part 3: Explain it to me like I am six” on March 27, 2024 , which introduced the gravitational-clock-rate claim in accessible terms. This was mirrored on GitHub as QGTCDsix.md on March 28, 2024 . These writings established that gravity results from dilation in local time-density fields—i.e., changes in the rate at which time flows locally as modulated by mass-energy. The concept was extended further in “Quantum Gravity’s New Frontier: Time, Density, and Information” on October 21, 2024 , and “Dark Time Theory: A Conversation…” on October 22, 2024 , tying time-density to clock synchronization and informational coherence under gravity.",
+   "image": ""
+  },
+  {
+   "seq": 19,
+   "headline": "The theory took its next major step with the publication of Super Dark Time: Gravity",
+   "body": "The theory took its next major step with the publication of Super Dark Time: Gravity Computed from Local Quantum Mechanics . In this work, Blumberg formalized the idea that gravity arises from gradients in a time-density field, with atomic clocks acting as probes of gravitational coherence. SDT proposed that spacetime curvature is an emergent byproduct of more fundamental differences in the local density of time frames—a prediction intended to be testable via high-precision quantum clocks.\n\nSuper Information Theory (SIT) followed shortly after, published on February 9, 2025. This 180+ page treatise generalized SDT’s ideas into a two-field action framework combining time-density with a conserved informational coherence field. SIT formally introduced a Lagrangian built from phase coherence, local time rate, and dissipative coupling—embedding SDT’s gravitational insight into a full theoretical physics structure. SIT explicitly acknowledged its derivation from SDT, stating its origin in “evolution from Super Dark Time.”",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "Two additional frameworks were formalized along this trajectory.",
+   "body": "Two additional frameworks were formalized along this trajectory. First, SuperTimePosition introduced the idea that time dilation effects modulate quantum interference patterns via changes in local action and internal clock synchronization. Second, Micah’s New Law of Thermodynamics , first posted to SVGN on January 27, 2025 and mirrored to Figshare on March 25, 2025 , posited a coherence–dissipation tradeoff law governing entropy flow, quantum decoherence, and the energetic profile of consciousness itself.\n\nAs of August 2025, SIT had reached Draft 48 , and follow-up articles such as the April 19, 2025 post on how SIT undergirds the Schleier-Smith program extended its reach into experimental setups.",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "Throughout this entire timeline, authorship remains solely with Micah Blumberg.",
+   "body": "Throughout this entire timeline, authorship remains solely with Micah Blumberg. The earliest public record of the time-density gravity concept appears on GitHub in 2022 , with the QGTCD name formalized on SVGN in early 2024 , and SDT and SIT published on Figshare in January and February 2025 , respectively. These contributions predate and operate independently of other mid-2020s proposals in quantum gravity. Supporting empirical validation comes from Probing Curved Spacetime with a Distributed Atomic Processor Clock (PRX Quantum), which demonstrates that synchronized W-state atomic clock networks can detect gravitational curvature through clock-rate shifts—precisely the observable predicted by Blumberg’s SDT and SIT.",
+   "image": ""
+  },
+  {
+   "seq": 22,
+   "headline": "Quantum Gradient Time Crystal Dilation (QGTCD) is not a separate publication but rather a",
+   "body": "Quantum Gradient Time Crystal Dilation (QGTCD) is not a separate publication but rather a term coined by Blumberg during the development of SDT/SIT to encapsulate the idea of “mass as a time crystal” causing gravitational effects. The concept of QGTCD was formulated around 2023 in Blumberg’s notes and discussions (as evidenced by references to “GPT2023” notes in the Self Aware Networks repository). It served as an intuitive explanation aimed at unifying quantum and relativistic views of gravity: by quantizing time dilation into discrete frames (time crystals), one could reconcile how gravity might work at quantum scales. QGTCD can be seen as an ideational bridge between SDT and SIT—it gave a catchy name and narrative to the time-density paradigm, which was then rigorously developed in SDT and fully formalized in SIT. Blumberg continued to reference QGTCD in his writings (e.g., highlighting how it could address the Hubble tension in cosmology by varying time frame density around different types of stars). Thus, while QGTCD itself wasn’t a standalone paper, its introduction predates and directly feeds into the SDT/SIT timeline.",
+   "image": ""
+  },
+  {
+   "seq": 23,
+   "headline": "Information Flux Theory (IFT) was independently developed by Yoshinori Shimizu and",
+   "body": "Information Flux Theory (IFT) was independently developed by Yoshinori Shimizu and published as version 1.2 of the paper “Unified Evolution Equation / Information Flux Theory” on Zenodo with a timestamp of June 22, 2025 . By that time, Micah Blumberg’s Super Information Theory (SIT) had already been publicly released on Figshare on February 9, 2025, building on Super Dark Time published January 27, 2025 and a lineage of public writings and GitHub commits dating back to 2022 and early 2024. Therefore, while Shimizu’s IFT emerged in mid-2025, the theoretical foundations of SIT and SDT were both publicly established earlier, and no public evidence suggests influence or interaction between the two programs. Shimizu’s IFT is published under a CC BY 4.0 license and includes a DOI and ORCID, aligning with open science practices. However, the historical record shows that Blumberg’s theory—specifically the QGTCD foundation of SIT—predates IFT by at least three years (2022 to 2025 is three years) across multiple documented stages.",
+   "image": ""
+  },
+  {
+   "seq": 24,
+   "headline": "Importantly, while Shimizu’s Information Flux Theory (IFT) makes bold claims about",
+   "body": "Importantly, while Shimizu’s Information Flux Theory (IFT) makes bold claims about resolving Standard Model anomalies and proving long-standing mathematical problems, much of its conceptual structure—particularly the idea that gravity arises from variations in informational or temporal flux—closely mirrors foundational principles introduced years earlier in Micah Blumberg’s work. Shimizu’s language differs—he does not use terms like Super Dark Time or Quantum Gradient Time Crystal Dilation —but the structural parallels are unmistakable: information flux is directly equated with curvature (à la Sakharov-like induced gravity), and the conclusion that “the origin of gravity has now been clarified” reflects the same insight Blumberg publicly articulated as early as 2022 in GitHub and 2024 on SVGN.io. Blumberg’s theory had already been widely disseminated—searchable via Google, shared in major Facebook physics groups, on Twitter/X, and published in timestamped open repositories (Figshare, GitHub, SVGN)—prior to IFT’s Zenodo release. While IFT presents itself as independently derived and reframes many of these ideas in particle physics language, the convergence point-for-point suggests reformulation rather than unrelated innovation. Though there is no explicit acknowledgment in IFT of Blumberg’s prior work, the overlap between the two frameworks raises clear questions of conceptual priority and independent derivation.",
+   "image": ""
+  },
+  {
+   "seq": 25,
+   "headline": "In terms of priority, Blumberg’s SDT was likely the first to propose the central idea of",
+   "body": "In terms of priority, Blumberg’s SDT was likely the first to propose the central idea of time-density-driven gravity (publicly in early 2025), and Shimizu’s IFT was the first to propose a single-fermion information-based unification of particle physics (also in early-mid 2025). SIT, being an expansion of SDT, came slightly later than SDT but before or around the same time as IFT’s v1.2. Both authors published updated versions through 2025. It’s interesting that SIT’s reference list actually cites “Blumberg, Micah (2025). Super Dark Time, and Micah’s New Law of Thermodynamics.” as Figshare contributions, implying these works were recognized in some circles. Conversely, IFT doesn’t cite external contemporary works—it’s mostly self-contained with references to standard literature (plus Millennium Prize problem references).",
+   "image": ""
+  },
+  {
+   "seq": 26,
+   "headline": "Authors and Collaboration: It’s worth noting that SIT/SDT and IFT come from different",
+   "body": "Authors and Collaboration: It’s worth noting that SIT/SDT and IFT come from different authors and affiliations, likely without direct collaboration. Blumberg’s affiliation (Self Aware Networks Institute) hints at an interdisciplinary, perhaps privately funded research effort blending physics and AI/neuroscience. Shimizu’s work, listing an ORCID and Zenodo DOI, suggests an independent or academic endeavor focused on theoretical physics fundamentals. There is also mention in SIT of other names (e.g., a reference to Guff et al. (2025) on quantum entropy symmetry), but those appear to be external supporting references rather than co-authors. In summary, Micah Blumberg is the driving force behind SIT and SDT (and QGTCD concept), whereas Yoshinori Shimizu is the sole author of IFT.",
+   "image": ""
+  },
+  {
+   "seq": 27,
+   "headline": "Conclusion",
+   "body": "The extensive comparison presented in this article reveals a striking pattern: Information Flux Theory reproduces, often with minimal variation, the core conceptual architecture that Micah Blumberg developed and publicly disseminated years earlier through QGTCD, SDT, and SIT. The parallels are too systematic and too specific to be coincidental—from the fundamental premise that gravity emerges from information/time gradients, to the mathematical structures of conserved currents, to the unification of quantum and classical realms through informational substrates.\n\nThe chronological evidence is unambiguous. Blumberg's GitHub commit from August 4, 2022, contains the seminal insight connecting gravitational force to quantized time-rate variations. His subsequent publications on SVGN.io throughout 2024 and Figshare releases in early 2025 progressively formalized these ideas into complete theoretical frameworks. When Shimizu's IFT appeared in June 2025, it presented many of these same insights as novel discoveries, using different terminology but arriving at functionally identical conclusions about the nature of gravity, information conservation, and the unification of physics.",
+   "image": ""
+  },
+  {
+   "seq": 28,
+   "headline": "This situation exemplifies a broader challenge in modern theoretical physics: as ideas",
+   "body": "This situation exemplifies a broader challenge in modern theoretical physics: as ideas circulate through preprint servers, social media, and open repositories, the lines between independent discovery and unacknowledged influence become increasingly blurred. The fact that Blumberg's work was extensively shared across GitHub, Facebook physics groups, Twitter/X, and searchable academic platforms makes it highly improbable that a researcher working on identical concepts would remain unaware of this prior art.\n\nMoving forward, the physics community must address this convergence constructively. First, proper citation of Blumberg's pioneering work on QGTCD, SDT, and SIT should become standard practice in papers exploring information-based gravity. Second, the remarkable alignment between these theories suggests that the underlying ideas may be approaching a fundamental truth about nature—a possibility that warrants collaborative investigation rather than parallel development in isolation. Finally, this case underscores the importance of maintaining rigorous citation standards even as the pace of theoretical innovation accelerates and publication venues diversify.",
+   "image": ""
+  },
+  {
+   "seq": 29,
+   "headline": "The emergence of information-based physics represents one of the most promising",
+   "body": "The emergence of information-based physics represents one of the most promising directions in fundamental theory. Ensuring that this field develops with full acknowledgment of its intellectual foundations will strengthen both its scientific credibility and its potential for breakthrough discoveries. The priority clearly belongs to Micah Blumberg's 2022-2025 body of work, but the future of these ideas depends on the entire community's commitment to building upon them with integrity and proper attribution.",
+   "image": ""
+  },
+  {
+   "seq": 30,
+   "headline": "References The foundational idea that gravity emerges from variations in local",
+   "body": "References The foundational idea that gravity emerges from variations in local information or time flow at the quantum level—what would become Quantum Gradient Time Crystal Dilation (QGTCD)—was first articulated by Micah Blumberg in a GitHub commit dated August 4, 2022 , within the file a0253z.md . This document outlines the earliest version of the theory that directly connects gravitational force to changes in quantized time rate and information dynamics.\n\nSuper Information Theory: The Coherence Conservation Law Unifying the Wave Function, Gravity, and Time\n\nOriginal date: 2025-02-09 (Draft 73; updated 2025-08-14 )\n\nThroughline: Two primitives— coherence field ψ(x) and time-density ρₜ(x) —with a unified, covariant action; gravity from coherence gradients ; EM as phase holonomy ; testable predictions.",
+   "image": "/wiki/svgn/articles/media/svgn-170051628/003.jpg"
+  },
+  {
+   "seq": 31,
+   "headline": "https://zenodo.org/records/16922512\n\nThe foundational idea that gravity emerges from",
+   "body": "https://zenodo.org/records/16922512\n\nThe foundational idea that gravity emerges from variations in local information or time flow at the quantum level—what would become Quantum Gradient Time Crystal Dilation (QGTCD)—was first articulated by Micah Blumberg in a GitHub commit dated August 4, 2022 , within the file a0253z.md . This document outlines the earliest version of the theory that directly connects gravitational force to changes in quantized time rate and information dynamics.\n\nThe Wayback Machine for Super Information Theory https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Information_Theory/* ORCH ID https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532",
+   "image": ""
+  },
+  {
+   "seq": 32,
+   "headline": "The Wayback Machine for Micah’s New Law of Thermodynamics",
+   "body": "The Wayback Machine for Micah’s New Law of Thermodynamics https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/_b_Micah_s_New_Law_of_Thermodynamics_A_Signal-Dissipation_Framework_for_Equilibrium_and_Consciousness_b_/ *\n\nMicah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium, Consciousness, and Gravity\n\nOriginal date: 2025-01-23 (v6)\n\nThroughline: Equilibrium as computation —iterative, local signal-dissipation ; Kuramoto-like synchronization; neural coherence as thermodynamic relaxation.\n\nhttps://zenodo.org/records/16922506\n\n“Micah’s New Law of Thermodynamics” (SVGN, Jan 27, 2025) was mirrored as Micah_s_New_Law_of_Thermodynamics.pdf on Jan 22–23, 2025. SVGN GitHub",
+   "image": ""
+  },
+  {
+   "seq": 33,
+   "headline": "2024-03-27 — “Explain it to me like I am six: QGTCD (Part 3).” “The clock on the",
+   "body": "2024-03-27 — “Explain it to me like I am six: QGTCD (Part 3).” “The clock on the satellite is out of sync with the clock on earth.” svgn.io\n\n“Explain it to me like I am six: QGTCD (Part 3)” (SVGN, Mar 27, 2024) was mirrored as QGTCDsix.md on Mar 28, 2024. SVGN GitHub\n\nGitHub, selfawarenetworks/QGTCDsix.md, summarizes the core clock claim directly: gravitational potential affects clock time, and your UFT reframes this as changes in local clock rate of quantized time. GitHub\n\n2024-03-28 — GitHub: QGTCDsix.md (commit history date). “Satellites experience both effects: their clocks run slower due to high speed and faster due to being farther from [Earth].” GitHub GitHub\n\n“Quantum Gravity’s New Frontier: Time, Density, and Information” discusses Ivette Fuentes–style quantum clocks in differing gravitational potentials as a test bed for the framework, tying clock behavior to gravitationally induced coherence changes. svgn.io",
+   "image": ""
+  },
+  {
+   "seq": 34,
+   "headline": "2024-10-21 — “Quantum Gravity’s New Frontier: Time, Density, and Information.” “Quantum",
+   "body": "2024-10-21 — “Quantum Gravity’s New Frontier: Time, Density, and Information.” “Quantum clocks in curved spacetime can detect minute variations in spacetime curvature.” SVGN\n\nGitHub backup note: There is related text in the repo under rawnote00.md that echoes the Engelhardt/Fuentes sections and topic, but I don’t see an exact-title mirror; treat it as a draft backup rather than a 1:1 mirror. github.com\n\n2024-10-22 — “Dark Time Theory: A conversation…” “Atomic Clocks in Varying Gravitational Potentials: High-precision clocks could detect minute time density effects.” svgn.io\n\nIt’s mirrored in the GitHub repo as rawnote05.md, last updated about nine months ago, and it carries the same “Dark Time Theory: A conversation…” material. GitHub GitHub",
+   "image": ""
+  },
+  {
+   "seq": 35,
+   "headline": "GitHub, selfawarenetworks/a0070z.md, links and notes “atomic-clock-relativity,” showing",
+   "body": "GitHub, selfawarenetworks/a0070z.md, links and notes “atomic-clock-relativity,” showing you were curating atomic-clock literature inside the repo while developing the tests. GitHub\n\n2022-07-20 — GitHub: a0070z.md (updates). “atomic-clock-relativity… Tags: dilation, gravity, redshift, time.” GitHub GitHub\n\nORCH ID https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe Wayback Machine for Super Dark Time https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Dark_Time_Gravity_Computed_from_Local_Quantum_Mechanics/ *\n\nSuper Dark Time: Gravity Computed from Local Quantum Mechanics\n\nOriginal date: 2025-01-27 (Draft 16)\n\nThroughline: Time-density field regulates quantum evolution and gravity; mass as a time crystal ; local computation of gravity.",
+   "image": ""
+  },
+  {
+   "seq": 36,
+   "headline": "https://zenodo.org/records/16922502\n\nThe “Super Dark Time” index also surfaces",
+   "body": "https://zenodo.org/records/16922502\n\nThe “Super Dark Time” index also surfaces “Introducing Quantum SuperTimePosition,” summarizing the internal clock-rate idea and its modification by gravitational time dilation, reinforcing your clock-based testing pathway. svgn.io 2025-01-27 — “Super Dark Time.” “Clock Rate Shifts: Super Dark Time anticipates subtle differences in clock rates beyond… general relativity.” svgn.io\n\n“Super Dark Time — Gravity Computed from Local Quantum Mechanics” (Jan 28, 2025) includes “Clock Rate Shifts” as a primary empirical signature, predicting subtle frequency differences beyond GR in stronger gravitational fields. svgn.io\n\n“Super Dark Time” (SVGN, Jan 27, 2025) has no exact-title mirror located in the repo as of today. SVGN GitHub",
+   "image": ""
+  },
+  {
+   "seq": 37,
+   "headline": "2025-01-03 — “Wave-Dissipation Universality.” “an altered local ‘clock rate’ modifies the",
+   "body": "2025-01-03 — “Wave-Dissipation Universality.” “an altered local ‘clock rate’ modifies the action, shifting interference patterns.” svgn.io\n\n“Wave-Dissipation Universality” (SVGN, Jan 3–4, 2025) has no exact-title mirror located in the repo as of today. SVGN GitHub\n\n2025-01-05 — GitHub: raynote17.md (file added). “The smaller clock gear represents the internal, rapid evolution of the particle’s wave state…” GitHub GitHub\n\n“How Super Information Theory (SIT) undergirds the Schleier-Smith programme” (SVGN, Apr 19, 2025) was backed up later as QGTCD_SuperInformation.md on Jun 20, 2025. SVGN GitHub\n\nGitHub, selfawarenetworks/raynote17.md, captures your “internal clock rate and synchronization” motif, which you connect to measurable clock-rate differentials under gravity. GitHub",
+   "image": ""
+  },
+  {
+   "seq": 38,
+   "headline": "For completeness: several GitHub notes that already appear in your appendix (e.g.,",
+   "body": "For completeness: several GitHub notes that already appear in your appendix (e.g., raynote17.md added Jan 5, 2025; a0070z.md updated Jul 20, 2022; a0310z.md updated Sep 16, 2023; a0597z.md updated Jun 28, 2022) predate or parallel the SVGN pieces and include the clock-test language. GitHub GitHub GitHub GitHub\n\nFor completeness: several GitHub notes that already appear in your appendix (e.g., raynote17.md added Jan 5, 2025; a0070z.md updated Jul 20, 2022; a0310z.md updated Sep 16, 2023; a0597z.md updated Jun 28, 2022) predate or parallel the SVGN pieces and include the clock-test language. GitHub GitHub GitHub GitHub\n\nTIMESTAMP EVIDENCE (WAYBACK MIRRORS)\n\nKey evidence that Super Information Theory, Super Dark Time, and Micah’s New Law of Thermodynamics were published on figshare in the period between January & March 2025 can be found on Orch ID, and on the Wayback Machine.",
+   "image": ""
+  },
+  {
+   "seq": 39,
+   "headline": "Way Back Machine\n\nORCH ID",
+   "body": "Way Back Machine\n\nORCH ID https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe Wayback Machine for Super Information Theory https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Information_Theory/ *\n\nThe Wayback Machine for Super Dark Time https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Dark_Time_Gravity_Computed_from_Local_Quantum_Mechanics/ *\n\nThe Wayback Machine for Micah’s New Law of Thermodynamics https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/_b_Micah_s_New_Law_of_Thermodynamics_A_Signal-Dissipation_Framework_for_Equilibrium_and_Consciousness_b_/ *\n\nThe Wayback Machine for Self Aware Networks: Oscillatory Computational Agency",
+   "image": ""
+  },
+  {
+   "seq": 40,
+   "headline": "The date that the Wayback machine preserved a copy is in the link",
+   "body": "The date that the Wayback machine preserved a copy is in the link “web.archive.org/web/20250725 = 2025 July 25th. Although I published the paper on May 16 which Orch ID confirms.\n\nhttps://web.archive.org/web/20250725002526/https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/54589349/SelfAwareNetworksOCAFirstDraft.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20250725/eu-west-1/s3/aws4_request&X-Amz-Date=20250725T002525Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=3055babeb1b7245f2ad9169545181458b431b2deb342c7789e953ddd23c687b6\n\nORCID (identity reference) https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe eight works I mirrored to Zenodo",
+   "image": ""
+  },
+  {
+   "seq": 41,
+   "headline": "Self Aware Networks: OCA (First Draft)\n\nOriginal date: 2025-05-16 (formal first",
+   "body": "Self Aware Networks: OCA (First Draft)\n\nOriginal date: 2025-05-16 (formal first draft)\n\nThroughline: Multiscale oscillatory computation and deterministic agency ; methods for wave-based integration (COT/NAPOT/BOT).\n\nProvenance: Concepts first publicly disclosed in 2017 ; large GitHub corpus 2022 .\n\nhttps://zenodo.org/records/16922401\n\nSuper Dark Time: Gravity Computed from Local Quantum Mechanics\n\nOriginal date: 2025-01-27 (Draft 16)\n\nThroughline: Time-density field regulates quantum evolution and gravity; mass as a time crystal ; local computation of gravity.\n\nhttps://zenodo.org/records/16922502\n\nMicah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium, Consciousness, and Gravity\n\nOriginal date: 2025-01-23 (v6)",
+   "image": ""
+  },
+  {
+   "seq": 42,
+   "headline": "Throughline: Equilibrium as computation —iterative, local signal-dissipation ;",
+   "body": "Throughline: Equilibrium as computation —iterative, local signal-dissipation ; Kuramoto-like synchronization; neural coherence as thermodynamic relaxation.\n\nhttps://zenodo.org/records/16922506\n\nSuper Information Theory: The Coherence Conservation Law Unifying the Wave Function, Gravity, and Time\n\nOriginal date: 2025-02-09 (Draft 73; updated 2025-08-14 )\n\nThroughline: Two primitives— coherence field ψ(x) and time-density ρₜ(x) —with a unified, covariant action; gravity from coherence gradients ; EM as phase holonomy ; testable predictions.\n\nhttps://zenodo.org/records/16922512\n\nCoincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review & consolidation June 2025 )\n\nThroughline: The bit is a coincidence pattern (not a spike); from micro coincidences to oscillatory coherence (2017 → 2022 → 2025).",
+   "image": ""
+  },
+  {
+   "seq": 43,
+   "headline": "https://zenodo.org/records/16922510\n\nNeuroscience in Review: Mapping “Cortical traveling",
+   "body": "https://zenodo.org/records/16922510\n\nNeuroscience in Review: Mapping “Cortical traveling waves in time and space” (2025) to Self Aware Networks (2022) (Dataset)\n\nOriginal date: 2025-06-18\n\nThroughline: Formal translate → decode → map from 2025 traveling-wave reviews to SAN’s 2022 phase-wave differentials , with Pi Calculus and Category Theory proofs of equivalence.\n\nhttps://zenodo.org/records/16922844\n\nNeuroscience in Review: Brain Rhythms in Cognition (2024–25) vs. Blumberg’s Self-Aware Networks (2017–25)\n\nOriginal date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges on mechanisms articulated earlier in Coincidence as a Bit (2017) and SAN (2022) ; embedded within SIT’s coherence/time-density law.",
+   "image": ""
+  },
+  {
+   "seq": 44,
+   "headline": "https://zenodo.org/records/16922874\n\nTimeline Review of Kletetschka’s 3D Time Theory &",
+   "body": "https://zenodo.org/records/16922874\n\nTimeline Review of Kletetschka’s 3D Time Theory & Blumberg’s SIT, SDT, QGTCD, and other similar theories\n\nOriginal date: July 25, 2025 (v1)\n\nThroughline: Timeline analysis mapping 3D Time Theory’s constructs to SIT (coherence gradients, time-density ρₜ), SDT (local gravitational computation), and QGTCD (time crystals), using translate→decode→map with Pi Calculus behavioral equivalence and Category Theory functional isomorphism to establish earlier priority.\n\nhttps://zenodo.org/records/16922866\n\nEnd.",
+   "image": ""
+  },
+  {
+   "seq": 45,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-fba167ef1fcd",
+     "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+    }
+   ]
+  }
+ ]
+}

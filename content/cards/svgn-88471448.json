@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471448",
+ "title": "Business Card",
+ "dek": "Micah Blumberg, Journalist Researcher, Neurohaxor, at Silicon Valley Global News http://svgn.io",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-01-30",
+ "articleHref": "/wiki/svgn/articles/2018-01-30-business-card-svgn-88471448",
+ "sourceUrl": "https://www.svgn.io/p/business-card-bb5243d5a2cc",
+ "topTerms": [
+  "http",
+  "micah",
+  "facebook",
+  "groups",
+  "blumberg",
+  "neural",
+  "lace",
+  "vrma"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-dc6e07210187",
+   "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+  },
+  {
+   "id": "vrma-c67ca275dfc8",
+   "title": "A list of Women in VR, AR, or Tech groups on Facebook"
+  },
+  {
+   "id": "vrma-357d34f7b350",
+   "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+  },
+  {
+   "id": "vrma-8acbacf53af9",
+   "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Business Card",
+   "body": "Micah Blumberg, Journalist Researcher, Neurohaxor, at Silicon Valley Global News http://svgn.io",
+   "image": "/wiki/svgn/articles/media/svgn-88471448/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471448/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471448/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471448/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471448/007.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Micah Blumberg\n\nMicrodoseVR http://microdosevr.com\n\nThe Neural Lace Podcast",
+   "body": "Micah Blumberg\n\nMicrodoseVR http://microdosevr.com\n\nThe Neural Lace Podcast http://vrma.io\n\nThe Virtual Reality Media Alliance Including 30 Facebook groups representing 200k+ members http://vrma.work\n\nSan Francisco Virtual Reality\n\nhttp://www.sfvr.net/\n\nhttp://www.sfvr360.com\n\nfacebook.com/worksalt\n\ntwitter.com @worksalt\n\nInstagram: micahsun\n\nLink to join our slack http://neurotechx.herokuapp.com\n\nMake sure to join the SF channel: #_san-francisco\n\nWe also have a Discord group how which you can join by visiting http://www.neurohaxor.com\n\nGroups on related topics such as Neural Lace:\n\nSelf Aware Networks: Computational Biology: Neural Lace\n\nhttps://www.facebook.com/groups/neomindcycle/\n\nNeurophysics+\n\nhttps://www.facebook.com/groups/IFLNeuro/",
+   "image": "/wiki/svgn/articles/media/svgn-88471448/009.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "NeurotechSF\n\nhttps://www.facebook.com/groups/neurosf/\n\nAuto biography (About Micah",
+   "body": "NeurotechSF\n\nhttps://www.facebook.com/groups/neurosf/\n\nAuto biography (About Micah Blumberg) Contact Micah via email at micah@vrma.io medium.com",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages.]] · [[A list of Women in VR, AR, or Tech groups on Facebook]] · [[30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size.]] · [[FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-dc6e07210187",
+     "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+    },
+    {
+     "id": "vrma-c67ca275dfc8",
+     "title": "A list of Women in VR, AR, or Tech groups on Facebook"
+    },
+    {
+     "id": "vrma-357d34f7b350",
+     "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+    },
+    {
+     "id": "vrma-8acbacf53af9",
+     "title": "FNIRS Functional Near Infrared Spectroscopy: The Neural Lace Podcast Season 2 Episode 4"
+    }
+   ]
+  }
+ ]
+}

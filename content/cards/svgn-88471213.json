@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471213",
+ "title": "SXR: Samsung XR",
+ "dek": "SXR, or Samsung XR, is the new open source developer platform for developing AR & VR applications for Samsung phones and wearable Samsung…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-11-03",
+ "articleHref": "/wiki/svgn/articles/2018-11-03-sxr-samsung-xr-vrma-c1711d1fc89f",
+ "sourceUrl": "https://www.svgn.io/p/sxr-samsung-xr-c1711d1fc89f",
+ "topTerms": [
+  "samsung",
+  "headset",
+  "wearable",
+  "phone",
+  "hackathon",
+  "eventbrite",
+  "medium",
+  "update"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-d7b75ec8f52e",
+   "title": "Samsung reveals an experimental AR headset that isn’t a Samsung product."
+  },
+  {
+   "id": "vrma-4b4d42e35558",
+   "title": "Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com"
+  },
+  {
+   "id": "vrma-4f78b3b2610c",
+   "title": "Samsung to unveil a new AR headset at SDC 2018 (SVGN.io"
+  },
+  {
+   "id": "vrma-4a8f97db5636",
+   "title": "Medium has received significant updates."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "SXR: Samsung XR",
+   "body": "SXR, or Samsung XR, is the new open source developer platform for developing AR & VR applications for Samsung phones and wearable Samsung…",
+   "image": "/wiki/svgn/articles/media/svgn-88471213/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article by Micah Blumberg\n\nPreviously I wrote that I thought Samsung might announce a new",
+   "body": "Article by Micah Blumberg\n\nPreviously I wrote that I thought Samsung might announce a new AR wearable headset at SDC. Update: That prediction could still be incorrect after all, but we do know that Samsung has helped to create a DIY headset. DIY means do it yourself. The DIY wearable headset will help hold your Samsung phone up to your eyes for Augmented Reality applications.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The new evidence is an AR phone + AR wearable hackathon taking place two days after the",
+   "body": "The new evidence is an AR phone + AR wearable hackathon taking place two days after the keynote at SDC. In the eventbrite description Samsung claims to have a new experimental wearable XR headset. The experimental AR wearable mentioned in this event refers to a device that uses the Samsung phone similar in concept to the Samsung Gear VR or the Google Cardboard but for AR.\n\nUpdate: The event organizers clarified that the DIY XR headset pieces were put together by Samsung but otherwise its not a shipping product.",
+   "image": "/wiki/svgn/articles/media/svgn-88471213/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471213/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Want to develop for the new Samsung AR Wearable?",
+   "body": "Want to develop for the new Samsung AR Wearable? Sign up here.\n\nSamsung XR Hackathon Eventbrite - Samsung Research America presents Samsung XR Hackathon - Friday, November 9, 2018 | Sunday, November 11,… www.eventbrite.com\n\nSamsung to unveil a new AR headset at SDC 2018 (SVGN.io SVGN.io News also predicts there greater than 80% percent chance that this is the new Google Daydream Standalone AR headset that was… medium.com\n\nSamsung Odyssey a premium VR headset hits the price floor at Microsoft.com At the same time Brendan Iribe leaves Oculus, because there is no Oculus 2, at least not on the schedule Brendan wanted. medium.com\n\nAt XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for… This is the XR screen technology you have been waiting for, and unfortunately for other XR headset makers it’s a Samsung exclusive. In… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88471213/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Samsung reveals an experimental AR headset that isn’t a Samsung product.]] · [[Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com]] · [[Samsung to unveil a new AR headset at SDC 2018 (SVGN.io]] · [[Medium has received significant updates.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-d7b75ec8f52e",
+     "title": "Samsung reveals an experimental AR headset that isn’t a Samsung product."
+    },
+    {
+     "id": "vrma-4b4d42e35558",
+     "title": "Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com"
+    },
+    {
+     "id": "vrma-4f78b3b2610c",
+     "title": "Samsung to unveil a new AR headset at SDC 2018 (SVGN.io"
+    },
+    {
+     "id": "vrma-4a8f97db5636",
+     "title": "Medium has received significant updates."
+    }
+   ]
+  }
+ ]
+}

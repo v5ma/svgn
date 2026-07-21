@@ -1,0 +1,60 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471447",
+ "title": "NeuroExplorerVR",
+ "dek": "Director Fifer Garbesi’s latest project NeuroExplorerVR was filmed at tthe September 2017 San Francisco Virtual Reality event at River…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-31",
+ "articleHref": "/wiki/svgn/articles/2017-10-31-neuroexplorervr-vrma-31d3522ae33c",
+ "sourceUrl": "https://www.svgn.io/p/neuroexplorervr-31d3522ae33c",
+ "topTerms": [
+  "fifer",
+  "garbesi",
+  "neuroexplorervr",
+  "troy",
+  "allen",
+  "norcross",
+  "micah",
+  "james"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-31d3522ae33c",
+   "title": "NeuroExplorerVR"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "NeuroExplorerVR",
+   "body": "Director Fifer Garbesi’s latest project NeuroExplorerVR was filmed at tthe September 2017 San Francisco Virtual Reality event at River…",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Director Fifer Garbesi’s latest project NeuroExplorerVR was filmed at tthe September 2017",
+   "body": "Director Fifer Garbesi’s latest project NeuroExplorerVR was filmed at tthe September 2017 San Francisco Virtual Reality event at River Ecosystem. Fifer made a VR application with Troy Allen Norcross with art by Micah James Zayner. Check it out on youtube https://www.youtube.com/watch?v=yoqqHYTuUTM\n\nNeuroExplorerVR is meant to start a conversation about how next step of human evolution should be open to everyone.\n\nThats why NeuroExporerVR is building an educational VR tool to teach the public about brain machine interfaces.\n\nDirected by Fifer Garbesi Art by Micah James Zayner   Unity by Troy Allen Norcross",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471447/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[NeuroExplorerVR]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-31d3522ae33c",
+     "title": "NeuroExplorerVR"
+    }
+   ]
+  }
+ ]
+}

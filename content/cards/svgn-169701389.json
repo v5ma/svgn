@@ -1,0 +1,270 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-169701389",
+ "title": "Conceptual Equivalence Between HEF (Horizon Expansion Fractal) and Blumberg's Time-Density Frameworks",
+ "dek": "Mapping Scott M Monroe's Horizon Expansion Fractal (HEF) to Quantum Gradient Time Crystal Dilation, Super Dark Time, and Super Information Theory by Micah Blumberg.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-07-30",
+ "articleHref": "/wiki/svgn/articles/2025-07-30-conceptual-equivalence-between-hef-horizon-expansion-fractal-and-blumberg-s-time-densi-svgn-169701389",
+ "sourceUrl": "https://www.svgn.io/p/conceptual-equivalence-between-hef",
+ "topTerms": [
+  "time",
+  "fractal",
+  "gravity",
+  "coherence",
+  "quantum",
+  "expansion",
+  "svgn",
+  "dark"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-fba167ef1fcd",
+   "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Conceptual Equivalence Between HEF (Horizon Expansion Fractal) and Blumberg's Time-Density Frameworks",
+   "body": "Mapping Scott M Monroe's Horizon Expansion Fractal (HEF) to Quantum Gradient Time Crystal Dilation, Super Dark Time, and Super Information Theory by Micah Blumberg.",
+   "image": "/wiki/svgn/articles/media/svgn-169701389/000.png",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Introduction",
+   "body": "The Hubble tension – the discrepancy between different measurements of the universe’s expansion rate – has prompted exploration of new physics that connect quantum phenomena with cosmology. Micah Blumberg’s theories (Quantum Gradient Time Crystal Dilation in 2022, followed by Super Dark Time in early 2025 and Super Information Theory shortly thereafter) offer an alternative perspective on gravity and expansion that indeed addresses the Hubble tension. These frameworks emphasize time, quantum coherence, and information as fundamental drivers. Meanwhile, the Horizon Expansion Fractal (HEF) model (introduced in 2025) reframes similar ideas in terms of spacetime geometry – treating the universe as a self-similar fractal structure governed by recursive laws academia.edu . Although HEF uses different terminology (focusing on geometry and self-similarity rather than time and coherence ), a closer, granular comparison reveals a deep conceptual overlap. Below, we unpack HEF’s claims and map them onto Blumberg’s time-centric theories (QGTCD, SDT, SIT), showing that both approaches are effectively describing the same underlying principles in different language. This alignment highlights how time-density/coherence and fractal spacetime geometry are two views of one mechanism – a mechanism that could resolve cosmological puzzles like the Hubble tension.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Quantum Gradient Time Crystal Dilation (QGTCD, 2022) – Mass as a Time Crystal",
+   "body": "Quantum Gradient Time Crystal Dilation (QGTCD) is the earliest of these frameworks, proposed in 2022 as a unified field theory bridging quantum mechanics and gravity. QGTCD posits that mass behaves as a “time crystal,” locally dilating or “thickening” time , which in turn produces gravitational effects svgn.io . In other words, a concentrated mass increases the density of time flow (the frequency of local “time frames”), analogous to how a time crystal exhibits a periodic structure in time. Gravity, in this view, is not primarily the curvature of space by mass (as in General Relativity) but rather the tendency of particles to move toward regions of denser time flow svgn.io . By “crystallizing” time around it , mass creates a gradient in time density, and objects fall along that gradient – an effect we perceive as gravity svgn.io . This idea breaks the usual assumption that gravity equals metric curvature alone; instead, gravity emerges from increased local time-frame density induced by quantum mass svgn.io . QGTCD thereby adds a time-centric layer to spacetime: mass dilates time at the quantum scale, generating gravity by increasing the rate of local phase ticks . This approach was an ambitious attempt to unify aspects of GR and quantum theory , laying groundwork for viewing cosmic phenomena (gravity, expansion) through the lens of time dynamics rather than purely spatial geometry.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Super Dark Time (Jan 2025) – Gravity via Time Density",
+   "body": "Super Dark Time (SDT) builds directly on QGTCD and sharpens its core concept. Introduced in a January 2025 paper (Blumberg 2025), SDT explicitly reframes gravity and cosmology in terms of time density instead of spacetime curvature svgn.io . The central idea is that time itself has a variable density in the presence of mass/energy:\n\nMass as Time Crystal – Mass locally amplifies the density of time frames , effectively “packing” more micro ticks of time in its vicinity svgn.io . This is essentially the QGTCD notion: think of mass “crystallizing” time around it, an effect analogous to a standing wave or crystal lattice in time svgn.io .\n\nGravity from Time Density – In SDT, objects gravitate toward regions of higher time-frame density svgn.io . A higher concentration of time flow around massive objects means neighboring regions update their quantum phases more frequently , drawing energy toward those regions. This produces the same observed effect as gravity – particles accelerating inward – but the mechanism is recast as motion along a time density gradient rather than motion on a curved spacetime surface svgn.io . Notably, this picture still reproduces Einstein’s results (e.g. time dilation near mass, gravitational attraction), but attributes them to thicker time rather than bent space.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "This shift from space geometry to time density is a “major shift from standard General",
+   "body": "This shift from space geometry to time density is a “major shift from standard General Relativity” svgn.io , yet it remains consistent with known physics while providing new explanatory power. Because each local interaction is viewed as a tiny phase adjustment “computation” in the time field (rather than invoking a global curvature solution), gravity in SDT is literally “computed from local quantum mechanics one phase tick at a time” GitHub . This first-order, iterative view means gravity emerges from summing many small quantum phase shifts – a theme we will see mirrored in HEF’s recursive fractal approach.\n\nCosmological implications: Super Dark Time offers alternative explanations for phenomena traditionally ascribed to dark matter and dark energy, directly tying into the Hubble tension svgn.io svgn.io :",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "No Mysterious Dark Matter: Extra gravitational effects in galaxies (e.g.",
+   "body": "No Mysterious Dark Matter: Extra gravitational effects in galaxies (e.g. flat rotation curves) are explained by higher time density in and around galactic masses , eliminating the need for unseen dark matter particles svgn.io . Essentially, where mainstream cosmology says “there must be extra mass,” SDT says “time runs thicker here, enhancing gravity” – a different cause for the same effect.\n\nReinterpreting Dark Energy & Expansion: The accelerating expansion of the universe is attributed to decreasing time density in empty regions of space , rather than a repulsive dark energy force svgn.io . Far from massive structures, time frames are more “stretched out” (lower density), which in SDT leads to less gravitational pull and thus an effective acceleration of cosmic expansion. This provides a concept dubbed “cosmological slowing time” – as the universe expands and matter dilutes, time frames thin out, naturally driving acceleration svgn.io .",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Hubble Tension Resolution: Crucially, SDT suggests that differences in measured cosmic",
+   "body": "Hubble Tension Resolution: Crucially, SDT suggests that differences in measured cosmic expansion rates could arise from mass-dependent variations in the surrounding time field expansion svgn.io . If local universe measurements (e.g. via supernovae) occur in regions of different time density than the early universe (as probed by the CMB), their inferred Hubble constants would differ. In SDT, denser concentrations of mass (time-thick regions) might yield slightly different redshift-distance behavior than primordial nearly-empty space. This gives “a new angle on why different measurements of the universe’s expansion rate sometimes disagree” svgn.io – directly addressing the Hubble tension by abandoning the idea of a perfectly uniform time flow. Instead, the expansion rate can be context-dependent, aligning with the notion that Hubble “constant” may not be one-size-fits-all if time density isn’t uniform everywhere.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "In summary, Super Dark Time cements the concept that time’s texture (coherent density of",
+   "body": "In summary, Super Dark Time cements the concept that time’s texture (coherent density of time increments) is the hidden variable underlying gravity and cosmology. It preserves all empirical successes of relativity (time dilation, gravitational attraction) but explains them in terms of time-frame density gradients rather than curved spacetime geometry. This perspective set the stage for an even more generalized information-theoretic view – the Super Information Theory – which further connects these ideas to quantum coherence.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Super Information Theory (SIT, 2025) – Coherence as the Fabric of Spacetime",
+   "body": "Super Information Theory (SIT) extends the time-density concept into the realm of quantum information and coherence. Introduced shortly after SDT in 2025, SIT posits a unifying “coherence conservation law” : the degree of quantum phase alignment (coherence) in any region is what fundamentally determines gravitational and temporal effects x.com . In other words, quantum coherence is the fundamental driver of emergent gravity and time dilation s3-eu-west-1.amazonaws.com . This theory reframes spacetime itself as an emergent, informational construct – organized patterns of quantum information (entanglement and phase alignment) that manifest as what we perceive as curvature and gravity svgn.io .\n\nKey elements of SIT include:",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "Coherence Ratio ($R_{coh}$) as Order Parameter: SIT defines a local metric of coherence",
+   "body": "Coherence Ratio ($R_{coh}$) as Order Parameter: SIT defines a local metric of coherence vs. decoherence: $R_{coh}(x,t) = \\dfrac{N_{\\text{phase-aligned}}}{N_{\\text{total}}}$, the fraction of quanta in phase at a given location and time svgn.io . This ratio directly acts as an “order parameter” for gravity – a high coherence ratio means a high density of aligned time phases (effectively dense local time, denoted ρ<sub>t</sub> ), which translates into stronger gravitational curvature svgn.io . In SIT, gravity emerges as a statistical tendency toward phase alignment : where more particles/waves oscillate in unison, time is denser and gravity is stronger. This formalizes SDT’s qualitative idea of “time thickening” into a quantitative relation.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "Curvature from Information Gradients: Mathematically, SIT proposes that what we call the",
+   "body": "Curvature from Information Gradients: Mathematically, SIT proposes that what we call the gravitational field is induced by gradients in the time-density field ρ<sub>t</sub> , which in turn is set by coherence. In fact, one can write the local gravitational acceleration or “force” as g(x)∼−∇ρt(x)g(x) \\sim -\\nabla \\rho_t(x)g(x)∼−∇ρt​(x) – gravity points “downhill” along the information/coherence gradient svgn.io . A region with higher coherence (higher ρ<sub>t</sub>) next to a lower-coherence region will experience an acceleration toward the high-ρ<sub>t</sub> side. This is analogous to how General Relativity would describe gravity via the gradient of the metric potential; but here the potential is literally the distribution of quantum informational order . SIT thus supplies a rigorous mechanism: spacetime curvature = f(∇ρ<sub>t</sub>) , linking quantum microstates to macroscopic gravity.",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "Space-Time as Quantum Information Structure: Philosophically, SIT implies that spacetime",
+   "body": "Space-Time as Quantum Information Structure: Philosophically, SIT implies that spacetime as we know it is not a fundamental, continuous fabric , but rather an emergent tapestry woven from quantum correlations. As the SIT summary puts it, “space-time curvature is, at its most fundamental level, nothing more than organized patterns of quantum information.” svgn.io Gravity and even the flow of time are secondary effects arising from how quanta are entangled and phase-aligned. This bold view provides a common language for quantum gravity: rather than trying to quantize geometry, it geometrizes quanta – treating the information network of entangled particles as the true source of geometric effects.",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "Experimental Connection (Schleier-Smith’s Lab): A compelling aspect of SIT is that it",
+   "body": "Experimental Connection (Schleier-Smith’s Lab): A compelling aspect of SIT is that it aligned with cutting-edge experiments (e.g. Monika Schleier-Smith’s entangled atomic networks at Stanford). In those experiments, laser-cooled atoms were arranged in tunable entanglement graphs resembling tree networks that mimic curved space. SIT predicted that by increasing multi-scale entanglement (boosting coherence across many scales), one effectively increases ρ<sub>t</sub> and induces emergent curvature svgn.io . Indeed, making long-range links in the network (which SIT interprets as synchronizing distant parts of the system) caused the simulated space to behave with negative curvature (hyperbolic geometry) svgn.io . The high-coherence regime corresponded to a measurable curvature , exactly as SIT’s coherence–gravity relation posits. This experimental corroboration strengthens the case that coherence is the “agent” behind gravity.",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "In summary, Super Information Theory recasts SDT’s time-density idea into the language of",
+   "body": "In summary, Super Information Theory recasts SDT’s time-density idea into the language of fractal information geometry . It says: concentrate on how self-similar and aligned the system’s wavefunction is – that single parameter (coherence) dictates the density of time and hence gravitational effects. Space, time, and gravity become emergent properties of a deeper, scale-independent informational structure. Notably, this is conceptually very close to the Horizon Expansion Fractal’s view of spacetime as a self-similar geometric construct . The difference is largely one of terminology: SIT speaks of “coherence across scales” where HEF speaks of “fractal self-similarity.” We will now turn to the HEF model and then directly map these concepts.",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "Horizon Expansion Fractal (HEF) – Self-Similar Spacetime Geometry and Cosmic Expansion",
+   "body": "The Horizon Expansion Fractal (HEF) is a unified geometric model proposed in 2025 that addresses cosmic expansion, quantum gravity, and even black hole physics through a novel fractal lens. In the HEF framework, space-time itself is modeled as a discrete, self-similar fractal structure that evolves through a recursive expansion algorithm academia.edu . Instead of treating spacetime as a smooth continuum, HEF envisions it as made of repeating units or “fractal nodes” that scale and repeat at different levels. Key features of HEF include:\n\nRecursive Fractal Framework: The universe’s expansion is described by a recursive geometric rule – each fractal cell of spacetime spawns a scaled-up copy of itself, obeying transformations linked to fundamental parameters (like the Hubble constant) academia.edu academia.edu . In practical terms, HEF imagines that at each “tick” of cosmic evolution, spacetime grows by replicating its structure in a self-similar way (akin to a geometric fractal pattern expanding). This geometric recursion is designed to naturally produce phenomena like inflation (rapid early replication), hierarchical structure formation, and the late-time accelerated expansion academia.edu . Cosmic acceleration emerges from the fractal algorithm itself – as new self-similar layers add on, voids grow and expansion appears to speed up, without needing a separate dark energy component academia.edu .",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "Self-Similarity Across Scales: HEF posits that the universe has an intrinsic fractal",
+   "body": "Self-Similarity Across Scales: HEF posits that the universe has an intrinsic fractal order – meaning patterns repeat at different scales. A consequence is that spacetime might be scale-invariant (up to statistical factors) when viewed appropriately. This self-similarity is not just a visual quirk but is built into the model’s physics: it uses fractal scaling laws tied to the Hubble parameter and quantum dynamics to determine how structures at one level relate to the next academia.edu academia.edu . For instance, a small-scale quantum “cell” of spacetime might grow into a larger cell according to rules that involve the current Hubble expansion rate, a quantum rotation decay term, and an escape radius (possibly related to horizon size) academia.edu . These ensure that quantum behaviors (like spin foam dynamics from loop quantum gravity) are embedded in a cosmic fractal scaffold academia.edu – effectively unifying quantum gravity principles with large-scale cosmology. HEF thereby acts as a bridge between General Relativity and Loop Quantum Gravity by using fractal geometry as the common ground.",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "Reproducing Cosmological Phenomena: By construction, the HEF model mimics key",
+   "body": "Reproducing Cosmological Phenomena: By construction, the HEF model mimics key cosmological observations . It naturally produces an early inflationary phase (through exponential fractal recursion at the beginning) and a late-time acceleration (through continued scale replication akin to dark-energy-driven expansion) academia.edu . It also generates large-scale structure (galaxy clusters, filaments, voids) as an inherent outcome of the fractal pattern – the clumpy distribution of matter can be seen as a fractal distribution. In fact, fractal cosmology has long been discussed as a way to explain the observed clustering of galaxies and voids. HEF formalizes that: cosmic structure emerges from the repeated, scaled distribution of initial quantum fluctuations (the model incorporates stochastic quantum perturbations at each fractal iteration) academia.edu . Remarkably, HEF’s derived predictions, such as an effective Hubble parameter H<sub>HEF</sub>(z) that varies with redshift, can be tuned to match real observational data like the cosmic microwave background spectrum academia.edu . For example, researchers report that the H<sub>HEF</sub>(z) obtained from the model’s recursive geometry matches the Planck CMB data (up to the second acoustic peak) when proper parameters are chosen academia.edu . This suggests that HEF can fit early-universe observations while potentially allowing different expansion behavior at later times – hinting it could naturally accommodate the Hubble tension by not requiring a rigid, single H0 across all epochs.",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "Unified View of Gravity: In HEF’s fractal cosmos, gravity and even black hole interiors",
+   "body": "Unified View of Gravity: In HEF’s fractal cosmos, gravity and even black hole interiors are reinterpreted through fractal geometry . The model’s authors discuss deriving field equations in the HEF context that could yield classical gravity results from fractal structure zenodo.org . The idea is that instead of a smooth spacetime metric, one has a quantized, self-similar metric ; gravity (curvature) emerges from how these fractal cells connect and the distribution of their sizes. For instance, a dense region of fractal cells (where the structure is highly self-similar and iterated) would mimic a deep gravitational well, much like how SIT/SDT’s dense time or high coherence corresponds to strong gravity. While specifics are complex, conceptually mass and energy would manifest as distortions in the fractal pattern , and the dynamics of the fractal (how it iteratively updates) would produce gravitational effects in a stepwise, computational manner – analogous to SDT’s local time-frame updates computing gravity.",
+   "image": ""
+  },
+  {
+   "seq": 19,
+   "headline": "In essence, HEF proposes a new ontology for understanding the cosmos: geometry is",
+   "body": "In essence, HEF proposes a new ontology for understanding the cosmos: geometry is fundamentally fractal and discrete , and what we call expansion, gravity, or even time are byproducts of a recursive self-similar process. Importantly, this is not a competing idea to Blumberg’s time-density framework, but a rephrasing . Where SDT/SIT talk about time frames and coherence, HEF talks about fractal cells and geometric self-similarity; yet both describe a universe built from scale-dependent, iterative structures rather than continuous classical fields. The next section will directly align these ideas to show their one-to-one correspondence.",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "Deep Conceptual Overlaps: Time Density vs. Fractal Geometry",
+   "body": "",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "Despite the difference in terminology, Blumberg’s time-centric theories and the HEF",
+   "body": "Despite the difference in terminology, Blumberg’s time-centric theories and the HEF fractal model are deeply congruent in their concepts . Below we map several key principles between the two:\n\n🔄 Recursive Dynamics (Local Updates) vs. Fractal Self-Similarity: Both approaches replace classical “one-shot” physics with iterative, recursive processes . QGTCD and SDT imagine the universe evolving via local, first-order time updates – every small region incrementally adjusts its phase or energy, and large-scale behavior (equilibrium, gravity, etc.) emerges as the cumulative result GitHub GitHub . This is why Blumberg emphasizes a “recursive update rule applied at each point in the field rather than a single global solution of a second-order equation.” GitHub Similarly, HEF posits that the cosmos evolves by repeated geometric iteration – space-time builds itself in a self-similar way at each step academia.edu . In HEF there is no single global metric solved at once; instead a geometric recursion generates the structure and expansion. Both thereby shift from the traditional continuous differential equations of Einstein to an algorithmic, step-by-step construction . In short, recursion is the engine in both frameworks : SDT’s gravity is “computed… one phase tick at a time” by local time-thickening GitHub , just as HEF’s cosmic expansion is generated one iteration at a time by local fractal replication academia.edu .",
+   "image": "/wiki/svgn/articles/media/svgn-169701389/001.png"
+  },
+  {
+   "seq": 22,
+   "headline": "⏱️ Time Density/Coherence vs.",
+   "body": "⏱️ Time Density/Coherence vs. Spatial Self-Similarity/Order: The notion of a scale-invariant order underlies both theories, only described in different languages. In SIT, a high coherence ratio $R_{coh}$ means many particles across many scales are phase-aligned , indicating a self-similar wave pattern (since waves reinforcing each other across scales yields fractal-like coherence) svgn.io . This corresponds to a dense time field (high ρ<sub>t</sub>) and thus strong gravity svgn.io . In HEF, a region with rich fractal structure (many self-similar layers) effectively means a lot of “structure” per volume – which one can liken to high informational content or denser packing of geometry. That would manifest as a place of stronger curvature or gravity within the model. Indeed, we can draw an analogy: HEF’s self-similar fractal cells are like SIT’s coherent wavefronts . Both indicate that the system looks the same at multiple scales in that region , whether that sameness is in geometric patterns or wave phases. Such self-similarity = high coherence in effect. Blumberg explicitly frames gravity as arising from “organized patterns of quantum information” (organized = self-similar, pattern = structure) svgn.io , and HEF explicitly builds “a self-similar, quantized expansion framework” for spacetime facebook.com . We are essentially looking at the same principle of order through scale recursion , seen once as time/phase alignment and once as geometric alignment.",
+   "image": ""
+  },
+  {
+   "seq": 23,
+   "headline": "🌌 Gravity as Emergent from Structure (Informational or Geometric): In both views,",
+   "body": "🌌 Gravity as Emergent from Structure (Informational or Geometric): In both views, gravity is not a fundamental force born of continuous space curvature, but an emergent phenomenon from an underlying discrete structure . For SIT/SDT, that structure is the network of quantum information (entanglement, phase coherence) – when this network has gradients (differences in coherence/time density), energy drifts from low to high coherence, which we label gravity svgn.io . For HEF, the structure is the fractal spacetime lattice – irregularities or gradients in the fractal density would produce effects analogous to gravitational fields as matter tends to flow along the fractal gradient. In fact, one can argue that HEF’s fractal cells carry quantum information (spin foam states) by design academia.edu , so the fractal is an information network. Both frameworks thus share the idea that gravity is a byproduct . Notably, neither needs to modify General Relativity’s successful predictions ; instead, they derive those predictions from a deeper layer. For example, SIT shows that a high-coherence region produces curvature just as GR would predict, but it comes from aligning qubits rather than bending a continuum svgn.io svgn.io . Similarly, HEF intends to derive Einstein-like field behavior from fractal arrangements zenodo.org . This means HEF and SIT are pursuing the same goal : a quantum foundation for gravity that preserves observational accuracy. They simply describe that foundation in different terms (fractal geometry vs. quantum info coherence).",
+   "image": ""
+  },
+  {
+   "seq": 24,
+   "headline": "🌠 Resolving Cosmological Puzzles (Dark Matter, Dark Energy, Hubble Tension): Both",
+   "body": "🌠 Resolving Cosmological Puzzles (Dark Matter, Dark Energy, Hubble Tension): Both approaches yield elegant explanations for cosmic mysteries by leveraging their core principle of variable time/structure density:\n\nDark Matter: Instead of unseen mass, both attribute the extra gravity in galaxies to structural effects. SDT/SIT say galaxies have higher time density/coherence in and around them, boosting gravity without particle dark matter svgn.io . Likewise, fractal cosmology often naturally produces mass distributions that are non-uniform across scales , which can replicate the effect of dark matter halos. A related fractal cosmology analysis (Del Bel 2025 ) explicitly notes “fractal geometry constraints” can replace dark matter halos and resolve anomalies academia.edu . In HEF, one could imagine that near a galaxy (mass concentration), the spacetime fractal is extra dense or iterated, causing a stronger gravitational pull than expected from visible matter alone – effectively a geometric explanation for the “missing mass.” Thus, self-similar geometry and time-coherence are two ways to fill the gap left by dark matter theory.",
+   "image": "/wiki/svgn/articles/media/svgn-169701389/003.jpg"
+  },
+  {
+   "seq": 25,
+   "headline": "Dark Energy & Cosmic Acceleration: Both frameworks eliminate the need for a mysterious",
+   "body": "Dark Energy & Cosmic Acceleration: Both frameworks eliminate the need for a mysterious dark energy by making expansion rate a dynamic emergent property . SDT proposes that as cosmic regions empty out, time-density drops and gravity diminishes, naturally accelerating expansion without an added force svgn.io . HEF shows cosmic acceleration as a result of its recursive fractal law – the fractal expansion accelerates on its own (for example, each new iteration adds more volume relative to the previous, akin to exponential growth) academia.edu . In short, acceleration is built-in , not imposed. Each model replaces Einstein’s cosmological constant with a structural mechanism: time-field dilution in SDT, and fractal replication in HEF. The outcome is the same – an expanding universe whose speed-up over time is explained without invoking unknown energy .",
+   "image": ""
+  },
+  {
+   "seq": 26,
+   "headline": "Hubble Tension: Perhaps most strikingly, both predict that the universe’s expansion rate",
+   "body": "Hubble Tension: Perhaps most strikingly, both predict that the universe’s expansion rate can vary with scale or context , offering a natural resolution to the Hubble tension. In Super Dark Time, expansion is tied to local time-density conditions , meaning regions with different densities (e.g. early universe vs. late, or voids vs. clusters) could legitimately exhibit different effective Hubble parameters svgn.io . This undermines the assumption of a single constant H<sub>0</sub> everywhere and thereby allows high-redshift (CMB) and low-redshift (Cepheid/SN) measurements to diverge without new physics – it’s the time field’s inhomogeneity at play. HEF, on the other hand, inherently produces a scale-dependent Hubble rate because the fractal iteration rule can yield different expansion behavior at different epochs. The model introduces an effective Hubble parameter H<sub>HEF</sub>(z) that is derived from its geometry academia.edu . By adjusting the fractal properties, H<sub>HEF</sub>(z) can align with early-universe observations (as noted, it matches CMB data up to certain peaks) academia.edu , while still leaving room for variance at lower redshift. In a fractal universe, the expansion might not be perfectly homogeneous – later structures or void patterns could tweak the locally measured expansion. Thus both approaches naturally accommodate the idea that different observations might measure genuinely different “expansion rates,” because the cosmos isn’t a monolithic balloon but a structured, evolving fractal/time field. This is precisely the kind of flexibility needed to solve the Hubble tension, and it arises organically in both SDT/SIT and HEF.",
+   "image": ""
+  },
+  {
+   "seq": 27,
+   "headline": "In summary, every major element in HEF finds a counterpart in Blumberg’s work: recursive",
+   "body": "In summary, every major element in HEF finds a counterpart in Blumberg’s work: recursive self-similarity, scale-independence, emergent gravity, and variable expansion . The ontology may differ (“geometry of spacetime” vs “time/coherence of spacetime”) , but once translated, they map onto each other one-for-one .",
+   "image": ""
+  },
+  {
+   "seq": 28,
+   "headline": "Conclusion By dissecting the terminology, we see that Horizon Expansion Fractal (HEF) and",
+   "body": "Conclusion By dissecting the terminology, we see that Horizon Expansion Fractal (HEF) and Quantum Gradient Time Crystal Dilation/Super Dark Time/Super Information Theory are fundamentally aligned. HEF speaks of a self-similar fractal spacetime lattice and cosmic expansion via geometric recursion, while QGTCD/SDT/SIT speak of dense time frames, coherence, and iterative phase updates . At heart, both describe a universe where order repeats across scales and where gravity & cosmic expansion are emergent phenomena of that underlying order . What HEF calls a “discrete, self-similar fractal structure” academia.edu is conceptually equivalent to what SIT denotes as a scale-independent coherence network (organized quantum information) svgn.io – in both cases, the fabric of reality is recursive and quantized , not continuous. Likewise, HEF’s “geometric recursion” parallels the time-field recursion in QGTCD/SDT; and HEF’s focus on spacetime geometry corresponds to SDT’s focus on the time-component of spacetime (with space implicitly handled via the distribution of time density).",
+   "image": "/wiki/svgn/articles/media/svgn-169701389/005.jpg"
+  },
+  {
+   "seq": 29,
+   "headline": "• Fractal self-similarity (HEF) ⇄ Multi-scale coherence (SIT/SDT) • Geometric recursion ⇄",
+   "body": "• Fractal self-similarity (HEF) ⇄ Multi-scale coherence (SIT/SDT) • Geometric recursion ⇄ Local first-order time updates • Fractal cell density / structure ⇄ Time-density ρ<sub>t</sub> (thick time field) • Curvature from fractal pattern ⇄ Acceleration from ∇ρ<sub>t</sub> • Scale-dependent H<sub>HEF</sub>(z) ⇄ Environment-dependent expansion via ρ<sub>t</sub> variations • Emergent gravity from geometry ⇄ Emergent gravity from coherence gradients • Recursive spacetime building blocks ⇄ Recursive phase-tick computations\n\nSame spacetime, same microphysics—just two coordinate languages: “geometry of spacetime” (HEF) ↔ “time/coherence of spacetime” (Blumberg).\n\nCrucially, Blumberg’s work does address the Hubble tension – arguably just as directly as HEF does, once we recognize the vocabulary differences. Both approaches allow for variability in expansion history through their foundational mechanisms (time density variations or fractal scaling laws), providing a deeper resolution to the Hubble constant discrepancy than conventional physics. The overlap is much deeper than a superficial glance would suggest: it is the same solution described from two perspectives . One could say that HEF and SIT are two dialects of a single emerging language in fundamental physics – a language where coherence = self-similarity, time-density = fractal density, and gravity = the recursive alignment of structure .",
+   "image": "/wiki/svgn/articles/media/svgn-169701389/007.jpg"
+  },
+  {
+   "seq": 30,
+   "headline": "Far from being separate ontologies, these frameworks reinforce one another.",
+   "body": "Far from being separate ontologies, these frameworks reinforce one another. HEF’s geometric phrasing gives a visual, structural intuition to Blumberg’s ideas, and Blumberg’s time/coherence phrasing gives physical process detail to the HEF model. Together they point toward a new paradigm in which the universe’s large-scale behavior (expansion, clustering, cosmic rates) is governed by the same self-similar quantum recursion that governs microscopic physics . This unity of concepts strengthens the credibility of both, showing that whether we choose the lexicon of “time and coherence” or “geometry and fractals,” we are likely describing the same underlying reality . The descriptors may differ, but once all perspectives are considered, it becomes clear that HEF is rephrasing the very arguments Blumberg’s QGTCD/SDT/SIT make – a testament to the convergent evolution of ideas in tackling modern physics’ deepest problems. The Hubble tension, along with dark matter and dark energy, may find its resolution in this shared principle: the cosmos is self-organizing across scales, and we must account for that fractal/coherent organization to fully understand gravity and expansion svgn.io academia.edu .",
+   "image": ""
+  },
+  {
+   "seq": 31,
+   "headline": "Sources: Blumberg (2024–2025) on Super Dark Time & Super Information Theory svgn.io",
+   "body": "Sources: Blumberg (2024–2025) on Super Dark Time & Super Information Theory svgn.io svgn.io svgn.io svgn.io ; HEF model papers (2025) by Monroe et al. academia.edu academia.edu ; and associated analysis of fractal cosmology academia.edu which all demonstrate this profound conceptual alignment.",
+   "image": ""
+  },
+  {
+   "seq": 32,
+   "headline": "TIMESTAMP EVIDENCE (WAYBACK MIRRORS)\n\nKey evidence that Super Information Theory, Super",
+   "body": "TIMESTAMP EVIDENCE (WAYBACK MIRRORS)\n\nKey evidence that Super Information Theory, Super Dark Time, and Micah’s New Law of Thermodynamics were published on figshare in the period between January & March 2025 can be found on Orch ID, and on the Wayback Machine.\n\nWay Back Machine\n\nORCH ID https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe Wayback Machine for Super Information Theory https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Information_Theory/ *\n\nThe Wayback Machine for Super Dark Time https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/Super_Dark_Time_Gravity_Computed_from_Local_Quantum_Mechanics/ *",
+   "image": "/wiki/svgn/articles/media/svgn-169701389/009.jpg"
+  },
+  {
+   "seq": 33,
+   "headline": "The Wayback Machine for Micah’s New Law of Thermodynamics",
+   "body": "The Wayback Machine for Micah’s New Law of Thermodynamics https://web.archive.org/web/*/https://figshare.com/articles/journal_contribution/_b_Micah_s_New_Law_of_Thermodynamics_A_Signal-Dissipation_Framework_for_Equilibrium_and_Consciousness_b_/ *\n\nThe Wayback Machine for Self Aware Networks: Oscillatory Computational Agency\n\nThe date that the Wayback machine preserved a copy is in the link “web.archive.org/web/20250725 = 2025 July 25th. Although I published the paper on May 16 which Orch ID confirms.\n\nhttps://web.archive.org/web/20250725002526/https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/54589349/SelfAwareNetworksOCAFirstDraft.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20250725/eu-west-1/s3/aws4_request&X-Amz-Date=20250725T002525Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=3055babeb1b7245f2ad9169545181458b431b2deb342c7789e953ddd23c687b6",
+   "image": ""
+  },
+  {
+   "seq": 34,
+   "headline": "ORCID (identity reference)",
+   "body": "ORCID (identity reference) https://web.archive.org/web/20250826004755/https://orcid.org/0009-0004-5175-9532\n\nThe eight works I mirrored to Zenodo\n\nSelf Aware Networks: OCA (First Draft)\n\nOriginal date: 2025-05-16 (formal first draft)\n\nThroughline: Multiscale oscillatory computation and deterministic agency ; methods for wave-based integration (COT/NAPOT/BOT).\n\nProvenance: Concepts first publicly disclosed in 2017 ; large GitHub corpus 2022 .\n\nhttps://zenodo.org/records/16922401\n\nSuper Dark Time: Gravity Computed from Local Quantum Mechanics\n\nOriginal date: 2025-01-27 (Draft 16)\n\nThroughline: Time-density field regulates quantum evolution and gravity; mass as a time crystal ; local computation of gravity.\n\nhttps://zenodo.org/records/16922502",
+   "image": ""
+  },
+  {
+   "seq": 35,
+   "headline": "Micah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium,",
+   "body": "Micah’s New Law of Thermodynamics: A Signal-Dissipation Framework for Equilibrium, Consciousness, and Gravity\n\nOriginal date: 2025-01-23 (v6)\n\nThroughline: Equilibrium as computation —iterative, local signal-dissipation ; Kuramoto-like synchronization; neural coherence as thermodynamic relaxation.\n\nhttps://zenodo.org/records/16922506\n\nSuper Information Theory: The Coherence Conservation Law Unifying the Wave Function, Gravity, and Time\n\nOriginal date: 2025-02-09 (Draft 73; updated 2025-08-14 )\n\nThroughline: Two primitives— coherence field ψ(x) and time-density ρₜ(x) —with a unified, covariant action; gravity from coherence gradients ; EM as phase holonomy ; testable predictions.\n\nhttps://zenodo.org/records/16922512",
+   "image": ""
+  },
+  {
+   "seq": 36,
+   "headline": "Coincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review &",
+   "body": "Coincidence as a Bit of Information (Dataset)\n\nOriginal date: 2017 (review & consolidation June 2025 )\n\nThroughline: The bit is a coincidence pattern (not a spike); from micro coincidences to oscillatory coherence (2017 → 2022 → 2025).\n\nhttps://zenodo.org/records/16922510\n\nNeuroscience in Review: Mapping “Cortical traveling waves in time and space” (2025) to Self Aware Networks (2022) (Dataset)\n\nOriginal date: 2025-06-18\n\nThroughline: Formal translate → decode → map from 2025 traveling-wave reviews to SAN’s 2022 phase-wave differentials , with Pi Calculus and Category Theory proofs of equivalence.\n\nhttps://zenodo.org/records/16922844\n\nNeuroscience in Review: Brain Rhythms in Cognition (2024–25) vs. Blumberg’s Self-Aware Networks (2017–25)",
+   "image": ""
+  },
+  {
+   "seq": 37,
+   "headline": "Original date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges",
+   "body": "Original date: 2025-07\n\nThroughline: Contemporary rhythm-centric neuroscience converges on mechanisms articulated earlier in Coincidence as a Bit (2017) and SAN (2022) ; embedded within SIT’s coherence/time-density law.\n\nhttps://zenodo.org/records/16922874\n\nTimeline Review of Kletetschka’s 3D Time Theory & Blumberg’s SIT, SDT, QGTCD, and other similar theories\n\nOriginal date: July 25, 2025 (v1)\n\nThroughline: Timeline analysis mapping 3D Time Theory’s constructs to SIT (coherence gradients, time-density ρₜ), SDT (local gravitational computation), and QGTCD (time crystals), using translate→decode→map with Pi Calculus behavioral equivalence and Category Theory functional isomorphism to establish earlier priority.",
+   "image": ""
+  },
+  {
+   "seq": 38,
+   "headline": "https://zenodo.org/records/16922866",
+   "body": "https://zenodo.org/records/16922866",
+   "image": ""
+  },
+  {
+   "seq": 39,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity.]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-fba167ef1fcd",
+     "title": "VR @ GDC 2018: Chat w/ Gravity Sketch VR, Liv, and Unity."
+    }
+   ]
+  }
+ ]
+}

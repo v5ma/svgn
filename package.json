@@ -1,0 +1,10 @@
+{
+  "name": "svgn-public-corpus",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-from-site.mjs",
+    "manifest": "node scripts/rebuild-manifest.mjs",
+    "validate": "node scripts/validate.mjs"
+  }
+}

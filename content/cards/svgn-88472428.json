@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472428",
+ "title": "What the future of TV & Film for AR VR devices could be.",
+ "dek": "by Micah Blumberg, host of the Death Star Robot talk show, the NerveGear show, and the Neural Lace Podcast references http://vrma.io and…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-12-05",
+ "articleHref": "/wiki/svgn/articles/2017-12-05-what-the-future-of-tv-and-film-for-ar-vr-devices-could-be-vrma-5ae1b5c62c16",
+ "sourceUrl": "https://www.svgn.io/p/why-i-decided-to-openly-publish-my-pitch-deck-about-how-we-can-create-the-next-generation-of-5ae1b5c62c16",
+ "topTerms": [
+  "expensive",
+  "show",
+  "terms",
+  "pitchdeck",
+  "companies",
+  "create",
+  "death",
+  "star"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-70539c5a77a8",
+   "title": "‪Chelsea Manning & Edward Snowden in part show us the real reasons why employees at tech companies…"
+  },
+  {
+   "id": "vrma-f548ef208efd",
+   "title": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…"
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  },
+  {
+   "id": "vrma-dfaaccf19434",
+   "title": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "What the future of TV & Film for AR VR devices could be.",
+   "body": "by Micah Blumberg, host of the Death Star Robot talk show, the NerveGear show, and the Neural Lace Podcast references http://vrma.io and…",
+   "image": "/wiki/svgn/articles/media/svgn-88472428/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "by Micah Blumberg, host of the Death Star Robot talk show, the NerveGear show, and the",
+   "body": "by Micah Blumberg, host of the Death Star Robot talk show, the NerveGear show, and the Neural Lace Podcast references http://vrma.io and http://vrma.work\n\nI wrote this pitchdeck, and now I am publishing it. It’s my copyright. One problem that is slowing me down personally from achieving this pitchdeck is the fact that high quality volumetric video is computationally expensive, expensive in terms of camera equipment, expensive in terms of computer equipment, expensive in terms of man hours (labor), and expensive in terms of studio time. This is a multi-million dollar project that needs a big company behind it, so there is not much I can do on my own, except to release this series of ideas into the ecosystem so that all the big companies can get started on their own versions of it.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472428/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472428/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472428/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "I am publishing this pitchdeck now for everyone to see.",
+   "body": "I am publishing this pitchdeck now for everyone to see. The simple reason is that I am hoping to accelerate the timeline to when we have holographic TV, ie volumetric movies. I imagine that many companies will be inspired to create their own version of it. I think this idea was inevitable anyways.\n\nI hope big companies out there will make it possible for everyone, including me to create the show I wanted to create, by making this technology cheaper, easier, higher quality, and more accessible.\n\nHere it is below. If you have any trouble accessing the document you can also visit deathstarrobot.com join the Facebook Group, and you will find in the files section an uploaded version of the pdf that you can download.",
+   "image": "/wiki/svgn/articles/media/svgn-88472428/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "DSR Publication copy Death Star Robot Productions (DSR) is a Holographic TV Show",
+   "body": "DSR Publication copy Death Star Robot Productions (DSR) is a Holographic TV Show Production Company. DeathStarRobot.com DSR Productions is… docs.google.com",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[‪Chelsea Manning & Edward Snowden in part show us the real reasons why employees at tech companies…]] · [[Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[Terrorists may have infiltrated social media companies like Facebook and youtube, taking…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-70539c5a77a8",
+     "title": "‪Chelsea Manning & Edward Snowden in part show us the real reasons why employees at tech companies…"
+    },
+    {
+     "id": "vrma-f548ef208efd",
+     "title": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…"
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    },
+    {
+     "id": "vrma-dfaaccf19434",
+     "title": "Terrorists may have infiltrated social media companies like Facebook and youtube, taking…"
+    }
+   ]
+  }
+ ]
+}

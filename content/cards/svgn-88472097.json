@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472097",
+ "title": "Awesome people to follow on Social Media: Irena Cronin",
+ "dek": "Join Irena’s Facebook group Augmented & Virtual Reality here: https://www.facebook.com/groups/Virtual.Realities/",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-10",
+ "articleHref": "/wiki/svgn/articles/2017-10-10-awesome-people-to-follow-on-social-media-irena-cronin-vrma-5e20801b5bea",
+ "sourceUrl": "https://www.svgn.io/p/awesome-people-to-follow-on-social-media-irena-cronin-5e20801b5bea",
+ "topTerms": [
+  "facebook",
+  "group",
+  "join",
+  "irena",
+  "virtual",
+  "https",
+  "groups",
+  "augmented"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-357d34f7b350",
+   "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+  },
+  {
+   "id": "vrma-dc6e07210187",
+   "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+  },
+  {
+   "id": "vrma-c67ca275dfc8",
+   "title": "A list of Women in VR, AR, or Tech groups on Facebook"
+  },
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Awesome people to follow on Social Media: Irena Cronin",
+   "body": "Join Irena’s Facebook group Augmented & Virtual Reality here: https://www.facebook.com/groups/Virtual.Realities/",
+   "image": "/wiki/svgn/articles/media/svgn-88472097/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Her group tagline is All things AR & VR.",
+   "body": "Her group tagline is All things AR & VR.\n\nIrena is also an honorary admin with the group I founded called Gear VR which you can join here https://www.facebook.com/groups/gearvr/",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "End of Story.",
+   "body": "End of Story.",
+   "image": "/wiki/svgn/articles/media/svgn-88472097/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472097/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472097/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size.]] · [[Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages.]] · [[A list of Women in VR, AR, or Tech groups on Facebook]] · [[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-357d34f7b350",
+     "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+    },
+    {
+     "id": "vrma-dc6e07210187",
+     "title": "Technically it’s a list of Facebook groups so far, I haven’t started on a list of Facebook pages."
+    },
+    {
+     "id": "vrma-c67ca275dfc8",
+     "title": "A list of Women in VR, AR, or Tech groups on Facebook"
+    },
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    }
+   ]
+  }
+ ]
+}

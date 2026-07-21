@@ -1,0 +1,102 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471452",
+ "title": "Adobe announces it’s first Virtual Reality Art Program with an Endless Canvass.",
+ "dek": "Project Dali is an immersive drawing experience created for Virtual Reality. It’s the first VR paint program from Adobe.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2016-11-16",
+ "articleHref": "/wiki/svgn/articles/2016-11-16-adobe-announces-it-s-first-virtual-reality-art-program-with-an-endless-canvass-vrma-b93256397b28",
+ "sourceUrl": "https://www.svgn.io/p/adobe-announces-its-first-virtual-reality-art-program-with-an-endless-canvass-b93256397b28",
+ "topTerms": [
+  "project",
+  "dali",
+  "adobe",
+  "virtual",
+  "artists",
+  "reality",
+  "real",
+  "paint"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-b93256397b28",
+   "title": "Adobe announces it’s first Virtual Reality Art Program with an Endless Canvass."
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  },
+  {
+   "id": "vrma-334c25377ec9",
+   "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Adobe announces it’s first Virtual Reality Art Program with an Endless Canvass.",
+   "body": "Project Dali is an immersive drawing experience created for Virtual Reality. It’s the first VR paint program from Adobe.",
+   "image": "/wiki/svgn/articles/media/svgn-88471452/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Written by Micah Blumberg, Virtual Reality Matrix\n\nVirtual Reality Matrix Highlighting",
+   "body": "Written by Micah Blumberg, Virtual Reality Matrix\n\nVirtual Reality Matrix Highlighting the companies and individuals growing VIrtual Reality and Mixed Reality industry. vrma.work\n\nWhat would it be like if we had Photoshop Sketch or Illustrator in three Dimensions and in a VR Headset like the HTC Vive or Oculus Touch?",
+   "image": "/wiki/svgn/articles/media/svgn-88471452/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "Well Adobe Research has been having fun finding the answer to that question since they",
+   "body": "Well Adobe Research has been having fun finding the answer to that question since they first got their HTC Vive back in the summer of 2015 when the first round of developer kits were sent out.",
+   "image": "/wiki/svgn/articles/media/svgn-88471452/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "What Adobe came up with is truly different and magical judging by the reactions of the",
+   "body": "What Adobe came up with is truly different and magical judging by the reactions of the artists at the Minnesota Street Project who were given time to create new artwork with Adobe’s Project Dali.",
+   "image": "/wiki/svgn/articles/media/svgn-88471452/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "With Dali you can incorporate texture, like stone marble, granite, limestone, and you can",
+   "body": "With Dali you can incorporate texture, like stone marble, granite, limestone, and you can incorporate time based effects like how long it takes for your paint to clot or your clay to dry. Project Dali goes far beyond other VR art tools that are currently on the market in part because of the research behind it with real artists in real art studios.\n\nProject Dali: Building an Endless Creative Canvas with Virtual Reality Now in its early stages, Project Dali is an immersive drawing experience in the virtual world. Artists use custom… blogs.adobe.com\n\nProject Dali is the passion project of Erik Natzke, the Principle Artist in Residence at Adobe. In his most recent blog post he talks about what Adobe Research has been learning from real artists who are using Project Dali. From that research they have done things like create three dimensional virtual paint that dries over time, and or loses its viscosity, or changes in other ways that were once unique to the real art. Eric is combining the real and the digital together for once in VR, and the result is something everyone must try, but true artists must appreciate.",
+   "image": "/wiki/svgn/articles/media/svgn-88471452/007.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Ultimately it’s a Adobe’s vision to get VR paint tools like these into artists hands and",
+   "body": "Ultimately it’s a Adobe’s vision to get VR paint tools like these into artists hands and then have their software in a sense disappear because it is so intuitive that artists can really get lost in act of creation.",
+   "image": "/wiki/svgn/articles/media/svgn-88471452/009.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Adobe announces it’s first Virtual Reality Art Program with an Endless Canvass.]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-b93256397b28",
+     "title": "Adobe announces it’s first Virtual Reality Art Program with an Endless Canvass."
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    },
+    {
+     "id": "vrma-334c25377ec9",
+     "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+    }
+   ]
+  }
+ ]
+}

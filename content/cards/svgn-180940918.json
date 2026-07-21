@@ -1,0 +1,162 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-180940918",
+ "title": "Why I Cancelled OpenAI: Bad Math, Worse Censorship, and the $200 \"Pro\" Scam",
+ "dek": "OpenAI’s Double Insult: Escaping Nanny State Censorship and The $200 Price Gouge. Why I Dropped ChatGPT’s Rip-Off Pricing for Gemini!",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-12-07",
+ "articleHref": "/wiki/svgn/articles/2025-12-07-why-i-cancelled-openai-bad-math-worse-censorship-and-the-200-pro-scam-svgn-180940918",
+ "sourceUrl": "https://www.svgn.io/p/why-i-quit-openai-bad-math-worse",
+ "topTerms": [
+  "chatgpt",
+  "gemini",
+  "openai",
+  "information",
+  "pricing",
+  "users",
+  "paying",
+  "tools"
+ ],
+ "relatedDecks": [
+  {
+   "id": "svgn-20260520-gemini-product-maze",
+   "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+  },
+  {
+   "id": "svgn-20260520-gemini-35-flash-mixed-reviews",
+   "title": "Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch"
+  },
+  {
+   "id": "svgn-192179858",
+   "title": "OpenAI Has No Reason to Exist"
+  },
+  {
+   "id": "vrma-7d59362ea381",
+   "title": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Why I Cancelled OpenAI: Bad Math, Worse Censorship, and the $200 \"Pro\" Scam",
+   "body": "OpenAI’s Double Insult: Escaping Nanny State Censorship and The $200 Price Gouge. Why I Dropped ChatGPT’s Rip-Off Pricing for Gemini!",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "I finally did it.",
+   "body": "I finally did it. I hit the cancel button on my ChatGPT Pro subscription and switched to Google’s Gemini Pro.\n\nFor a long time, OpenAI felt like the default. But over the last few months, two glaring issues became impossible to ignore. First, there is the “Nanny State” attitude —a refusal to provide basic factual information under the guise of safety. Second, there is the pricing structure , which I discovered is effectively ripping off individual power users to the tune of hundreds of dollars a month.\n\nWhen you realize you are paying a premium to be treated like a child, the decision to leave becomes easy. Here is exactly why I’m done with OpenAI, from their broken moral compass to their backward math.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "The Scoreboards Don’t Lie",
+   "body": "Let’s get the objective stuff out of the way first. If you are paying for a “Pro” tier AI model, you expect the best performance available.\n\nRight now, if you look at the major AI benchmarks and leaderboards, the momentum has undeniably shifted. Google has relentlessly iterated on Gemini Pro. Whether we are talking about complex reasoning tasks, coding capabilities, or just raw speed, Gemini is currently sitting at the top of the scoreboards across nearly every relevant metric.\n\nWhy keep paying premium prices for what is rapidly becoming the second-best model on the market? The sheer utility of Gemini right now is undeniable.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Escaping the AI Nanny State",
+   "body": "But raw performance isn’t the only reason I switched. Honestly, it wasn’t even the main reason. The deciding factor was attitude.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "I am sick and tired of the excessive, moralizing guardrails that OpenAI wraps around its",
+   "body": "I am sick and tired of the excessive, moralizing guardrails that OpenAI wraps around its products. It feels less like using a powerful tool and more like being supervised by an overly anxious chaperone.\n\nThe incident that broke the camel’s back for me was simple. I was researching the landscape of generative media and asked ChatGPT a straightforward, factual question: I asked it to tell me what AI video tools people are currently using to create adult content.\n\nI didn’t ask ChatGPT to generate porn. I asked it for information about software tools that exist in the real world.\n\nChatGPT’s response? A condescending refusal. It hit me with its standard, pre-canned lecture about safety guidelines and refused to even name the tools. It treated me like a child incapable of handling basic facts about the internet landscape. It’s a nanny state mentality that values corporate cover-your-ass policies over user utility.",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/001.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/003.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/005.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/007.png"
+  },
+  {
+   "seq": 9,
+   "headline": "ChatGPT is not allowed to tell you about AI Video for creating Adult Content, but Gemini",
+   "body": "ChatGPT is not allowed to tell you about AI Video for creating Adult Content, but Gemini and Claude can tell you about this topic no problem:",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/009.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "The Contrast: Claude Gets It To prove that this level of censorship is unnecessary, I",
+   "body": "The Contrast: Claude Gets It To prove that this level of censorship is unnecessary, I took the exact same prompt to Anthropic’s Claude.\n\nClaude’s response was refreshing. It didn’t lecture me. It didn’t clutch its pearls. It simply provided the information I asked for. It listed the tools and briefly explained what they were.\n\nWhy? Because information is safe. Knowing the name of a software application is not dangerous. Withholding factual information about the world because it touches on a “sensitive” topic is infantilizing.",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/011.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/013.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "The $200 vs.",
+   "body": "The $200 vs. $60 Pricing Paradox If the censorship didn’t push you away, the math certainly should.\n\nI recently stumbled upon a pricing discrepancy that makes OpenAI’s structure feel completely backwards. Currently, they are trying to upsell power users to a $200/month “ChatGPT Pro” subscription.\n\nBut here is the loophole: I recently helped a friend who is on the ChatGPT Team plan (often referred to as Business).\n\nThe Cost: $30 per user, with a 2-user minimum. That is $60/month total.\n\nThe Reality: For that $60, you get two seats with access to virtually the same high-tier tools, higher message caps, and privacy benefits that individual users are paying $200 for.\n\nThink about that. You can buy two robust business seats for $60, or one “Pro” seat for $200. Unless you are doing niche, PhD-level math that specifically requires their “o1 Pro” compute mode every single hour of the day, the $200 tier is a vanity tax.",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/015.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "It feels like they are penalizing their most loyal individual enthusiasts while offering",
+   "body": "It feels like they are penalizing their most loyal individual enthusiasts while offering a discount to corporate accounts. Why pay a 300% markup just to be treated like a beta tester?",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/017.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "Conclusion: The Ultimate IQ Test",
+   "body": "In the end, sticking with OpenAI right now feels like failing an IQ test.\n\nWe are looking at a company that is currently charging a 300% markup for a “Pro” subscription that offers less value than their own entry-level business plan. That isn’t just bad pricing; it’s a vanity tax on their most loyal users.\n\nBut the insult goes deeper than just the math. It’s about the philosophy. When I pay for a premium AI tool, I expect a research partner, not a moral guardian. I refuse to fund a “Nanny State” ecosystem that treats factual information as a contagion and its users as children who need to be protected from reality.\n\nClaude proved that information is safe. Gemini proved that you can lead the leaderboards without the lecture. OpenAI, meanwhile, has proven they are terrified of their own shadow.",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "I’m done paying a premium to be ripped off and condescended to.",
+   "body": "I’m done paying a premium to be ripped off and condescended to. The market has moved on, and so have I. I want raw intelligence, I want fair pricing, and I want answers. By switching to Gemini, I’m finally getting all three—and keeping my $200 where it belongs.\n\nGoodbye, OpenAI. I’m taking my business to the adults in the room.",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "Some of the images in this article were generated with Google’s Nano Banana",
+   "body": "Some of the images in this article were generated with Google’s Nano Banana",
+   "image": "/wiki/svgn/articles/media/svgn-180940918/019.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O]] · [[Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch]] · [[OpenAI Has No Reason to Exist]] · [[I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "svgn-20260520-gemini-product-maze",
+     "title": "Google's Gemini Maze Turns AI Products Into a Routing Problem After I/O"
+    },
+    {
+     "id": "svgn-20260520-gemini-35-flash-mixed-reviews",
+     "title": "Google's Gemini 3.5 Flash Draws Mixed Reviews After I/O Launch"
+    },
+    {
+     "id": "svgn-192179858",
+     "title": "OpenAI Has No Reason to Exist"
+    },
+    {
+     "id": "vrma-7d59362ea381",
+     "title": "I got the $199 price from Finch technologies, they actually have pre-sale pricing on their website…"
+    }
+   ]
+  }
+ ]
+}

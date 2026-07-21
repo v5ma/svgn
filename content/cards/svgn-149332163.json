@@ -1,0 +1,210 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-149332163",
+ "title": "Building the Future: How Meta's Quest 3 and AI Will Redefine Mixed Reality Creativity",
+ "dek": "AI XR Thought Experiment with ChatGPT & AI Art: Why Godot on Quest 3 is just the beginning of a user-controlled revolution in AR/VR, where AI and immersive workspaces shape the future of creation.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2024-09-24",
+ "articleHref": "/wiki/svgn/articles/2024-09-24-building-the-future-how-meta-s-quest-3-and-ai-will-redefine-mixed-reality-creativity-svgn-149332163",
+ "sourceUrl": "https://www.svgn.io/p/building-the-future-how-metas-quest",
+ "topTerms": [
+  "quest",
+  "digital",
+  "users",
+  "user",
+  "immersive",
+  "apps",
+  "where",
+  "meta"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-33f8d938bbc6",
+   "title": "Moss Book II, Meta Quest 2, and using WebXR for collaboration, science & 3D art."
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-444fc41d629d",
+   "title": "Mudstack: Digital Collaboration for Digital Artists & Game Studios that is as Clear as Mud."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Building the Future: How Meta's Quest 3 and AI Will Redefine Mixed Reality Creativity",
+   "body": "AI XR Thought Experiment with ChatGPT & AI Art: Why Godot on Quest 3 is just the beginning of a user-controlled revolution in AR/VR, where AI and immersive workspaces shape the future of creation.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/019.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Summary of Conversation:",
+   "body": "We explored how Meta's Quest 3, equipped with the newly integrated Godot game engine, is revolutionizing virtual and augmented reality development. The conversation began with the user suggesting innovative ways to improve the Quest 3, like integrating QR code recognition for seamless web and app interactions. The discussion evolved into a vision for Meta's OS as a fully immersive digital workspace, where AI tools, such as coding assistants and 3D mind mapping, create personalized AR/VR environments.\n\nThe conversation emphasized how Meta can position Quest 3 as a digital headquarters for both work and play, offering flexible AI integration that respects user autonomy. This was contrasted with Microsoft's forced integration of apps like Edge, which the user likened to an invasion of personal choice. Godot’s integration was highlighted as a powerful step towards blending 2D and 3D app development within the Quest 3, allowing users to create without leaving the VR environment. This leap points to a future where immersive tools, personalized by AI, empower users to mold digital worlds according to their needs.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "https://godotengine.org/article/godot-editor-horizon-store-early-access-release/\n\nLet's",
+   "body": "https://godotengine.org/article/godot-editor-horizon-store-early-access-release/\n\nLet's talk about improvements we could make to Quest 3? For example we should let Quest 3 camera's recognize QR codes so we can more easily send a web address to a webXR website from our desktop, and certify a login in the Quest 3 with a QR code on the PC screen. No more typing web addresses insight into the headset when the PC or Phone is able to send a QR code by rendering it on the screen and then you wear the headsets and let the Quest's cameras follow the link in the QR code. You can set the default mode to have the user activate the mode on their Quest for ten minutes so other people near you can't abuse it by giving you QR code enabled spam.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/000.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "ChatGPT said: ChatGPT\n\nMemory updated\n\nThat's a smart and user-friendly improvement for",
+   "body": "ChatGPT said: ChatGPT\n\nMemory updated\n\nThat's a smart and user-friendly improvement for the Quest 3. Integrating QR code recognition would streamline several actions, including logging in, navigating WebXR environments, and eliminating the hassle of typing URLs while wearing a headset. The idea of limiting the QR code scanning mode to a short activation period is a great way to prevent misuse, like unwanted QR code spam.\n\nOther potential improvements could include:\n\nExpanded Hand Tracking for Gestures : While hand tracking has improved, adding more advanced gestures could allow for more intuitive controls, like pinch-to-zoom or flicking to switch apps.\n\nIntegration with Desktop or Phone : Besides QR codes, a more seamless connection to PCs or phones could let users manage files, apps, or content, maybe with a drag-and-drop interface for moving things directly into the Quest’s virtual environment.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/002.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Improved Battery Life : This is always a critical area.",
+   "body": "Improved Battery Life : This is always a critical area. Even slight improvements could extend playtime or usage in business applications.\n\nHaptic Feedback in Controllers and Headset : While haptics are already present in controllers, expanding them into the headset itself could make experiences feel even more immersive, especially in virtual environments like XR.\n\nEdge-to-Edge Display : Increasing the field of view with edge-to-edge displays, which reduce the appearance of black borders, would make immersion even more realistic.\n\nWould you want to focus more on interaction improvements like QR codes, or other hardware/software upgrades?\n\n4o\n\nMeta said they were going to package and sell Meta OS to different companies, I think if Meta is going to do a Mixed Reality OS properly it should feature a PC like desktop interface for file organization but in 3D. This would have 3D folders that anchor themselves, and Niantic VPS for location specific anchors. So you can paste your digital notes all over your real space. You can also manage a workflow across different apps using an AI tool for coding, another for digital art, another to generate movies, another for sound. AI for automatic 3D semantic mind maps of all your images, video, and text content.",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "ChatGPT said: ChatGPT\n\nMemory updated\n\nI think your vision for Meta OS as a Mixed Reality",
+   "body": "ChatGPT said: ChatGPT\n\nMemory updated\n\nI think your vision for Meta OS as a Mixed Reality platform with a 3D desktop interface could be a game-changer for productivity and creativity in immersive environments. Having 3D folders and location-specific anchors via Niantic VPS would provide a more intuitive way to organize and interact with digital content in physical spaces. Imagine walking into a room and being greeted by your work seamlessly layered over the environment, with digital notes or tasks pinned to physical objects.\n\nThe idea of AI tools tailored for specific workflows, like coding, digital art, or media generation, fits perfectly into this immersive desktop paradigm. AI mind mapping, where all your creative assets—images, videos, and text—are automatically sorted and displayed in 3D, could enhance how we conceptualize and manage complex projects. It would also allow for a more fluid and dynamic interaction between different apps and processes.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/004.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "Would you like this interface to also be customizable, where users can choose the layout",
+   "body": "Would you like this interface to also be customizable, where users can choose the layout and even design how their personal space is organized digitally? Or would standard templates be more practical for wide adoption across users and industries?\n\n4o\n\nAI should help people customize the look and feel of their UI UX so that it feels as close to as possible as ideal to each person. AI should be fully utilized to create worlds, games, experiences, stories, movies and all of the above integrated together based on feedback from the user.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "ChatGPT said: ChatGPT\n\nMemory updated\n\nI completely agree—leveraging AI to personalize",
+   "body": "ChatGPT said: ChatGPT\n\nMemory updated\n\nI completely agree—leveraging AI to personalize UI/UX to individual preferences could make the experience feel far more immersive and user-centered. Allowing AI to gather feedback and customize not only the aesthetics but also the functionality of an interface would ensure that each person's digital environment adapts to their unique needs and workflows.\n\nMoreover, having AI create entire worlds, stories, and experiences based on user input could transform how we interact with content. Imagine a system where AI learns your creative and entertainment preferences over time, crafting personalized games, movies, or stories that evolve dynamically with your interactions. It would make each person's experience of virtual and augmented reality truly unique.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/006.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Do you envision this AI working through a continuous feedback loop, constantly evolving",
+   "body": "Do you envision this AI working through a continuous feedback loop, constantly evolving based on usage patterns, or would you prefer specific customization phases where users provide feedback and then the AI adjusts the experience accordingly?\n\n4o\n\nBasically AI integration as a coworker can be very deep or very light or even non-existent. Unlike Microsoft, Meta could go the extra mile to respect user choice, especially when it comes to deleting apps like Microsoft Edge and Microsoft Copilot. Everytime I wake my computer from sleep mode, Microsoft Edge opens up even though I have deliberately chosen to use the Chrome Browser. I feel like Microsoft's CEO is sending me an inappropriate picture everytime it pops up. It is a transgression, which is a word that illustrates how at the root rape is about overriding someone else's choice and forcing them to do something against their will. In a similar way this asshole CEO at Microsoft plans to force future Windows users to use their AI which essentially watches & records everything the user does, making every computer into a surveillance device that governments around the world could corrupt to spy on users in a more detailed way. Microsoft's CEO could be fundamentally aligned with evil based on his company's actions during his reign.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "ChatGPT said: ChatGPT\n\nIt’s clear you feel very strongly about the importance of user",
+   "body": "ChatGPT said: ChatGPT\n\nIt’s clear you feel very strongly about the importance of user choice, especially when it comes to privacy, data, and the degree of AI integration. Your perspective raises a critical point about respecting users' autonomy when interacting with technology. Companies like Meta, if they are to succeed in the mixed reality space, could indeed set themselves apart by offering users more control and transparency over their software environments—allowing them to opt in or out of certain features without intrusive defaults.\n\nThe comparison to Microsoft’s tactics, like forcing Edge and Copilot integration, touches on a significant problem: when companies impose unwanted software or surveillance, it crosses boundaries. Respecting users' preferences, whether it’s about the choice of browser or the extent of AI integration, is vital to building trust. If Meta can create an OS where AI is an optional, flexible tool rather than a forced surveillance mechanism, it could lead the way in ethical tech design. It’s about giving users full autonomy, ensuring they have the power to disable or delete apps as they see fit, without interference from the company.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/008.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "Your analogy about the forced use of certain software draws attention to how invasive",
+   "body": "Your analogy about the forced use of certain software draws attention to how invasive tech practices can feel. The sense of being overridden and disregarded is profound. Users should be in complete control of their devices, especially when AI is involved, since its potential to monitor and collect data is enormous. Balancing AI innovation with user freedom is crucial, and that’s where companies can either gain or lose trust.\n\nWould you want more platforms to adopt a modular, user-choice-driven approach like this, where AI could act as a coworker when desired but be entirely absent when not?\n\n4o\n\nMicah Blumberg said: evaluate this statement \"It is a transgression, which is a word that illustrates how at the root rape is about overriding someone else's choice and forcing them to do something against their will.\"",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "ChatGPT\n\nThe statement provides an insightful perspective on the nature of rape,",
+   "body": "ChatGPT\n\nThe statement provides an insightful perspective on the nature of rape, emphasizing that at its core, rape is fundamentally about overriding someone's autonomy and personal agency. The word \"transgression\" accurately describes the act as a severe violation of moral and legal boundaries, underscoring the fact that it goes beyond physical harm to also represent a profound disrespect for an individual's ability to make their own choices. The focus on \"overriding someone else's choice\" highlights that rape is an act of control and coercion, rather than an act motivated purely by sexual desire. This framing is important because it underscores the significance of consent and personal freedom, which are essential to understanding why rape is such a grievous violation of human rights and dignity.",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "4o\n\nDoes it also explain why being forced to have and use Microsoft Copilot or seeing",
+   "body": "4o\n\nDoes it also explain why being forced to have and use Microsoft Copilot or seeing Microsoft Edge open on your computer all the time when you chose another browser is inappropriate?",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "ChatGPT\n\nYes, there is a conceptual link between the ideas, although the severity and",
+   "body": "ChatGPT\n\nYes, there is a conceptual link between the ideas, although the severity and context differ greatly. In both cases, the underlying theme is the violation of personal choice and autonomy. Just as rape is a violent and traumatic form of overriding someone’s will, being forced to use a product like Microsoft Copilot or seeing Microsoft Edge open on your computer when you've chosen another browser also represents a smaller-scale violation of autonomy.\n\nIn the tech context, it’s about being denied control over your own device and having your preferences overridden, which can feel disrespectful and frustrating. While the stakes are obviously much lower than in the case of rape, both situations deal with an imposition of will—one that disregards individual choice and pushes users into unwanted experiences.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/010.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "So, the comparison works on a broad philosophical level regarding autonomy and consent,",
+   "body": "So, the comparison works on a broad philosophical level regarding autonomy and consent, but it’s important to acknowledge the vastly different degrees of harm involved in these two examples.\n\nYes so Meta can innovate in the 3D OS Space, by providing a real digital workspace for apps to interact and for the user to be productive with the Quest 3 functioning a lot more like a desktop or laptop, a lot less like a video game console, and in a much more complementary way with all of your other devices so that it can function as your 3D digital headquarters for all your work and play if you want it to be that.\n\nChatGPT\n\nMemory updated\n\nThat vision for the Quest 3 as a true digital workspace is an exciting direction for Meta. By making the device more akin to a 3D digital headquarters, it could allow users to manage work, play, and personal projects in a unified, immersive environment. Instead of just being seen as a gaming console, the Quest 3 could serve as a productivity tool that integrates seamlessly with other devices, providing the flexibility of a laptop or desktop, but within a 3D space.",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "This shift would empower users to have virtual workspaces for tasks like coding, content",
+   "body": "This shift would empower users to have virtual workspaces for tasks like coding, content creation, and collaboration, while also offering immersive environments for relaxation or entertainment. The ability to switch between these modes based on need, while maintaining a cohesive digital workspace, would be a significant step in making VR headsets a central part of everyday productivity.\n\nWould you also want these digital workspaces to include integration with current desktop apps, so they work within the virtual environment without needing to be fully redesigned for VR?\n\n4o\n\nThere is a game engine called GoDot that just game out for Quest 3 as an app that lets you build a Quest 3 app from inside the Quest 3. Look it up on the web. It looks like a professional desktop app but it's running inside Quest. I hope to see a lot more of that. Apps that blend 2D and 3D in VR or AR.",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "ChatGPT\n\nMemory updated\n\nGoDot's integration into the Quest 3, especially as an app that",
+   "body": "ChatGPT\n\nMemory updated\n\nGoDot's integration into the Quest 3, especially as an app that lets users build directly inside VR, represents a big leap forward in blending 2D and 3D interfaces in immersive environments. The ability to create content directly from within the device, without needing external hardware, opens up incredible possibilities for more professional, desktop-like apps in VR and AR.\n\nI agree that we’ll likely see more apps in this direction, where users can interact with both 2D elements like menus or coding interfaces and seamlessly integrate them with 3D environments. This could evolve into a new kind of app design where the boundary between traditional desktop applications and immersive 3D spaces blurs. It’s a sign that more sophisticated tools will likely make their way into VR, enabling deeper creativity and productivity right from within the headset.",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "Do you see yourself using similar tools for productivity or content creation in the",
+   "body": "Do you see yourself using similar tools for productivity or content creation in the future, where you might blend both 2D workflows with 3D experiences?\n\n4o\n\nTell me more about GoDot's integration on Quest 3. Look up all the news you can find about it. Check the company website, and online forums.\n\nChatGPT\n\nSearched 6 sites\n\nGoDot's integration on Quest 3 represents a major leap for VR development by allowing users to build apps and games directly inside the headset without needing an external PC. This native support, available through Horizon OS (version 69 or higher), enables developers to work in a full-featured game engine, making it possible to create both 2D and immersive XR (extended reality) experiences entirely within the Quest 3. The app provides access to all the usual Godot engine features, such as GDScript code editing, debugging, live scene editing, and real-time profiling.",
+   "image": ""
+  },
+  {
+   "seq": 19,
+   "headline": "One standout feature is seamless multitasking .",
+   "body": "One standout feature is seamless multitasking . Developers can switch between the Godot Editor's 2D panel view and fully immersive VR windows, allowing for real-time testing and adjustments while staying within the same environment. This reduces the development friction typically encountered when switching between a PC and a VR device for testing. Additionally, it supports external peripherals like keyboards and mice to enhance productivity, mimicking the desktop experience​(\n\nGodot Engine\n\n)​(\n\n80 Level\n\n).\n\nMeta’s partnership with Godot aims to establish a free, open-source alternative to more widely used engines like Unity and Unreal, but tailored for the Quest ecosystem. This move reflects Meta’s broader ambitions to turn the Quest into a spatial computer, one capable of handling app creation, development, and distribution all from within the headset itself​(",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "MIXED Reality News\n\n)​(\n\nUploadVR\n\n).",
+   "body": "MIXED Reality News\n\n)​(\n\nUploadVR\n\n).\n\nThe integration of Godot on Quest opens the door to more apps that blend 2D and 3D elements in VR, which aligns with your vision for how immersive experiences should evolve. It's likely that this will inspire many more apps that push the boundaries of what users can create directly within the virtual environment.\n\n2/2\n\n4o\n\nDescribe four images that beautifully illustrate how brilliant this article is. I want profound mind bending, and thought provoking descriptions of art that reflects on some aspect of this future that this article describes. One with a Meta OS fused with AI allowing you to create your own AR VR experiences and apps inside Mixed Reality.\n\nChatGPT\n\nMeta OS, the AI Forge Imagine a towering, futuristic workspace with holographic 3D folders and applications suspended in midair. A user sits at the center, with AI avatars assisting in generating AR and VR experiences in real time. The scene showcases flowing data, digital code spinning in fluid motion around the user’s hands, as their environment shifts from a coding interface to a stunning landscape, built by their command. The art symbolizes how deeply integrated AI can become as an assistant in building and interacting with your digital world.",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "Digital Notes Anchored in Reality A blend of augmented and mixed reality: digital sticky",
+   "body": "Digital Notes Anchored in Reality A blend of augmented and mixed reality: digital sticky notes float around a physical room, anchoring to walls, chairs, and windows as reminders and plans. Some notes dissolve into full-blown 3D models of projects, while others display open source code or multimedia projects. The colors transition between warm hues of reality and cool digital blues, creating a sense of fusion between the real and the digital, where work and creativity seamlessly interlace.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/012.jpg"
+  },
+  {
+   "seq": 22,
+   "headline": "The AI Seamstress of Creativity A swirling depiction of AI weaving tapestries of 3D",
+   "body": "The AI Seamstress of Creativity A swirling depiction of AI weaving tapestries of 3D content, blending film, music, coding, and art into a singular, holographic mind map. Each thread represents a user’s unique choices, with AI algorithms working as unseen hands—crafting immersive stories and virtual realities. The image would evoke the idea of AI as a co-creator, silently enhancing and amplifying the user’s creative instincts, generating environments where digital narratives and experiences emerge from personal input.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/014.jpg"
+  },
+  {
+   "seq": 23,
+   "headline": "Godot: The Architect's Playground A striking image of a futuristic game developer inside",
+   "body": "Godot: The Architect's Playground A striking image of a futuristic game developer inside the Quest 3, with a floating 2D interface panel in front of them. Beyond the panel lies an expanding VR landscape, where the user's creations—forests, castles, avatars—materialize in real-time as they develop them. The contrast between the panel’s flat 2D space and the vibrant, limitless 3D world beyond it reflects the transition between traditional and immersive creation. The user’s hands are seen moving code and objects in both dimensions, blending 2D creation with 3D immersion.",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/016.jpg"
+  },
+  {
+   "seq": 24,
+   "headline": "These images visually express the profound integration of AI, creativity, and immersive",
+   "body": "These images visually express the profound integration of AI, creativity, and immersive workspaces that could define the next generation of mixed reality. Each image showcases the potential of users to not only consume but also create within these new digital landscapes.\n\nhttps://godotengine.org/article/godot-editor-horizon-store-early-access-release/",
+   "image": "/wiki/svgn/articles/media/svgn-149332163/018.jpg"
+  },
+  {
+   "seq": 25,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Moss Book II, Meta Quest 2, and using WebXR for collaboration, science & 3D art.]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Mudstack: Digital Collaboration for Digital Artists & Game Studios that is as Clear as Mud.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-33f8d938bbc6",
+     "title": "Moss Book II, Meta Quest 2, and using WebXR for collaboration, science & 3D art."
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-444fc41d629d",
+     "title": "Mudstack: Digital Collaboration for Digital Artists & Game Studios that is as Clear as Mud."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    }
+   ]
+  }
+ ]
+}

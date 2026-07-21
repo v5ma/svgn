@@ -1,0 +1,114 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472255",
+ "title": "VRMA.io verses VRMA.work and SVGN.io",
+ "dek": "Article by Micah Blumberg, for Silicon Valley Global News SVGN.io",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-09-23",
+ "articleHref": "/wiki/svgn/articles/2017-09-23-vrma-io-verses-vrma-work-and-svgn-io-vrma-47474378cf8c",
+ "sourceUrl": "https://www.svgn.io/p/vrma-io-verses-vrma-work-47474378cf8c",
+ "topTerms": [
+  "vrma",
+  "medium",
+  "virtual",
+  "reality",
+  "facebook",
+  "silicon",
+  "valley",
+  "global"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-85fbecb4e281",
+   "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+  },
+  {
+   "id": "vrma-1dc6a5851f41",
+   "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+  },
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  },
+  {
+   "id": "vrma-ccd179bcac41",
+   "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "VRMA.io verses VRMA.work and SVGN.io",
+   "body": "Article by Micah Blumberg, for Silicon Valley Global News SVGN.io",
+   "image": "/wiki/svgn/articles/media/svgn-88472255/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "I just repointed my domains.",
+   "body": "I just repointed my domains. The DNS isn’t updated yet because this is a slow process that can take 24 hours.\n\nThe new SVGN.io will point to https://spark.adobe.com/page/u3sd9UdQy6A9w/\n\nVRMA.io will now point to https://medium.com/@micah31/the-vrma-virtual-reality-media-publication-4ce638af7452\n\nVRMA.work will now point to https://medium.com/@micah31/september-22nd-2017-29-facebook-groups-in-descending-order-of-membership-size-406ccc1adbe8\n\nWhat is VRMA Virtual Reality Media?\n\nIt’s been my publication and I have been a journalist for 2 years now and I have been researching brains for 12 years now as a serious professional hobby. VRMA will become the Virtual Reality Media Alliance, pointing to the facebook groups I admin while I will write new articles under the banner Silicon Valley Global News.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "VRMA is Virtual Reality Media It was originally conceived as Virtual Reality Media",
+   "body": "VRMA is Virtual Reality Media It was originally conceived as Virtual Reality Media Associates which meant that it was a publication for journalists to share. Then I thought I would try out the name Virtual Reality Matrix, and I did for a while, but it didn’t stick.\n\nMy friend Bart from WRLD suggested the word Alliance. He wants to build an alliance of folks in the AR VR community.\n\nHome | WRLD A cloud-based mapping platform for 3D maps and indoor mapping. Use our SDKs and APIs to integrate 3D visualizations… www.wrld3d.com\n\nWell I have been building Alliances for a long time with 29 Facebook groups that I help admin. You can see the list of groups I admin here in order from largest to smallest\n\n29 Facebook groups you can join that I help admin (someone asked for a list). 1. Silicon Valley Global Network https://www.facebook.com/groups/109971182359978/ 84,151 Members medium.com",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "As of today: In the past 30 days the number of views that I have had on VRMA.io now",
+   "body": "As of today: In the past 30 days the number of views that I have had on VRMA.io now vastly exceeds the amount of views I get via VRMA.work. I mean that as of September 23rd 2017 I have on medium.com 4,483 views which means I could be set to climb over 5k views of my work in the next 30 days. This is a great milestone because in the past I would need to get a script or a writing assignment from another bigger journal in order to attend CES as a member of the Press, but once the views that I am getting exceed 5k then I no longer need a writing assignment to get a Press Pass for CES. That means I’m big enough for the big dogs, or that I’m about to be.\n\nSince May 2017 VRMA has been the home of the Neural Lace Podcast, which is a podcast about next generation science and technology and specifically it’s about next gen Brain Computer Interfaces but also about VR, AR, AI, self driving cars and more. I have considered the idea of changing VRMA to The Neural Lace Journal but I like both because I sometimes like to write about science and technology that does not necessarily have a direct link to next generation brain computer interfaces.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "However I noticed that for some folks behind cool companies at AR VR AI events that the",
+   "body": "However I noticed that for some folks behind cool companies at AR VR AI events that the name Neural Lace Podcast sounds a lot more interesting to them compared to VRMA Virtual Reality Media, but either way VRMA.work on wordpress.com isn’t getting close to the same kind of traffic that VRMA.io has been getting on medium.com\n\nThat may just be because I have been publishing more often on medium.com. I like that medium.com seems to put the image I want into the post on facebook, whereas sometimes wordpress.com puts the image I want into the post and sometimes it puts no image there. I guess I just like using the medium.com page.\n\nSo today I am going to post this one last final article on my wordpress, and I’m going to redirect the domain name to medium.com",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Farewell Wordpress.",
+   "body": "Farewell Wordpress.\n\nFinally I’m going to start using a new domain called SVGN.io and I’m going to rename my blog Silicon Valley Global News after the facebook group Silicon Valley Global Networks.\n\nSilicon Valley Global News will be the new home of the Neural Lace Podcast.\n\nVRMA is going to become the Virtual Reality Media Alliance, and VRMA.work will point to the list of 29 Facebook groups that I admin that you can join.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472255/001.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472255/003.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona]] · [[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]] · [[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]] · [[GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-85fbecb4e281",
+     "title": "I wrote about this on April 30th, 2020 https://medium.com/silicon-valley-global-news/d-ribose-corona"
+    },
+    {
+     "id": "vrma-1dc6a5851f41",
+     "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+    },
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    },
+    {
+     "id": "vrma-ccd179bcac41",
+     "title": "GDC Excitement! A Pre Show Chat via Silicon Valley Global News http://svgn.io"
+    }
+   ]
+  }
+ ]
+}

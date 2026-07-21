@@ -1,0 +1,108 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472239",
+ "title": "AI+Mixed Reality: Interview w/ Tobiah of Microsoft on Artificial Intelligence is converging with…",
+ "dek": "by Micah Blumberg host of the Death Star Robot Talk Show at VRMA.io",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-11-25",
+ "articleHref": "/wiki/svgn/articles/2017-11-25-ai-mixed-reality-interview-w-tobiah-of-microsoft-on-artificial-intelligence-is-converg-vrma-ef7b4d059884",
+ "sourceUrl": "https://www.svgn.io/p/ai-mixed-reality-interview-w-tobiah-of-microsoft-on-artificial-intelligence-is-converging-with-ef7b4d059884",
+ "topTerms": [
+  "reality",
+  "talk",
+  "interview",
+  "francisco",
+  "virtual",
+  "sfvr360",
+  "micah",
+  "blumberg"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-8dab8ea4073c",
+   "title": "Autonomous Vehicle Simulation in Virtual Reality with Optis at GTC 2018: A video interview with…"
+  },
+  {
+   "id": "vrma-f28a15aacd4f",
+   "title": "San Francisco Virtual Reality 360 Live"
+  },
+  {
+   "id": "vrma-13d0403c017a",
+   "title": "VR+Blockchain: Interview w/ Kieran Farr v Decentraland on the convergence of Virtual Reality w/…"
+  },
+  {
+   "id": "vrma-3c3253b1eb0e",
+   "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "AI+Mixed Reality: Interview w/ Tobiah of Microsoft on Artificial Intelligence is converging with…",
+   "body": "by Micah Blumberg host of the Death Star Robot Talk Show at VRMA.io",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Watch my interview with Tobiah Zarlez of Microsoft about how Artificial Intelligence is",
+   "body": "Watch my interview with Tobiah Zarlez of Microsoft about how Artificial Intelligence is converging with VR and AR, or what Microsoft calls Mixed Reality. Tobiah previews the talk he is going to give on November 30th at San Francisco Virtual Reality Novem which you can get learn more about by visiting SFVR360.com\n\nYoutube Version:\n\nOriginal Facebook Live Version:",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472239/001.png"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472239/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472239/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472239/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "San Francisco Virtual Reality novem is up next!",
+   "body": "San Francisco Virtual Reality novem is up next! SFVR360 is a series of small events with monthly talks with demos at delightful San Francisco Venues. sfvr360.com\n\nVR+Blockchain: Interview w/ Kieran Farr v Decentraland on the convergence of Virtual Reality w… by Micah Blumberg host of the Death Star Robot Talk Show at VRMA.io VR & Blockchain: Watch my interview with Kieran… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472239/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Autonomous Vehicle Simulation in Virtual Reality with Optis at GTC 2018: A video interview with…]] · [[San Francisco Virtual Reality 360 Live]] · [[VR+Blockchain: Interview w/ Kieran Farr v Decentraland on the convergence of Virtual Reality w/…]] · [[Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-8dab8ea4073c",
+     "title": "Autonomous Vehicle Simulation in Virtual Reality with Optis at GTC 2018: A video interview with…"
+    },
+    {
+     "id": "vrma-f28a15aacd4f",
+     "title": "San Francisco Virtual Reality 360 Live"
+    },
+    {
+     "id": "vrma-13d0403c017a",
+     "title": "VR+Blockchain: Interview w/ Kieran Farr v Decentraland on the convergence of Virtual Reality w/…"
+    },
+    {
+     "id": "vrma-3c3253b1eb0e",
+     "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472547",
+ "title": "Defend all VR Enthusiasts",
+ "dek": "Look at the negativity directed at Paris Hilton for daring to be an early adopter of the HTC Vive.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2016-07-07",
+ "articleHref": "/wiki/svgn/articles/2016-07-07-defend-all-vr-enthusiasts-vrma-69c922955979",
+ "sourceUrl": "https://www.svgn.io/p/defend-all-vr-enthusiasts-69c922955979",
+ "topTerms": [
+  "paris",
+  "hilton",
+  "facebook",
+  "renee",
+  "negativity",
+  "vive",
+  "virtual",
+  "reality"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-1fdda1f17137",
+   "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+  },
+  {
+   "id": "vrma-1dc6a5851f41",
+   "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+  },
+  {
+   "id": "vrma-357d34f7b350",
+   "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+  },
+  {
+   "id": "vrma-eddd3e5de723",
+   "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Defend all VR Enthusiasts",
+   "body": "Look at the negativity directed at Paris Hilton for daring to be an early adopter of the HTC Vive.",
+   "image": "/wiki/svgn/articles/media/svgn-88472547/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Paris Hilton Is The Face Of Virtual Reality That Nobody Asked For In possibly the oddest",
+   "body": "Paris Hilton Is The Face Of Virtual Reality That Nobody Asked For In possibly the oddest tweet in gaming this year, HTC eSports has just sent out an image of Paris Hilton playing the… press-start.com.au\n\nAs many of you know Hollywood is diving into VR headfirst.\n\nWhy Steven Spielberg's Approach Could Crack VR Filmmaking Virtual reality film hasn't had anything close to a \"moment\" yet. A feature-length film within the incredibly immersive… tech.co\n\nYet tech industry is something like “80 percent white male”, that includes Virtual Reality, and that’s why we all need to care about promoting diversity and planning inclusion.\n\nLink to join the Women in VR on facebook. https://www.facebook.com/groups/womeninvr",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "I was seeing a lot of people’s negative reactions (in social media) to Paris Hilton being",
+   "body": "I was seeing a lot of people’s negative reactions (in social media) to Paris Hilton being photographed holding HTC Vive controllers.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "So when I connected the negativity against Paris Hilton with the negativity against Renee",
+   "body": "So when I connected the negativity against Paris Hilton with the negativity against Renee Zellweger in that both kinds of criticism seem to be coming from the same place of entitlement and male privilege.\n\nRose McGowan Pens Response to Critic of Renee Zellweger's Face: \"Vile, Damaging, Stupid and Cruel\"… On June 30, Variety published a column by its new film critic, Owen Gleiberman, titled \"Renee Zellweger: If She No… www.hollywoodreporter.com\n\nIt’s important to consider what Rose McGowan is saying in the context of VR in part because Hollywood is so excited to be moving into VR.\n\nRose McGowan is standing by Renee Zellweger and all women by answering this critic this way.\n\nWe, VR Enthusiasts, need to stand by all under-represented people in VR, including even Paris Hilton who has taken some criticism for posing with an HTC Vive.",
+   "image": "/wiki/svgn/articles/media/svgn-88472547/001.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "We should care, because when the establishments collective ego attacks ANYONE for being a",
+   "body": "We should care, because when the establishments collective ego attacks ANYONE for being a VR enthusiast and we just stand by passively accepting it without defending other VR enthusiasts then we all lose.\n\nLink to join AR VR Women on facebook https://www.facebook.com/groups/womenarvr/",
+   "image": "/wiki/svgn/articles/media/svgn-88472547/003.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…]] · [[A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…]] · [[30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size.]] · [[HTC Vive’s Commercial Business Strategy for Virtual Reality]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-1fdda1f17137",
+     "title": "Facebook Horizon: The long awaited massive multiplayer virtual reality online social network from…"
+    },
+    {
+     "id": "vrma-1dc6a5851f41",
+     "title": "A list of Facebook Pages that I very casually maintain now added to the VRMA Virtual Reality Media…"
+    },
+    {
+     "id": "vrma-357d34f7b350",
+     "title": "30 Facebook Groups in the Virtual Reality Media Alliance in descending order of membership size."
+    },
+    {
+     "id": "vrma-eddd3e5de723",
+     "title": "HTC Vive’s Commercial Business Strategy for Virtual Reality"
+    }
+   ]
+  }
+ ]
+}

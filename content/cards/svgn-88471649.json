@@ -1,0 +1,73 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471649",
+ "title": "Now you can turn your whole house into a Steam VR playground with Vive 2.0",
+ "dek": "Go to the source:",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-07-11",
+ "articleHref": "/wiki/svgn/articles/2018-07-11-now-you-can-turn-your-whole-house-into-a-steam-vr-playground-with-vive-2-0-vrma-b3aaab26bb26",
+ "sourceUrl": "https://www.svgn.io/p/now-you-can-turn-your-whole-house-into-a-steam-vr-playground-with-vive-2-0-b3aaab26bb26",
+ "topTerms": [
+  "source"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-bb8ec9c7a28f",
+   "title": "What some developers don’t realize is that ray tracing is a resource like water, you just spray on…"
+  },
+  {
+   "id": "vrma-df3a3c569840",
+   "title": "Matterport, a 3D camera maker, has just released a new deep learning algorthim under an open source…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Now you can turn your whole house into a Steam VR playground with Vive 2.0",
+   "body": "Go to the source:",
+   "image": "/wiki/svgn/articles/media/svgn-88471649/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471649/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471649/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471649/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471649/007.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[What some developers don’t realize is that ray tracing is a resource like water, you just spray on…]] · [[Matterport, a 3D camera maker, has just released a new deep learning algorthim under an open source…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-bb8ec9c7a28f",
+     "title": "What some developers don’t realize is that ray tracing is a resource like water, you just spray on…"
+    },
+    {
+     "id": "vrma-df3a3c569840",
+     "title": "Matterport, a 3D camera maker, has just released a new deep learning algorthim under an open source…"
+    }
+   ]
+  }
+ ]
+}

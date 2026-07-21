@@ -1,0 +1,102 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472247",
+ "title": "I got to try the Pimax 8K & 5K headsets! Kickstarter backers you are in for a treat!",
+ "dek": "Article by Micah Blumberg, Silicon Valley Global News",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-13",
+ "articleHref": "/wiki/svgn/articles/2017-10-13-i-got-to-try-the-pimax-8k-and-5k-headsets-kickstarter-backers-you-are-in-for-a-treat-vrma-1b0fae3dc9cd",
+ "sourceUrl": "https://www.svgn.io/p/i-got-to-try-the-pimax-8k-5k-headsets-kickstarter-backers-you-are-in-for-a-treat-1b0fae3dc9cd",
+ "topTerms": [
+  "francisco",
+  "virtual",
+  "reality",
+  "headset",
+  "event",
+  "right",
+  "silicon",
+  "valley"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-3c38de901812",
+   "title": "San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017."
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-f28a15aacd4f",
+   "title": "San Francisco Virtual Reality 360 Live"
+  },
+  {
+   "id": "vrma-3c3253b1eb0e",
+   "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "I got to try the Pimax 8K & 5K headsets! Kickstarter backers you are in for a treat!",
+   "body": "Article by Micah Blumberg, Silicon Valley Global News",
+   "image": "/wiki/svgn/articles/media/svgn-88472247/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The kickstarter link is here (You can try it out if you are in San Francisco next week,",
+   "body": "The kickstarter link is here (You can try it out if you are in San Francisco next week, more information at the bottom of the page. https://www.kickstarter.com/projects/pimax8kvr/pimax-the-worlds-first-8k-vr-headset?ref=2uers3",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "I did two Facebook live videos one after trying the 5k headset, and below that is the",
+   "body": "I did two Facebook live videos one after trying the 5k headset, and below that is the video I filmed live with the 8k headset.\n\nThe really good news is that if you are in San Francisco you can try the Pimax 8k headset at our next event on October 20th the event is called San Francisco Virtual Reality 360 but you must get a ticket soon because we are selling out fast! https://www.eventbrite.com/e/san-francisco-virtual-reality-360-octo-tickets-38469924580\n\nSan Francisco Virtual Reality 360 ôctō San Francisco Virtual Reality 360 ôctōHey SFVR Folks, San Francisco Virtual Reality 360 ôctō is a new event taking… www.eventbrite.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472247/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472247/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "I don’t agree with Tested’s video journalism assessment of the Pimax 8K headset",
+   "body": "I don’t agree with Tested’s video journalism assessment of the Pimax 8K headset Personally I tried it and I liked it, so who is right? Is Tested right? Or am I right? Well you can try for yourself if… medium.com",
+   "image": "/wiki/svgn/articles/media/svgn-88472247/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "Our friends at SVVR Silicon Valley Virtual Reality tried the Pimax 8k at their event just recently!",
+   "body": "Note: SVVR is Silicon Valley Virtual Reality (events). SFVR is San Francisco Virtual Reality (events). Our groups do a joint event every year on the first night of GDC, the Games Developer Conference.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017.]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[San Francisco Virtual Reality 360 Live]] · [[Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-3c38de901812",
+     "title": "San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017."
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-f28a15aacd4f",
+     "title": "San Francisco Virtual Reality 360 Live"
+    },
+    {
+     "id": "vrma-3c3253b1eb0e",
+     "title": "Photos & Videos from SFVR in October 2017: San Francisco Virtual Reality 360 ôctō"
+    }
+   ]
+  }
+ ]
+}

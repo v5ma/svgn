@@ -1,0 +1,252 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471859",
+ "title": "Arianna Huffington will be leading the inspirational keynote at 10am on Thursday at the Samsung…",
+ "dek": "by Micah Blumberg, Silicon Valley Global News & The Neural Lace Podcast",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2017-10-18",
+ "articleHref": "/wiki/svgn/articles/2017-10-18-arianna-huffington-will-be-leading-the-inspirational-keynote-at-10am-on-thursday-at-th-vrma-68e75fe95bf0",
+ "sourceUrl": "https://www.svgn.io/p/arianna-huffington-will-be-leading-the-inspirational-keynote-at-10am-on-thursday-at-the-samsung-68e75fe95bf0",
+ "topTerms": [
+  "samsung",
+  "session",
+  "reality",
+  "neural",
+  "virtual",
+  "lace",
+  "president",
+  "officer"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-3c38de901812",
+   "title": "San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017."
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-ef270d640965",
+   "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+  },
+  {
+   "id": "vrma-334c25377ec9",
+   "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Arianna Huffington will be leading the inspirational keynote at 10am on Thursday at the Samsung…",
+   "body": "by Micah Blumberg, Silicon Valley Global News & The Neural Lace Podcast",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Arianna Huffington is the Founder and CEO of Thrive Global VR and AI sessions at SDC Gear",
+   "body": "Arianna Huffington is the Founder and CEO of Thrive Global VR and AI sessions at SDC Gear VR and Gear 360 fans get ready for news from SDC 2017! AI Developers there are some great sessions here for you too, scroll down for my session picks.\n\nSDC starts on Wednesday in San Francisco, October 18th and 19th. The Opening Keynote on Wednesday (at 10am) will feature Gilles BianRosa who is the Senior Vice President and Chief Product Officer of Samsung followed by several more Samsung executives.\n\nOpening Keynote\n\nGilles BianRosa, Senior Vice President and Chief Product Officer, Samsung  Eui-Suk Chung, Executive Vice President, Samsung  Dag Kittlaus, VP, Samsung  DJ Koh, President, Samsung  Yoon C. Lee, Senior Vice President, Samsung  Pranav Mistry, Senior Vice President of Research, Samsung  Dr. Injong Rhee, CTO and EVP of Software and Services, Mobile Communications, Samsung",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-2ccca1a6285d2f02.jpeg"
+  },
+  {
+   "seq": 3,
+   "headline": "After Arianna Huffington’s Keynote on Thursday we will also hear from Stan Lee, Marvel",
+   "body": "After Arianna Huffington’s Keynote on Thursday we will also hear from Stan Lee, Marvel Comics , then Yoon C. Lee, Senior Vice President, Samsung  Marc Mathieu, Chief Marketing Officer, Samsung  and finally rising star Rain Paris",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "Rain Paris VR (Virtual Reality) Session Highlights",
+   "body": "Rain Paris VR (Virtual Reality) Session Highlights",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-e602f30ccedbf554.jpeg"
+  },
+  {
+   "seq": 5,
+   "headline": "What’s on The Horizon: A Look at the Future of VR at Samsung",
+   "body": "At 1 pm Wednesday get to Session Room #2010\n\nSince Samsung introduced Gear VR in 2014, there have been many innovations in virtual reality. In this session, we will share what’s on the horizon for Samsung in the VR space and offer a glimpse into where we are headed across devices, software and services. Taeyong Kim, VP, Samsung",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "How to be a Rock Star VR Java Developer!",
+   "body": "At 2pm in Room #2010\n\n“The Gear VR Framework (GearVRf) Project is a lightweight, powerful, open source rendering engine with a Java interface for developing mobile VR games and applications for Gear VR. Join us to hear about how you can get started with this simple, powerful, efficient and optimized for mobile open source framework!” Nola Donato, Senior Principal Engineer, Samsung  Tom Flynn, Software Director, Samsung  Pierre Fouilloux, Programmer, TIMECODE LAB — SYNCVR.io  Keith Ha, CTO, AlcaCruz Inc.  Sheng Ying Liu, Software Engineer, uSens Inc.  Alvaro Mota Goncalves, Sr. Manager, Samsung  Luc Normandin, Executive Producer, TIMECODE LAB — SYNCVR.io\n\nAI (Artificial Intelligence) Session Highlights:",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Bixby: Our Goal and Challenge",
+   "body": "At 1:00 pm on Wed Oct 18 get to Room #2006\n\n“Samsung’s new intelligent agent, Bixby, was launched this year and is now available in more than 200 markets. In this session, we will introduce you the vision of Bixby, lessons learned so far, and a couple of future milestones of Bixby. We will also introduce the other Bixby-related sessions we prepared. This will be a good overview session if you are interested in Bixby.”\n\nBrad Park, Vice President, Big Data R&D, Mobile Communications Business, Samsung.",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "It Takes a Village to Raise… Bixby!",
+   "body": "At 2pm (Wed Oct 18) stay in Session Room #2006\n\n“The old saying that “it takes a village to raise a child” proves to be true when developing Bixby to become a truly intelligent assistant. This session will focus on Bixby Voice, where participants will be able to understand how Bixby learns and adapts to its user, while users customize commands with words of preference. You will also get a chance to get updated on our plans on building it as a open yet personalized intelligence platform. We will show you the importance of communal effort not only when it comes to raising a human child but also when enriching your bright sidekick.”\n\nEuntaek Lim, Director, Samsung",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "Khronos: Vulkan Game Development: Develop and Optimize Your Games",
+   "body": "2pm Wednesday, Disruptor Theater:\n\n“Hear tips and tricks by expert game developers in developing and optimizing games using new technologies including Vulkan, SPIR-V, and ASTC.”\n\nDaemyung Jang, Engineer, Graphics R&D, Samsung  Jungwoo Kim, Principal Engineer, Graphics R&D, Samsung\n\nNote: If you are a fan of the Khronos group check out a podcast I did last year with a member of the Khronos group. The Neural Lace Podcast Episode 1: Democratizing Neural Lace.\n\nThe Neural Lace Journal & Talk Show: A compilation of articles, and links. The Neural Lace Talk Show is a podcast, show, and journal about science, technology, and next generation brain computer… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "The Neural Lace Podcast #1: Guest Shannon Norrell",
+   "body": "Guest Shannon Norrell presents his vision for building Neural Lace. In this episode we also propose an Open Neural Standard for Neural Lace which is a bi-directional brain computer interface. Shannon is with the CTO Office of HP, a founding member of SVVR, organizer of the Silicon Valley WebGL/WebVR meetup group and Suspender of Disbelief for VRCamp at Burning Man. Shannon Norrell is also a member of the Khronos Group working on OpenXR. Find the youtube playlist for all the episodes here:\n\nVR + AI Session Highlight: If you are a fan of both VR and AI then don’t miss the talk from Jules Urbach",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "Towards an AI Driven Open Metaverse",
+   "body": "4pm, Wednesday, Session Room #2010\n\n“We are entering an era in which digital services and communication are going to be rendered spatially. This is the true promise of AR/VR/Mixed reality content, a metaverse where you can create and share and information with true presence. Everything from devices to the web to the social fabric of society will be affected enormously by the decisions that we make today. Ready or not, the tools of tomorrow are already being adopted to build an AI driven open metaverse.”\n\nWill Mason, Co-Founder and President, Upload  Nicolas Meuleau, Director of AI Research, Unity Technologies  Jules Urbach, CEO, OTOY Inc.\n\nJules Urbach was in the 5th episode of my podcast and I’m never not completed captivated by his talks, so I highly recommend you show up for this one.",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at",
+   "body": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY The Neural Lace Talks is a podcast about Science and Technology.  Main website http://vrma.io Contact via micah@vrma.io medium.com\n\nAt 5pm (Wed Oct 18) in the Spotlight Theater check out",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "Samsung Internet VR: Bringing Virtual Reality to the Web",
+   "body": "“Excited about web based virtual and augmented reality? This talk will feature invited experts from various sectors of the immersive web community that will introduce frameworks for creating WebVR/AR experiences, showcase content partners using the technology today, cover the evolution of Samsung Internet on GearVR devices, and take a look at upcoming trends defining the future of this medium.”\n\nAlban Donoyel, Co-Founder & CEO, Sketchfab  Laszlo Gombos, Senior Director, Samsung  Damon Hernandez, Product Manager and Developer Advocate, Samsung\n\nThis talk features Damon Hernandez, my friend at Samsung who has for years promoted the non-gaming business side of virtual reality. Don’t miss his talk!",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "Thursday Session Highlights:",
+   "body": "After the Inspirational Keynote get to the Disrupter Theater",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "Limbic VITALICS: Core -and Neuro- Rehabilitation Using Gear VR",
+   "body": "12:30 pm Disruptor Theater (Thu Oct 19)\n\n“Limbic VITALICS, an open collaboration project using Samsung VR technology and the Limbic Chair, is used for neuro and muscular rehabilitation. The Limbic Chair, developed by a former MIT neuroscience and medicine researcher, works harmoniously with Samsung’s Gear VR to create an extremely immersive experience that simulates various parts of the brain.”\n\nDr. Patrik Künzler, CEO, Limbic Life",
+   "image": ""
+  },
+  {
+   "seq": 16,
+   "headline": "ARCore: Augmented Reality at Android Scale",
+   "body": "1:00 pm (Thu Oct 19) Session Room #2010\n\n“ARCore ​​is a brand new platform from Google that allows developers to build augmented reality (AR) experiences at Android scale. This session will provide developers with everything they need to start creating the next generation of smartphone AR apps, including a deep dive into the fundamental technologies that enable ARCore, an overview of the ARCore SDKs for Java, Unity, and Unreal, and a selection of technical and design best practices.”\n\nNathan Martz, Product Manager, Google",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "Comic Books, Movies and Music — An AMA Session with Stan Lee and Rain Paris",
+   "body": "1:00 pm (Thu Oct 19) Disruptor Theater\n\n“Hear from the legendary Stan Lee and his talented protégé, Rain Paris, who will discuss comic books, movies, music, and their upcoming collaboration! Ask them anything!”\n\nStan Lee, Marvel Comics  Rain Paris  Rob Prior, Artist, Director, Producer, Creator",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "Stan Lee, Marvel Comics Samsung VR Presents: Creating Scalable Video Content for Virtual",
+   "body": "Stan Lee, Marvel Comics Samsung VR Presents: Creating Scalable Video Content for Virtual Reality 2:00 pm, Thu Oct 19, Spotlight Theater\n\nWe host a panel of some of the world’s leading creators of 360 and immersive video content. Together we explore how companies are approaching creating new consumer behaviors for watching video in virtual reality. We will plan to pick one lucky member from the audience to also receive a free Gear 360 camera.\n\nJamie Leece, VP Games / VR, Major League Baseball  Michael Schmier, VP, Content and Services, Samsung  Veda Shastri, Producer, The Daily 360, The New York Times  Christian Tom, VP Sales and Publisher, NowThis  Mia Tramz, Managing Editor, LIFE VR, Time inc",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-1f42e2f969f1e92e.jpeg"
+  },
+  {
+   "seq": 19,
+   "headline": "Striking an Emotional Chord in VR",
+   "body": "3:00 pm, Thu Oct 19, Session Room #2006\n\n“VR is an emotionally compelling and effective storytelling medium with a new technical language. This panel will expand on some of the challenges in VR storytelling, such as transitioning from the novelty of VR to developing richer experiences for mobile users with high-quality characters and visuals. Eric Darnell, writer and director of the Madagascar films, is the Chief Creative Officer at Baobab Studios, creators of the Emmy-award winning Invasion!, follow-up Asteroids! and newest piece Rainbow Crow starring John Legend. Larry Cutler was the Global Head of Character Technology at Dreamworks Animation and is the Chief Technical Officer of Baobab Studios. Colum Slevin was formerly VP, Head of Studio Operations at Lucasfilm and is now the Head of Experiences at Oculus VR from Facebook. Ryan Horrigan is the Chief Content Officer at Felix & Paul Studios, makers of cinematic virtual reality experiences like Miyubi.”",
+   "image": ""
+  },
+  {
+   "seq": 20,
+   "headline": "Eric Darnell, Chief Creative Officer and Co-founder, Baobab Studios  Ryan Horrigan,",
+   "body": "Eric Darnell, Chief Creative Officer and Co-founder, Baobab Studios  Ryan Horrigan, Chielf Content Officer, Felix & Paul Studios  Yelena Rachitsky, Executive Producer of Experiences,, Oculus  Colum Slevin, Head of Experiences, Oculus  Claudia Southmartin, Lead Producer, Baobab  Daniel Terdiman, Fastcompany\n\nThis last one I can’t miss, not only because I love Neuroscience, but also because journalist Dean Takahashi is one of my role models as a journalist!",
+   "image": ""
+  },
+  {
+   "seq": 21,
+   "headline": "She’s Designed Classic Games and He’s A Game Journalist — Ask Us Anything!",
+   "body": "4:00 pm, Thu Oct 19, Disruptor Theater\n\n“I am a neuroscientist and bass player who designed classic games including Rock Band and The Sims. I am a technology journalist at VentureBeat who has been covering games for almost 20 years and recently caught some flak because of struggles conquering the game Cuphead… Ask Us Anything!”\n\nAmy Jo Kim, CEO, ShuffleBrain  Dean Takahashi, Lead Writer, Gamesbeat",
+   "image": ""
+  },
+  {
+   "seq": 22,
+   "headline": "After SDC",
+   "body": "If you are still in town Friday after SDC come to San Francisco Virtual Reality 360 at River Ecosystem. It’s a small event monthly event in San Francisco, we limit ticket sales to sixty people so it’s a very small mixer with talks and VR demos. For info: http://sfvr360.com\n\nSan Francisco Virtual Reality 360 ôctō San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017. The event is co-organized by… www.eventbrite.com",
+   "image": ""
+  },
+  {
+   "seq": 23,
+   "headline": "A list of Women in VR, AR, or Tech groups on Facebook by Micah Blumberg, Silicon Valley",
+   "body": "A list of Women in VR, AR, or Tech groups on Facebook by Micah Blumberg, Silicon Valley Global News medium.com",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-b12e5405e7cbf0d7.png"
+  },
+  {
+   "seq": 24,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-03df619590b89585.jpeg"
+  },
+  {
+   "seq": 25,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-ec87fc0572ac7dce.jpeg"
+  },
+  {
+   "seq": 26,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-dc04c0577b90457b.jpeg"
+  },
+  {
+   "seq": 27,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-865d3a7b949fa813.jpeg"
+  },
+  {
+   "seq": 28,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471859/001.jpg"
+  },
+  {
+   "seq": 29,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-c190b24ae88593c2.jpeg"
+  },
+  {
+   "seq": 30,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/vrma-68e75fe95bf0/medium-e90d969f1bca86be.jpeg"
+  },
+  {
+   "seq": 31,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88471859/003.jpg"
+  },
+  {
+   "seq": 32,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017.]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…]] · [[Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-3c38de901812",
+     "title": "San Francisco Virtual Reality 360 ôctō is a new event taking place on October 20th 2017."
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-ef270d640965",
+     "title": "Patchworld from PatchXR brings you a novel way to create music with your Meta Quest Virtual Reality…"
+    },
+    {
+     "id": "vrma-334c25377ec9",
+     "title": "Star Trek Discovery: Season 4 Episode 5 Review & Holography, Light Fields, and the Virtual Reality…"
+    }
+   ]
+  }
+ ]
+}

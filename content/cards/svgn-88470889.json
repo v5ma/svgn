@@ -1,0 +1,156 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470889",
+ "title": "New Coronavirus Death Rate Prediction Model for the USA",
+ "dek": "100,000 Deaths by May 20th, 2020 (no less than 90,000, probably not more than 109,000 with the worst case scenario being 117,000.)",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2020-05-05",
+ "articleHref": "/wiki/svgn/articles/2020-05-05-new-coronavirus-death-rate-prediction-model-for-the-usa-vrma-ddcc0f5a8957",
+ "sourceUrl": "https://www.svgn.io/p/new-coronavirus-death-rate-prediction-model-for-the-usa-ddcc0f5a8957",
+ "topTerms": [
+  "april",
+  "death",
+  "rate",
+  "daily",
+  "deaths",
+  "coronavirus",
+  "increase",
+  "number"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-ddcc0f5a8957",
+   "title": "New Coronavirus Death Rate Prediction Model for the USA"
+  },
+  {
+   "id": "vrma-47d8ef56a9ff",
+   "title": "D-Ribose, Coronavirus, Covid-19, Sars-CoV-2, Research on potential therapeutics."
+  },
+  {
+   "id": "vrma-11a8c386718e",
+   "title": "USA death rate predictions"
+  },
+  {
+   "id": "vrma-50e415e24801",
+   "title": "Coronavirus Economic Impact & Pandemic Production Act"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "New Coronavirus Death Rate Prediction Model for the USA",
+   "body": "100,000 Deaths by May 20th, 2020 (no less than 90,000, probably not more than 109,000 with the worst case scenario being 117,000.)",
+   "image": "/wiki/svgn/articles/media/svgn-88470889/000.png",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "New Coronavirus Death Rate Prediction Model for the USA by Micah Blumberg",
+   "body": "New Coronavirus Death Rate Prediction Model for the USA by Micah Blumberg http://vrma.io\n\nThe 28 day average daily death rate from April 06 to May 04 is 2076. If the death rate increases by 2000 a day, which is between a low daily death increase rate of 1,500 and a high daily death increase rate of 2,500, then we may hit 100,000 deaths in the United States by May 20th.\n\nIf the next 2 weeks are like the past 28 days then we ought to cross the 100,000 death count in the USA by May 20th, 2020.\n\nInterestingly my predictions are now in alignment with the new IHME COVID-19 projections. Although I derived my projections independently.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "IHME COVID-19 Projections IHME | COVID-19 Projections Explore hospital bed use, need for",
+   "body": "IHME COVID-19 Projections IHME | COVID-19 Projections Explore hospital bed use, need for intensive care beds, and ventilator use due to COVID-19 based on projected deaths covid19.healthdata.org",
+   "image": "/wiki/svgn/articles/media/svgn-88470889/001.png"
+  },
+  {
+   "seq": 4,
+   "headline": "May 20th, 2020 Prediction:",
+   "body": "That means that the best case scenario is that by May 20th there has only been an average of 1500 deaths per day and the death count is 93,921.\n\nIf there is an average of 2000 deaths per day then we are looking at a total of 101,921 deaths on May 20th.\n\nIf there is an average of 2,500 deaths per day then the death total will be 109,921.\n\nThe worst case scenario is that there is an average of 3000 deaths per day (unlikely) and the death count is 117,921 .\n\nThis new model takes into consideration problems with my previous model and attempts to develop a more accurate number.\n\nIn what seems like good news: From April 17th to May 4th the Coronavirus Closed Case Death Rate dropped 10% from 37% to 27%\n\nOn May 4th, 2020 in the United States there are per worldometers https://www.worldometers.info/coronavirus/country/us/ Coronavirus Cases: 1,212,835 Deaths: 69,921 Recovered: 188,027 CLOSED CASES: 257,948 Cases which had an outcome: 188,027 (73%) Recovered / Discharged A 27% closed case death rate. (This seems like really good news)",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "In my previous model: On April 17th 2020 I predicted that by May 4th we might pass the",
+   "body": "In my previous model: On April 17th 2020 I predicted that by May 4th we might pass the 100,000 death mark in the United States by the Coronavirus (the COVID-19 disease). I also reported from worldometers: Coronavirus Cases: 710,272 total cases Deaths: 37,154   CLOSED CASES: 100,685 Active Cases: 609,587 A 37% closed case death rate. (This made me concerned that as many as 225,547 people in the United States were at risk of dying based on the April 17th numbers alone. The new lower death rate is seemingly very good news.)\n\nUSA death rate predictions On May 4 for example I predict that the death total in the USA will be 119,300 medium.com",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "In my new model I’m going to predict 4 numbers and I’m going to predict 16 days out from May 4th until May 20.",
+   "body": "1. The first number is a 1500 daily increase (starting from May 4th’s death total of 69,921), ie what if every day there is an increase of 1,500 deaths.\n\n2. The second number is a 2500 daily increase, ie what if everyday there is a daily increase of 2,500 deaths.\n\n3. The 3rd number is a 2000 daily increase. The average of the high and low would be an increase of 2000 a day. The actual average for 28 days from April 06 to May 4th is 2076 so it’s pretty close.\n\n4. WCS: The worst case scenario number assuming a daily increase of 3000 deaths a day. The 4th number is a worst case scenario of 3000 deaths daily based on the leaked CDC report of 3000 deaths per day by June.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "“Coronavirus deaths projected to hit 3,000 per day by June, internal Trump administration analysis says”",
+   "body": "Coronavirus deaths projected to hit 3,000 per day by June, internal Trump administration analysis… An analysis prepared by several Trump administration departments projects that the number of coronavirus deaths will… www.cnbc.com\n\nWCS = Worst Case Scenario Number\n\nMay 20th 93,921–109,921 avg might be 101,921 WCS: 117,921 May 19th 92,421–107421 avg might be 99,921 WCS: 114,921\n\nMay 18th 90,921–104,921 avg 97,921 WCS: 111,921 May 17th 89,421–102,421 avg 95,921 WCS: 108,921 May 16th 87,921–99,921 avg 93,921 WCS: 105,921 May 15th 86,421–97,421 avg 91,921 WCS: 102,921 May 14th 84,921–94,921 avg 89,921 WCS: 99,921 May 13th 83,421–92,421 avg 87,921 WCS: 96,921 May 12th 81,921–89,921 avg 85,921 WCS: 93,921",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "May 11th 80,421–87,421 avg 83,921 WCS: 90,921 May 10th 78,921–84,921 avg 81,921 WCS:",
+   "body": "May 11th 80,421–87,421 avg 83,921 WCS: 90,921 May 10th 78,921–84,921 avg 81,921 WCS: 87,921 May 9th 77,421–82,421 avg 79,921 WCS: 84,921 May 8th 75,921–79,921 avg 77,921 WCS: 81,921 May 7th 74,421–77,421 avg 75,921 WCS: 78,921 May 6th 72,921–74,921 avg 73,921 WCS: 75,921 May 5th 71,421–72,421 avg 71,921 WCS: 72,921\n\nSo lets look at the old data to see what went wrong and how we can better predict the rate the death count and death rate in the future. Note my old prediction data is adjusted downward by one day because I skipped April 21st by accident in the original model. What I did not predict very well was how quickly the doubling rate slowed down. So how can I reduce the uncertainty in my model? The last thing I did was plug in the Daily Increase DI number with the PDI predicted Daily Increase number that I actually hadn’t looked at when I published my first prediction. In hindsight its easy to see that if I had checked this I would not have made such a high prediction for May 4th. Actually it looks like the shutdown or stay at home guidelines has pretty much flatlined daily increase numbers to a range (DI) 1,100–2700 or a 28 day average of 2076 Whereas my model predicted days (PDI) where we would have days of increases of 3000, 4000, 5000, 12,000, and 24,000 and obviously that didn’t happen. (Note: In the old model I divided the daily total by 2 to get a number that I could use to predict the approximate number of days it took for the death count to double)   PDR = predicted doubling rate in days",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "PDC = predicted death count\n\nADC = actual death count that day per Worldometers\n\nADR =",
+   "body": "PDC = predicted death count\n\nADC = actual death count that day per Worldometers\n\nADR = approximate double rate in terms of days (ex: 18 days to double)\n\nDI: = Daily increase in Death Count from the previous day\n\nPDI = Predicted Daily increases in Death Count that turned out to be incorrect\n\nMay 4 PDR : 11 PDC : 124,536. ADC : 69,921 ADR : 18.5 DI : 1,324 PDI : 5236 May 3 PDR: 11 PDC: 119,300. ADC: 68,597 ADR: 17 DI: 1,153 PDI: 24,740 May 2 PDR: 11 PDC: 94,560. ADC: 67,444 ADR: 16 DI: 1,691 PDI: 3070 May 1 PDR: 10.5 PDC: 91,490. ADC: 65,753 ADR: 15 DI: 1,897 PDI: 3070 April 30 PDR: 10 PDC: 88,420. ADC: 63,856 ADR: 15 DI: 2,201 PDI: 4000 April 29 PDR: 10 PDC: 84,420. ADC: 61,655 ADR: 14 DI:2,390 PDI: 2112 April 28 PDR: 10 PDC: 82,308. ADC: 59,265 ADR: 14 DI: 2,470 PDI: 4000 April 27 PDR: 9.5 PDC: 78,308. ADC: 56,795 ADR: 13 DI:1,383 PDI: 4000 April 26 PDR: 9 PDC: 74,308. ADC: 55,412 ADR: 12.5 DI:1,156 PDI: 5070 April 25 PDR: 9 PDC: 69,238. ADC: 54,256 ADR: 11.5 DI:2,065 PDI: 4352 April 24 PDR: 9 PDC: 64,886. ADC: 52,191 ADR: 10.5 DI: 1,957 PDI: 2618 April 23 PDR: 8.5 PDC: 62,268. ADC: 50,234 ADR: 9.5 DI: 2,340 PDI: 2618 April 22 PDR: 8 PDC: 59,650. ADC: 47,894 ADR: 8.5 DI: 2,358 PDI: 12370 April 21 PDR: 8 PDC: 47,280. ADC: 45,536 ADR: 8.5 DI: 2,683 PDI: 3070 April 20 PDR: 8 PDC: 44,210. ADC: 42,853 ADR: 8.5 DI: 1,952 PDI: 1528 April 19 PDR: 8 PDC: 42,682. ADC: 40,901 ADR: 8 DI: 1,570 PDI: 1528 April 18 PDR: 8 PDC: 41,154. ADC: 39,331 ADR: 7 DI: 1,883 PDI: 4000",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "There are 17 days between April 17th and May 4th, and if I had simply doubled the death",
+   "body": "There are 17 days between April 17th and May 4th, and if I had simply doubled the death rate that day which was 34,957 to May 4th I would have arrived at 74,308 would which have been far closer than the over 100k that I predicted for this date. I was imagining that by May 4th the rate of doubling would be every 11 days. Today’s death total (May 4th 2020) was 69,921. Divide that number by 2 and you get 34,957 which is mostly comparable to the number on April 16th, 2020 which was 34,619 deaths.\n\nThat suggests that May 4th represents a death rate doubling time of between 18 and 19 days. I also realized that I had accidentally skipped a day in my original prediction. The question for me in looking at the old model’s result was how can I generate a better prediction this time? The biggest problem with my method is that the rate of doubling slowed down far faster than I predicted. Obviously I need to make a prediction based on the daily death increases and not the total daily doubling rate.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "ADC = actual death count that day ADR = doubling rate in days DI — Death Daily Increase",
+   "body": "ADC = actual death count that day ADR = doubling rate in days DI — Death Daily Increase  April 17 ADC :(37,154) ADR : 7 DI :2,543  April 16 ADC:(34,619) ADR: 7 DI:2,193  April 15 ADC:(32.443) ADR: 6 DI:2,631  April 14 ADC:(29,825) ADR: 6 DI:2,566  April 13 ADC:(23,640) ADR: 6.5 DI:1,726  April 12 ADC:(22,105) ADR: 5.5 DI:1,727  April 11 ADC:(20,577) ADR: 5 DI:2,024  April 10 ADC:(18,747) ADR: 5 DI:2,236  April 09 ADC:(16,712) ADR: 5 DI:2,111  April 08 ADC:(14,811) ADR: 5.5 DI: 2,165 April 07 ADC:(12,868) ADR: 4.5 DI: 2,228  April 06 ADC:(10,895) ADR: 4.5 DI:1,505  April 05 ADC:(9,636) ADR: 4.5 DI: 1,409  April 04 ADC:(8,469) ADR: v3.5 DI: 1,545 April 03 ADC:(7,127) ADR: 3.5 DI: 1,263  April 02 ADC:(6,088) ADR: 3 DI: 1,182  April 01 ADC:(5,114) ADR: 3 DI: 1,243  March 31 ADC:(4,064) ADR: 3.5 DI: 1,085  March 30th ADC:(3,143) ADR: 3 DI: 815 March 29th ADC:(2,592) ADR: 3 DI: 497 March 28th ADC:(2,222) ADR: 2.5 DI: 644 March 27th ADC:(1,697) ADR: 2.5 DI: 496 March 26th ADC:(1,296) ADR: 2",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "D-Ribose, Coronavirus, Covid-19, Sars-CoV-2, Research on potential therapeutics.",
+   "body": "D-Ribose, Coronavirus, Covid-19, Sars-CoV-2, Research on potential therapeutics. Why I predict that humanity is within a week or within a few weeks of discovering an effective treatment for Covid-19… medium.com\n\nCoronavirus Economic Impact & Pandemic Production Act Coronavirus cases worldwide climb to half a million today: with a million Covid-19 disease cases expected as early as… medium.com\n\nHorror stories from Italy: The Nightmare on Corona St is coming to America on Friday the 13th! In this article I’ve collected 7 Horror stories from Italy (7 revelations!) Following those will be frighteningly good… medium.com\n\nI’ve been monitoring the Coronavirus (SARS-CoV-2, which causes the condition COVID-19) situation… Written by Nell Watson and reprinted here with permission. medium.com",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "The AR VR industry massively disrupted by the Coronavirus These companies are telling",
+   "body": "The AR VR industry massively disrupted by the Coronavirus These companies are telling their employees to stay home for their safety. So why isn’t the US Government telling… medium.com\n\nDisneyworld: Coronavirus comparable H1N1: Off the chart infections in United States may exceed… A news analysis of coronavirus topic by Micah Blumberg, Neurohacker and WebXR A-Frame Software Architect at Silicon… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470889/003.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470889/005.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[New Coronavirus Death Rate Prediction Model for the USA]] · [[D-Ribose, Coronavirus, Covid-19, Sars-CoV-2, Research on potential therapeutics.]] · [[USA death rate predictions]] · [[Coronavirus Economic Impact & Pandemic Production Act]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-ddcc0f5a8957",
+     "title": "New Coronavirus Death Rate Prediction Model for the USA"
+    },
+    {
+     "id": "vrma-47d8ef56a9ff",
+     "title": "D-Ribose, Coronavirus, Covid-19, Sars-CoV-2, Research on potential therapeutics."
+    },
+    {
+     "id": "vrma-11a8c386718e",
+     "title": "USA death rate predictions"
+    },
+    {
+     "id": "vrma-50e415e24801",
+     "title": "Coronavirus Economic Impact & Pandemic Production Act"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-182526568",
+ "title": "MIT’s Fraudulent Narrative: The Picower Institute rebranded an independent researcher’s 2017–2022 work as a novel 2023 discovery.",
+ "dek": "An exposé on institutional erasure, revisionist history, and the mathematical proof that shows independent discovery came years before MIT’s “breakthrough.”",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2025-12-24",
+ "articleHref": "/wiki/svgn/articles/2025-12-24-mit-s-fraudulent-narrative-the-picower-institute-rebranded-an-independent-researcher-s-svgn-182526568",
+ "sourceUrl": "https://www.svgn.io/p/mits-fraudulent-narrative-the-picower",
+ "topTerms": [
+  "theory",
+  "spatial",
+  "miller",
+  "waves",
+  "picower",
+  "institute",
+  "prior",
+  "brain"
+ ],
+ "relatedDecks": [],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "MIT’s Fraudulent Narrative: The Picower Institute rebranded an independent researcher’s 2017–2022 work as a novel 2023 discovery.",
+   "body": "An exposé on institutional erasure, revisionist history, and the mathematical proof that shows independent discovery came years before MIT’s “breakthrough.”",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Dateline: CAMBRIDGE, MA — A storm is brewing over the Picower Institute at MIT following",
+   "body": "Dateline: CAMBRIDGE, MA — A storm is brewing over the Picower Institute at MIT following the release of a high-profile news story claiming a “new” theory of cortical processing.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "In December 2025, the Picower Institute published a celebratory release titled “To",
+   "body": "In December 2025, the Picower Institute published a celebratory release titled “To flexibly organize thought, brain makes use of ‘spatial computing’,” hailing the theory as a novel breakthrough “first proposed in 2023” by MIT neuroscientist Earl K. Miller.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Read as a standalone piece of science communication, it’s elegant.",
+   "body": "Read as a standalone piece of science communication, it’s elegant. It describes how the brain allegedly recruits ad hoc “task forces” of neurons by using alpha/beta waves as control signals applied to physical patches of cortex — “stencils” that determine when and where neurons can express information.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "But read against the public record, it is an attribution scandal hiding in plain sight.",
+   "body": "But read against the public record, it is an attribution scandal hiding in plain sight.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "There is just one problem with this timeline: The architectural blueprint, the specific",
+   "body": "There is just one problem with this timeline: The architectural blueprint, the specific metaphors, and the oscillation-based mechanics of “Spatial Computing” have been public record since 2017—authored not by Miller, but by me, independent researcher Micah Blumberg.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "A Fraudulent Narrative (By Omission)\n\nI have labeled MIT’s write-up a “fraudulent",
+   "body": "A Fraudulent Narrative (By Omission)\n\nI have labeled MIT’s write-up a “fraudulent narrative.” I do not use this term as a courtroom accusation of criminal intent, but as a plain-English description of a public-facing story that becomes materially misleading by omission.\n\nThe scientific findings of the Miller Lab are not in dispute; the issue lies in the Picower Institute’s framing of the discovery. By stating the theory was born in 2023, MIT’s media arm has engaged in what can be best described as academic credit laundering : taking concepts established by an independent researcher, stripping them of their origin, and re-issuing them under an institutional brand.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "The MIT release paints a false narrative that erases the true origin of these ideas.",
+   "body": "The MIT release paints a false narrative that erases the true origin of these ideas. It presents a story in which credit is misallocated to benefit MIT’s prestige at the cost of the actual innovator.\n\nThe Evidence: A Timeline of Prior Art\n\nThe MIT press release claims ownership of the idea that cognition is dynamic, large-scale self-organization driven by oscillatory control signals. Yet, my Self Aware Networks (SAN) corpus explicitly detailed this years prior.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "My “History of the Super Information Theory Corpus” serves as an evidentiary timeline",
+   "body": "My “History of the Super Information Theory Corpus” serves as an evidentiary timeline with independent timestamp mechanisms (GitHub, Zenodo, Wayback Machine, YouTube/SoundCloud). The record is clear:\n\n2017 (The Root Concepts): A complete Neural Lace Podcast episode record beginning in April 2017 outlining the core mechanics.\n\n2022 (The Architecture): A time-stamped GitHub release of Self Aware Networks describing the specific interplay of oscillations and information routing.\n\n2023 (The “Novel” Claim): A Miller-group paper finally appears, stating they “propose the novel concept of spatial computing”—concepts I had already published.\n\nThe “Stencil” vs. “Canvas” Proof",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "The overlap goes beyond general theory into specific metaphors.",
+   "body": "The overlap goes beyond general theory into specific metaphors.\n\nBlumberg (2022): I documented the “Canvas and Ink” model, where Beta waves act as the canvas (structure) and Gamma bursts act as the ink (content).\n\nMIT/Miller (2024): Two years later, the Miller Lab introduced the “Stencil” metaphor. They described Beta waves as “stencils” that dictate where Gamma can “paint” information.\n\nThe Verdict: The mechanism is identical; only the noun was swapped well after my publication. The parallels are not merely thematic; they are structural",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/015.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "The “Spatial Turn” & The Physics of Thought (2025 Update)\n\nThe overlaps are not limited",
+   "body": "The “Spatial Turn” & The Physics of Thought (2025 Update)\n\nThe overlaps are not limited to literary metaphors like “stencils.” The convergence extends to the fundamental physics of how the brain constructs reality—specifically, the unification of space and time and the engine of traveling waves. In this regard, the narrative of “novelty” in Miller’s 2025 findings collapses when viewed against the prior art of the “Spatial Turn.”",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/017.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "1.",
+   "body": "1. The “Spatial Turn” Convergence (Time is Space) Between 2017 and 2022, my Super Information Theory (SIT)—documented in the Neural Lace Podcast and later Self Aware Networks —argued that the brain does not process “time” and “space” as separate coordinates. Instead, I proposed a unified oscillatory mechanism (NAPOT/3D Screen) where the brain continuously generates spatial reality from temporal rhythms.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/019.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "By 2023—and culminating in the 2025 papers—both the Miller Lab and the Buzsáki Lab",
+   "body": "By 2023—and culminating in the 2025 papers—both the Miller Lab and the Buzsáki Lab independently pivoted to this exact “Space-Time Equivalence” model, abandoning their prior modular frameworks:",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/021.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "Earl Miller (2023–2025): Explicitly rebranded his work as “Spatial Computing,” proposing",
+   "body": "Earl Miller (2023–2025): Explicitly rebranded his work as “Spatial Computing,” proposing that brainwaves “sculpt” activity on the cortical sheet. This effectively turns “time” (oscillations) into “space” (functional networks), a concept he now presents as the core of his new theory.\n\nGyörgy Buzsáki (2018–2025): Adopted the maxim “Time is Neuronal Space,” arguing that the brain converts external distances into internal duration (phase lags).\n\nThe Verdict: Both labs now describe a system where oscillatory phase is the metric of physical reality —a fundamental architectural principle I first formally defined in the SIT “Phase Wave Differential” papers (2017–2022).",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/023.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "2.",
+   "body": "2. The “Traveling Wave” Engine Furthermore, the SIT corpus (2017) established that static synchrony was insufficient for binding; I argued that consciousness requires traveling waves (scanning) to integrate distributed neural arrays into a volumetric whole (a process I termed “Tomography”).",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/025.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "Years later, a synchronized shift occurred in the mainstream literature, moving from",
+   "body": "Years later, a synchronized shift occurred in the mainstream literature, moving from “standing waves” to the very mechanisms I had predicted:\n\nMiller (2022–2025): Published Traveling waves in the prefrontal cortex , moving beyond local synchrony to describe rotating/traveling waves as the computational engine of working memory.\n\nBuzsáki (2022–2025): Reframed hippocampal-neocortical communication as being carried by “traveling waves” and explicitly posed the “Reader Problem” (how to decode a wave over time)—the exact “Tomographic Reader” problem central to my earlier NAPOT framework.\n\nThe Weight of Evidence: This is not a coincidence of metaphor; it is a coincidence of physics . Both labs identified the same mechanical necessity (scanning and space-time equivalence) years after I proposed it as the solution to the Binding Problem.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/027.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "Negligence or Erasure?",
+   "body": "Negligence or Erasure?\n\nThe Picower Institute was not unaware of these conflicts. Despite my attempts to reach out and correct the record with documentation of prior art, the institutional narrative remained unchanged.",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "When a news organization—academic or otherwise—persists in publishing a specific claim of",
+   "body": "When a news organization—academic or otherwise—persists in publishing a specific claim of origin (”First proposed in 2023”) after being presented with contradictory evidence, the error shifts from negligence to a fraudulent narrative by omission . This is Institutional Erasure .",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/029.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "Conclusion: Demanding Integrity\n\nScience is a cumulative endeavor.",
+   "body": "Conclusion: Demanding Integrity\n\nScience is a cumulative endeavor. It is not uncommon for empirical labs to validate theories proposed by theoretical researchers. However, integrity demands citation.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/031.jpg"
+  },
+  {
+   "seq": 20,
+   "headline": "This is an exposé of MIT’s revisionist history.",
+   "body": "This is an exposé of MIT’s revisionist history.\n\nThe Picower Institute has allowed a false origin story to stand, benefiting the prestige of the institution at the cost of the actual innovator.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/033.jpg"
+  },
+  {
+   "seq": 21,
+   "headline": "Recognizing prior art doesn’t diminish MIT’s work; it enriches the story.",
+   "body": "Recognizing prior art doesn’t diminish MIT’s work; it enriches the story. But MIT’s press machine went too far. They didn’t just validate the theory; they claimed ownership of its invention.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/035.jpg"
+  },
+  {
+   "seq": 22,
+   "headline": "I am calling for the Picower Institute to retract the claim that Spatial Computing was",
+   "body": "I am calling for the Picower Institute to retract the claim that Spatial Computing was “first proposed” in 2023 and to issue an addendum acknowledging the Self Aware Networks theory as the foundational prior art (2017-2022) that anticipated these findings.",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/037.jpg"
+  },
+  {
+   "seq": 23,
+   "headline": "Resources & Proof:\n\nThe MIT Story in Question: Picower Institute News\n\nThe History of",
+   "body": "Resources & Proof:\n\nThe MIT Story in Question: Picower Institute News\n\nThe History of Super Information & SAN: SVGN.io\n\nConceptual Overlaps Analysis: SVGN.io Analysis",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/039.jpg"
+  },
+  {
+   "seq": 24,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-182526568/041.jpg"
+  }
+ ]
+}

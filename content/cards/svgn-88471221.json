@@ -1,0 +1,168 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88471221",
+ "title": "Samsung to unveil a new AR headset at SDC 2018 (SVGN.io",
+ "dek": "SVGN.io News also predicts there greater than 80% percent chance that this is the new Google Daydream Standalone AR headset that was…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-10-21",
+ "articleHref": "/wiki/svgn/articles/2018-10-21-samsung-to-unveil-a-new-ar-headset-at-sdc-2018-svgn-io-vrma-4f78b3b2610c",
+ "sourceUrl": "https://www.svgn.io/p/we-svgn-io-predicts-that-in-3-weeks-at-sdc-2018-samsung-will-unveil-a-new-standalone-ar-headset-4f78b3b2610c",
+ "topTerms": [
+  "samsung",
+  "device",
+  "reality",
+  "headset",
+  "standalone",
+  "price",
+  "devices",
+  "https"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-4e376bc97fbc",
+   "title": "Megacity will bring vast immensely detailed game worlds to standalone XR devices like Oculus Quest…"
+  },
+  {
+   "id": "vrma-4b4d42e35558",
+   "title": "Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com"
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-8916d80e0339",
+   "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Samsung to unveil a new AR headset at SDC 2018 (SVGN.io",
+   "body": "SVGN.io News also predicts there greater than 80% percent chance that this is the new Google Daydream Standalone AR headset that was…",
+   "image": "/wiki/svgn/articles/media/svgn-88471221/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "Article by Micah Blumberg, A Developer Journalist for Developers\n\nBehind the scenes in",
+   "body": "Article by Micah Blumberg, A Developer Journalist for Developers\n\nBehind the scenes in the XR developer community, according to Samsung, there has been a massive shift in the developer community away from Virtual Reality app development on the Desktop and towards AR app development for stand-alone devices, meaning headsets not connected to a PC. The Oculus Quest would be an example of a Stand-Alone Device that does Mixed Reality.\n\nMost of the information in this report came from a talk at the VRS Conference (Virtual Reality Strategy Conference) on October 17th 2018 called “XR Games & Monetization: Battle of the Business Models“",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "I believe that Samsung’s 2017 Keynote at SDC 2017 revealed their plans for an AR device",
+   "body": "I believe that Samsung’s 2017 Keynote at SDC 2017 revealed their plans for an AR device to be revealed at SDC 2018 one year later. I do not believe that the new Samsung stand-alone Daydream AR headset will ship until 2019. https://youtu.be/I4svA6ismmI\n\nPlease note that the new Samsung XR Headset device is an exciting rumor, and details about it were only hinted at. According to Samsung this type of device is expected to be capable of VR experiences as well, that makes me think it will use a screen technology similar to the Oculus Quest for Augmented Reality, this is a more cost effective strategy than the wave guide screen technology used by Hololens and Magic Leap.\n\nSo this new device will be a lot less expensive than other AR devices. The new Samsung XR headset may run on a Qualcomm Snapdragon 855 Chipset (two generations newer than the 835 chipset used in the Oculus Quest)",
+   "image": "/wiki/svgn/articles/media/svgn-88471221/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "Farsh Fallah is in charge of Developer Relationships at Samsung, Fallah said",
+   "body": "Farsh Fallah is in charge of Developer Relationships at Samsung, Fallah said (paraphrasing) essentially that Samsung expects that AR/VR standalone devices will converge, starting in 2019, so that by the second half of 2020 we will cross the line to where we will have a sufficient mass of people in these standalone AR/VR devices such that content developers, such as VR game studios and 360 story tellers can finally really make money. (That could mean that Samsung expects AR/VR devices to hit the mainstream by the 2nd half of the year 2020). Fallah said that the Oculus Quest will be old technology when it comes out, because of it’s older Qualcomm Snapdragon 835 chipset and that Samsung developers are already pushing the limits of the new 855 chipset, Fallah confirmed to SVGN.io News at the VRS Conference that he had made a reference to the yet to be announced Qualcomm Snapdragon 855 chipset.",
+   "image": "/wiki/svgn/articles/media/svgn-88471221/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "I asked Fallah where he is seeing developers put the most investment of their time and",
+   "body": "I asked Fallah where he is seeing developers put the most investment of their time and money, was it AR or VR, was it desktop or standalone. His answer was that most of it is going into standalone AR devices right now, not in standalone VR, not in desktop top VR, and not in desktop AR (if this is true that spells more bad news for Meta, a company that recently had to stop paying it’s employees because a big investment from Chinese companies fell apart, the Chinese Companies talking to Meta cited Trump’s tradewars as the reason.)\n\nAR Headset Maker Meta Furloughs After Chinese Lead Backs Out of New Investment Meta, makers of an AR headset dev kit, was close to raising a new round of funding before a Chinese lead investor backed… www.roadtovr.com",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Chinese investment in US companies has plummeted 92% in 2018\n\nChinese investment in the",
+   "body": "Chinese investment in US companies has plummeted 92% in 2018\n\nChinese investment in the United States has plummeted 92% this year For years, Chinese companies pumped growing amounts of money into the United States, deepening ties between the… money.cnn.com\n\nFallah did say that Samsung is specifically planning to introduce AR devices (that will also do VR) in 2019, 2020 and beyond.\n\nFallah also thinks that developers need to hit the very best computer graphics in order to bring the youngest generation of gamers into AR standalone gaming but he thinks that they are already pushing the limits of what the Qualcomm Snapdragon 855 processor can do. However he also said that Qualcomm intends to create a massive demonstration of 5G wireless technology at SDC which could mean (reading between the lines) that we will see the very best computer graphics streamed wirelessly to Samsung’s new wireless standalone AR/VR headset",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Jules Urbach said we would be streaming cinematic quality graphics to AR VR headsets in",
+   "body": "Jules Urbach said we would be streaming cinematic quality graphics to AR VR headsets in the Neural Lace Podcast Season 1 Episode 5) https://soundcloud.com/user-899513447/the-neural-lace-podcast-5-jules-urbach-ceo-otoy-inc\n\nBe skeptical about this prediction: We don’t know for sure that Samsung’s new AR device is a stand alone device (but it seems obvious that it is) we don’t know for sure that its going to use the Qualcomm Snapdragon 855 processor) but it sounds like it is, we don’t know for sure that Samsung will be streaming computer graphics over 5G to their new AR device (it sounds like they could be doing that but I suspect that it could also be just a generic demo of computer graphics streaming over 5G to a computer and not a demonstration of streaming graphics to their new AR headset).",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "I bet there is at least a 50 percent chance Samsung will demonstrate streaming Microsoft",
+   "body": "I bet there is at least a 50 percent chance Samsung will demonstrate streaming Microsoft Windows to the device, and that this device will be capable of running Windows Mixed Reality apps, including Hololens apps via streaming over a 5G connection just like the ODG R8 and R9 Glasses are rumored to be able to do https://medium.com/silicon-valley-global-news/osterhout-design-groups-xr-glasses-that-do-vr-ar-are-for-professionals-but-they-also-raise-e9f932fdd06e\n\nOsterhout Design Group’s XR Glasses (that do VR & AR) are for professionals, but they also raise… Article includes links to two interviews I did with the CTO of ODG John Haddick. medium.com\n\nSince Samsung's new AR device also does VR then it’s plausible that their device is essentially using a Samsung phone screen, similar to the screen they put in the Gear VR, with a sort of camera pass through, or reality capture technology to render some version of reality that is captured in realtime, with the Augmented Reality software to place objects in a realtime rendered simulation of reality.",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "If you want to learn more about the idea of capturing reality in real time to turn",
+   "body": "If you want to learn more about the idea of capturing reality in real time to turn reality into a CG object for next generation AR devices please listen to the Neural Lace Podcast Season 2 Episode 2 https://m.youtube.com/watch?v=yMsaNsqzjFQ\n\nMake sure to tune into the live streamed keynote at SDC 2018 The Samsung Developer Conference https://www.samsungdeveloperconference.com/?utm_source=google&utm_medium=cpc&utm_term=sdc&utm_campaign=Brand-Conference%202&utm_content=p2-registernow-launch\n\nSamsung Developer Conference 2018 Explore the latest tech innovations, meet product experts and discover what's next. www.samsungdeveloperconference.com\n\nAlthough I have no idea what this device might cost I would expect the price to be much more than the Oculus Quest and to perhaps match the price of a brand new Samsung Phone, so the price could be $800 dollars, $850 would be the high price prediction I would make, $650 would be the low price prediction that I would make. I doubt that Samsung’s AR/VR device that has both AR/VR capabilities will sell for less than $650. I sincerely hope that it comes with two or at least one 6dof motion controller but I didn’t hear anything about that so I don’t know. If it doesn’t come with at least one 6dof motion controller I doubt it will be as successful as Samsung thinks, 6dof controllers in my humble opinion are going to be essential.",
+   "image": ""
+  },
+  {
+   "seq": 10,
+   "headline": "Fallah also said that in 10 years VR/AR devices will just be another natural part of",
+   "body": "Fallah also said that in 10 years VR/AR devices will just be another natural part of life, similar to how in todays world the cellphone is just another natural part of life. This is very interesting for someone from Samsung to say, given that they make several of the most popular cellphones in the world. You have to imagine that Samsung’s AR/VR headsets may incorporate everything you could previously run on your Samsung phone, this idea makes a lot of sense in light of Google’s annoucement that they are making it so that users can access all their Android apps inside the Lenovo Mirage Solo. It follows then, logically, that you will be able to use all of your Android apps in your Samsung AR device, a device that may replace your phone in the next 10 years.",
+   "image": ""
+  },
+  {
+   "seq": 11,
+   "headline": "Fallah also said that Samsung was doing something with 4K screens, he may have said 4K",
+   "body": "Fallah also said that Samsung was doing something with 4K screens, he may have said 4K per eye, I missed his complete statement so I’m not sure if that applies to their upcoming AR product or not.\n\nNote: A device that does AR and VR is technically an XR device. https://medium.com/silicon-valley-global-news/how-the-term-xr-was-coined-its-so-funny-hint-it-does-not-mean-extended-reality-4e7fff539676\n\nNick Whiting from Epic Games explains the origin of XR (XR = Virtual Reality + Augmented Reality). How the term XR was coined. A chat with Nick Whiting who is the Technical Director for XR at Epic Games and he is also part of the Khronos… medium.com\n\nIndustry analysts, including myself, predicted that the Oculus Quest, a Facebook product, will not only be the first mainstream VR product, but that it will also force the hand of other Standalone AR VR Device makers to include two 6dof controllers with their products. We have already seen 6dof controllers annouced for the Mirage Solo and the Vive Focus.",
+   "image": ""
+  },
+  {
+   "seq": 12,
+   "headline": "Because of this SVGN.io News predicts that the new Samsung XR headset will include two",
+   "body": "Because of this SVGN.io News predicts that the new Samsung XR headset will include two 6dof controllers for AR and VR applications.\n\nYou might buy this device if it has the ability to replace your phone, if it has a wireless 5G internet connection, if it has two 6dof motion controllers, if it runs all the Android apps as the new Daydream Standalone devices are set to do.\n\nAlso note:\n\nWinfuture predicted a Google AR headset in May 2018 https://winfuture.de/news,103281.html\n\nGoogle plant eigenständiges Augmented-Reality-Headset à la HoloLens Nach Google Glass und den Daydream-Headsets nimmt der Internet­kon­zern offenbar das Thema \"Augmented Reality\" in… winfuture.de\n\nGoogle is planning to support Android apps in Daydream https://developers.googleblog.com/2018/09/new-experimental-features-for-daydream.html",
+   "image": ""
+  },
+  {
+   "seq": 13,
+   "headline": "New experimental features for Daydream Since we first launched Daydream, developers have",
+   "body": "New experimental features for Daydream Since we first launched Daydream, developers have responded by creating virtual reality (VR) experiences that are… developers.googleblog.com\n\nHTC Vive recently announced 6dof controllers for the Vive Focus Standalone VR headset https://skarredghost.com/2018/10/20/htc-vive-announces-6-dof-controllers-for-vive-focus-teases-hand-tracking-vive-pro/\n\nHTC Vive announces 6 DOF controllers for Vive Focus and teases hand tracking for Vive Pro - The… Today it's a great day for virtual reality: at WCVRI conference, HTC has just announced a kit to provide 6 DOF… skarredghost.com\n\nThe Korea Times reported that Samsung was working on a cordless AR VR headset: http://m.koreatimes.co.kr/pages/article.asp?newsIdx=248527",
+   "image": ""
+  },
+  {
+   "seq": 14,
+   "headline": "Samsung, MS boosting partnership for 'mixed reality' Samsung is expanding its strategic",
+   "body": "Samsung, MS boosting partnership for 'mixed reality' Samsung is expanding its strategic alliance with Microsoft as the Korean technology heavyweight is working on a powerful… m.koreatimes.co.kr",
+   "image": ""
+  },
+  {
+   "seq": 15,
+   "headline": "Of course this news-prediction could be mistaken because the President of Samsung seems",
+   "body": "Of course this news-prediction could be mistaken because the President of Samsung seems to have no knowledge of Samsung being about to make a major AR headset announcement at SDC 2018 as of 1 week ago https://www.lowyat.net/2018/171491/interview-understanding-samsung-and-its-future-with-dj-koh/\n\nInterview: Understanding Samsung And Its Future With DJ Koh Prior to the launch of the Samsung Galaxy A7 2018 and Galaxy A9 2018, we sat down with DJ Koh, President of Samsung… www.lowyat.net\n\nHowever SVGN.io News is not the only news source to think that Samsung is working on a new headset, a Google search revealed that UploadVR is also predicting that Samsung is working on a new AR headset.\n\nSuperdata Research Inc predicts that the Oculus Quest will become the first mainstream VR headset in 2019, but it appears that Oculus went with the older Qualcomm Snapdragon 835 processor to hit the $399 price point. If the Samsung Standalone AR device includes the yet to be announced Qualcomm Snapdragon 855 processor I would guess that Samsung won’t be able to hit the pricepoint of $399. My prediction is that Samsung may price this new AR headset at the same price as a new Samsung phone. So their device could sell for $599, and maybe $699, but possibly also $999. Even at $999 it would be one of the least expensive high end premium Augmented Reality devices available for sale with the Hololens 1 still priced at $3,000 and the Magic Leap One priced at $2,300. I would be pleasantly surprised if Samsung is able to sell their device for $499. I don’t think it’s plausible. I would be absolutely shocked if Samsung’s device was priced at $399 I don’t think it’s possible, realistic or necessary. The most realistic low price point could be $630 dollars. I think there are just too many factors in play for me to narrow the price down further than between $630 and $850. I think the fact that the ODG R8 has been rumored to be seeking a below 1k price point and possibly a below $700 price point could reduce the chances that Samsung’s new headset will cost $999. Samsung being a giant phone maker may have the ability to get the price subsidized as a phone if they include a version of it that has 5G wireless.",
+   "image": "/wiki/svgn/articles/media/svgn-88471221/005.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "Qualcomm Snapdragon 855 hasn’t yet been officially announced but here is some information",
+   "body": "Qualcomm Snapdragon 855 hasn’t yet been officially announced but here is some information about it. https://www.androidauthority.com/qualcomm-snapdragon-855-912505/\n\nSnapdragon 855 to have octa-core design, December reveal in Hawaii? Qualcomm's next flagship processor will reportedly have an octa-core design. The heavyweight cores are said to run at… www.androidauthority.com\n\nDon’t miss this interview with Brandon Jones about WebXR WebVR and WebAR application development and the Oculus Quest, and the Lenovo Mirage Solo which is a standalone Google Daydream device that is going to support two 6dof motion controllers much like this device that I predict Samsung is going to announce at SDC 2018 https://medium.com/silicon-valley-global-news/brandon-jones-on-webxr-graphics-oculus-quest-location-based-social-networking-pokemon-go-and-b42b7db216bc",
+   "image": ""
+  },
+  {
+   "seq": 17,
+   "headline": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon",
+   "body": "Brandon Jones on WebXR Graphics, Oculus Quest, Location Based Social Networking, Pokemon Go, and… At Oculus Connect 5 I spoke to Brandon Jones from Google about the WebXR spec and standalone VR devices. WebXR is a term that references… medium.com",
+   "image": ""
+  },
+  {
+   "seq": 18,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Megacity will bring vast immensely detailed game worlds to standalone XR devices like Oculus Quest…]] · [[Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-4e376bc97fbc",
+     "title": "Megacity will bring vast immensely detailed game worlds to standalone XR devices like Oculus Quest…"
+    },
+    {
+     "id": "vrma-4b4d42e35558",
+     "title": "Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com"
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-8916d80e0339",
+     "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+    }
+   ]
+  }
+ ]
+}

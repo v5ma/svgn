@@ -1,0 +1,360 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472076",
+ "title": "NeurotechSF + SF VR 360 + Noisebridge",
+ "dek": "Announcing a NeurotechSF event every other Friday at Noisebridge from 7pm to 9pm",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-02-03",
+ "articleHref": "/wiki/svgn/articles/2018-02-03-neurotechsf-sf-vr-360-noisebridge-vrma-91a34d788a5d",
+ "sourceUrl": "https://www.svgn.io/p/neurotechsf-sf-vr-360-noisebridge-91a34d788a5d",
+ "topTerms": [
+  "noisebridge",
+  "vive",
+  "headset",
+  "project",
+  "projects",
+  "beat",
+  "want",
+  "neurotechsf"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-91a34d788a5d",
+   "title": "NeurotechSF + SF VR 360 + Noisebridge"
+  },
+  {
+   "id": "vrma-e4b76ce970cb",
+   "title": "I tried both the ‘Lynx R1 Headset’ & the ‘pico neo 3’ VR."
+  },
+  {
+   "id": "vrma-96489ecfd086",
+   "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+  },
+  {
+   "id": "vrma-8916d80e0339",
+   "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "NeurotechSF + SF VR 360 + Noisebridge",
+   "body": "Announcing a NeurotechSF event every other Friday at Noisebridge from 7pm to 9pm",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "by Micah Blumberg, Neurohaxor at VRMA.io\n\nOne project that I care deeply about is",
+   "body": "by Micah Blumberg, Neurohaxor at VRMA.io\n\nOne project that I care deeply about is adapting the OpenBCI headset to fit the HTC Vive Pro headset, similar to how Neurable EEG Headset was built to fit the HTC Vive. The difference is that we will have an open source 3D printed hardware and open source software. This will allow us to have the flexibility to integrate different sensor systems as they become available. I’m interested in making an OpenEIT Electrical Impedience Tomography headset that fits the HTC Vive as the follow up project, and there are plenty more projects like that.\n\nI’m also with a developer called Vision Agency that makes MicrodoseVR.com and we have already built an application that uses the Muse EEG faceplate for HTC Vive to track your heart beat and make the graphics in the VR app pulse with the beat of your heart. So this project is a continuation of that sort of thinking, of combining Brain Computer Interfaces, with VR, AR, with deep learning neural networks and perhaps also with the blockchain. We have lots of great ideas. I hope you will come to Noisebridge in San Francisco for conversation on Wednesday and for a Guild Night on Friday’s to work on projects that we all care about.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Longer description",
+   "body": "Details\n\nGoal #1 Adapt OpenBCI hardware to fit the HTC Vive and or HTC Vive Pro (in the midst of acquiring one)\n\nThis project is about combining Brain Computer Interfaces, with VR, AR hardware, with deep learning neural networks, and more.\n\nThe first chapter of this project is about adapting the OpenBCI headset to fit the HTC Vive Pro headset, similar to how Neurable EEG Headset was built to fit the HTC Vive. The difference is that we will have an open source 3D printed hardware and open source software.\n\nThis will allow us to have the flexibility to integrate different sensor systems as they become available. I’m interested in making an OpenEIT Electrical Impedience Tomography headset that fits the HTC Vive as the follow up project, and there are plenty more projects like that.",
+   "image": ""
+  },
+  {
+   "seq": 4,
+   "headline": "I also represent a developer called the Vision Agency that makes MicrodoseVR at",
+   "body": "I also represent a developer called the Vision Agency that makes MicrodoseVR at MicrodoseVR.com and our team has already built an application that uses the Muse EEG faceplate for HTC Vive to track your heart beat and make the graphics in the VR app pulse with the beat of your heart.",
+   "image": ""
+  },
+  {
+   "seq": 5,
+   "headline": "Hardware",
+   "body": "If you have Cytons, Shields, and sensors that we can borrow that is a great start for us!\n\nI want to explore how we can integrate other types of sensors beside EEG.\n\nDo you know anyone who has experience creating 3D designs so that we could create a 3D printed headset that fits the HTC Vive and supports the sensors as well as the Cyton and Wifi Shield?",
+   "image": ""
+  },
+  {
+   "seq": 6,
+   "headline": "Software",
+   "body": "We would like to build support for this in both Unity and Unreal Engine.\n\nThere are a couple of different approaches I am thinking about on the software end, a friend of mine is making pointclouds that are neural networks, so I want to send EEG signals into that point cloud neural network so that its visual changes are a reflection of our EEG waves, in addition to that I want to encode the light and the sound with binaural beat or isochronic beat patterns so it’s very stimulating, but also EEG driven.\n\n• What to bring It would be good to bring your laptop, pens, notebooks, anything you want to bring really, no requirements.\n\n• Important to know We are inviting the NeurotechSF group to join the Neuroscience Dream Team for their meetup every Wednesday from 8pm to 10pm, but that is for conversation, and we do not have operational control over that. This Friday event is our Guild night to work on projects that we want to work on and organize it our way.",
+   "image": ""
+  },
+  {
+   "seq": 7,
+   "headline": "Add your contact information to this form\n\nEvents are posted on 3 meetup",
+   "body": "Add your contact information to this form\n\nEvents are posted on 3 meetup pages\n\nNeuroTechSF What we'll do NeurotechSF Every other Friday at Noisebridge from 7pm to 9pm Join NeurotechSF at Noisebridge every other… www.meetup.com\n\nSF Virtual Reality What we'll do * What we'll do I'm going to host a weekly NeurotechSF event on Friday's at Noisebridge from 7pm to 9pm… www.meetup.com\n\nNoisebridge Hackerspace We are Noisebridge. Noisebridge is a hackerspace for technical-creative projects, doocratically run by our members. We… www.meetup.com\n\nWe are posting details on the Noisebridge wiki\n\nNoisebridge We are Noisebridge. Noisebridge is a hackerspace for technical-creative projects, doocratically run by everyone. We are… www.noisebridge.net",
+   "image": ""
+  },
+  {
+   "seq": 8,
+   "headline": "NeurotechX Slack group\n\nJoin NeuroTechX on Slack!",
+   "body": "NeurotechX Slack group\n\nJoin NeuroTechX on Slack! Edit description neurotechx.herokuapp.com",
+   "image": ""
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/001.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/003.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/005.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/007.jpg"
+  },
+  {
+   "seq": 13,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/009.jpg"
+  },
+  {
+   "seq": 14,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/011.jpg"
+  },
+  {
+   "seq": 15,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/013.jpg"
+  },
+  {
+   "seq": 16,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/015.jpg"
+  },
+  {
+   "seq": 17,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/017.jpg"
+  },
+  {
+   "seq": 18,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/019.jpg"
+  },
+  {
+   "seq": 19,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/021.jpg"
+  },
+  {
+   "seq": 20,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/023.jpg"
+  },
+  {
+   "seq": 21,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/025.jpg"
+  },
+  {
+   "seq": 22,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/027.jpg"
+  },
+  {
+   "seq": 23,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/029.jpg"
+  },
+  {
+   "seq": 24,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/031.jpg"
+  },
+  {
+   "seq": 25,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/033.jpg"
+  },
+  {
+   "seq": 26,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/035.jpg"
+  },
+  {
+   "seq": 27,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/037.jpg"
+  },
+  {
+   "seq": 28,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/039.jpg"
+  },
+  {
+   "seq": 29,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/041.jpg"
+  },
+  {
+   "seq": 30,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/043.jpg"
+  },
+  {
+   "seq": 31,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/045.jpg"
+  },
+  {
+   "seq": 32,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/047.jpg"
+  },
+  {
+   "seq": 33,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/049.jpg"
+  },
+  {
+   "seq": 34,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/051.jpg"
+  },
+  {
+   "seq": 35,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/053.jpg"
+  },
+  {
+   "seq": 36,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/055.jpg"
+  },
+  {
+   "seq": 37,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/057.jpg"
+  },
+  {
+   "seq": 38,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/059.jpg"
+  },
+  {
+   "seq": 39,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/061.jpg"
+  },
+  {
+   "seq": 40,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/063.jpg"
+  },
+  {
+   "seq": 41,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/065.jpg"
+  },
+  {
+   "seq": 42,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/067.jpg"
+  },
+  {
+   "seq": 43,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/069.jpg"
+  },
+  {
+   "seq": 44,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/071.jpg"
+  },
+  {
+   "seq": 45,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/073.jpg"
+  },
+  {
+   "seq": 46,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/075.jpg"
+  },
+  {
+   "seq": 47,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/077.jpg"
+  },
+  {
+   "seq": 48,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/079.jpg"
+  },
+  {
+   "seq": 49,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472076/081.jpg"
+  },
+  {
+   "seq": 50,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[NeurotechSF + SF VR 360 + Noisebridge]] · [[I tried both the ‘Lynx R1 Headset’ & the ‘pico neo 3’ VR.]] · [[Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta.]] · [[Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-91a34d788a5d",
+     "title": "NeurotechSF + SF VR 360 + Noisebridge"
+    },
+    {
+     "id": "vrma-e4b76ce970cb",
+     "title": "I tried both the ‘Lynx R1 Headset’ & the ‘pico neo 3’ VR."
+    },
+    {
+     "id": "vrma-96489ecfd086",
+     "title": "Shores of Loci is a must get App Lab experience for the Meta Quest Virtual Reality headset by Meta."
+    },
+    {
+     "id": "vrma-8916d80e0339",
+     "title": "Think Reality A3 AR Smart Glasses, the Tilt Five AR headset, and the Steam Deck which I think is an…"
+    }
+   ]
+  }
+ ]
+}

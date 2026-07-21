@@ -1,0 +1,78 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472254",
+ "title": "The industry term is XR, MR is something being used by the Microsoft brand. Make a note of it.",
+ "dek": "The industry term is XR, MR is something being used by the Microsoft brand. Make a note of it. By SVGN.io on January 12, 2018 . Exported from Medium on May 22, 2026.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-01-12",
+ "articleHref": "/wiki/svgn/articles/2018-01-12-the-industry-term-is-xr-mr-is-something-being-used-by-the-microsoft-brand-make-a-note--vrma-78bd4164111b",
+ "sourceUrl": "https://www.svgn.io/p/the-industry-term-is-xr-mr-is-something-being-used-by-the-microsoft-brand-make-a-note-of-it-78bd4164111b",
+ "topTerms": [
+  "industry",
+  "term",
+  "something",
+  "being",
+  "used",
+  "microsoft",
+  "brand",
+  "note"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-78bd4164111b",
+   "title": "The industry term is XR, MR is something being used by the Microsoft brand. Make a note of it."
+  },
+  {
+   "id": "vrma-cd371d4c649",
+   "title": "The AR VR industry massively disrupted by the Coronavirus"
+  },
+  {
+   "id": "vrma-2fcb84037d77",
+   "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+  },
+  {
+   "id": "vrma-4b4d42e35558",
+   "title": "Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "The industry term is XR, MR is something being used by the Microsoft brand. Make a note of it.",
+   "body": "The industry term is XR, MR is something being used by the Microsoft brand. Make a note of it. By SVGN.io on January 12, 2018 . Exported from Medium on May 22, 2026.",
+   "image": "",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "The industry term is XR, MR is something being used by the Microsoft brand.",
+   "body": "The industry term is XR, MR is something being used by the Microsoft brand. Make a note of it.",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[The industry term is XR, MR is something being used by the Microsoft brand. Make a note of it.]] · [[The AR VR industry massively disrupted by the Coronavirus]] · [[At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…]] · [[Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-78bd4164111b",
+     "title": "The industry term is XR, MR is something being used by the Microsoft brand. Make a note of it."
+    },
+    {
+     "id": "vrma-cd371d4c649",
+     "title": "The AR VR industry massively disrupted by the Coronavirus"
+    },
+    {
+     "id": "vrma-2fcb84037d77",
+     "title": "At XRDC I tried the new Samsung Odyssey+ with Microsoft’s new Mixed Reality software tool for…"
+    },
+    {
+     "id": "vrma-4b4d42e35558",
+     "title": "Samsung Odyssey a premium VR headset hits the price floor at Microsoft.com"
+    }
+   ]
+  }
+ ]
+}

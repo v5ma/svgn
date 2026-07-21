@@ -1,0 +1,124 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88472401",
+ "title": "XR Connects",
+ "dek": "The VR+AR+MR conference, from the makers of Pocket Gamer Connects.",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2018-01-22",
+ "articleHref": "/wiki/svgn/articles/2018-01-22-xr-connects-vrma-67f65156bd9f",
+ "sourceUrl": "https://www.svgn.io/p/xr-connects-67f65156bd9f",
+ "topTerms": [
+  "connects",
+  "london",
+  "conference",
+  "dave",
+  "great",
+  "pocket",
+  "gamer",
+  "bradley"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-67f65156bd9f",
+   "title": "XR Connects"
+  },
+  {
+   "id": "vrma-17c4067a648e",
+   "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+  },
+  {
+   "id": "vrma-26bcbe42a54a",
+   "title": "“How the Oculus Rift Pre-order Scandal connects to Microsoft Xbox Two, and why Oculus Touch might…"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "XR Connects",
+   "body": "The VR+AR+MR conference, from the makers of Pocket Gamer Connects.",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "London 22–23 Jan",
+   "body": "Dave Bradley writes “ We’ve got an event in London (UK) next week, 22–23 Jan, which I think would be of great interest to your group’s members. It’s XR Connects, the VR+AR+MR conference, from the makers of Pocket Gamer Connects. It’s a professional conference for people working in the VR+AR+MR scene. There are talks, panels, workshops, an expo area, meeting system, pitching competition for indie VR game developers, a party etc. Great for networking as well as learning. You can see who’s speaking here: http://www.xrconnects.com/london/speakers/\n\nThis exclusive code will give your friends a massive 40% off the ticket price.\n\nThanks! Dave\n\nPG / XR / PC Connects London 2018 Pocket Gamer Connects — THE Global Mobile Games Industry Conference NOW FEATURING XR & PC CONNECTS We launched Steel… www.eventbrite.co.uk",
+   "image": ""
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/001.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/003.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/005.jpg"
+  },
+  {
+   "seq": 6,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/007.jpg"
+  },
+  {
+   "seq": 7,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/009.jpg"
+  },
+  {
+   "seq": 8,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/011.jpg"
+  },
+  {
+   "seq": 9,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/013.jpg"
+  },
+  {
+   "seq": 10,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/015.jpg"
+  },
+  {
+   "seq": 11,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88472401/017.jpg"
+  },
+  {
+   "seq": 12,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[XR Connects]] · [[GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY]] · [[“How the Oculus Rift Pre-order Scandal connects to Microsoft Xbox Two, and why Oculus Touch might…]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-67f65156bd9f",
+     "title": "XR Connects"
+    },
+    {
+     "id": "vrma-17c4067a648e",
+     "title": "GTI 2017 GPU Technology Conference, The Neural Lace Podcast #5 Guest Jules Urbach, CEO at OTOY"
+    },
+    {
+     "id": "vrma-26bcbe42a54a",
+     "title": "“How the Oculus Rift Pre-order Scandal connects to Microsoft Xbox Two, and why Oculus Touch might…"
+    }
+   ]
+  }
+ ]
+}

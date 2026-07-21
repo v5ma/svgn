@@ -1,0 +1,90 @@
+{
+ "schema": "svgn.designed_deck.v1",
+ "id": "svgn-88470821",
+ "title": "Roe Visual, Vicon, Unreal Engine used to make AR walls for the new Star Wars: Obi-wan Kenobi Series.",
+ "dek": "At GDC 2022 I received a demo of two technologies that are being used to film the Kenobi series. The same technology is also being used to…",
+ "designed": true,
+ "designerNote": "Lossless article deck: every paragraph, heading, quote, and image from the hosted story, in document order. Compiled 2026-07-16.",
+ "publishedAt": "2022-03-29",
+ "articleHref": "/wiki/svgn/articles/2022-03-29-roe-visual-vicon-unreal-engine-used-to-make-ar-walls-for-the-new-star-wars-obi-wan-ken-vrma-44e5a4446d5c",
+ "sourceUrl": "https://www.svgn.io/p/roe-visual-vicon-unreal-engine-used-to-make-ar-walls-for-the-new-star-wars-obi-wan-kenobi-series-44e5a4446d5c",
+ "topTerms": [
+  "series",
+  "created",
+  "behind",
+  "actors",
+  "film",
+  "making",
+  "look",
+  "amazing"
+ ],
+ "relatedDecks": [
+  {
+   "id": "vrma-f548ef208efd",
+   "title": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…"
+  },
+  {
+   "id": "vrma-44e5a4446d5c",
+   "title": "Roe Visual, Vicon, Unreal Engine used to make AR walls for the new Star Wars: Obi-wan Kenobi Series."
+  },
+  {
+   "id": "vrma-bb525f669c83",
+   "title": "Watch this Amazing Magic Leap review!"
+  },
+  {
+   "id": "vrma-384e626b2443",
+   "title": "CascadeSF is a fantastic event series! (Photos that you can use/share at he bottom)"
+  }
+ ],
+ "slides": [
+  {
+   "seq": 1,
+   "headline": "Roe Visual, Vicon, Unreal Engine used to make AR walls for the new Star Wars: Obi-wan Kenobi Series.",
+   "body": "At GDC 2022 I received a demo of two technologies that are being used to film the Kenobi series. The same technology is also being used to…",
+   "image": "/wiki/svgn/articles/media/svgn-88470821/000.jpg",
+   "lede": true
+  },
+  {
+   "seq": 2,
+   "headline": "To make the tv series look amazing the Obi-wan Series will use Unreal Engine to put a set",
+   "body": "To make the tv series look amazing the Obi-wan Series will use Unreal Engine to put a set that was created inside a computer behind live actors during the film making of the new series. The background behind the actors will change depending on the camera position for maximum realism, and more efficient real time film making.\n\nJason Gabelsberg walks Micah (in the yellow hoodie) through the Motion Capture System created by Academy Award Winner Vicon.\n\nThe Disney Go series will also use Roe Visual LED Walls, check out my demo of the AR Wall in action here.",
+   "image": "/wiki/svgn/articles/media/svgn-88470821/001.jpg"
+  },
+  {
+   "seq": 3,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470821/003.jpg"
+  },
+  {
+   "seq": 4,
+   "headline": "",
+   "body": "",
+   "image": "/wiki/svgn/articles/media/svgn-88470821/005.jpg"
+  },
+  {
+   "seq": 5,
+   "headline": "Connected stories in the SVGN graph",
+   "body": "[[Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…]] · [[Roe Visual, Vicon, Unreal Engine used to make AR walls for the new Star Wars: Obi-wan Kenobi Series.]] · [[Watch this Amazing Magic Leap review!]] · [[CascadeSF is a fantastic event series! (Photos that you can use/share at he bottom)]]",
+   "image": "",
+   "relatedDecks": [
+    {
+     "id": "vrma-f548ef208efd",
+     "title": "Cosmonios High is a comical classroom setting created for an open ended character driven Virtual…"
+    },
+    {
+     "id": "vrma-44e5a4446d5c",
+     "title": "Roe Visual, Vicon, Unreal Engine used to make AR walls for the new Star Wars: Obi-wan Kenobi Series."
+    },
+    {
+     "id": "vrma-bb525f669c83",
+     "title": "Watch this Amazing Magic Leap review!"
+    },
+    {
+     "id": "vrma-384e626b2443",
+     "title": "CascadeSF is a fantastic event series! (Photos that you can use/share at he bottom)"
+    }
+   ]
+  }
+ ]
+}
