@@ -50,6 +50,7 @@ From this repository:
 npm run sync
 npm run manifest
 npm run validate
+npm run install-site -- --site-root "D:/path/to/wiki/svgn"
 ```
 
 `sync` imports the exact currently hosted public corpus and Fable card decks
@@ -57,3 +58,7 @@ from the sibling `v5ma.github.io` checkout. It never deploys or pushes.
 `manifest` rebuilds the hashes and index from this repository, making the
 GitHub-first authoring direction independent of the old website archive.
 `validate` proves file identity, hashes, article ids, and card-deck contracts.
+`install-site` copies the validated exact HTML and designed card decks into an
+SVGN.io source checkout and updates its hosted-article manifest. Cloudflare can
+run this during a build after checking out this corpus; browsers never need to
+fetch raw GitHub files at page-view time.
