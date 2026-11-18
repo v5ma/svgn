@@ -1,6 +1,6 @@
 {
   "schema": "svgn.public_corpus.v2",
-  "generatedAt": "2026-11-18T15:51:19.802Z",
+  "generatedAt": "2026-11-18T16:03:53.130Z",
   "policy": {
     "exactArticle": "HTML",
     "searchableProjection": "Markdown",
@@ -5717,12 +5717,30 @@
       "canonical": "https://svgn.io/p/ai-money-go-round-openai-anthropic-nvidia-circular-financing",
       "historicalAudience": "everyone",
       "article": "content/articles/2026-11-18-ai-money-go-round-openai-anthropic-nvidia-circular-financing.html",
-      "articleSha256": "5c5510642db8bdba441f6468241e0c5675a7e60ac76c90a6043b77ba3413337f",
+      "articleSha256": "1d12c212280d4381f94d81ff1e67117426164d6bf49e066ba1b6ace88f65085f",
       "markdown": "content/stories/2026-11-18-ai-money-go-round-openai-anthropic-nvidia-circular-financing.md",
-      "markdownSha256": "cafe00672f5756cc4e03b5ab009d5bf25bde95b251b477288cb2ab3866ad27b5",
+      "markdownSha256": "b7b055a3280de30fe7c3010849ad06a5aba3a3037e317321db95e6a11a5626db",
       "cards": "content/cards/svgn-2026111801.json",
-      "cardsSha256": "790cf00c4d55e06d834ad05553a16b975bd88863111df159dac78315542cd808",
-      "cardCount": 30
+      "cardsSha256": "b7035ae316cb6c52f85af439f9adfe2e111ceff44299ff9ad9e36999b7056295",
+      "cardCount": 31,
+      "media": [
+        {
+          "path": "content/articles/media/svgn-2026111801/ai-money-go-round.webp",
+          "sha256": "7e4179353035697429410f336cec9234b17a55fb0f7467beb83649afa4dc6504"
+        },
+        {
+          "path": "content/articles/media/svgn-2026111801/credits.json",
+          "sha256": "e08103f686f37235ae01c4c361a5310c9746a4159df3904195bcdec03afae2c7"
+        },
+        {
+          "path": "content/articles/media/svgn-2026111801/nvidia-headquarters.jpg",
+          "sha256": "80efa50b06a80048f59a14bc02d845f9e853a89b38ddb5c9484c07e3ca3cd5ef"
+        }
+      ],
+      "hero": {
+        "path": "content/articles/media/svgn-2026111801/nvidia-headquarters.jpg",
+        "alt": "Nvidia’s glass-fronted headquarters behind a broad entrance stairway and landscaped slopes, with the Nvidia name on a sign at right."
+      }
     }
   ]
 }

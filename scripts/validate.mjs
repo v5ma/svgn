@@ -37,6 +37,11 @@ for (const record of manifest.records) {
     paths.add(value);
   }
 
+  for (const asset of record.media || []) {
+    if (!asset.path || path.isAbsolute(asset.path) || asset.path.includes("..") || !asset.path.startsWith(`content/articles/media/${record.id}/`)) fail(`unsafe media path: ${record.id}`);
+    if (sha256(fs.readFileSync(path.join(repo, asset.path))) !== asset.sha256) fail(`media hash mismatch: ${asset.path}`);
+  }
+  if (record.hero && !(record.media || []).some((asset) => asset.path === record.hero.path)) fail(`hero missing from media: ${record.id}`);
   const articlePath = path.join(repo, record.article);
   const article = fs.readFileSync(articlePath);
   if (sha256(article) !== record.articleSha256) fail(`article hash mismatch: ${record.id}`);

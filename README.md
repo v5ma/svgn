@@ -62,3 +62,7 @@ GitHub-first authoring direction independent of the old website archive.
 SVGN.io source checkout and updates its hosted-article manifest. Cloudflare can
 run this during a build after checking out this corpus; browsers never need to
 fetch raw GitHub files at page-view time.
+
+## New article media
+
+New lightweight article assets may be committed under `content/articles/media/<article-id>/` with a `credits.json` provenance record. The manifest builder hashes these assets, identifies the authentic subject-photo hero, and the installer copies verified media to the same-origin `articles/media/` location. The photo should be the Markdown hero, first body image and lead-card image; explanatory infographics remain separate. Source hero metadata does not establish that a live catalog has synchronized it.

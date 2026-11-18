@@ -51,6 +51,12 @@ for (const record of manifest.records) {
   if (sha256(article) !== record.articleSha256) throw new Error(`article hash mismatch: ${record.id}`);
   if (sha256(cards) !== record.cardsSha256) throw new Error(`card hash mismatch: ${record.id}`);
 
+  for (const asset of record.media || []) {
+    if (!asset.path || path.isAbsolute(asset.path) || asset.path.includes("..") || !asset.path.startsWith(`content/articles/media/${record.id}/`)) throw new Error(`unsafe media path: ${record.id}`);
+    const bytes = fs.readFileSync(path.join(corpus, asset.path));
+    if (sha256(bytes) !== asset.sha256) throw new Error(`media hash mismatch: ${asset.path}`);
+    if (!dryRun) atomicWrite(path.join(siteRoot, asset.path.replace(/^content\//, "")), bytes);
+  }
   const articleName = path.basename(record.article);
   const articleTarget = path.join(siteRoot, "articles", articleName);
   const cardTarget = path.join(siteRoot, "cards/designed", `${record.id}.json`);

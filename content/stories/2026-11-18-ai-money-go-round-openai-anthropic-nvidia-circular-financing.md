@@ -9,12 +9,18 @@ audience: "everyone"
 type: "news-analysis"
 topics: ["AI", "Nvidia", "OpenAI", "Anthropic", "circular financing"]
 related: []
-images: 0
+images: 2
+hero: "../articles/media/svgn-2026111801/nvidia-headquarters.jpg"
+hero_alt: "Nvidia’s glass-fronted headquarters behind a broad entrance stairway and landscaped slopes, with the Nvidia name on a sign at right."
 ---
 
 # The AI Money-Go-Round: Real Companies, Circular Financing, and the “Hybrid Scam” Question
 
 *Nvidia, OpenAI, Anthropic and their cloud partners are building real businesses. Their interlocking investments and infrastructure commitments raise a different question: how much of the apparent demand can sustain itself without another round of financing?*
+
+![Nvidia’s glass-fronted headquarters behind a broad entrance stairway and landscaped slopes, with the Nvidia name on a sign at right.](../articles/media/svgn-2026111801/nvidia-headquarters.jpg)
+
+*Nvidia’s headquarters in Santa Clara, California, photographed in August 2018. Archival photograph. Photo: [Coolcaesar / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); perspective/crop edits by Jacek Halicki.*
 
 The defense of the AI investment boom often begins with something undeniable: the chips exist, the data centers are being built, and customers use the software. But that defense leaves a financial question unanswered. What happens when companies selling the infrastructure also invest in its buyers, guarantee their obligations, or promise to purchase capacity that those buyers cannot sell elsewhere?
 
@@ -29,6 +35,12 @@ Consider a hypothetical supplier that invests $10 billion in a customer. The cus
 The supplier has exchanged cash for an investment asset and subsequently received cash from selling equipment. It has not magically earned back its investment risk: it still holds the customer’s equity, which can lose value, while the customer must make the equipment productive. Gross revenue also says nothing by itself about the supplier’s profit after production costs.
 
 If the customer raises money at a higher valuation, its investors may also record an increase in investment value under the applicable accounting treatment. That gain and the equipment sale are different entries. Counting both as evidence of independently proven customer demand would be analytically misleading even when both entries are properly reported.
+
+![Conceptual illustration: suppliers invest in clouds and AI labs, which pay suppliers for chips and cloud services. End customers receive AI services and make a distinct payment stream. Dashed guarantees represent contingent support, not cash already paid. Sales revenue differs from investment gains; ribbon widths do not represent dollar amounts.](../articles/media/svgn-2026111801/ai-money-go-round.webp)
+
+*An illustration of supplier-backed financing and the separate flow of end-customer payments. Guarantees are contingent support, not cash already paid; ribbon widths do not represent dollar amounts. Illustration: SVGN.io.*
+
+The illustration distinguishes three relationships: investment funding, purchases from suppliers, and payments from end customers. Dashed guarantees add contingent exposure rather than a second cash transfer. The article’s figures cannot be inferred from the sizes of these arrows.
 
 ## Nvidia is helping underwrite the market it supplies
 

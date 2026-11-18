@@ -55,6 +55,15 @@ for (const name of fs.readdirSync(articleDir).filter((n) => n.endsWith(".html"))
 
   const markdownPath = markdownById.get(id) || null;
   const markdownBuffer = markdownPath ? fs.readFileSync(markdownPath) : null;
+  const mediaDir = path.join(articleDir, "media", id);
+  const media = fs.existsSync(mediaDir) ? fs.readdirSync(mediaDir).sort().map((name) => {
+    const full = path.join(mediaDir, name);
+    if (!fs.statSync(full).isFile()) throw new Error(`unexpected media directory: ${full}`);
+    return { path: relative(full), sha256: sha256(fs.readFileSync(full)) };
+  }) : [];
+  const creditsPath = path.join(mediaDir, "credits.json");
+  const visualAssets = fs.existsSync(creditsPath) ? JSON.parse(fs.readFileSync(creditsPath, "utf8")).assets : [];
+  const hero = visualAssets.find((asset) => asset.role === "subject-photo" || asset.role === "documentary-screenshot");
   records.push({
     id,
     title: decode(textValue(html, /<h1[^>]*>([\s\S]*?)<\/h1>/i).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()),
@@ -68,7 +77,8 @@ for (const name of fs.readdirSync(articleDir).filter((n) => n.endsWith(".html"))
     markdownSha256: markdownBuffer ? sha256(markdownBuffer) : null,
     cards: relative(cardPath),
     cardsSha256: sha256(cardBuffer),
-    cardCount: card.slides.length
+    cardCount: card.slides.length,
+    ...(media.length ? { media, hero: hero ? { path: hero.path, alt: hero.alt } : null } : {})
   });
 }
 

@@ -1,0 +1,39 @@
+{
+  "article_id": "svgn-2026111801",
+  "assets": [
+    {
+      "path": "content/articles/media/svgn-2026111801/nvidia-headquarters.jpg",
+      "role": "subject-photo",
+      "alt": "Nvidia’s glass-fronted headquarters behind a broad entrance stairway and landscaped slopes, with the Nvidia name on a sign at right.",
+      "caption": "Nvidia’s headquarters in Santa Clara, California, photographed in August 2018. Archival photograph. Photo: [Coolcaesar / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); perspective/crop edits by Jacek Halicki.",
+      "sha256": "80efa50b06a80048f59a14bc02d845f9e853a89b38ddb5c9484c07e3ca3cd5ef",
+      "width": 1280,
+      "height": 783,
+      "creator_credit": "Coolcaesar; edits by Jacek Halicki",
+      "rights": "CC BY-SA 4.0",
+      "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg",
+      "asset_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NVIDIA_Headquarters.jpg/1280px-NVIDIA_Headquarters.jpg",
+      "retrieved_at": "2026-11-18",
+      "modifications": "No new visual modifications. Current Commons revision includes Jacek Halicki chromatic-aberration/perspective/crop edits. Preview is Commons-generated resize.",
+      "documentary_evidence": false
+    },
+    {
+      "path": "content/articles/media/svgn-2026111801/ai-money-go-round.webp",
+      "role": "infographic",
+      "alt": "Conceptual illustration: suppliers invest in clouds and AI labs, which pay suppliers for chips and cloud services. End customers receive AI services and make a distinct payment stream. Dashed guarantees represent contingent support, not cash already paid. Sales revenue differs from investment gains; ribbon widths do not represent dollar amounts.",
+      "caption": "An illustration of supplier-backed financing and the separate flow of end-customer payments. Guarantees are contingent support, not cash already paid; ribbon widths do not represent dollar amounts. Illustration: SVGN.io.",
+      "sha256": "7e4179353035697429410f336cec9234b17a55fb0f7467beb83649afa4dc6504",
+      "width": 1086,
+      "height": 1448,
+      "creator_credit": "SVGN.io",
+      "rights": "Original editorial illustration commissioned for SVGN.io",
+      "rights_url": null,
+      "source_page": null,
+      "asset_url": null,
+      "retrieved_at": "2026-11-18",
+      "modifications": "WebP publication conversion of original illustration; no content edits",
+      "documentary_evidence": false
+    }
+  ]
+}
