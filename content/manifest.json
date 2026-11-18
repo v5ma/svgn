@@ -1,13 +1,13 @@
 {
   "schema": "svgn.public_corpus.v2",
-  "generatedAt": "2026-07-21T18:41:25.648Z",
+  "generatedAt": "2026-11-18T15:51:19.802Z",
   "policy": {
     "exactArticle": "HTML",
     "searchableProjection": "Markdown",
     "spatialProjection": "svgn.designed_deck.v1 JSON",
     "runtime": "Synchronize at build/deploy time; do not fetch GitHub from every visitor browser."
   },
-  "articleCount": 380,
+  "articleCount": 381,
   "records": [
     {
       "id": "svgn-88471442",
@@ -5708,6 +5708,21 @@
       "cards": "content/cards/svgn-203786008.json",
       "cardsSha256": "9a616b7e9476dde00816a1a30d32a6a783fa2dfa7ba5bf67c2e15a153ec203eb",
       "cardCount": 23
+    },
+    {
+      "id": "svgn-2026111801",
+      "title": "The AI Money-Go-Round: Real Companies, Circular Financing, and the “Hybrid Scam” Question",
+      "slug": "ai-money-go-round-openai-anthropic-nvidia-circular-financing",
+      "date": "2026-11-18",
+      "canonical": "https://svgn.io/p/ai-money-go-round-openai-anthropic-nvidia-circular-financing",
+      "historicalAudience": "everyone",
+      "article": "content/articles/2026-11-18-ai-money-go-round-openai-anthropic-nvidia-circular-financing.html",
+      "articleSha256": "5c5510642db8bdba441f6468241e0c5675a7e60ac76c90a6043b77ba3413337f",
+      "markdown": "content/stories/2026-11-18-ai-money-go-round-openai-anthropic-nvidia-circular-financing.md",
+      "markdownSha256": "cafe00672f5756cc4e03b5ab009d5bf25bde95b251b477288cb2ab3866ad27b5",
+      "cards": "content/cards/svgn-2026111801.json",
+      "cardsSha256": "790cf00c4d55e06d834ad05553a16b975bd88863111df159dac78315542cd808",
+      "cardCount": 30
     }
   ]
 }
