@@ -1,0 +1,45 @@
+{
+  "article_id": "svgn-2026111802",
+  "assets": [
+    {
+      "path": "content/articles/media/svgn-2026111802/no-mans-sky-planet.jpg",
+      "role": "documentary-screenshot",
+      "alt": "A spacecraft rests among layered rock formations on an alien desert planet, with another world visible in the blue sky.",
+      "caption": "A representative No Man’s Sky planetary landscape from Hello Games’ legacy press gallery; capture date and game build are unspecified. Screenshot: [Hello Games](https://www.nomanssky.com/press/).",
+      "creator_credit": "Hello Games",
+      "rights": "Copyrighted official press-kit screenshot; narrow editorial-use rationale, not an open license.",
+      "rights_url": "https://www.nomanssky.com/press/",
+      "source_page": "https://www.nomanssky.com/press/",
+      "asset_url": "https://www.nomanssky.com/media/ip3jqn4j/nms_legacy_16.png",
+      "retrieved_at": "2026-11-18",
+      "modifications": "Converted original 1920×1080 PNG to JPEG at the same dimensions; no crop, retouching or content changes.",
+      "documentary_evidence": true,
+      "ai_generated": false,
+      "rights_review": {
+        "basis": "Supplied directly by the game developer in its labeled Press Kit image gallery. Use one representative screenshot to identify and analyze the game discussed in this news feature, with attribution and a link to the original press source. Not a resale, standalone art product, or claim of endorsement.",
+        "limitations": "The press page contains no explicit blanket reproduction license or Creative Commons declaration. This is a documented editorial-use basis rather than legal clearance. The game EULA allowance for personal noncommercial screenshots is not relied upon as permission for this news publication. Do not label free-to-use."
+      },
+      "sha256": "005898495aa61cb74fd9a9c115d9715ebcff52dc7215eb00a7aebf615cefb197",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "path": "content/articles/media/svgn-2026111802/how-rules-become-worlds.webp",
+      "role": "infographic",
+      "alt": "Conceptual castle cutaway links structure, reachable paths and combat sightlines. A separate planetary terrain scene shows sampled terrain, a surface mesh and nearby detail. Repeating seed and coordinate inputs produce matching example worlds. This is not a disclosed In Death algorithm or proprietary game code.",
+      "caption": "An illustration of two generation challenges: making architectural space playable and continuously building nearby world detail. Castle modules are conceptual examples, not a disclosed In Death algorithm. Illustration: SVGN.io.",
+      "creator_credit": "SVGN.io",
+      "rights": "Original editorial illustration created for SVGN.io",
+      "rights_url": null,
+      "source_page": null,
+      "asset_url": null,
+      "retrieved_at": "2026-11-18",
+      "modifications": "WebP conversion only; no content changes",
+      "documentary_evidence": false,
+      "ai_generated": true,
+      "sha256": "d8557b66a1be03b87c9aace0c0987db5720d671410540ee8487e52aa3ab1549b",
+      "width": 1086,
+      "height": 1448
+    }
+  ]
+}

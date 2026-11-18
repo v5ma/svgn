@@ -1,13 +1,13 @@
 {
   "schema": "svgn.public_corpus.v2",
-  "generatedAt": "2026-11-18T16:47:59.174Z",
+  "generatedAt": "2026-11-18T18:57:43.787Z",
   "policy": {
     "exactArticle": "HTML",
     "searchableProjection": "Markdown",
     "spatialProjection": "svgn.designed_deck.v1 JSON",
     "runtime": "Synchronize at build/deploy time; do not fetch GitHub from every visitor browser."
   },
-  "articleCount": 381,
+  "articleCount": 382,
   "records": [
     {
       "id": "svgn-88471442",
@@ -5744,6 +5744,47 @@
       "hero": {
         "path": "content/articles/media/svgn-2026111801/nvidia-headquarters.jpg",
         "alt": "Nvidia’s glass-fronted headquarters behind a broad entrance stairway and landscaped slopes, with the Nvidia name on a sign at right."
+      }
+    },
+    {
+      "id": "svgn-2026111802",
+      "title": "The Secret Behind Endless Game Worlds Is Less Secret Than It Looks",
+      "slug": "procedural-generation-secrets-in-death-unchained-no-mans-sky",
+      "date": "2026-11-18",
+      "canonical": "https://svgn.io/p/procedural-generation-secrets-in-death-unchained-no-mans-sky",
+      "historicalAudience": "everyone",
+      "article": "content/articles/2026-11-18-procedural-generation-secrets-in-death-unchained-no-mans-sky.html",
+      "articleSha256": "c1eeca1733d135d015ea0122a82e776c49549b256bef96fd71d770fa85df6704",
+      "markdown": "content/stories/2026-11-18-procedural-generation-secrets-in-death-unchained-no-mans-sky.md",
+      "markdownSha256": "38c3c77afd45404e515e8f4c7448b5a6e2f9f35b99374045d6c930ec37abed83",
+      "cards": "content/cards/svgn-2026111802.json",
+      "cardsSha256": "5f2eaa8d05ae02434e3460e3c4e8a96c4eafd890d2904ea9b4c4eda4164bd597",
+      "cardCount": 22,
+      "media": [
+        {
+          "path": "content/articles/media/svgn-2026111802/credits.json",
+          "sha256": "344dfa2e52b3281281ea90e941c8dedeea2542a350a2c95159ce48510d47d08c"
+        },
+        {
+          "path": "content/articles/media/svgn-2026111802/how-rules-become-worlds.webp",
+          "sha256": "d8557b66a1be03b87c9aace0c0987db5720d671410540ee8487e52aa3ab1549b"
+        },
+        {
+          "path": "content/articles/media/svgn-2026111802/no-mans-sky-planet.jpg",
+          "sha256": "005898495aa61cb74fd9a9c115d9715ebcff52dc7215eb00a7aebf615cefb197"
+        },
+        {
+          "path": "content/articles/media/svgn-2026111802/reporting-notes.json",
+          "sha256": "eaf6bf26ecae48763817c5112f32925e70c50d8702590d92c8b5fff8fcb01108"
+        },
+        {
+          "path": "content/articles/media/svgn-2026111802/visual-review.json",
+          "sha256": "119fc4572310987e2cf3986e40fe2cdbf5ca2705a51c490ca13d490e07894627"
+        }
+      ],
+      "hero": {
+        "path": "content/articles/media/svgn-2026111802/no-mans-sky-planet.jpg",
+        "alt": "A spacecraft rests among layered rock formations on an alien desert planet, with another world visible in the blue sky."
       }
     }
   ]

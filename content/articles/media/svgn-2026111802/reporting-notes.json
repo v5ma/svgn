@@ -1,0 +1,29 @@
+{
+  "source_attachment": "Pasted text(20261118-184704).txt",
+  "article_id": "svgn-2026111802",
+  "corrections": [
+    "Correct GDC session URLs; supplied link titles were mismatched.",
+    "No claim of never-repeating levels.",
+    "Build pipeline distinguished from runtime generation.",
+    "Original In Death distinguished from Unchained.",
+    "2017 talk abstracts are not complete current engine specification."
+  ],
+  "source_access": "Official GDC session abstracts, developer interview, official release notes and original Sólfar blog checked; no claim to have watched full videos or inspected proprietary code.",
+  "source_urls": [
+    "https://www.gdcvault.com/play/1024514/Building-Worlds-Using",
+    "https://www.gdcvault.com/play/1024265/Continuous-World-Generation-in-No",
+    "https://www.nomanssky.com/worlds-part-ii-update/",
+    "https://www.nomanssky.com/worlds-part-I-update/",
+    "https://www.uploadvr.com/in-death-unchained-interview/",
+    "https://www.solfar.com/new-blog-avenue"
+  ],
+  "image_generation": {
+    "tool": "built-in imagegen",
+    "purpose": "Original conceptual editorial infographic",
+    "references_inspected": [
+      "SAN-REF-20260905-19",
+      "SAN-REF-20260905-34"
+    ],
+    "proprietary_implementation": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "article_id": "svgn-2026111802",
+  "status": "passed",
+  "reviewed_at": "2026-11-18",
+  "reviewer": "SVGN editorial production review",
+  "scope": "Source/asset editorial review, not owner approval or live deployment.",
+  "checks": {
+    "factual_fidelity": "Game screenshot attributed as representative legacy media, not current build. Illustration castle is expressly conceptual, not claimed proprietary algorithm; deterministic repeatability and separate generation stages accurately simplified.",
+    "rights_and_credit": "Official Hello Games press gallery and supplied asset inspected. No blanket open license found: narrow attributed editorial identification/analysis rationale and limitations recorded, not legal clearance. Original infographic provenance retained.",
+    "editorial_art": "Inspected actual owner refs SAN-REF-20260905-19 and -34, then full new infographic: layered scenes, explanatory cutaway, path and sightline annotations, controlled color. No reference artwork reproduced. Rich original composition, not generic card wall.",
+    "mobile_accessibility": "Full-resolution image and 390px-wide preview inspected. Major headings/callouts readable; fine detail and small footer accessible via full-image link. Key caveats repeated in adjacent caption/text/alt. Full documentary screenshot inspected; no crop."
+  },
+  "limitations": [
+    "Live site deployment, catalog thumbnail and rendering not verified.",
+    "Official press screenshot has editorial-use rationale, not an express blanket reuse license.",
+    "Review is not owner artistic approval.",
+    "Local Chromium article-layout render could not launch in this environment; individual image inspection completed."
+  ],
+  "asset_sha256": {
+    "content/articles/media/svgn-2026111802/no-mans-sky-planet.jpg": "005898495aa61cb74fd9a9c115d9715ebcff52dc7215eb00a7aebf615cefb197",
+    "content/articles/media/svgn-2026111802/how-rules-become-worlds.webp": "d8557b66a1be03b87c9aace0c0987db5720d671410540ee8487e52aa3ab1549b"
+  },
+  "credits_sha256": "344dfa2e52b3281281ea90e941c8dedeea2542a350a2c95159ce48510d47d08c",
+  "content_sha256": {
+    "article": "c1eeca1733d135d015ea0122a82e776c49549b256bef96fd71d770fa85df6704",
+    "cards": "5f2eaa8d05ae02434e3460e3c4e8a96c4eafd890d2904ea9b4c4eda4164bd597",
+    "markdown": "38c3c77afd45404e515e8f4c7448b5a6e2f9f35b99374045d6c930ec37abed83"
+  }
+}

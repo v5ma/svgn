@@ -1,0 +1,156 @@
+{
+  "schema": "svgn.designed_deck.v1",
+  "id": "svgn-2026111802",
+  "title": "The Secret Behind Endless Game Worlds Is Less Secret Than It Looks",
+  "dek": "No Man’s Sky has explained much of its world-generation architecture in public. In Death: Unchained leaves more of its level-making machinery undocumented. The difference matters for anyone building procedural VR.",
+  "designed": true,
+  "designerNote": "Full article paragraphs in document order; sources and conceptual/implementation boundaries preserved.",
+  "publishedAt": "2026-11-18",
+  "articleHref": "/wiki/svgn/articles/2026-11-18-procedural-generation-secrets-in-death-unchained-no-mans-sky",
+  "sourceUrl": "https://svgn.io/p/procedural-generation-secrets-in-death-unchained-no-mans-sky",
+  "topTerms": [
+    "procedural generation",
+    "VR",
+    "No Man’s Sky",
+    "In Death"
+  ],
+  "relatedDecks": [],
+  "slides": [
+    {
+      "seq": 1,
+      "headline": "The Secret Behind Endless Game Worlds Is Less Secret Than It Looks",
+      "body": "No Man’s Sky has explained much of its world-generation architecture in public. In Death: Unchained leaves more of its level-making machinery undocumented. The difference matters for anyone building procedural VR.",
+      "image": "/wiki/svgn/articles/media/svgn-2026111802/no-mans-sky-planet.jpg",
+      "imageAlt": "A spacecraft rests among layered rock formations on an alien desert planet, with another world visible in the blue sky.",
+      "caption": "A representative No Man’s Sky planetary landscape from Hello Games’ legacy press gallery; capture date and game build are unspecified. Screenshot: [Hello Games](https://www.nomanssky.com/press/).",
+      "lede": true
+    },
+    {
+      "seq": 2,
+      "headline": "The Secret Behind Endless Game Worlds Is Less Secret Than It Looks",
+      "body": "A new arrangement of ruined towers, a dangerous route across elevated platforms, or an alien landscape stretching beyond the horizon can make procedural generation feel like a closely guarded trick. The more interesting question is how much of that trick has already been explained well enough for another developer to learn from it.",
+      "image": ""
+    },
+    {
+      "seq": 3,
+      "headline": "The Secret Behind Endless Game Worlds Is Less Secret Than It Looks",
+      "body": "For No Man’s Sky, the answer is substantial. Hello Games has given technical presentations about constructing terrain and continuously generating a planet around the player. For In Death: Unchained, there is direct developer testimony about rebuilding the generation system, but far less public detail about the rules that turn architecture into a playable level.",
+      "image": ""
+    },
+    {
+      "seq": 4,
+      "headline": "The Secret Behind Endless Game Worlds Is Less Secret Than It Looks",
+      "body": "This is a technical feature about an enduring engineering problem, not an announcement that either studio has just released its source code. The useful distinction is between knowing general techniques, understanding a disclosed production architecture, and possessing the complete implementation needed to reproduce a particular game.",
+      "image": ""
+    },
+    {
+      "seq": 5,
+      "headline": "What Hello Games actually made public",
+      "body": "At GDC 2017, Sean Murray presented [Building Worlds Using Math(s)](https://www.gdcvault.com/play/1024514/Building-Worlds-Using). The session describes mathematical approaches to realistic and alien terrain, alongside the practical challenge of building and testing environments with a small team. That is an invitation to study the construction process rather than simply admire the size of the finished universe.",
+      "image": ""
+    },
+    {
+      "seq": 6,
+      "headline": "What Hello Games actually made public",
+      "body": "Innes McKendrick’s companion presentation, [Continuous World Generation in No Man’s Sky](https://www.gdcvault.com/play/1024265/Continuous-World-Generation-in-No), addresses the production pipeline more directly. Its official description follows voxel generation through polygonization, texturing, population and simulation, with the system working in real time as players explore planets. These are distinct jobs: describing terrain in sampled space, creating its visible surface, giving that surface an appearance, placing content, and maintaining behavior around the player.",
+      "image": ""
+    },
+    {
+      "seq": 7,
+      "headline": "What Hello Games actually made public",
+      "body": "The underlying lesson is economical. A procedural world does not have to exist as one enormous, fully detailed model waiting on a disk. Rules and parameters can produce the relevant portion when it is needed. A deterministic generator can return the same result from the same inputs, provided its rules and version remain fixed. Coordinates can identify where to generate; a seed can select a repeatable variation. Persistent player changes are an additional state-management problem, not something a seed solves automatically.",
+      "image": ""
+    },
+    {
+      "seq": 8,
+      "headline": "What Hello Games actually made public",
+      "body": "That explanation is a general model of procedural generation, not a claim that one sentence reproduces Hello Games’ engine. Scheduling work, managing memory, avoiding visible transitions and deciding which detail deserves computation are part of making the idea usable in an actual game.",
+      "image": ""
+    },
+    {
+      "seq": 9,
+      "headline": "A 2017 talk is not a specification of today’s game",
+      "body": "The public record also shows why an old technical presentation should not be treated as frozen source code. Hello Games’ [Worlds Part II notes](https://www.nomanssky.com/worlds-part-ii-update/) describe changes to terrain generation that produce different planetary shapes, mountain ranges, valleys and plains. Its [Worlds Part I notes](https://www.nomanssky.com/worlds-part-I-update/) describe work on procedural meshes, level of detail and texture streaming.",
+      "image": ""
+    },
+    {
+      "seq": 10,
+      "headline": "A 2017 talk is not a specification of today’s game",
+      "body": "Those changes preserve the value of the earlier engineering lessons while limiting what they establish about a later build. Public presentations do not supply every content asset, parameter, optimization, compatibility decision or subsequent algorithm revision. The sources reviewed for this article do not provide the complete production code for either game.",
+      "image": ""
+    },
+    {
+      "seq": 11,
+      "headline": "In Death: Unchained exposes the challenge more than the recipe",
+      "body": "In a [July 2020 developer interview](https://www.uploadvr.com/in-death-unchained-interview/), Superbright CEO Wojtek Podgorski explained that the team re-engineered Sólfar’s procedural generation and implemented its own system for The Abyss. He described extensive asset optimization, Unreal Engine changes and work on teleportation while targeting the original Quest’s 72-frame-per-second requirement. This is an attributed developer account of that release, not a measurement of current hardware or later versions.",
+      "image": ""
+    },
+    {
+      "seq": 12,
+      "headline": "In Death: Unchained exposes the challenge more than the recipe",
+      "body": "The interview also describes an automated development pipeline that rebuilt the game from components multiple times a day. That detail concerns the studio’s production workflow. It should not be converted into a claim about exactly how a player’s level is assembled at runtime.",
+      "image": ""
+    },
+    {
+      "seq": 13,
+      "headline": "In Death: Unchained exposes the challenge more than the recipe",
+      "body": "The unanswered part is precisely what makes this game interesting as an engineering case study. The account does not establish whether its runtime generator uses a particular graph grammar, spatial subdivision algorithm, constraint solver, or combination of techniques. Attributing one of those methods to Superbright would go beyond the disclosed evidence.",
+      "image": ""
+    },
+    {
+      "seq": 14,
+      "headline": "In Death: Unchained exposes the challenge more than the recipe",
+      "body": "We can nevertheless identify the design problem without pretending to know the proprietary answer. A convincing cathedral is not enough if the player cannot reach the next platform. Routes, elevation, combat sightlines and movement rules must work together. In VR, the environment also has to remain understandable from the player’s embodied viewpoint while fitting the device’s rendering budget. These are requirements to investigate and test, not a reverse-engineered specification of Unchained.",
+      "image": ""
+    },
+    {
+      "seq": 15,
+      "headline": "Procedural does not mean never repeated",
+      "body": "There is another important correction to the popular description of these games: procedural generation does not guarantee a wholly unprecedented level every time somebody plays.",
+      "image": ""
+    },
+    {
+      "seq": 16,
+      "headline": "Procedural does not mean never repeated",
+      "body": "Sólfar’s [November 15, 2018 development entry](https://www.solfar.com/new-blog-avenue) describes challenge runs in the original In Death using the same random seed and achievement profile. That is a concrete example of repeatable generation. It applies to the original game; it should not be silently treated as documentation of every mode in Unchained.",
+      "image": ""
+    },
+    {
+      "seq": 17,
+      "headline": "Procedural does not mean never repeated",
+      "body": "Repeatability is useful rather than embarrassing. It can support fair challenges, bug reproduction and comparisons between runs. A generator may also rearrange a finite vocabulary of authored pieces into many layouts. The amount of possible variation and the feeling of meaningful novelty are different things. Repeating an archway is not necessarily a failure; repeating the same tactical experience behind a different arrangement of arches might be.",
+      "image": ""
+    },
+    {
+      "seq": 18,
+      "headline": "How rules become worlds",
+      "body": "An illustration of two generation challenges: making architectural space playable and continuously building nearby world detail. Castle modules are conceptual examples, not a disclosed In Death algorithm. Illustration: SVGN.io.",
+      "image": "/wiki/svgn/articles/media/svgn-2026111802/how-rules-become-worlds.webp",
+      "imageAlt": "Conceptual castle cutaway links structure, reachable paths and combat sightlines. A separate planetary terrain scene shows sampled terrain, a surface mesh and nearby detail. Repeating seed and coordinate inputs produce matching example worlds. This is not a disclosed In Death algorithm or proprietary game code."
+    },
+    {
+      "seq": 19,
+      "headline": "Two problems that can inform one another",
+      "body": "The useful comparison is one of emphasis. In Death: Unchained makes navigable, encounter-ready architectural space the compelling problem. No Man’s Sky provides unusually accessible material on continuous world generation at planetary scale. Both involve more than that summary, but the distinction helps developers ask better questions.",
+      "image": ""
+    },
+    {
+      "seq": 20,
+      "headline": "Two problems that can inform one another",
+      "body": "An independent prototype could combine a repeatable, coordinate-addressable landscape with an architectural generator that checks reachability and encounter constraints. The illustration accompanying this story shows that proposed synthesis. Its castle modules and routes are conceptual examples, not recovered In Death code; its terrain layers simplify a general generation pipeline rather than diagramming every stage of No Man’s Sky.",
+      "image": ""
+    },
+    {
+      "seq": 21,
+      "headline": "Two problems that can inform one another",
+      "body": "For a standalone-VR project, I would start with a small environment whose rules can be tested. Can every required destination be reached? Does the player understand where to go? Are enemies placed in encounters that remain interesting? Can the same seed reproduce a broken case? Does the environment stay within its frame and memory budgets as the player moves? Only then would I expand the geographical scale.",
+      "image": ""
+    },
+    {
+      "seq": 22,
+      "headline": "Two problems that can inform one another",
+      "body": "The public knowledge is sufficient to begin that work without either studio’s proprietary source. It is not sufficient to claim an exact clone of their internal systems. The most valuable investigation is therefore not a hunt for one hidden random-number formula. It is a study of how generation rules, authored content, movement constraints and real-time budgets cooperate to produce a world that feels deliberately designed.",
+      "image": ""
+    }
+  ]
+}
