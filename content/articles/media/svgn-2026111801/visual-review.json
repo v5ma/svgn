@@ -1,0 +1,28 @@
+{
+  "article_id": "svgn-2026111801",
+  "status": "passed",
+  "reviewed_at": "2026-11-18",
+  "reviewer": "SVGN editorial production review",
+  "scope": "Asset factual, rights, artistic and mobile-size review plus source integration. This record is not owner approval, automated image understanding, or live-site verification.",
+  "checks": {
+    "factual_fidelity": "Inspected complete graphic: investment and purchase directions distinguished from customer service/payment flows; guarantee dashed and contingent; widths explicitly nonquantitative; sales distinguished from investment gains. Archival photograph not claimed as evidence of transactions.",
+    "rights_and_credit": "Original Wikimedia source and CC BY-SA 4.0 credit checked for photograph, including prior editor. Original editorial illustration created for article. Credits and modifications included beneath assets.",
+    "editorial_art": "Full-resolution inspection: coherent illustrated factory, cutaway data center and businesses; meaningful labeled financial flow, distinct cash and contingent support, no generic card wall.",
+    "mobile_accessibility": "Inspected 390-pixel-wide graphic: main labels discernible; small print available through full-image link and repeated in alt/adjacent explanation. Source image links and descriptive alt checked."
+  },
+  "limitations": [
+    "Browser article-layout rendering blocked by Chromium socket restriction.",
+    "Live catalog, thumbnail and deployment not verified.",
+    "Machine validation can verify recorded evidence and hashes, not whether the artistic/rights judgments are true."
+  ],
+  "asset_sha256": {
+    "content/articles/media/svgn-2026111801/nvidia-headquarters.jpg": "80efa50b06a80048f59a14bc02d845f9e853a89b38ddb5c9484c07e3ca3cd5ef",
+    "content/articles/media/svgn-2026111801/ai-money-go-round.webp": "7e4179353035697429410f336cec9234b17a55fb0f7467beb83649afa4dc6504"
+  },
+  "credits_sha256": "e08103f686f37235ae01c4c361a5310c9746a4159df3904195bcdec03afae2c7",
+  "content_sha256": {
+    "article": "1d12c212280d4381f94d81ff1e67117426164d6bf49e066ba1b6ace88f65085f",
+    "cards": "b7035ae316cb6c52f85af439f9adfe2e111ceff44299ff9ad9e36999b7056295",
+    "markdown": "b7b055a3280de30fe7c3010849ad06a5aba3a3037e317321db95e6a11a5626db"
+  }
+}

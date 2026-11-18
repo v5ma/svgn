@@ -1,6 +1,6 @@
 {
   "schema": "svgn.public_corpus.v2",
-  "generatedAt": "2026-11-18T16:03:53.130Z",
+  "generatedAt": "2026-11-18T16:47:59.174Z",
   "policy": {
     "exactArticle": "HTML",
     "searchableProjection": "Markdown",
@@ -5735,6 +5735,10 @@
         {
           "path": "content/articles/media/svgn-2026111801/nvidia-headquarters.jpg",
           "sha256": "80efa50b06a80048f59a14bc02d845f9e853a89b38ddb5c9484c07e3ca3cd5ef"
+        },
+        {
+          "path": "content/articles/media/svgn-2026111801/visual-review.json",
+          "sha256": "9d81d68436fe8aad53540ceee4c6f8084d45c9663f4d930fe4089f6aacde847d"
         }
       ],
       "hero": {

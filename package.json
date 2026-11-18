@@ -6,6 +6,7 @@
     "sync": "node scripts/sync-from-site.mjs",
     "manifest": "node scripts/rebuild-manifest.mjs",
     "install-site": "node scripts/install-to-site.mjs",
-    "validate": "node scripts/validate.mjs"
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test tests/*.test.mjs"
   }
 }

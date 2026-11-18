@@ -5,6 +5,7 @@ import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
+import { validateNewStoryVisuals } from "./visual-preflight.mjs";
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const repo = path.resolve(here, "..");
@@ -18,6 +19,11 @@ if (manifest.schema !== "svgn.public_corpus.v2") fail(`unexpected schema: ${mani
 if (!Array.isArray(manifest.records)) fail("manifest records must be an array");
 if (manifest.articleCount !== manifest.records.length) fail("articleCount does not match records.length");
 
+const legacy = JSON.parse(fs.readFileSync(path.join(repo, "content/editorial/legacy-visual-baseline.json"), "utf8"));
+if (legacy.schema !== "svgn.legacy_visual_baseline.v1" || !Array.isArray(legacy.ids) || new Set(legacy.ids).size !== legacy.ids.length) fail("invalid legacy visual baseline");
+const legacyIds = new Set(legacy.ids);
+let visuallyDocumented = 0;
+let legacyUnreviewed = 0;
 const ids = new Set();
 const paths = new Set();
 let htmlBytes = 0;
@@ -29,6 +35,9 @@ for (const record of manifest.records) {
   if (!/^svgn-\d+$/.test(record.id)) fail(`invalid id: ${record.id}`);
   if (ids.has(record.id)) fail(`duplicate id: ${record.id}`);
   ids.add(record.id);
+  const visualResult = validateNewStoryVisuals(repo, record, legacyIds);
+  if (visualResult.checked) visuallyDocumented++;
+  if (visualResult.legacyUnreviewed) legacyUnreviewed++;
 
   for (const field of ["article", "cards", ...(record.markdown ? ["markdown"] : [])]) {
     const value = record[field];
@@ -75,6 +84,7 @@ console.log(JSON.stringify({
   ok: true,
   schema: manifest.schema,
   articles: manifest.records.length,
+  visualPreflight: { structurallyDocumented: visuallyDocumented, legacyUnreviewed, note: "Recorded evidence and hashes only; not automatic artistic, rights or owner approval." },
   cards,
   bytes: { html: htmlBytes, markdown: markdownBytes, cards: cardBytes }
 }, null, 2));

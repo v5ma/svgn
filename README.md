@@ -66,3 +66,17 @@ fetch raw GitHub files at page-view time.
 ## New article media
 
 New lightweight article assets may be committed under `content/articles/media/<article-id>/` with a `credits.json` provenance record. The manifest builder hashes these assets, identifies the authentic subject-photo hero, and the installer copies verified media to the same-origin `articles/media/` location. The photo should be the Markdown hero, first body image and lead-card image; explanatory infographics remain separate. Source hero metadata does not establish that a live catalog has synchronized it.
+
+## New-story visual release guard
+
+`npm run validate` now rejects new story IDs without the complete visual source package. The 380 historical IDs listed in `content/editorial/legacy-visual-baseline.json` are explicitly **unreviewed legacy imports**, not approved examples. Dates do not grant exemptions. Do not add new IDs to this frozen baseline to bypass a failed check; historical additions require the same package or a separately reviewed migration decision.
+
+Before committing a new story:
+
+1. Acquire an authentic subject photograph or documentary screenshot and a separate substantive explanatory infographic. Review source rights and factual/editorial quality, not just asset count.
+2. Commit image bytes and `credits.json` in `content/articles/media/<id>/`. Include distinct roles, source/rights URL for the subject asset, creator, rights, modifications, dimensions, SHA-256, caption and useful alt text.
+3. Select the subject image in the manifest hero, first HTML/Markdown image and first card. Include both visuals in the article body. Live catalog synchronization remains a separate verification.
+4. Actually inspect the assets at full and mobile size. Record factual fidelity, rights/credit, editorial art and mobile accessibility in `visual-review.json`. Use `status: passed` only after that review, with reviewer/date, image hashes, the credits hash and article/card/Markdown hashes. Preserve any limitations. Changed content/credits/assets invalidate the recorded review until rechecked.
+5. Run `npm run manifest`, `npm test`, and `npm run validate`. Test site installation where applicable, then check exact remote contents and CI.
+
+This guard validates the **presence, consistency and freshness of recorded evidence**. It cannot decide whether a photo is authentic, a license really applies, an illustration is good, or a reviewer actually inspected it. A passing check is not owner approval, legal clearance, or proof of live website rendering. Do not fabricate review records to pass it. The review record is independent of the manifest, so rebuilding hashes does not silently approve new material.

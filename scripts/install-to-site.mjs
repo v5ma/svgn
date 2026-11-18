@@ -7,6 +7,7 @@
 //   node scripts/install-to-site.mjs --site-root "D:/path/to/wiki/svgn"
 //   node scripts/install-to-site.mjs --site-root "D:/path/to/wiki/svgn" --dry-run
 
+import "./validate.mjs"; // Fail before any site writes if the source package is incomplete.
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
